@@ -76,16 +76,17 @@ class MultiHeadAttention(nnx.Module):
 
 class TransformerBlock(nnx.Module):
     def __init__(self, input_dim, embed_dim, num_heads, *, rngs):
-        self.attn = MultiHeadAttention(
-            input_dim=input_dim,
-            embed_dim=embed_dim,
+        self.attn = nnx.MultiHeadAttention(
             num_heads=num_heads,
+            in_features=input_dim,
+            qkv_features=embed_dim,
+            out_features=embed_dim,
+            decode=False,
             rngs=rngs,
         )
 
     def __call__(self, x, mask=None):
         attn_out = self.attn(x, mask=mask)
-        # Residual connection
         x = x + attn_out
         return x
 
@@ -120,15 +121,17 @@ class MiniGPT(nnx.Module):
             embed_dim=embed_dim,
             rngs=rngs,
         )
-        self.transformer_blocks = nnx.data([
-            TransformerBlock(
-                input_dim=embed_dim,
-                embed_dim=embed_dim,
-                num_heads=num_heads,
-                rngs=rngs,
-            )
-            for _ in range(num_transformer_blocks)
-        ])
+        self.transformer_blocks = nnx.data(
+            [
+                TransformerBlock(
+                    input_dim=embed_dim,
+                    embed_dim=embed_dim,
+                    num_heads=num_heads,
+                    rngs=rngs,
+                )
+                for _ in range(num_transformer_blocks)
+            ]
+        )
         self.output_layer = nnx.Linear(embed_dim, vocab_size, use_bias=False, rngs=rngs)
 
     def __call__(self, token_ids):
