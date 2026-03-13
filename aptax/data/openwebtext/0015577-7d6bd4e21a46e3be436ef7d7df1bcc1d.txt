@@ -1,9 +1,0 @@
-The latest threat report from Kaspersky suggests hard drives may have been spying on us for more than a decade. Infiltrating storage devices is just one component of the Equation Group, a "threat actor that surpasses anything known in terms of complexity and sophistication of techniques." The depressing news is outlined in this blog post by the security company.
-
-According to the firm, the Equation Group comprises at least six trojans dating back to 2001. Systems have been infiltrated in over 30 countries, Kaspersky says, and some elements of the group likely remain undiscovered. "Solid links" also tie the Equation Group to Stuxnet and Flame trojans.
-
-The Equation Group's capabilities reportedly include reprogramming the firmware of hard drives from every major brand. Once infected, drives can create hidden partitions, store data for future retrieval, prevent data from being deleted, and alter data that's being accessed. At least one of the trojans can potentially snoop passwords associated with full-disk encryption, as well. And, as if that weren't bad enough, it's basically impossible to determine whether a drive has been affected.
-
-One of the trojans is designed to compromise machines that aren't connected to the Internet. It hides on USB flash drives, has the same hidden partition mojo, and can report back to the mothership when network conditions allow.
-
-Although there's no mention of similar trojans for SSDs, anyone targeting mechanical storage probably isn't ignoring the solid-state alternatives. The entity behind the Equation Group appears to have sufficient resources and expertise to get into whatever it wants. More details are available in this SecureList post and this Q&A document (PDF).

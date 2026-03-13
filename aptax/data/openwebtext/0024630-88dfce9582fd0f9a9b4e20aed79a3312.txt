@@ -1,5 +1,0 @@
-About
-
-The main idea is to extend the range of EV's (electric powered vehicles). The "Drag" generator uses the drag or airflow around the vehicle to spin a generator/alternator and in turn power the EV's for longer range. The new inventions of low friction generators allows for the power produced to overcome the drag incurred by the generator. I want to make this an easy addition to an EV that most people will be able to afford to get on their vehicles.
-
-My Theoretical models at this time require speeds in excess of 45 m.p.h.. Anything less does not produce enough power to overcome the drag ratio. I plan on using a switch that can be activated at proper speeds, so as not to waste power before the generator starts powering. Keep the cars power output that same as it was without the "Drag" generator under speeds of 45 m.p.h..

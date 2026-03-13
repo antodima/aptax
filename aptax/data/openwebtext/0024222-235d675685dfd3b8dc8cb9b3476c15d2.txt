@@ -1,9 +1,0 @@
-What about adding in size 1 the following 6 caps for the 75% keyboards: PG Up (R2), PG Down (R3), End (R4), FN (R4), CTRL (R4), ALT (R4) ? These are only 6 keycaps but I think many of us have this size of board... :-)
-
-
-
-Or alternative have an extra extension set for 75% keyboards? In this set it would include the above + the Arrows (R4) and the Win/CTRL/ALT on the left?
-
-
-
-The 75% keys will be included in the base set, as stated in the original post. SKIDATA+ will be following the conventional Cherry 75% layout, so that is (from top to bottom) Home, PgUp, PgDn, End.I am not sure what you mean by arrows + Win/CTRL/ALT on the left, as these keys will for sure be included in the base set, in both Winkeyless and Winkey sizes.The base set will include keys for 1800, HHKB, 75%, and some extras, all in Skidata colours. There won't be many keys, if any, that you will lack from the baseset.Do not worry, as a keyboard enthusiast like yourself, my intentions have always been to offer aSkidata keyset for the community, with enough keys to fit every conventional Cherry-style keyboards out there. (Unfortunately, there are weird keyboards that use strange layouts like the Filco Minila; there is simply no way to support those unconventionally sized keys).It will be a lot more clear once the mockups are posted; please look forward to that

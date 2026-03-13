@@ -1,7 +1,0 @@
-Last week we helped the Brookings Institution’s Hutchins Center on Fiscal and Monetary Policy organize “Beyond bitcoin: The future of blockchain and disruptive financial technologies,” a roundtable discussion among industry, government, and experts, as well as a public panel discussion. The event looked at blockchain technologies like Bitcoin and examined their use-cases, especially in the context of regulation. Joining us were experts from across the industry representing diverse perspectives on the future of this technology. In particular, there were notable discussions on the value of permissioned or closed ledgers as compared to permissionless or open ledgers. While we do not yet know how the future of this technology will shake out, I got an opportunity to lay out the case for decentralized permissionless ledgers [See above].
-
-Later, we discussed the risks that fast-paced innovation presents, and I made the case that the answer is not precautionary regulation, but to allow the technology to develop and only intervene where there is a clear problem--especially since the technology will continue to be developed even with prophylactic regulation.
-
-Finally, our senior policy counsel, Robin Weisman, laid out the questions and challenges regulators face with cryptocurrency technology:
-
-You can see the day’s full proceedings here.

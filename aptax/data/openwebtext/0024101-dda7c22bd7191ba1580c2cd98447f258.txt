@@ -1,7 +1,0 @@
-Everyone who's played Minecraft know that the game's randomly generated worlds are big. But how big? This amazing interactive project by Cary and Michael Huang puts a Minecraft world, and many other things in perspective. This is probably going to be the coolest thing you see all day.
-
-Simply titled The Scale of the Universe 2, this interactive flash project allows you zoom in and out to compare the relative size of objects in the universe. Zoom out just past Earth and you'll find a Minecraft world, which comes out to 64,000 kilometers, way beyond Earth's 12,700 kilometers.
-
-The scale, which starts with the size of the average human (1.7 meters), also decreases, all the way down to the size of Quantum Foam, which is .00000000001 yoctometers. Poor Quantum Foam never gets any respect!
-
-[source: HTwins.net]

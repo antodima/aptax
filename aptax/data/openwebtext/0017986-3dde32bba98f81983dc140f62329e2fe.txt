@@ -1,9 +1,0 @@
-Confirmed to be coming in an update last month, that also saw the head-mounted display (HMD) announce a number of updates including the significant addition of dual screens giving a total resolution of 2160×1200. The Open Source Virtual Reality (OSVR) platform’s Hardware Development Kit 2 (HDK 2) PC-based HMD is now available to order. Razer – one of the biggest names behind the technology – has announced.
-
-Running an 110 degree field-of-view at 90Hz with a shipping date of July 29th and at a cost of $399.99 (USD), £399.99 (GBP) or 499,99€ (EUR) interested parties can, so long as they order before July 28th and whilst stocks last, get both Descent: Underground and Radial G: Racing Revolved as pre-order bonuses.
-
-Descent: Underground is a classic 6-DOF space shooter set in a claustrophobic subterranean world of high speeds and dangerous rocky mazes. Radial G: Racing Revolved on the other hand is a fast-paced futuristic racer that sees you tear up, down and all around an array of gravity-defying racecourses.
-
-For a limited time the Razer store is also offering free shipping to orders over a minimum spend in certain regions, including the US, UK and parts of mainland Europe.
-
-VRFocus will bring you more news and updates on OSVR related projects as we get them.

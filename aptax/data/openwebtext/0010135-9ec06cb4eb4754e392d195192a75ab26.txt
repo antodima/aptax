@@ -1,7 +1,0 @@
-We first learned about the Dell Inspiron Duo a few weeks ago and were rather intrigued by the convertible ultra-portable device. It has the distinction of being half netbook and half tablet, making it a compelling choice for those not yet ready to go all touch.
-
-The device is made possible by a unique mechanism that flips the screen, transforming the device from a netbook into a tablet. The 10-inch touchscreen makes it one of the bigger tablets on the market, while its dual-core 1.5GHz Intel Atom processor is a first among tablets, although netbooks have had them for some time.
-
-In addition to what we already knew, today we learned that the device includes a 320GB 7200RPM hard drive. It's a bit strange that Dell has opted for a physical drive over a solid state one, but we can be thankful that it's 7200RPM instead of 5400RPM.
-
-The Dell Inspiron Duo is available now directly from Dell for $550. If you pick one up, please let us know your thoughts on the device.

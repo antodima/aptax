@@ -1,9 +1,0 @@
-'Dirty hack' restores Cluster mission from near loss
-
-Cluster satellites study the effects of solar wind
-
-Using ingenuity and an unorthodox 'dirty hack', ESA has recovered the four-satellite Cluster mission from near loss. The drama began in March, when a crucial science package stopped responding to commands – one of a mission controller's worst fears.
-
-Since a pair of spectacular dual launches in 2000, the four Cluster satellites have been orbiting Earth in tightly controlled formation. Each of the 550 kg satellites carries an identical payload to investigate Earth's space environment and its interaction with the solar wind – the stream of charged particles pouring out from the Sun.
-
-Among each satellite's 11 instruments, five comprise the Wave Experiment Consortium (WEC), which makes important measurements of electrical and magnetic fields. All four sensors must work together to make carefully orchestrated observations – the loss of any one could seriously affect the unique 'four-satellite science' delivered by the mission.

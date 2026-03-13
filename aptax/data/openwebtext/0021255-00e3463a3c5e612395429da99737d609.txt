@@ -1,9 +1,0 @@
-UPDATE: There is some recent confusion around Groupon’s intended use of a product name that the GNOME Foundation believes infringes on their trademarks. While notified by the GNOME Foundation directors that they believed this was the case, we were not able to come to an agreement and were proceeding with the registration of our marks. We apologize for any distress this has caused GNOME Foundation and the open source community.
-
-We love open source at Groupon. We have open-sourced a number of projects on Groupon’s github. Our relationship with the open source community is more important to us than a product name.
-
-After additional conversations with the open source community and the Gnome Foundation, we have decided to abandon our pending trademark applications for “Gnome.” We will choose a new name for our product going forward. We will continue to work with the Gnome Foundation as we rebrand our product.
-
-Please see our joint statement on the GNOME Foundation’s website and below:
-
-“Groupon has agreed to change its Gnome product name to resolve the GNOME Foundation’s concerns. Groupon is now abandoning all of its 28 pending trademark applications. The parties are working together on a mutually acceptable solution, a process that has already begun.”

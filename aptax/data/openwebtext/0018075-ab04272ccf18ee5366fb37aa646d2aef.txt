@@ -1,9 +1,0 @@
-Windows 10 and Windows 10 Mobile users who are signed up for the Windows Insider testing program can now select to receive builds from the new Release Preview ring. It joins the previous Fast and Slow ring options.
-
-Windows Insider head Gabriel Aul described the new Release Preview ring in a blog post, along with which ring would work best for Windows Insiders, depending on how often they want new builds, along with the stability of those builds.
-
-Fast – Best for Insiders who enjoy being the first to get access to builds and feature updates, with some risk to their devices in order to identify issues, and provide suggestions and ideas to make Windows software and devices great.
-
-Slow – Best for Insiders who enjoy getting early access to builds and feature updates, with less risk to their devices, and still want to provide feedback to make Windows software and devices great.
-
-Release Preview – Best for Insiders who enjoy getting early access to updates for the Current Branch, Microsoft applications, and drivers, with minimal risk to their devices, and still want to provide feedback to make Windows devices great.

@@ -1,5 +1,0 @@
-The Chromecast Audio was announced with the ability to basically replicate the functionality of a high-end Sonos system, but at a much cheaper price of $35. An update rolling out starting today further fulfills that with multi-room and Hi-Res audio support…
-
-Multi-room support was initially announced when the device was launched in September, with an end of the year launch date. It allows users to play the same audio through multiple Chromecast Audio devices that are hooked up to their Wi-Fi network. In the updated version of the Chromecast app, users will have the option to add their devices to a group. Through groups, users will be able to cast to speakers in just certain rooms or make a group that encompasses every speaker in their house. Casting to a group will be exactly the same as casting to a single device.
-
-Today’s update also brings support for 96KHz/24bit lossless audio playback. Google calls this higher-than-CD quality audio and is certainly another shot at Sonos. The Chromecast Audio works with Android and iOS and speakers with 3.5mm, RCA, or Optical Audio.

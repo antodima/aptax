@@ -1,9 +1,0 @@
-Bug 836493 landed on inbound today. An additional constraint is now enforced on mozIStorageService : the initial reference to it must be obtained on the main thread. However, all references after the first can be obtained on any thread.
-
-Seems awfully complicated; what do we gain from that change? Two things. The first is that there was a race in the initialization of the storage service. Some bits of storage service initialization, like accessing preferences, could only be done on the main thread. If the storage service was initialized on a non-main thread, it dispatched an event to the main thread to perform those initialization tasks. Therefore, you might end up with a sequence of events like:
-
-Non-main thread requests the storage service. Storage service starts initialization, dispatches event to the main thread. This event can’t run until after step 4, for various reasons (thread scheduling, backed-up event queue on the main thread, etc. etc.). Storage service initialization returns, handing an (incompletely initialized) object back to the caller. Caller uses the not-yet initialized storage service, leading to possible problems.
-
-Additionally, the storage service builds an SQLite VFS for handling things like quota management. This building happens on the calling thread and accesses prefs to make profiles that live on networked storage robust. That’s a non-main thread preferences use which could lead to crashes. That needs to go away so we can enforce main thread-only preferences usage.
-
-Even though this change might make programming slightly more inconvenient, the end result is safer code for our users and (eventually) better enforcement of good coding practices.

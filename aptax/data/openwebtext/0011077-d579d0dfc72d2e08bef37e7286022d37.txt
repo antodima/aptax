@@ -1,9 +1,0 @@
-In captivity, tortoises often grow faster than their conspecifics in the wild. Here, we document growth (measured as change in body mass) in three individual Geochelone sulcata over an exceptionally long period of nearly 18 years and use growth data (measured as change in carapace length) from the literature on free-ranging animals for comparison. Body lengths almost reached a plateau in the animals due to the long observation period. After transformation of body length to body mass for data from wild animals, logistic growth curves were successfully fitted to all data. The resulting functions yielded a 1.4–2.6 times higher intrinsic growth rate in captive than in wild individuals. The logistic growth model estimated the inflexion point of the growth curve at 6–9 years for the captive animals. This coincided with age at sexual maturity, respectively observations of first egg-laying of a female and the masturbation of a male. The inflexion point of the growth curve for free-ranging individuals was estimated at 15 years. Raising tortoises on intensive feeding regimes in captivity may considerably shorten generation times during the breeding stage of restocking programmes, and slow-growing animals are more likely to thrive after release into the wild. Investigations on the health of offspring from fast-growing parents are lacking.
-
-18 References.
-
-No Supplementary Data.
-
-No Article Media
-
-No Metrics

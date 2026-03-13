@@ -1,5 +1,0 @@
-What makes this Gizmo so good and useful, is that it makes it really easy to move the pivot, re-center orientation, re-center subtools to grid and freely rotate and translate object. Some of the best features of the Gizmo (I think) are theand the(so yeah, no need to use transpose master to move just a couple of subtools together… amazing!).
-
-With the 3D Gizmo selected, you can click on the list icons (far right) to link/unlink the subtools you want to move together. you can simply mask out the ones you don’t want to move. In the example below, I used the selection tools to isolate the little joint, I masked it, then I inverted the mask and position the 3D Gizmo by clicking on the ‘location’ icon (third from the left).
-
-To complete the effect of an ‘opening mechanisms’, I enabled radial symmetry before rotating on the ‘Y’ axis.

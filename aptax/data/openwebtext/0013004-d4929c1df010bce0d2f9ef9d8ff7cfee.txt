@@ -1,9 +1,0 @@
-Going into the league championship round of the MLB playoffs, the Toronto Blue Jays and Chicago Cubs were looking like the best bets to meet in the World Series next week. According to our Elo ratings, they were the two strongest squads in baseball, and while neither team had home-field advantage in its LCS matchup, each was favored to win regardless.
-
-The Blue Jays and Cubs both dropped the first two games of their series on the road, however, to the Kansas City Royals and the New York Mets, respectively. Both are now staring at a radically different postseason landscape. Chicago and Toronto still grade out as MLB’s top two teams according to Elo (the Cubs are still clear of Kansas City for No. 2, by a fraction of a rating point), but there’s only a 5 percent chance they’ll both mount comebacks and rendezvous on baseball’s biggest stage.
-
-TEAM ELO RATING MAKE WORLD SERIES WIN WORLD SERIES Kansas City Royals 1556 79.2% 43.7% New York Mets 1536 76.5 32.0 Toronto Blue Jays 1567 20.8 12.2 Chicago Cubs 1556 23.5 12.2
-
-Instead — as you would expect — Elo thinks the most likely World Series matchup by far (with a 60 percent probability) is a Mets-Royals showdown — a battle of the champs from 1985 and 1986. That means there’s still a 40 percent chance that either the Jays or Cubs will manage a revival, so it won’t be completely stunning if at least one 0-2 comeback takes place. But the prospect of both is looking pretty improbable, despite the strength of the two trailing teams.
-
-And if a Mets-Royals World Series does happen, Elo gives the Royals the edge, with a 58 percent chance of winning the hypothetical matchup. Not only would they hold home-field advantage thanks to the American League’s All-Star Game victory, but Elo also thinks Kansas City is the better team — particularly in the universe in which it wins the ALCS, because that will have meant the Royals won two more games against Toronto, currently rated as MLB’s best team.

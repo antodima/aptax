@@ -1,9 +1,0 @@
-There are three special types of cells that are found only in the bone.
-
-These cell names all start with "OSTEO" because that is the Greek word for bone.
-
-OSTEOCLASTS are large cells that dissolve the bone. They come from the bone marrow and are related to white blood cells. They are formed from two or more cells that fuse together, so the osteoclasts usually have more than one nucleus. They are found on the surface of the bone mineral next to the dissolving bone.
-
-OSTEOBLASTS are the cells that form new bone. They also come from the bone marrow and are related to structural cells. They have only one nucleus. Osteoblasts work in teams to build bone. They produce new bone called "osteoid" which is made of bone collagen and other protein. Then they control calcium and mineral deposition. They are found on the surface of the new bone.
-
-When the team of osteoblasts has finished filling in a cavity, the cells become flat and look like pancakes. They line the surface of the bone. These old osteoblasts are also called LINING CELLS. They regulate passage of calcium into and out of the bone, and they respond to hormones by making special proteins that activate the osteoclasts.

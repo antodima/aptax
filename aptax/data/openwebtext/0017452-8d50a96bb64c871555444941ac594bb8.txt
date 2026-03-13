@@ -1,9 +1,0 @@
-To add credits, simply send any amount of Bitcoins to the following address:
-
-Before sending any Bitcoins to the above address, save your private account URL now. Your account URL is the only way to access your balance, and if the URL is lost, so are your Bitcoins. You can find your account URL by clicking the "account" tab.
-
-The minimum withdrawal amount is 0.01 BTC. Also, we subtract 0.0001 BTC from your withdrawal amount to cover the Bitcoin network transaction fee.
-
-If you do not know what Bitcoins are, visit Bitcoin.com. If you do not have a Bitcoin wallet, we recommend wallets.bitcoin.com. To buy bitcoin, please visit buy.bitcoin.com.
-
-Adding funds is fast and easy. Due to our 0 confirmation policy, you can begin playing as soon as the transaction is received -- usually less than 10 seconds!

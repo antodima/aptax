@@ -1,5 +1,0 @@
-Map Of Apalachicola Bay Estuary Shallow seafloors, seen by sea drones. NOAA
-
-What shore knows not our maps? Most of them, it turns out. While satellites map much of the globe on a daily basis, there are parts of the planet so small and changing that they’re tricky to pin down exactly. NOAA, America’s National Oceanic and Atmospheric Administration, makes maps that anyone who navigates the sea can use, and to get the fine details on little inlets right, they turn to…
-
-“Autonomous Surface Vehicles,” also known as sea drones and (at least at Popular Science) as Roboats. While much of NOAA’s sea plotting is done by ships, the smaller robots can swim to shallow inlets and areas, capturing parts of the ocean otherwise unknown. Using sonar and other measures, they plot the topography of the ocean floor, including details like sandbar shifts. Or, in other words, with sound they sound out the details of sounds.

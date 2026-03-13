@@ -1,9 +1,0 @@
-For all the talk we make about wanting Google to open the floodgates on Glass, lowering the price and making it widely available to users interested in embracing this brave new world of wearable technology, it’s easy to forget that Glass still isn’t a finished product. Last fall, for example, we learned of some minor changes Google was making to Glass’s hardware, tweaking how Glass would work with prescription lenses and other small adjustments. Today, on the eve of Google I/O 2014, Google’s got another Glass refresh to announce, with some improved hardware specs.
-
-So far, the Glass Explorer Edition has shipped with 1GB of RAM: a seemingly sufficient amount, especially considering the low-res display and the sort of applications Glass runs. But Google is interested in boosting performance and doing a little future-proofing, so it’s giving Glass a solid 2GB of RAM from here on out. Glass is also shipping with a larger battery, but that change is already in effect, and orders placed in the past couple months should already have the larger cell.
-
-In addition to that hardware change, there’s also some new Glass software Google’s in the process of deploying, adding features like a voice-activated viewfinder to assist with framing pics, and new Google Now cards – including one that reminds you where you parked your car, just like we saw Android phones get earlier this year. Battery life is also a focus of these software tweaks, with this updated code helping to extend Glass battery life by up to 15% – though savings that high will also require the latest hardware with that bigger battery.
-
-The only bad news is for you early adopters: there’s not going to be any free upgrade to this new hardware.
-
-Source: Google, The Verge

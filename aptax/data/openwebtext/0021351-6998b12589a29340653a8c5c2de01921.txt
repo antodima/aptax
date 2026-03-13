@@ -1,9 +1,0 @@
-I think I'm finished with planned changes on 0.985, and moving into the testing phase.
-
-Earlier in the day, I was catching up on some forum posts and bug reports. And then, I resumed testing the new encounter. There were a few glitches in the encounter's various triggers, so it took some rewiring and condition planning to make sure that was working correctly. Namely, I wanted to make sure the various ways to trigger the encounter were triggering at the right times (based on player status and previous actions).
-
-Once that seemed to be working, I decided to look into the DMC guards and their sniper reinforcement ability. It turns out that the snipers aren't despawning correctly, and continue to exist on the map even after gone. This results in some weird game behavior, since the player can still run into them. However, the game never sees them, so they don't update outside of battle.
-
-So far, I think this has to do with the order in which things get handled in each turn. I may be despawning them too early in the turn, and something later on causes them to be partially re-added to the game. Tomorrow, I'm going to have to look into why.
-
-Hope everyone had a good weekend, and see you tomorrow!

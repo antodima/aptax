@@ -1,9 +1,0 @@
-Hi everyone! Riot Games Support has been busy the last couple months working on a new project to help players troubleshoot problems with League of Legends. Today we're happy to release our first set of help videos! This set of videos specifically focuses on one of the more prevalent causes for frustration: connection troubleshooting. Let’s be honest, wi-fi sucks, port forwarding sucks, and hell even accessing your router sucks. With these videos we hope to make complicated things easy. Our goal is for players to be able to solve a problem in an easy-to-follow and visual way, and also learn more about why problems are occurring in the first place. You can watch these videos on the new [Riot Support YouTube Channel](https://www.youtube.com/channel/UCyi6e6vg93m0VUyI05PGgow) and we'll also be embedding these videos in the [support site](https://support.riotgames.com) soon. In the near future more videos will be added to tackle a variety of problems, such as FPS optimization and crash prevention. We’re also working right now translating the videos into other languages, so that everyone can benefit from them. We’ll hang out in this thread for a while, share your thoughts and feedback. :D ***P.S.*** We know that not every issue is your fault, sometimes it's on Riot's end. That's why we have the [Server Status page](http://status.leagueoflegends.com). When stuff breaks on our end, we hustle to fix it as quickly as possible. For everything else we want you to have the tools and help to fix your problem as quickly and easily as possible.
-
-Title
-
-
-
-Body Cancel
-
-Save

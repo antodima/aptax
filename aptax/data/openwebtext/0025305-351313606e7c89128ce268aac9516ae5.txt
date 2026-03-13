@@ -1,9 +1,0 @@
-Saab pulled off a bit of technological surprise in rainy Gothenburg on Monday. I had shown up expecting something new, but not the first-off-the-line Giraffe 4A radar, complete with gallium-nitride (GaN) active electronically scanned array technology. Everyone's been talking about GaN and its merits for a few years, but as far as we knew the closest thing to a production application was Northrop Grumman's G/ATOR, which is supposed to get upgrated to GaN (from the currently standard gallium arsenide, or GaAs) in time to be operational in 2018-19.
-
-Saab's first Giraffe 4A radar
-
-Meanwhile, Saab's electro-tomtens in Gothenburg were quietly working in the moonlit farmyard, as tomtens do, and now have a customer (not named) for the GaN-based. 2,000-module Giraffe 4A, with delivery due in 2016.
-
-That was the industry-news bit. However, the way they showed it off was quietly spectacular. We media reptiles first saw it outside the assembly hangar, antenna up and open to the sky. While we had lunch (fish was present, need you ask?) they folded the antenna down into its container, loaded the radar on to a truck and drove it up a short, steep dirt track into the woods. They hooked it up to a generator, in the rain, popped the antenna up again and proceeded to run a series of live demos for the media, powering down between each group to avoid microwaving our brains.
-
-They did this with a near-brand-new development article. Moreover, none of the Swedish engineers saw anything unusual about this, at all.

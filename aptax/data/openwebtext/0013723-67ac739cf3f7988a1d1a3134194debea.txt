@@ -1,5 +1,0 @@
-The library covers a broad swath of applications that range from the highly technical Consultative Committee for Space Data Systems File Delivery Protocol, which transfers large files between the NASA ground systems and a spacecraft's control unit, to the whimsical like the Spacewalk game, which is exactly what it sounds like. There's everything from autonomous control packages to life-support system programs.
-
-There are also a number of tools that can be applied to Earth-based photography, like JPL's Stereo Vision Software Suite for calibrating stereoscopic camera setups or the Video Image Stabilization and Registration program. The catalog also has 3D models and textures available. For drone enthusiasts, there's the Autonomous Precision Landing Navigation System, which was originally developed for use in cruise missiles, and the Formation Flying System for UAVs and Satellites if ever want to recreate Lady Gaga's Super Bowl Halftime show.
-
-These are just a few of the numerous utilities available in the new catalog. You can find a searchable list of them here, at the NASA software page.

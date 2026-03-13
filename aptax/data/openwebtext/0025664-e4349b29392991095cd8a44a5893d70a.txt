@@ -1,9 +1,0 @@
-We are proud to announce DrupalCorn Camp 2012 to be held on the Iowa State University campus in Ames on August 3-4, 2012. If you are an open source enthusiast, Drupal designer, hacker, geek, Drupal developer, UI expert, IT manager, or you just want to find out what this Drupal thing is, this conference is for you!
-
-Drupal powers websites for the Economist, MTV-UK, The White House, and Sony Music.
-
-Registration and session submission is now open. We also have separate training available before the camp so you can you get a head start.
-
-Keynote - Chris Shattuck, Build A Module.com
-
-Chris is an experienced speaker and long-time Drupal developer. He has recorded over 600 Drupal video tutorials on BuildAModule.com, has developed and designed numerous Drupal sites, has contributed several interesting, obscure modules, and generally considers his life sufficiently enriched by Drupal-related errata to have a hard time imagining existence without it. He is especially passionate about education technology and community building.

@@ -1,7 +1,0 @@
-Intel intends to invest $300 million in a push for the development of thin and light laptops that can go for days on standby and still sell for under $1,000. The company refers to this class of computers as "ultrabooks," laptops that would be positioned to compete with devices like the MacBook Air or the iPad.
-
-Ideally, this research money would go toward developing computers that are under an inch thick, with robust batteries and very short startup times, Intel says. But the sub-$1,000 price point appears equally as important as the other factors, and it's one that will be difficult to achieve in a device that must necessarily include a solid-state drive if it wants to achieve a quick startup time.
-
-Intel isn't the first to get behind the concept of an ultrabook: Asus showed its 2.4-pound "ultrabook" with a 13-inch screen, U100 SSD, and Core i7 CPU at Computex in May, and pegged the price as sub-$1,000. By the end of 2012, Intel is aiming to convert 40 percent of available laptop models to an ultrabook format, making "mobile computers into the next 'must have' device," Intel Executive Vice President Arvind Sodhani told Bloomberg Businessweek, in evident hopes that the company will be able to pull consumers back from the burgeoning tablet market.
-
-The $300 million fund will be spent over the next three or four years; for its part, Intel will keep creating processors that draw less battery power. But the ultrabook is not far from market; Intel says the first generation will hit shelves by this holiday shopping season.

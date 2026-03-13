@@ -1,7 +1,0 @@
-Sometimes you want to change the behavior of a function call in a Python test. Let's assume you have the following code:
-
-# a.py from b import subfunc def func (): # do something subfunc ( 1 , 2 ) # do something else # b.py def subfunc ( a , b = 1 ): # step1 # step2 # step3
-
-You are testing the func function and would to change the behavior of step2 in subfunc without affecting step1 or step3.
-
-Mocking: Replacement Function One way to solve this would be to mock the entire subfunc : def test_func ( monkeypatch ): def _mocked ( a , b = 1 ): # step1 # step3 monkeypatch . setattr ( 'b.subfunc' , _mocked ) # do testing of func() (Note, all example code assumes that you're using pytest with the monkeypatch fixture. But you can also use other testing frameworks and the mock library instead.) But that would require you to copy the body of the function and adjust it as desired. This violates the DRY principle and could be a source of bugs (e.g. if step1 and step3 change later on).

@@ -1,9 +1,0 @@
-A pool cue even robots would love
-
-When you play pool, one of the things that screws up your shot is “cue deflection” — when the cue hits the ball so hard it adds unwanted spin. Pros know how to control their shots so well they can avoid this; the rest of amateurs, not so much. To help out us lamers, the folks at Predator decided to make a cue that has a tip so slight in mass that when you take a hard shot, the ball’s mass pushes the cue aside — and not vice versa. They spent a huge amount of time engineering the cue, including splicing it together out of 10 pie-shaped wedges.
-
-Then they built a robot. As the New York Times reports:
-
-To test the Z Shaft’s novel shape, Predator enlisted the aid of Iron Willie, the company’s 70-pound robot. Equipped with an elbow that never tires, Iron Willie was charged with shooting a cue ball toward a piece of carbonless copy paper, moving five millimeters to the right or left and then shooting again - and again and again - until Predator determined exactly how much taper could virtually eliminate cue ball deflection without making the shaft susceptible to fracturing. The shaft is so slender that it produces a fair amount of tactile feedback when it meets the cue ball. After a few hundred games, Z Shaft users can sense the pleasant vibration that indicates a perfectly struck cue ball, versus the rough twitter that accompanies an uneven stroke.
-
-Disqus

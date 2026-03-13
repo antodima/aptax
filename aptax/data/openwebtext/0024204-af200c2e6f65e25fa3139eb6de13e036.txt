@@ -1,9 +1,0 @@
-@cmb:
-
-@dgcom: Any plans to get such patches easier in the future? As much as I like to hope, but I do not think this is the last one :( It depends on the issue. This one's difficult because it requires recompiling a slew of PBIs, which is very time consuming, and building an entire release. If it were as simple as "here's a file, copy this and you're fixed", we would have provided that file 24 hours ago. It's also not something that's exploitable in the common uses of the system and where people are using reasonable security practices. Spend a lot more time looking at your web servers, mail servers, etc. right now, and follow my recommendations in the post above.
-
-I perfectly understand implications of this particular issue, and yes - it is not just a matter of replacing openssl executable… What I am saying is that recompiling everything is not very efficient. But, I guess, you know your product :)
-
-As for "not something that's exploitable in the common uses" - my major concern is web UI, which I would think is exposed often for remote management and packages like stunnel, HAProxy, Squid... Whatever deals with SSL frontend in any way - shouldn't build system be smart enough to recompile only if dependencies changed?
-
-I, personally, do not run anything, based on recent versions of openssl - except pfSense.

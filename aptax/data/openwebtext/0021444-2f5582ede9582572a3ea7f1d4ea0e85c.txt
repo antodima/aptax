@@ -1,3 +1,0 @@
-You'll find option in the settings menu; when you turn it on, Whatsapp asks you to create a six-digit passcode that you'll need to enter every time you try and log in to the service on a new device. You'll also need to add an email address that you can use to reset your passcode in the event that you forget it.
-
-Once that's set up, the phone number associated with your Whatsapp account will be protected. Since Whatsapp logins are tied to a phone number rather than an email address, the usual method of texting a randomly generated authentication code to your phone won't work here -- hence the user-generated passcode. Either way, it's good for the service to finally add a way to keep accounts more secure.
