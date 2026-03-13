@@ -109,7 +109,6 @@ class MiniGPT(nnx.Module):
         vocab_size,
         embed_dim,
         num_heads,
-        ff_dim,
         num_transformer_blocks,
         *,
         rngs,

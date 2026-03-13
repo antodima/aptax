@@ -72,26 +72,6 @@ def load_stories(eot_token="<|endoftext|>", max_stories=1000):
     return stories
 
 
-def load_webtexts(max_texts=None):
-    texts = []
-    openwebtext_dir = Path("aptax/data/openwebtext")
-    openwebtext_paths = sorted(openwebtext_dir.glob("*.txt"))
-    openwebtext_texts = [p.read_text(encoding="utf-8") for p in openwebtext_paths]
-    for text in openwebtext_texts:
-        splits = [
-            s.strip() for s in text.split("\n") if s is not None and s.strip() != ""
-        ]
-        texts.extend(splits)
-        if max_texts and len(texts) >= max_texts:
-            break
-
-    if max_texts and len(texts) > max_texts:
-        texts = texts[:max_texts]
-
-    print(f"Loaded {len(texts):,} texts")
-    return texts
-
-
 class TextsDataset:
     def __init__(self, texts, max_seq_len, tokenizer):
         self.max_seq_len = max_seq_len
