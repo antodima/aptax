@@ -1,0 +1,127 @@
+UFOCAT-2009
+
+UFOCAT-2009 is the latest updated version of the original UFOCAT sightings catalog. UFOCAT-2009 refers to a computer database of over 209,551 UFO reports and related information. It is the result of a 40-year effort that began during the Air Force sponsored Colorado UFO Project, also known as the "Condon Committee." UFOCAT was begun by Dr. David R. Saunders, who at the time was a co-Principal Investigator on the Colorado UFO study and professor of Psychology at the University of Colorado. Dr. Jacques Vallee contributed a large computer catalogue of approximately 6,000 cases at the project's inception.
+
+The UFOCAT database has existed in some form or another since the spring of 1967 but went through an eight-year hiatus from 1982 to 1990 when it was neither updated nor utilized. In 1976 Dr. Saunders gave his version of UFOCAT to the Center for UFO Studies (CUFOS). From then until 1982 it was maintained and updated by Fred Merritt at the Chicago office of CUFOS. In those days the database was kept on a large IBM mainframe computer at a nearby computer facility, with magnetic tape backup. It eventually proved to be too expensive an endeavor for the Center to maintain on a mainframe, and consequently it was removed from active use and stored on tape.
+
+In 1990 Dr. Don Johnson obtained a copy of UFOCAT on ten 3.5" diskettes from Dr. Saunders courtesy of Dr. John Derr of the U.S. Geological Survey. Dr. Derr had created the diskette version from one of the magnetic tape backups for his research use. Unfortunately he was unable to read the first portion of the tape and so we were missing the first 10,000 records. CUFOS fortunately had available an older magnetic tape backup copy of UFOCAT. By merging the two sources of data Johnson was able to recreate the catalogue as it existed in 1982. Since then over ten thousand additional records have been added.
+
+With the great strides made in recent years in computer software and hardware technology, and with the substantial reduction in costs of computer RAM memory and disk storage, it made sense to revise the UFOCAT file structure. First using dBase IV and later Microsoft Access the file was converted to a modern relational database. Most of the single-letter codes from the 1970s version were replaced with longer, more understandable names. Several fields were added. A special emphasis was placed on improving the identification of the source for each UFO report, including the full name of the author and a much longer mnemonic code for the reference citation.
+
+In the late 1970s and early 1980s several researchers prominent in the UFO field criticized the use of UFOCAT for conducting research. Perhaps foremost among these critics were Allan Hendry and Dr. Willy Smith. While we agree that many of these criticisms were indeed valid, we disagree with the central premise that it is impossible to use UFOCAT-2009 to conduct meaningful research.
+
+We would first caution potential users not to expect to be able to begin and end their research using only UFOCAT-2009 as there are too many gaps in the data and, just like the Internet, not every source of information is as reliable and accurate as the next. The results obtained from UFOCAT-2009 are best thought of as a reference guide to the original sources for the crucial details. Otherwise, the distinction between poorly investigated reports and exhaustively studied sightings will be lost. However, you will substantially improve your search for information by using UFOCAT-2009. What was true when Allan Hendry wrote his critique of UFOCAT in 1979 is even truer today: UFOCAT2009 is without peer as a reference source. Thousands of hours went into creating it, and months have gone into revising it to improve its ease of use. It exists today as the most comprehensive reference tool and bibliographic source on UFO reports in existence.
+
+The following information is available in UFOCAT-2009.
+
+Primary record ID number
+
+Order of primacy for records in a block concerning same incident
+
+Indirect record ID number
+
+Flag for non-primary entries
+
+UFOCAT-2009 record ID number
+
+Author's or Investigator's Name
+
+Level of source
+
+Code for identification of the direct source
+
+Position within direct source
+
+Code for identification of the indirect source
+
+Position within indirect source
+
+Year of report
+
+Month
+
+Day
+
+Time (hour and minute)
+
+Special flag for reporting accuracy of date and time, daylight savings time
+
+Time Zone
+
+Weather
+
+Terrain (e.g. "forest")
+
+Vehicle Flag (e.g. indicating that the witness was in a car)
+
+Place name location
+
+Special flag for reporting accuracy about location
+
+Region of world abbreviation
+
+State (or country) abbreviation
+
+County (or province)
+
+Number of witnesses
+
+Age of principal witness or age composition of group
+
+Sex of principal witness or gender composition of group
+
+Flag for military or police witnesses
+
+Witness name(s)
+
+Absolute Sidereal Time (computed)
+
+Hynek classification code
+
+Vallee classification code
+
+Credibility of report
+
+Type and subtype of report
+
+Flag for explainability of the report
+
+Explanation of report (as given by source)
+
+Number of objects (UFOs) reported
+
+Duration of event
+
+Size of object estimated by witnesses (log base 2)
+
+Apparent size
+
+Distance from UFO at closest approach estimated by witnesses (log base 2)
+
+Color of UFO
+
+Shape of UFO
+
+Sound (if any) associated with UFO
+
+Longitude
+
+Flag field for geographical coordinates
+
+Latitude
+
+Short narrative of UFO incident including key words
+
+The manual is available online.
+
+NOTE: The longitude coordinates of UFOCAT-2009 are non-standard. This system uses decimal degrees with West and North as positive; East and South as negative. This is not the WSG84 world standard. These coordinates used in a GPS system such as Google Earth will give you the wrong location. It will be necessary to reverse the west longitude from positive to negative and east longitude from negative to positive. As the following correct sequence indicates.
+
+Latitude comes before longitude North latitude is positive East longitude is positive South latitude is negative West longitude is negative
+
+System requirements are Win XP/Win7. Space Requirement is 458 MB.
+
+The current UFOCAT2009 does not run on Win 8/8.1/10. We are currently in the process of updating UFOCAT2009 for those operating systems using 64-bit. If you have a 64-bit copy of Microsoft Access 2010, 2013 or 2015 installed the updated database will work fine. If you do not have a 64-bit copy of Micosoft Access 2010, 2013 or 2015 installed you will then need to do a simple download of Acess 2010 Runtime X64 and install. Further details will be included in a Readme file. If you wish to order a copy please Contact US. Sorry, we are unable to provide a 32-bit version.
+
+ORDERING & SHIPPING INFORMATION
+
+The complete UFOCAT-2009 DVD is available for $40, which includes postage and handling. You can order by PayPal, by credit card, or by check or money order. For a mail in order print off the order form, check off UFOCAT-2009 under CUFOS Audio and Videocassettes and CD-Roms and send your order with payment to to CUFOS at P.O. Box 31335, Chicago, IL 60631. Include type of credit card (Visa, etc.), credit card number, and expiration date. Make checks payable to CUFOS. You may also order via the Buy Now button below. Allow 3-4 weeks for processing and shipping.

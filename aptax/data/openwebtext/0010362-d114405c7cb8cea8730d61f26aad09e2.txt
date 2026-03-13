@@ -1,0 +1,41 @@
+Here we go again 😉 The new infographic takes into consideration the feedback we’ve had from the forums, pod casts and Reddit. Thanks again to everyone who assisted in making this possible.
+
+Reddit Update:
+
+Below the graphic is a bit of history surrounding this effort with a breakdown what we learned while doing this project. I apologize for the size for the 2.8 MB size of the PNG.
+
+A Little History about the Infamous Infographic – Version One
+
+The original infographic was released shortly after Delta Rising for Star Trek Online by Cryptic Studios. The goal of the infographic was to provide a ‘sum total’ of the costs for upgrading the most common builds for current players. It was limited to a single starship, it ignored the ground elements, and it offered a somewhat fuzzy interpretation of a cash value to achieve the upgrade from XII to XIV.
+
+The original Infographic was controversial. For many it lacked accuracy; it lacked citation and sources. For others they felt it was unreasonable and presented in a negative way during a time when Cryptic was struggling to get a handle on player reactions. And for even more people, the infographic didn’t seem to go far enough.
+
+Cryptic reacted to the communities concerns by making changes that impacted the original infographics’ data, primarily in the availability of R&D materials and the actual costs associated with R&D. Player familiarity with R&D and now secondary sources of information (spreadsheets and calculators produced separately from our efforts) became available to revisit the initial results.
+
+Lastly market conditions as to costs and availability have stabilized on the last 2 weeks as players have become acclimatized to the changes.
+
+What did we get right?
+
+The initial costs remain unchanged, only the number of items upgraded has increased to reflect a full cruiser and ground equipment.CaptainGecko joked about the $83 cost associated with buying everything you needed. In truth the total is closer to $100 – but – you can do it without paying money if you don’t mind grinding for an extended period of time. Our estimates for a single toon is 69 days @ 4 hours per day.
+
+The initial costs remain unchanged, only the number of items upgraded has increased to reflect a full cruiser and ground equipment.CaptainGecko joked about the $83 cost associated with buying everything you needed. In truth the total is closer to $100 – but – you can do it without paying money if you don’t mind grinding for an extended period of time. Our estimates for a single toon is 69 days @ 4 hours per day. What did we miss?
+
+Understanding the impact of R&D, and how it’s actually cheaper and easier than we first thought. I’ll be dedicating a full post to crafting sometime in the next few weeks.
+
+Understanding the impact of R&D, and how it’s actually cheaper and easier than we first thought. I’ll be dedicating a full post to crafting sometime in the next few weeks. What did we get wrong?
+
+It was more expensive to upgrade than we had experienced; there is a 50% cost difference between upgrading very rare and reputation gear.The tone in which the graphic was extremely adversarial which was due primarily to the frustrations we all experiencing.
+
+It was more expensive to upgrade than we had experienced; there is a 50% cost difference between upgrading very rare and reputation gear.The tone in which the graphic was extremely adversarial which was due primarily to the frustrations we all experiencing. What did we learn?
+
+A lot. So much in fact we’re working on an Upgraders’ Quick Reference Sheet to help first time R&D players
+
+
+
+What the Infographic doesn’t consider: Captains’ Runabout – Fighter – Shuttle, Quality options with upgrades, what upgrade options are ’the best’, the costs associated with leveling one toon from 1 to 50, and the variability with the RNG and availability or cost of acquiring R&D duty officers.
+
+It doesn’t even try to take the Specialization process into consideration. That may come as a later project after the Command Specialization is released.
+
+We also understand that everything regarding costs is in a constant state of flux. Cryptic has made changes, and will continue to make changes as it see fit. The rumored addition of Omega particle elements is one area we left out for lack of better knowledge.
+
+As with the last infographic, if there is anything you feel we’ve gotten wrong, misspelled or provided poor attribution for, please let us know in the comments below.

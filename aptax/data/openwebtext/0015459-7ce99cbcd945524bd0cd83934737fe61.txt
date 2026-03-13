@@ -1,0 +1,23 @@
+A suspected chemical attack on a rebel-held town in Syria has triggered the first direct US military action against the country’s government forces as the US launched a missile strike against a Syrian air base earlier today. Following the attack on 4 April, there were reports of residents dying in their houses, with victims and injured survivors showing symptoms that match poisoning by nerve agents. However, there is no evidence yet to identify which one.
+
+Symptoms included pupils shrunk to the size of pin pricks, foaming at the mouth, breathlessness and convulsions. ‘The best guess is a nerve agent, probably an organophosphate,’ says Dino Pisaniello of the School of Public Health in the University of Adelaide, Australia. ‘The characteristic response of pin point pupils is a key clinical observation here. Sarin is suspected but there are many organophosphates that would exert the same effect in sufficient quantity.’
+
+All nerve agents (see below) work in the same way, latching onto cholinesterase enzymes in blood plasma, red blood cells and at certain nerve endings in tissues. The enzyme can no longer hydrolyze the neurotransmitter acetylcholine involved in muscle contraction, which accumulates, leading to violent muscle spasms and death if the muscles involved in breathing can’t function. The bond between the nerve agent and the enzyme is permanent unless antidotes are administered.
+
+Finding the culprit
+
+It is important to identify which agent was used to predict the number of people who might be affected and to establish culpability, says Dan Kaszeta, a London-based consultant and former US Army Chemical Corps officer. ‘Knowing the type of nerve agent helps us chase the supply chain and understand the full narrative behind the attack. It is essential for any war crimes tribunal to have this evidence collected by a neutral organisation like The Organisation for the Prohibition of Chemical Weapons (OPCW),’ he says.
+
+‘It looks like people downwind of the attack were affected which means that it was a volatile agent like sarin and not VX,’ speculates Alastair Hay, an emeritus environmental toxicology professor at the University of Leeds, UK.
+
+The OPCW has 22 labs licensed to examine chemical weapon samples and can identify a nerve agent from biomedical or environmental samples. There are tests to measure degradation products of nerve agents in urine taken from victims, or the levels of cholinesterase in blood.
+
+Environmental samples, such as soil and concrete, can also provide evidence but the clock is ticking as the site remains in a war zone. Hay says timely access to the site is important, but evidence can be retrieved years after an attack in some cases.
+
+‘It looks like people downwind of the attack were affected which means that it was a volatile agent like sarin and not VX’ Alistair Hay, University of Leeds
+
+At the moment, there is also still a question mark over where the weapons came from and who is responsible for the attack. In theory, competent chemist could make these nerve agents, says Hay. ‘However, the difficulty is having a virtually airtight facility so there is no risk of exposure. Nerve agents are so toxic that a very small exposure can kill, so containment of the reaction sequence is critical.’
+
+Kaszeta points out that nerve agents need to be produced in a batch process at scale, requiring ‘some heavy chemical engineering’. He continues: ‘There are 5-7 steps required to make sarin, for example, some of which are extremely difficult, and one requires hydrogen fluoride at high temperature and pressure. It is an expensive undertaking.’
+
+That’s one reason why most commentators agree that the Syrian government is most likely to be responsible; the rebel forces don’t have the money, infrastructure or expertise, says Kaszeta. What’s more, the OPCW established that the Syrian government killed hundreds of people using sarin in an attack on the Damascus suburb of Ghouta in 2013.

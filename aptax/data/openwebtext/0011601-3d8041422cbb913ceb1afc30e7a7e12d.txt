@@ -1,0 +1,67 @@
+Hello and welcome to another issue of This Week in Rust! Rust is a systems language pursuing the trifecta: safe, concurrent, and fast. This is a weekly summary of its progress and community. Want something mentioned? Send me an email! Want to get involved? We love contributions.
+
+This is the busiest week in This Week in Rust’s history, and the pull request queue isn’t getting any shorter. This is a mixed blessing: tons of work is getting done, but it takes forever to get merged.
+
+What’s cooking on master?
+
+89 pull requests were merged this week. This is the most pull requests merged in a week, ever. 10 1.0 issues were closed this week, and 0 opened.
+
+Breaking Changes
+
+Other Changes
+
+New Contributors
+
+Axel Viala
+
+Craig MacKenzie
+
+Douglas Young
+
+Dylan Braithwaite
+
+Ehsanul Hoque
+
+Sterling Greene
+
+Weekly Meeting
+
+The weekly meeting discussed the Hash changes, debug assertions, and commit log administrivia.
+
+This Week in Servo
+
+Servo is a web browser engine written in Rust and is one of the primary test cases for the Rust language.
+
+This week, we landed 15 PRs.
+
+Notable additions
+
+Sankha Narayan Guria made drawing a single line much more efficient in #1709
+
+Lars Bergstrom removed the last of the @mut s not in script in #1712
+
+s not in script in #1712 Junyoung Cho fixed up a bug where we were removing s in #1727
+
+s in #1727 Youngmin Yoo added support for the <object> element in #1664
+
+element in #1664 Keegan McAllister made use of the border box more consistent in layout in #1699
+
+Peiyong Lin fixed up the naming of some of our flow methods in #1693
+
+Simon Sapin refactored the cascade methods in #1706
+
+methods in #1706 Adam Sinnett corrected the parent type names of Text, Comment, and PI types in #1702
+
+Patrick Walton added some inlining that sped up flow contruction even more in #1602
+
+New contributors
+
+Peiyong Lin (lpy)
+
+Adam Sinnett (quandrum)
+
+Meetings
+
+We did not have a meeting this week because of President’s Day in the US.
+
+Announcements, etc

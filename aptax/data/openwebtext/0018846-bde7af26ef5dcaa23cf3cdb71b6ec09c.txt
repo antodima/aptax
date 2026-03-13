@@ -1,0 +1,9 @@
+While grumblings over Facebook’s privacy standards continue one website is asking users to take a definitive step to protest. The goal of the website? To get you to quit Facebook on May 31st.
+
+The website, appropriately named Quit Facebook Day, asks for people to add their name with others who plan to quit the social network. The campaign was created by Matthew Milan and Joseph Dee who believe Facebook does not offer its users fair choices nor does it have the best intentions for users. Though the two acknowledge issues around privacy are a legitimate concern, they believe this is “just a symptom of a larger set of issues”. To date, 3045 people have committed to quit Facebook on May 31st. That current number represents 0.00076125% of the current user base of Facebook assuming an active user base of at least 400 million.
+
+While the Quit Facebook Day site offers up current alternatives to Facebook for users quitting cold turkey, one future alternative has already received overwhelming support financially. Diaspora is an open platform which will decentralize the sharing of personal information and allow each individual to host their own personal web server. The initiative is the brain child of four young programmers from NYU’s Courant Institute. The group (pictured above) has sought donations for the project via the Kickstarter website and has received overwhelming support. Their initial goal of $10,000 has already been well surpassed with current funding standing at over $175,000.
+
+The funding will allow the group to give up “internships and summer jobs” for three months to focus on the creation of the platform. Once completed, the group will open source their source code and provide a paid turnkey solution for those want to use it, but don’t want to go through the hassle of setting it up themselves.
+
+Read more at QuitFacebookDay , Diapora’s Kickstarter page, and JoinDiaspora.com.

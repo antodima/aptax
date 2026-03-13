@@ -1,0 +1,111 @@
+A good programmer is able to manage their time perfectly. We try to write an optimal code spending as little time as possible. But sometimes we are just forced to stop. So what do app developers do then?
+
+
+
+I faced this problem a few times at work. The project I participated in was finished and a new project hasn’t started yet. It seems that I could just relax: drink coffee, chat in a social network, read something interesting on the web or watch funny videos on YouTube (I’m sure anyone can add something to this list).
+
+Then I realized, I’m getting even more tired while doing nothing. I made a conclusion that it’s nice to do nothing when you have something to do, but not when there is no work at all…
+
+‍
+
+So I started thinking and searching for help on the web. Below you’ll find a list of tips that will help you to spend your time with benefits.
+
+‍
+
+IMPROVE YOUR SKILLS
+
+Programmers work is continuous improvement. Every day a new technology or programming language is born, languages we use gets updated, a new functionality is added to libraries or frameworks. So it’s important to boost your knowledge. And it’s crucial to understand that every new skill is an investment in your career.
+
+‍
+
+What should you learn? Of course, it depends on what you work on and what you are interested in. But it’s better to focus on the things that can improve your daily programming life.
+
+I believe that one of the ways to keep up to date is to read. Today we have a free access to great content online. You can read books and articles (and discussions to the articles).
+
+However, reading is not enough. And the best way to learn programming is coding.
+
+You can check new features by yourself or help other programmers in your company. You will consolidate knowledge or learn some new stuff while helping others.
+
+‍
+
+OPTIMIZE TEAMWORK
+
+Many people believe that everything programmerapp developer needs is a computer. However, a significant part of programmer’s work is connected with other people. Developers work in a team, which includes not only programmers but also a project manager, designers and testers. And a success of the project depends on a good communication in such a team.
+
+‍
+
+A free time – is a great chance to suggest your ideas for a teamwork optimization and improve your soft skills. So you can try to think about ways to make your current or future products better. For example, you can help the design team or the business team come up with ideas for future releases, new features that can be added, removed or replaced. You can also observe how your colleagues work and figure out how you can help them do their jobs better.
+
+‍
+
+REFACTOR CODE
+
+Developers understand that their code is never perfect and it can always be improved.
+
+It can be your app architecture, localization, accessibility, layouts, just style of your code and so on. Obviously, there is always something that an app developer can do better.
+
+
+
+Here are some universal sources about refactoring:
+
+
+
+The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin
+
+
+
+This book is packed with practical advice about everything from estimating and coding to refactoring and testing. It covers much more than technique – it is about attitude. Martin shows how to approach software development with honor, self-respect, and pride, work well and work clean, communicate and estimate faithfully, face difficult decisions with clarity and honesty, and understand that deep knowledge comes with a responsibility to act.
+
+
+
+
+
+‍
+
+‍
+
+‍
+
+‍
+
+‍
+
+‍
+
+‍
+
+‍
+
+Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+
+
+
+Even a bad code can work. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.Martin has teamed up with his colleagues from Object Mentor to distill their best Agile practice of cleaning code “on the fly” into a book that will instill within you the values of a software craftsman and make you a better programmer – but only if you work at it.
+
+
+
+‍
+
+‍
+
+‍
+
+‍
+
+‍
+
+‍
+
+‍
+
+‍
+
+‍
+
+I hope, that these tips will tell you something interesting about programmers’ work and help you spend your time with benefits. Never stop learning, growing, and exploring!
+
+
+
+
+
+‍

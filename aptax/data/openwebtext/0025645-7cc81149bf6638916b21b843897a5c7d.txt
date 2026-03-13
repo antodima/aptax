@@ -1,0 +1,15 @@
+If you’re terrified of the possibility that humanity will be dismembered by an insectoid master race, equipped with robotic exoskeletons (or would that be exo-exoskeletons?), look away now. Researchers at the University of Tokyo have strapped a moth into a robotic exoskeleton, with the moth successfully controlling the robot to reach a specific location inside a wind tunnel.
+
+In all, fourteen male silkmoths were tested, and they all showed a scary aptitude for steering a robot. In the tests, the moths had to guide the robot towards a source of female sex pheromone. The researchers even introduced a turning bias — where one of the robot’s motors is stronger than the other, causing it to veer to one side — and yet the moths still reached the target.
+
+As you can see in the photo above, the actual moth-robot setup is one of the most disturbing and/or awesome things you’ll ever see. In essence, the polystyrene (styrofoam) ball acts like a trackball mouse. As the silkmoth walks towards the female pheromone, the ball rolls around. Sensors detect these movements and fire off signals to the robot’s drive motors. At this point you should watch the video below — and also not think too much about what happens to the moth when it’s time to remove the glued-on stick from its back.
+
+Fortunately, the Japanese researchers aren’t actually trying to construct a moth master race: In reality, it’s all about the moth’s antennae and sensory-motor system. The researchers are trying to improve the performance of autonomous robots that are tasked with tracking the source of chemical leaks and spills. “Most chemical sensors, such as semiconductor sensors, have a slow recovery time and are not able to detect the temporal dynamics of odours as insects do,” says Noriyasu Ando, the lead author of the research. “Our results will be an important indication for the selection of sensors and models when we apply the insect sensory-motor system to artificial systems.”
+
+Of course, another possibility is that we simply keep the moths. After all, why should we spend time and money on an artificial system when mother nature, as always, has already done the hard work for us? In much the same way that miners used canaries and border police use sniffer dogs, why shouldn’t robots be controlled by insects? The silkmoth is graced with perhaps the most sensitive olfactory system in the world. For now it might only be sensitive to not-so-useful scents like the female sex pheromone, but who’s to say that genetic engineering won’t allow for silkmoths that can sniff out bombs or drugs or chemical spills?
+
+Who nose: Maybe genetically modified insects with robotic exoskeletons are merely an intermediary step towards real nanobots that fly around, fixing, cleaning, and constructing our environment.
+
+Now read: Will we ever have Iron Man exoskeletons?
+
+Research paper: doi:10.1088/1748-3182/8/1/016008 – “Odour-tracking capability of a silkmoth driving a mobile robot with turning bias and time delay”

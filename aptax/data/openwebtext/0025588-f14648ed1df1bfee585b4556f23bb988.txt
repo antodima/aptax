@@ -1,0 +1,25 @@
+@hiveproject_netOn Sunday evening I caught up with a friend who spends his time immersed in the crypto currency space. I’d bumped into him a few days earlier and said I’d shout him a drink or two if he’d be so kind as to devote an hour or so of his time to helping me get across the latest ICO craze sweeping the startup world.
+
+And while I was lucky enough to get a master class in person, if you haven’t yet got your head around tokens and ICO, these articles are worth a read:
+
+Bernard also wrote an excellent article on crypto back in May
+
+Once you do understand what’s going on, it’s fun to start thinking of two sided network problems you could solve via a token model. My first modest attempt was to use an ICO to build a community of trusted financial advisors, who were remunerated for providing non-conflicted financial advice to consumers on the network who paid a monthly access fee.
+
+To seed my community, the idea was to open my ICO to accredited financial planners. Let’s call this token $ADV (for Advice). Financial planners could buy $ADV in my initial ICO, and for every question successfully answered in the network, could generate a return on of 0.0000X% (or something similar) of the network’s monthly access fee, per $ADV held.
+
+Questions that were answered well and stood the test of time could receive up votes from the community – another possible way for $ADV holders to generate income. And of course $ADV could be sold to a new financial planner – similar to how financial planners sell their practices and clients today. The value of $ADV would increase as the number of consumers using the network increased. Think Quora mashed up with Augur.
+
+If you think about it, a modern day financial planner could build an entire client base and business using this model. In fact, it’s not hard to imagine that consumers in this network could start specifically asking certain planners to answer their questions, rather than throwing it out into the wild. The trick of course would be to make the network’s compensation model attractive enough compared to dealer groups – a source of conflicted advice and frustration for many consumers. And the cost and quality of advice received by consumers, would need to be better than going to a financial planner directly.
+
+Small Business Invoice Financing ICO – Hive
+
+Ideas aside, in terms of the small business space, I did come across the following ICO, which if you’re hungry for a slice of the ICO action, looks like there’s still time to get in on.
+
+Hive claims it will be the first crypto currency invoice financing platform for SMEs, with its ICO opening in 4 days and closing at the end of July.
+
+From what I can gather – and I’d say you’re best to verify this yourself – Hive tokens give holders the right to participate in the network and generate a return by funding invoices. The carrot for small business owners is the speed of execution of the financing element.
+
+Decentralisation is certainly the flavour of the year, with ICO’s leading the charge. No doubt there will be some disasters, just as there are in the traditional venture capital and investment space. But the principles underpinning the concept certainly seem to have the legs to run the distance. And, I’m sure our new author on Monday’s, Ilias Louis Hatzis, will have plenty more to say about that on a weekly basis!
+
+Daily Fintech Advisers provides strategic consulting to organizations with business and investment interests in Fintech. Jessica Ellerm is a thought leader specializing in Small Business.

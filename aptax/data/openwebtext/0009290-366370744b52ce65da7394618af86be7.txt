@@ -1,0 +1,13 @@
+The Monetary Authority of Singapore (MAS), which also acts as the Central Bank, promulgated a new document regulating the turnover of tokens in accordance with the provisions of the Securities Act.
+
+According to the text, tokens created for the ICO, subject to certain conditions, can be considered as securities. This category includes tokens that represent the products of capital.
+
+Such tokens are determined in accordance with the provisions of the Securities and Futures Act. For example, investment fund tokens can be considered as securities. On the other hand, the tokens of technical projects do not fall within the competence of MAS and can’t be considered as securities.
+
+In addition, MAS is working on the development of a new set of documents aimed at combating money laundering and terrorism financing.
+
+The Monetary Authority of the country also published a report on the Ubin state program, which actually transfers the gross settlement system to blockchain. Currently, three platforms are being tested: HyperLedger Fabric, Corda and Quorum.
+
+The report indicates that such a reform will reduce the cost of performing daily payment transactions, as well as secure the financial ecosystem from the impact of problems within the Central Bank. The role of the Central Bank itself is reduced to monitoring the system operation and resolving disputes.
+
+Discover more at ICO event Amsterdam!

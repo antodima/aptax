@@ -1,0 +1,9 @@
+Twitter has been completely emphatic about where developers should stake a claim, with Twitter Platform Lead Ryan Sarver warning the ecosystem to stay away from building “client apps that mimic or reproduce the mainstream Twitter consumer client experience.”
+
+Well if Sarver stays true to his word the Twitpics and Yfrogs of the world can just give it up now. According to multiple sources, Twitter is on the verge of announcing its own built in Twitpic competitor. Like tomorrow, if things go according to plan (naturally this post might change that).
+
+This shouldn’t really come as a surprise to anyone, as photosharing is the next logical step of Twitter expanding its in app experience. It’s basically grabbing at low hanging fruit.
+
+Twitter is flinging money around; It just spent $40 million on power user client Tweetdeck which represents 13% of its userbase. It’s only natural that they would spend more resources on photosharing, especially considering how much money is being poured into the white hot space and that images were the crux of the success of competitor Facebook.
+
+I’ve got no details on what exactly the photosharing URL shortener will be if any (Twitter has owned Twimg.com for a long time) or what the Twitter for Photos product will look like. Just that it’s coming, soon. And if they’re smart they’ll put ads on it.

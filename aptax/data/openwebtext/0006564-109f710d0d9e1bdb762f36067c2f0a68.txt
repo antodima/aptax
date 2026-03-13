@@ -1,0 +1,23 @@
+The melanoma-treating drug, selumetinib (red) bound to its protein target MEK1 (blue). (Image by Dr. Lucky Tran.)
+
+NEW YORK, NY (June 19, 2014) — For the first time, a therapy has been found that can delay progression of metastatic uveal melanoma, a rare and deadly form of melanoma of the eye. Results from a multicenter clinical trial show that a new drug called selumetinib increases progression-free survival, the length of time during and after treatment that a patient with metastases lives with the disease without its progressing. The findings were published in the online edition of JAMA, the Journal of the American Medical Association.
+
+“Although the effects of the drug were modest, we now know that we can influence the course of the disease, and we expect to build on this success with other drugs, including some already in development,” said senior author, Gary K. Schwartz, MD, professor of medicine and chief of hematology/oncology at NewYork-Presbyterian/Columbia University Medical Center and associate director of its Herbert Irving Comprehensive Cancer Center. (At the time of the trial, Dr. Schwartz was chief of the melanoma and sarcoma service at Memorial Sloan Kettering Cancer Center in New York.)
+
+Uveal melanoma is a cancer of the iris, ciliary body, or choroid—structures in the eye collectively known as the uvea. Uveal melanoma (which is biologically distinct from skin melanoma) arises from the uvea’s melanocytes, the pigment cells that give the eye its color. Once the disease has spread—most metastases appear in the liver—existing treatments are largely ineffective. About 1,500 cases of uveal melanoma occur in the United States each year, usually among older adults. The median survival rate for patients with metastatic uveal melanoma is 12 months.
+
+Several years ago, researchers found that 80 percent of patients with uveal melanoma had mutations to GNAQ or GNA11, genes that activate signals in the mitogen-activated protein kinase (MAPK) pathway. Dr. Schwartz and others subsequently demonstrated that inhibition of MEK, a key enzyme in the MAPK pathway, can inhibit the growth of uveal melanoma cells in the laboratory. Dr. Schwartz’s laboratory was the first to show this with selumetinib.
+
+In 2013, Dr. Schwartz and his colleagues launched the first large-scale, Phase II, randomized trial of selumetinib. One hundred and one patients with metastatic uveal melanoma at 15 centers in the United States and Canada were randomized to receive either selumetinib or standard chemotherapy. Those in the chemotherapy group could receive selumetinib at any time if they showed signs of disease progression.
+
+Median progression-free survival among patients receiving selumetinib was more than double that of patients receiving chemotherapy (15.9 weeks vs. 7 weeks). Forty-nine percent of patients treated with selumetinib exhibited tumor regression, compared with none in the chemotherapy group.
+
+Median overall survival for patients on selumetinib was 11.8 months, compared with 9.1 months for those on chemotherapy, but the difference was not statistically significant. “We suspect that there may have been improvement in survival in the selumetinib group, but it was unclear, because patients who didn’t respond to chemotherapy were allowed to cross over to selumetinib,” said Dr. Schwartz. “That’s something we hope to clarify in a follow-up study that is now under way.”
+
+The vast majority of patients taking selumetinib experienced side effects, including rash, swelling, and visual changes. Most of the side effects were considered manageable, although 37 percent of patients required at least one dose reduction and 6 percent discontinued therapy.
+
+Dr. Schwartz thinks that treatment of uveal melanoma will ultimately involve rational drug design and a combination of drugs, similar to the approach used to combat HIV infection. “In preclinical studies, we’ve shown that when a MEK inhibitor was combined with an Akt inhibitor, which affects another cancer-related pathway, the results were better than when using MEK alone,” he said.
+
+“Overall,” Dr. Schwartz added, “the study underscores the importance of rational drug design, in which drugs are designed to interact with specific molecular pathways involved in a particular disease. This is a huge improvement over chemotherapy, which is basically a blanket approach to cancer that does not directly address the underlying biology.”
+
+About:

@@ -1,0 +1,11 @@
+Things You'll Need:
+
+Getting Started:
+
+Mapping the Buttons:
+
+Joystick 1 and Joystick 2 should be colored if your computer recognized your adapter.​
+
+Setting the Controls into Super Smash Flash 2:
+
+-A Windows PC (sorry Mac and Linux users)-Mayflash Adapter ( http://www.amazon.com/gp/product/B0089NVTDM/ref=oh_details_o00_s00_i00?ie=UTF8&psc=1 -An offline copy of Super Smash Flash 2 (( http://www.mcleodgaming.com/downloads/SSF2DemoV0_9.zip -Joy2Key ( http://joytokey.net/download/JoyToKey_en.zip 1. Plug your Mayflash Adapter and let the drivers install.2. Download the files above if you haven't already.3. Extract the folders (right-click > extract all) and put them somewhere accessible.1. Run Joy2Key.exe and Click "OK" to the message that pops up.2. Right-click (Stick1: Edit button assignment3. Click "Keyboard 2"4. Pick your left key and put it in the top "1" box and "2" box. Then pick your dash key in put it in the second "2" box.5. Check the "Switch depending on analog level" radio button and then Press OK.6. You'll do something similar for the (Stick1: ---->) except instead of "2" for left, I use "3" for right. Notice "1" is still in the same box.7. Bulk Assign the rest of them by pressing the "bulk assing key." Just make sure to skip POV (d-pad) Left, Down, and Right along with Button 9 as they won't be used by pressing the skip button. I just press the keys in order except shift, control, alt, and the windows button.8. Repeat the above for joystick two.1.Open Super Smash Flash 22. Using your mouse press Start > Options > Controls3. Uncheck Autodash and D-Tap to dash.4. You should set the Dash, Right, and Left Buttons right away with the keyboard. After that, you can just use the GameCube controller to set the rest. (Taunt is up on the dpad).5. Repeat for P2.AND YOU'RE DONE.

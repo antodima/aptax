@@ -1,0 +1,19 @@
+Google RAISR Keeps Your Image Sharp And Saves Your Bandwidth
+
+Close
+
+We typically look at a high-resolution image and associate that with a high bandwidth which we then worry because we already know that it will inevitably suffer from a sluggish loading speed. Let's not forget the data costs that you have to pay.
+
+Google has looked into that particular consumer concern and churned out a new method of image processing. In November 2016, the tech giant showcased what is known as RAISR which is short for Rapid and Accurate Image Super Resolution. This smart tech can predict how a low-resolution photo can be magnified by filling in the gaps between pixels. The result is a photo in high definition that essentially used up a tiny portion of data usage.
+
+RAISR works by using machine learning and train on pairs of low res and hi res images to look for filters that can recreate details that are close in quality to the original. The filters are trained for about an hour according to small patches of images. Previous known methods like Upsampling produce a large image with more pixels and higher image quality from a low-quality image. The methods are fast but is thought to be ineffective in bringing out vivid details.
+
+So far, the new tech has been tested and improved on Google+. According to a blog post from John Nack, the Product Manager for Google+, RAISR is now processing more than a billion photos a week, even with its limited release. Apparently, Google was able to use up to 75 per cent less bandwidth per large image displayed on Google's native social media platform. It should be in no time when RAISR will be found in most Google services and devices.
+
+"In the coming weeks we plan to roll this technology out more broadly," said Nack. "-and we're excited to see what further time and data savings we can offer."
+
+TAG google, raisr, google
+
+Sign Up for the ITECHPOST Newsletter Get the Most Popular iTechPost Stories in a Weekly Newsletter
+
+© 2019 ITECHPOST, All rights reserved. Do not reproduce without permission.

@@ -1,0 +1,5 @@
+More rumors are cropping up about the 64-bit Exynos processor that Samsung is expected to debut with the Galaxy S5. According to a new report by the Korean media, the 64-bit processor, the first of Samsung’s Exynos 6 series of chipsets, will be accompanied by 4GB of RAM, making use of one of the biggest advantages of 64-bit processing support.
+
+Samsung has already beaten other manufacturers by being the first to use 3GB of RAM (on the Galaxy Note 3), and 4GB of RAM would be the next logical step. Personally, I hope that the Galaxy S5 does have 4GB of RAM, as 3GB of RAM hasn’t exactly provided the boost in multitasking I thought it would on the Note 3, all thanks to all the unnecessary stuff TouchWiz and Samsung’s add-on features keep running in the background, so another gig of RAM would go a long way towards actually showing some advantages of having more memory than normal.
+
+Source

@@ -1,0 +1,31 @@
+As expected, Microsoft’s follow-up to the Surface Pro 4 tablet is just called… the Surface Pro.
+
+The new model looks nearly identical to its predecessor, but instead of 6th-gen Intel Core Skylake processors, the new model is powered by 7th-gen Intel Core Kaby Lake chips.
+
+Microsoft unveiled the new Surface Pro at an event in Shanghai today.
+
+The new model also supports an updated Surface Pen with 4096 levels of pressure sensitivity, tilt detection, and reduced latency… but the new pen is sold separately, rather than bundled with the tablet.
+
+The new Surface Pro also has an improved kickstand, which supports wider angles, including a “studio mode” which has the tablet lying at a slight angle designed to make writing or drawing more comfortable.
+
+It’s basically a smaller version of the kickstand used in the Surface Studio, Microsoft’s premium all-in-one desktop aimed at artists, and designers and Microsoft showed off the Surface Pro working with Surface Studio accessories including the Surface Dial.
+
+Microsoft says the new Surface Pro supports up to 13.5 hours of battery life. Oh, and the model with a Core i5 processor is fanless: previously you had to opt for a Core M3 chip if you wanted a fanless Surface Pro.
+
+If you’re wondering why models with a Core i7 chip aren’t fanless, it’s not just the CPU that gets an upgrade: that model also has Intel Iris Plus graphics.
+
+The company says the 12.3 inch tablet features and “enhanced color” PixelSense display, but it has the same 2736 x 1824 resolution as the Surface Pro 4.
+
+Another thing that hasn’t changed? The ports: there’s a USB Type-A port, a mini DisplayPort, and a 3.5mm headphone jack, but no USB Type-C port.
+
+The company also introduced new Surface Pro Type Cover accessories which will work with the 5th-gen Surface Pro tablet, but also with the Surface Pro 3 or Surface Pro 4. The key difference between this year the company’s Alcantara fabric-covered Type Cover is available in 4 colors (grey, teal, gold, and burgandy).
+
+The new 5th-gen Surface Pro will be available with a choice of Core M3-7Y30, Core i5-7300U, and Core i7-7660U processors, 128GB to 1TB of solid state storage, and 4GB to 16GB of LPDDR3-1866 RAM. There’s also optional support for 4G LTE.
+
+Microsoft’s new tablet measures 11.5″ x 7.9″ x 0.33″ and weighs about 1.7 pounds.
+
+The Surface Pro is launching on June 15th in 26 countries including the US, Canada, the UK, and China. Pre-orders open today for $799 and up.
+
+And when I say up, I mean way up for the higher-end models: you’ll have to shell out $2699 to get a new Surface Pro with a Core i7 CPU, 16GB of RAM, and 1TB of storage. And don’t forget, the keyboard is sold separately. At least the pen is included.
+
+At today’s launch event, Microsoft also announced that the Surface Studio is coming to China, as is the recently announced Surface Laptop. And the HoloLens Development Edition is also now available in China.

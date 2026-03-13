@@ -1,0 +1,21 @@
+According to an article posted on The Recorder Online by Chris Demorro, the Toyota Prius, the most popular hybrid is not actually that efficient. Their ultimate ‘green car’ is the source of some of the worst pollution in North America; it takes more combined energy per Prius to produce than a Hummer.
+
+In order to fully understand this argument, you need to know the overall architecture of the Prius powertrain. The car consists of two engines, a 1.5L gas engine and an electric motor. The electric motor is capable of propelling the car up to 25mph and from there the gas engine kicks in. Therefore the car saves fuel by turning the gas engine off when it is idling and driving in traffic. The battery for the electric motor is recharged through the braking system.
+
+When the current Prius was released for the 04′ model year, Toyota boasted about the car’s estimated 60 mpg in the city and 51mpg on the highway. Consumers ate this information up and flocked to Toyota dealers in droves. Soon after its release consumers began to complain about the fact that their cars were not achieving the claimed mpg. This was due to the out of date EPA tests that the government uses to estimate a car’s mpg. (The new tests will be applied to 2008 models) In most real world applications the Prius only manages to achieve 45 mpg, which is not much higher than most subcompact economy cars (Aveo, Yaris, Scion).
+
+That is the first main issue with the current Prius. Second is the issue with the actual production of the batteries for the hybrid cars. It is only slowly being revealed that the nickel batteries that hybrids use are not environmentally friendly. The nickel for the Prius is produced in Sudbury, Ontario. According to Demorro, " This plant has caused so much environmental damage to the surrounding environment that NASA has used the ‘dead zone’ around the plant to test moon rovers. The area around the plant is devoid of any life for miles." Toyota produces 1,000 tons annually. The production of the batteries does not end in Canada, the nickel is then sent off to a refinery in Europe and then off to China and finally it ends up in finished form in Japan. This in turn uses more energy to create the batteries since it involves many factories all over the world.
+
+When you factor in all the energy it takes to drive and build a Prius it takes almost 50% more energy than a Hummer. In a study by CNW Marketing called "Dust to Dust", researchers discovered that the Prius costs and average of $3.25 per mile driven over a lifetime of 100,000 miles (the expected lifespan of a hybrid). On the other hand the Hummer costs $1.95 per mile over an expected 300,000 miles. Which means that the Hummer will last three times as long and use less energy than the Prius. ( I am not sure about the claim that the Hummer will last three times longer…)
+
+This also doesn’t take into account the problem with disposing of the used batteries. Most of the hybrids have not been on the market long enough to be disposed of yet, but when it does happen there are going to be more environmental implications.
+
+Basically to sum this up, the Prius and all hybrids for that matter are not exactly what the public perceives them to be. Hybrids for the most part do not have huge gains in gas mileage over their gas powered counterparts. There is also a premium to buy a hybrid and there is a large chance that the premium will not be offset by the time you get rid of the car. According to Demorro, "It takes five years to offset the premium price of a Prius. Meaning, you have to wait 60 months to save any money over a non-hybrid car because of lower gas expenses." Then there are the issues with the batteries and their effect on the environment.
+
+Basically if you want to save gas and pollute less you should buy a subcompact with a PZEV rated engine. It will save you more money in the long run and the earth will thank you.
+
+This may all change in the coming years as technology gets better and the price of hybrids drop.
+
+Full Article:
+
+The Recorder Online by Chris Demorro

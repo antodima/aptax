@@ -1,0 +1,189 @@
+Computational Narratology
+
+Last modified: 28 January 2013
+
+Inderjeet Mani
+
+[1] 1 Definition
+
+[2]
+
+Computational narratology is the study of narrative from the point of view of computation and information processing. It focuses on the algorithmic processes involved in creating and interpreting narratives, modeling narrative structure in terms of formal, computable representations. Its scope includes the approaches to storytelling in artificial intelligence systems and computer (and video) games, the automatic interpretation and generation of stories, and the exploration and testing of literary hypotheses through mining of narrative structure from corpora.
+
+[3]
+
+The use of the term ‘Computational Narratology’ covers several senses: (i) a ‘humanities narratology’ sense, used in Meister ( Meister, Jan Christoph (2003). Computing Action. A Narratological Approach. Berlin: de Gruyter. 2003 ) to designate a methodological instrument in the construction of narratological theories, from the standpoint of automatically extending narratological models to larger bodies of text, providing empirical testing of their predictions in actual corpora, and precise and consistent explication of concepts; (ii) a ‘cognitive computing’ sense, used as a title for a course (Goguen Goguen, Joseph (2004). CSE 87C Winter 2004 Freshman Seminar on Computational Narratology. Department of Computer Science and Engineering, University of California, San Diego. 2004 ) covering artefacts such as narrative texts, video games, and computational artworks, and integrating insights from semiotics, sociolinguistics and cognitive linguistics. Fox Harrell has characterized it further, as providing “techniques from computer science to provide a language to describe cognitive insights and to implement narrative effects of the type analyzed in discourse narratology” (Harrell Harrell, D. A. (2007). Theory and Technology for Computational Narrative. PhD Thesis, Departments of Computer Science and Cognitive Science, University of California, San Diego. 2007 : 7); (iii) a ‘computational implementation of narratology’ sense (cf. Cavazza & Pizzi [ Cavazza, M. & D. Pizzi (2006). “Narratology for Interactive Storytelling: A Critical Introduction.” S. Gobel, R. Malkewitz, & I. Iurgel (eds.), Technologies for Interactive Digital Storytelling and Entertainment. Third International Conference. Lecture Notes in Computer Science, 4326. Berlin: Springer. 2006 ] and many others), referring to the importation of constructs from humanities narratology for implementation in computer systems that carry out storytelling, along the lines of computational linguistics, where formalisms from linguistic theories are implemented in systems.
+
+[4] 2 Explication
+
+[5]
+
+Meister, Jan Christoph (2011). “Narratology.” Paragraph 1–81. P. Hühn et al. (eds.), the living handbook of narratology. Hamburg: Hamburg UP. 2011 ; As “a humanities discipline dedicated to the study of the logic, principles, and practices of narrative representation” (Meister → Narratology), narratology has a natural and substantial overlap with the (scientific and engineering) disciplines involved in the development of artificial intelligence systems aiming for human-like narrative behavior, as well as the (engineering and aesthetic) practices involved in the design of intelligent computer-based interfaces and game environments for interacting with narratives. In the course of developing such systems, researchers have mapped narratological constructs to computational ones and elucidated interactions among them, formulating (sometimes implicitly) theoretical and empirical approaches to narrative. Computational narratology has also been strongly influenced by linguistic theories.
+
+[6]
+
+Computational narratology is a fast-evolving field, motivated in part by the surge in popular interest in interactive games and entertainment and their promise of offering engaging narratives with life-like characters. The pervasiveness of computer technology and digital media in everyday life and cultural activity has substantially raised expectations about their future involvement. The advent of the new millennium has accordingly seen a spate of books, journal articles and conferences on topics related to this subject.
+
+[7] 3 History of the Concept and its Study
+
+[8] 3.1 Influences from Humanities Narratology
+
+[9]
+
+fabula versus sujet (Šklovskij Šklovskij, Viktor B. (Shklovsky, Victor) ([1917] 1965). “Art as a Technique.” L. T. Lemon & M. J. Reis (eds.), Russian Formalist Criticism. Lincoln: U of Nebraska P, 3–24. [1917] 1965 ; Tomaševskij Tomaševskij, Boris (Tomashevsky) ([1925] 1971). A Theory of Literature. Letchworth: Bradda Books. [1925] 1971 ) has provided a scaffolding for much of the computational narratology work in story generation, where the fabula is usually implemented – as in Genette ( Genette, Gérard ([1972] 1980). Narrative Discourse: An Essay in Method. Ithaca: Cornell UP. [1972] 1980 ) – as the events of the entire narrative in chronological and causal order prior to any verbalization thereof, and where the sujet is the final generated output. Here events ( Propp, Vladimir ([1928] 1968, 1988). Morphology of the Folktale. 2nd edn. Austin: U of Texas P. [1928] 1968 ), e.g., Grasbon & Braun ( Grasbon, D. & N. Braun (2001). “A Morphological Approach to Interactive Storytelling.” Proceedings of Artificial Intelligence and Interactive Entertainment, CAST '01, Living in Mixed Realities, Sankt Augustin, Germany, 337–40. 2001 ); Peinado & Gervás ( Peinado, Federico & Pablo Gervás (2006). “Evaluation of Automatic Generation of Basic Stories.” New Generation Computing 24: 289–302. 2006 ) as well as those of Bremond ( Bremond, Claude (1970). “Morphology of the French Folktale.” Semiotica 2: 347–275. 1970 ), e.g., Schäfer et al. ( Schäfer, L., A. Stauber & B. Brokan (2004). “Storynet: An Educational Game for Social Skills.” S. Göbel et al. (eds.), Technologies for Interactive Digital Storytelling and Entertainment, Second International Conference, TIDSE 2004, LNCS 3105. Berlin: Springer, 148–157. 2004 ); Cavazza & Charles ( Cavazza, M. & F. Charles (2005). “Dialogue Generation in Character-based Interactive Storytelling.” AAAI First Annual Artificial Intelligence and Interactive Digital Entertainment Conference, Marina del Rey, California. 2005 ). More coarse-grained accounts of the roles of characters in plot ( Freytag, Gustav (1900). Freytag's Technique of the drama : an exposition of dramatic composition and art. Translated by Elias J. MacEwan. Chicago: Scott, Foresman. 1900 ) and the heroic quest of Campbell ( Campbell, Joseph ([1949] 1990). The Hero with a Thousand Faces. New York: Harper & Row. [1949] 1990 ), have also inspired the design of many interactive narrative systems (Mateas & Stern Mateas, M. & A. Stern (2005). “Structuring Content in the Facade Interactive Drama Architecture.” Proceedings of Artificial Intelligence and Interactive Digital Entertainment (AIIDE 2005), Marina del Rey. 2005 ; Gervás et al. Gervás, Pablo, Birte Lönneker-Rodman, Jan Christoph Meister & Federico Peinado (2006). “Narrative Models: Narratology Meets Artificial Intelligence.” Proceedings of the LREC-06 workshop Toward Computational Models of Literary Analysis, Genoa, Italy. 2006 ). In relation to the sujet, text information extraction systems (Mani et al. Mani, I., B. Wellner, M. Verhagen, C. M. Lee & J. Pustejovsky (2006). “Machine Learning of Temporal Relations.” Proceedings of the 44th Annual Meeting of the Association for Computational Linguistics, Sydney, Australia, 753–60. 2006 ; Mani Mani, I. (2010a). The Imagined Moment. Lincoln: U of Nebraska P. 2010a ) have been able to infer Genette’s ( Genette, Gérard ([1972] 1980). Narrative Discourse: An Essay in Method. Ithaca: Cornell UP. [1972] 1980 ) temporal orderings ( Montfort, Nick (2011). “Curveship's Automatic Narrative Variation.” Proceedings of the 6th International Conference on the Foundations of Digital Games (FDG '11), 211–18, Bordeaux, France. 2011 ) have used rules that can express any of Genette’s orderings with a felicitous use of narrative voice, tense, and aspect. Research in computational narratology has absorbed and instantiated approaches from humanities narratology that specify formal and/or logical structure. The narratological differentiation ofversus(Šklovskij; Tomaševskij) has provided a scaffolding for much of the computational narratology work in story generation, where the fabula is usually implemented – as in Genette () – as the events of the entire narrative in chronological and causal order prior to any verbalization thereof, and where the sujet is the final generated output. Here → Event and Eventfulness) like other narratological constructs, are given a precise and specific computational representation, involving their participants, places and times, and in some cases their causes and effects. Focusing on fabula, algorithms to generate story have incorporated the narrative functions of Propp (), e.g., Grasbon & Braun (); Peinado & Gervás () as well as those of Bremond (), e.g., Schäfer et al. (); Cavazza & Charles (). More coarse-grained accounts of the roles of characters in plot ( → Character), such as the narrative arc of Freytag () and the heroic quest of Campbell (), have also inspired the design of many interactive narrative systems (Mateas & Stern; Gervás et al.). In relation to the sujet, text information extraction systems (Mani et al.; Mani) have been able to infer Genette’s () temporal orderings ( → Time) by having the computer learn from annotated corpora, while sentence generators such as Montfort () have used rules that can express any of Genette’s orderings with a felicitous use of narrative voice, tense, and aspect.
+
+[10] 3.2 Influences from Linguistics
+
+[11]
+
+story grammars, (e.g., Rumelhart Rumelhart, David E. (1980). “On Evaluating Story Grammars.” Cognitive Science 4: 313–16. 1980 ), have been widely elaborated and applied in computational narratology, as in Bringsjord & Ferrucci ( Bringsjord, Selmer & David A. Ferrucci (2000). Artificial Intelligence and Literary Creativity: Inside the Mind of BRUTUS, a Storytelling Machine. Mahwah, NJ: Lawrence Erlbaum. 2000 ) and Lang ( Lang, R. (2003). “A Declarative Model for Simple Narratives.” M. Mateas & P. Sengers (eds.), Narrative Intelligence. Amsterdam: John Benjamins. 2003 ). These notions, along with others arising independently out of AI, such as scripts (Schank & Abelson Schank, Roger C. & Robert P. Abelson (1977). Scripts, plans, goals, and understanding: An inquiry into human knowledge structures. Hillsdale, NJ: Lawrence Erlbaum. 1977 ), have also (despite their computational brittleness) influenced humanities narratology ( Salway, Andrew & David Herman (2008). “Digitized Corpora as Theory- Building Resource: New Foundations for Narrative Inquiry.” R. Page & B. Thomas (eds.), New Narratives: Theory and Practice. Lincoln: U of Nebraska P. 2008 ), and in recent years, more advanced text mining techniques have allowed for large-scale empirical tests of literary hypotheses. For example, Elson et al. ( Elson, David K., Nicholas Dames, & Kathleen R. McKeown (2010). “Extracting Social Networks from Literary Fiction.” Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics (ACL’2010), 138–47. 2010 ) have been able to automatically extract conversational social networks from the dialogues between characters in 19th-century novels, disproving a claim by the literary critic Moretti ( Moretti, Franco (1999). Atlas of the European Novel, 1800–1900. London: Verso. 1999 ) that urban novels reflect the looser ties of city life, resulting in more characters sharing fewer conversations. Constructs which have emerged from linguistics, such as, (e.g., Rumelhart), have been widely elaborated and applied in computational narratology, as in Bringsjord & Ferrucci () and Lang (). These notions, along with others arising independently out of AI, such as(Schank & Abelson), have also (despite their computational brittleness) influenced humanities narratology ( → Schemata and → Cognitive Narratology). The contributions of corpus linguistics to narratology are also well-recognized (Salway & Herman), and in recent years, more advanced text mining techniques have allowed for large-scale empirical tests of literary hypotheses. For example, Elson et al. () have been able to automatically extract conversational social networks from the dialogues between characters in 19th-century novels, disproving a claim by the literary critic Moretti () that urban novels reflect the looser ties of city life, resulting in more characters sharing fewer conversations.
+
+[12] 3.3 Computational Elaborations of Narratological Concepts
+
+[13]
+
+plot based on plot units (Lehnert Lehnert, W. G. (1981). “Plot Units: A Narrative Summarization Strategy.” W. G. Lehnert & M. H. Ringle (eds.), Strategies for Natural Language Processing. Hillsdale, NJ: Lawrence Erlbaum. 1981 ), which is derived, much as in Bremond’s account, from a representation of events that involves characterizing the motivations behind the actions of characters as well as their emotional outcomes. While systems use such models of plot in story generation, the inferential challenges involved in imputing motives to characters in narrative understanding are substantial enough to limit the ability of systems to fully extract a plot representation. However, Goyal et al. ( Goyal, Amit, Ellen Riloff & Hal Daumé III (2010). “Automatically Producing Plot Unit Representations for Narrative Text.” Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing (EMNLP’2010), 77–86. 2010 ) have developed, based on a corpus, a text understanding system that can infer characters’ emotions (or affect states) associated with events, identifying which outcomes are beneficial, harmful, or neutral for particular characters. More nuanced models of characters’ emotions have also been explored. For example, the interactive storytelling system of Pizzi ( Pizzi, D. (2011). Emotional Planning for Character-based Interactive Storytelling. PhD Thesis, School of Computing, Teesside University, Middlesbrough. 2011 ) is driven by plans that exploit an inventory of characters’ feelings listed in Flaubert’s preliminary studies for Madame Bovary; such a framework allows for a variety of sentiment-driven interactive retellings of the novel. Another interesting reformulation of a narratological construct is that of suspense. Cheong ( Cheong, Y. G. (2007). A Computational Model of Narrative Generation for Suspense. PhD Thesis, Department of Computer Science, North Carolina State University. 2007 ) generates stories judged to be suspenseful by modeling the reader’s reasoning about limitations and conflicts involving a protagonist’s goals ( Gerrig, R. & D. Bernardo (1994) Readers as problem-solvers in the experience of suspense. Poetics 22: 459–72. 1994 ). Computational narratology has also developed its own accounts of key narratological concepts. An example is the fine-grained notion ofbased on plot units (Lehnert), which is derived, much as in Bremond’s account, from a representation of events that involves characterizing the motivations behind the actions of characters as well as their emotional outcomes. While systems use such models of plot in story generation, the inferential challenges involved in imputing motives to characters in narrative understanding are substantial enough to limit the ability of systems to fully extract a plot representation. However, Goyal et al. () have developed, based on a corpus, a text understanding system that can infer characters’ emotions (or affect states) associated with events, identifying which outcomes are beneficial, harmful, or neutral for particular characters. More nuanced models of characters’have also been explored. For example, the interactive storytelling system of Pizzi () is driven by plans that exploit an inventory of characters’ feelings listed in Flaubert’s preliminary studies for; such a framework allows for a variety of sentiment-driven interactive retellings of the novel. Another interesting reformulation of a narratological construct is that of. Cheong () generates stories judged to be suspenseful by modeling thereasoning about limitations and conflicts involving a protagonist’s goals ( → Reader), based on narratological insights from Gerrig & Bernado ().
+
+[14]
+
+For computational accounts to be made more relevant to humanities narratology, two issues need to be confronted: (a) the challenge of interdisciplinary communication across substantial methodological divides, especially given the shift in interest of post-classical narratology away from the precise analyses that characterized its structuralist phase; (b) the fact that computational representations and techniques for story generation are not general enough to concoct anything other than very short, relatively simple stories (such as fairy tales), let alone epics or novels (Gervás et al. Gervás, Pablo, Birte Lönneker-Rodman, Jan Christoph Meister & Federico Peinado (2006). “Narrative Models: Narratology Meets Artificial Intelligence.” Proceedings of the LREC-06 workshop Toward Computational Models of Literary Analysis, Genoa, Italy. 2006 ). The availability of multimillion-word narrative corpora and advanced machine learning algorithms used for training computational approaches can partially alleviate this problem, though annotating narratological information can be expensive.
+
+[15] 4 Trends in the Field
+
+[16]
+
+The search for generic computational methods that could be used across narratives focused attention in the 1970s on planning formalisms. The spotlight has remained there ever since, although the planning techniques have evolved to accommodate ever-wider narratological concerns. In planning terms, to understand a story requires inferring, based on the Aristotelian notion of mythos, the causes of the events in the story and the goals of the characters involved – in effect, reconstructing from the sentences in the sujet a plan that corresponds to a causal chain of events (or operators) that can transform the initial state of the storyworld into the final state. The inferred events in the chain can include mental states and actions that may or may not be explicitly mentioned in the sujet. Story understanding systems (e.g. Wilensky Wilensky, Robert W. (1978). “Understanding Goal-based Stories.” Yale University Computer Science Research Report. 1978 ) never got very far, since (i) inferring characters’ goals involves a large search space and the inferences may need to be revised during processing and (ii) humans use a great deal of knowledge to interpret even simple stories. Given Forster’s exemplifying sentence “The king died and the queen died of grief,” a child has no difficulty figuring out why the queen was upset, but imparting a body of such commonsense knowledge to a computer is difficult; (iii) aspects of language that are hard to formalize but that are important for story interpretation, such as humor, irony, and subtle lexical associations, have by and large eluded computational approaches.
+
+[17]
+
+story generation, where the author can limit the system considerably, has proved more viable ( However, planning of fabulae for, where the author can limit the system considerably, has proved more viable ( → Story Generator Algorithms).
+
+[18]
+
+Mateas, M. & A. Stern (2005). “Structuring Content in the Facade Interactive Drama Architecture.” Proceedings of Artificial Intelligence and Interactive Digital Entertainment (AIIDE 2005), Marina del Rey. 2005 ) is retaining authorial control over the plot while granting some freedom to the user (who may act as an animated protagonist) in shaping the evolution of the narrative. Empowering the user can lead to aesthetically unsatisfying outcomes, but restricting her through constraints from the plot can limit engagement. The need for generation of text snippets and dialogue rather than full stories ( Mani, I. (2010a). The Imagined Moment. Lincoln: U of Nebraska P. 2010a , Mani, I. (2010b). “Predicting Reader Response in Narrative.” 3rd Workshop on Intelligent Narrative Technologies. Foundations of Digital Games Conference, Monterey, CA, June 18, 2010. 2010b ). In recent years, interactive narrative has been the major driver in the field, promising new varieties of aesthetic experience, aided by game engines and vivid animations. One of the challenges here (Mateas & Stern) is retaining authorial control over the plot while granting some freedom to the user (who may act as an animated protagonist) in shaping the evolution of the narrative. Empowering the user can lead to aesthetically unsatisfying outcomes, but restricting her through constraints from the plot can limit engagement. The need for generation of text snippets and dialogue rather than full stories ( → Conversational Narration - Oral Narration) to accompany storyworld animations has also spurred a trend of increased use of text generation based on templates that map non-linguistic input directly to the linguistic output form, sacrificing linguistic generalization for rapid prototyping. Overall, key issues include the modeling of narrative progression and the invention of suitable metrics for aesthetic satisfaction (Mani).
+
+[19] 5 Topics for Further Investigation
+
+[20]
+
+1) As a hybrid of game and narrative that spans multiple media, interactive narrative represents a new and evolving genre. What novel constructs from computational narratology are applicable here, and which old ones need refinement? 2) The computer-assisted annotation of large-scale corpora with narratological information bearing on time, place, plot, character, emotion, point-of-view, narrative embedding, metalepsis, etc. is feasible when carried out as collaborative projects. In this respect the “crowd-sourcing” of narratological markup aims to serve human readers by providing more comprehensive narratological descriptions of narratives across an entire corpus, while at the same time facilitating computer-based research into their narratological patterns (cf. Meister Meister, Jan Christoph (2012). “Crowd sourcing “true meaning”. A collaborative markup approach to textual interpretation.” W. McCarty & M. Deegan (eds.), Festschrift for Harold Short. Surrey, U.K: Ashgate Publishers. 2012 ). Assuming that such efforts can advance computational narratology and also test more foundational theories, which models should be elaborated for corpus-level annotation efforts by the community? 3) How should an empirical theory of aesthetic response be formulated, and can this be exploited computationally?
+
+[21] 6 Bibliography
+
+[22] 6.1 Works Cited
+
+Bremond, Claude (1970). “Morphology of the French Folktale.” Semiotica 2: 347–275.
+
+2: 347–275. Bringsjord, Selmer & David A. Ferrucci (2000). Artificial Intelligence and Literary Creativity: Inside the Mind of BRUTUS, a Storytelling Machine . Mahwah, NJ: Lawrence Erlbaum.
+
+. Mahwah, NJ: Lawrence Erlbaum. Campbell, Joseph ([1949] 1990). The Hero with a Thousand Faces . New York: Harper & Row.
+
+. New York: Harper & Row. Cavazza, M. & F. Charles (2005). “Dialogue Generation in Character-based Interactive Storytelling.” AAAI First Annual Artificial Intelligence and Interactive Digital Entertainment Conference, Marina del Rey, California [1].
+
+[1]. Cavazza, M. & D. Pizzi (2006). “Narratology for Interactive Storytelling: A Critical Introduction.” S. Gobel, R. Malkewitz, & I. Iurgel (eds.), Technologies for Interactive Digital Storytelling and Entertainment . Third International Conference. Lecture Notes in Computer Science, 4326. Berlin: Springer.
+
+. Third International Conference. Lecture Notes in Computer Science, 4326. Berlin: Springer. Cheong, Y. G. (2007). A Computational Model of Narrative Generation for Suspense . PhD Thesis, Department of Computer Science, North Carolina State University.
+
+. PhD Thesis, Department of Computer Science, North Carolina State University. Genette, Gérard ([1972] 1980). Narrative Discourse: An Essay in Method . Ithaca: Cornell UP.
+
+. Ithaca: Cornell UP. Elson, David K., Nicholas Dames, & Kathleen R. McKeown (2010). “Extracting Social Networks from Literary Fiction.” Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics (ACL’2010), 138–47.
+
+(ACL’2010), 138–47. Freytag, Gustav (1900). Freytag's Technique of the drama : an exposition of dramatic composition and art . Translated by Elias J. MacEwan. Chicago: Scott, Foresman.
+
+. Translated by Elias J. MacEwan. Chicago: Scott, Foresman. Gerrig, R. & D. Bernardo (1994) Readers as problem-solvers in the experience of suspense. Poetics 22: 459–72.
+
+22: 459–72. Gervás, Pablo, Birte Lönneker-Rodman, Jan Christoph Meister & Federico Peinado (2006). “Narrative Models: Narratology Meets Artificial Intelligence.” Proceedings of the LREC-06 workshop Toward Computational Models of Literary Analysis, Genoa, Italy .
+
+. Goguen, Joseph (2004). CSE 87C Winter 2004 Freshman Seminar on Computational Narratology . Department of Computer Science and Engineering, University of California, San Diego [2].
+
+. Department of Computer Science and Engineering, University of California, San Diego [2]. Goyal, Amit, Ellen Riloff & Hal Daumé III (2010). “Automatically Producing Plot Unit Representations for Narrative Text.” Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing (EMNLP’2010), 77–86 [3].
+
+(EMNLP’2010), 77–86 [3]. Grasbon, D. & N. Braun (2001). “A Morphological Approach to Interactive Storytelling.” Proceedings of Artificial Intelligence and Interactive Entertainment, CAST '01, Living in Mixed Realities, Sankt Augustin, Germany , 337–40 [4].
+
+, 337–40 [4]. Harrell, D. A. (2007). Theory and Technology for Computational Narrative . PhD Thesis, Departments of Computer Science and Cognitive Science, University of California, San Diego.
+
+. PhD Thesis, Departments of Computer Science and Cognitive Science, University of California, San Diego. Lang, R. (2003). “A Declarative Model for Simple Narratives.” M. Mateas & P. Sengers (eds.), Narrative Intelligence . Amsterdam: John Benjamins.
+
+. Amsterdam: John Benjamins. Lehnert, W. G. (1981). “Plot Units: A Narrative Summarization Strategy.” W. G. Lehnert & M. H. Ringle (eds.), Strategies for Natural Language Processing . Hillsdale, NJ: Lawrence Erlbaum.
+
+. Hillsdale, NJ: Lawrence Erlbaum. Mani, I., B. Wellner, M. Verhagen, C. M. Lee & J. Pustejovsky (2006). “Machine Learning of Temporal Relations.” Proceedings of the 44th Annual Meeting of the Association for Computational Linguistics, Sydney, Australia , 753–60.
+
+, 753–60. Mani, I. (2010a). The Imagined Moment . Lincoln: U of Nebraska P.
+
+. Lincoln: U of Nebraska P. Mani, I. (2010b). “Predicting Reader Response in Narrative.” 3rd Workshop on Intelligent Narrative Technologies. Foundations of Digital Games Conference, Monterey, CA, June 18, 2010 .
+
+. Mateas, M. & A. Stern (2005). “Structuring Content in the Facade Interactive Drama Architecture.” Proceedings of Artificial Intelligence and Interactive Digital Entertainment (AIIDE 2005), Marina del Rey .
+
+. Meister, Jan Christoph (2003). Computing Action. A Narratological Approach . Berlin: de Gruyter.
+
+. Berlin: de Gruyter. Meister, Jan Christoph (2011). “→ Narratology.” Paragraph 1–81. P. Hühn et al. (eds.), the living handbook of narratology. Hamburg: Hamburg UP.
+
+Meister, Jan Christoph (2012). “Crowd sourcing “true meaning”. A collaborative markup approach to textual interpretation.” W. McCarty & M. Deegan (eds.), Festschrift for Harold Short . Surrey, U.K: Ashgate Publishers.
+
+. Surrey, U.K: Ashgate Publishers. Montfort, Nick (2011). “Curveship's Automatic Narrative Variation.” Proceedings of the 6th International Conference on the Foundations of Digital Games (FDG '11), 211–18, Bordeaux, France .
+
+. Moretti, Franco (1999). Atlas of the European Novel, 1800–1900 . London: Verso.
+
+. London: Verso. Peinado, Federico & Pablo Gervás (2006). “Evaluation of Automatic Generation of Basic Stories.” New Generation Computing 24: 289–302.
+
+24: 289–302. Pizzi, D. (2011). Emotional Planning for Character-based Interactive Storytelling . PhD Thesis, School of Computing, Teesside University, Middlesbrough.
+
+. PhD Thesis, School of Computing, Teesside University, Middlesbrough. Propp, Vladimir ([1928] 1968, 1988). Morphology of the Folktale . 2nd edn. Austin: U of Texas P.
+
+. 2nd edn. Austin: U of Texas P. Rumelhart, David E. (1980). “On Evaluating Story Grammars.” Cognitive Science 4: 313–16.
+
+4: 313–16. Salway, Andrew & David Herman (2008). “Digitized Corpora as Theory- Building Resource: New Foundations for Narrative Inquiry.” R. Page & B. Thomas (eds.), New Narratives: Theory and Practice . Lincoln: U of Nebraska P.
+
+. Lincoln: U of Nebraska P. Schäfer, L., A. Stauber & B. Brokan (2004). “Storynet: An Educational Game for Social Skills.” S. Göbel et al. (eds.), Technologies for Interactive Digital Storytelling and Entertainment, Second International Conference, TIDSE 2004, LNCS 3105 . Berlin: Springer, 148–157.
+
+. Berlin: Springer, 148–157. Schank, Roger C. & Robert P. Abelson (1977). Scripts, plans, goals, and understanding: An inquiry into human knowledge structures . Hillsdale, NJ: Lawrence Erlbaum.
+
+. Hillsdale, NJ: Lawrence Erlbaum. Šklovskij, Viktor B. (Shklovsky, Victor) ([1917] 1965). “Art as a Technique.” L. T. Lemon & M. J. Reis (eds.), Russian Formalist Criticism . Lincoln: U of Nebraska P, 3–24.
+
+. Lincoln: U of Nebraska P, 3–24. Tomaševskij, Boris (Tomashevsky) ([1925] 1971). A Theory of Literature . Letchworth: Bradda Books.
+
+. Letchworth: Bradda Books. Wilensky, Robert W. (1978). “Understanding Goal-based Stories.” Yale University Computer Science Research Report.
+
+[23] 6.2 Further Reading
+
+Callaway, Charles (2000). Narrative Prose Generation . Ph.D. Dissertation, Department of Computer Science, North Carolina State University, Raleigh, North Carolina.
+
+. Ph.D. Dissertation, Department of Computer Science, North Carolina State University, Raleigh, North Carolina. Correira, A. (1980). “Computing Story Trees.” American Journal of Computational Linguistics 6.3-4: 135–49.
+
+6.3-4: 135–49. Cullingford, R. E. (1978). “Script application: Computer understanding of newspaper stories.” Research Report 116. Computer Science Department, Yale University.
+
+116. Computer Science Department, Yale University. DeJong, G. F. (1982). “An Overview of the FRUMP System. W. G. Lehnert & M. H. Ringle (eds.), Strategies for Natural Language Processing . Hillsdale, NJ: Lawrence Erlbaum, 149–76.
+
+. Hillsdale, NJ: Lawrence Erlbaum, 149–76. Elson, David K. (2012). “Dramabank: Annotating agency in narrative discourse.” Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC 2012) .
+
+. Finlayson, Mark A. (2009). “Deriving narrative morphologies via analogical story merging.” B. Kokinov et al. (eds.), New Frontiers in Analogy Research . Sofia: NBU P.
+
+. Sofia: NBU P. Hobbs, Jerry (1990). Literature and Cognition . Lecture Notes, Number 21, Center for the Study of Language and Information, Stanford, California. Chicago: U of Chicago P.
+
+. Lecture Notes, Number 21, Center for the Study of Language and Information, Stanford, California. Chicago: U of Chicago P. Kazantseva , Anna & Stan Szpakowicz (2010). “Summarizing Short Stories.” Computational Linguistics 36.1: 71–109.
+
+36.1: 71–109. Lebowitz, M. (1985). “Story-telling as planning and learning.” Poetics 14: 483–502.
+
+14: 483–502. Lehnert, Wendy, G., Michael G. Dyer, Peter N. Johnson, C.J. Yang, & Steve Harley (1983). “Boris – an experiment in in-depth understanding of narratives.” Artiﬁcial Intelligence 20: 15–62.
+
+20: 15–62. Löwe, Benedikt (2010). “Comparing formal frameworks of narrative structures.” Computational Models of Narrative: Papers from the 2010 AAAI Fall Symposium, Menlo Park, California .
+
+. Mani, I. (2013). Computational Modeling of Narrative . San Rafael, CA: Morgan & Claypool.
+
+. San Rafael, CA: Morgan & Claypool. Mateas, M. (2000). “A Neo-Aristotelian Theory of Interactive Drama”. Working Notes of the AAAI Spring Symposium on Artificial Intelligence and Interactive Entertainment. Palo Alto, CA : AAAI Press.
+
+: AAAI Press. Meehan, James R. (1977). The Metanovel: writing stories on computer . PhD Thesis, Department of Computer Science, Yale University.
+
+. PhD Thesis, Department of Computer Science, Yale University. Mueller, Erik T. (2002). “Story understanding.” N. Lynn (ed.), Encyclopedia of Cognitive Science 4: 238–46. London: Nature Publishing Group.
+
+4: 238–46. London: Nature Publishing Group. Mueller, Erik T. (2004). “Understanding script-based stories using commonsense reasoning.” Cognitive Systems Research 5.4: 307–40.
+
+5.4: 307–40. Pérez y Pérez, R. & M. Sharples (2004). “Three Computer-Based Models of Storytelling: BRUTUS, MINSTREL and MEXICA.” Knowledge-Based Systems 17.1: 15-29.
+
+17.1: 15-29. Reed, Aaron (2010). Creating Interactive Fiction with Inform 7 . Independence, KY: Course Technology PTR.
+
+. Independence, KY: Course Technology PTR. Riedl, Mark O. & R. Michael Young (2010). “Narrative Planning: Balancing Plot and Character.” Journal of Artificial Intelligence Research 39: 217–68.
+
+39: 217–68. Turner, Scott R. (1994). The Creative Process: A Computer Model for Storytelling and Creativity. Hillsdale, NJ: Lawrence Erlbaum.
+
+[24] 6.3 Web Resources

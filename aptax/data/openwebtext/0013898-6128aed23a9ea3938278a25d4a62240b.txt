@@ -1,0 +1,63 @@
+Project Tango is a new mobile platform by Google’s Advanced Technology and Projects (ATAP) team which brings motion tracking, depth perception, and area learning to smartphones and tablets. This technology can be used to realize real world measurement applications, indoor navigation and virtual reality environments. With its motion tracking technology, Project Tango is also suitable for precise three dimensional augmented reality (AR) applications. The areas of applications for augmented reality are diverse, from medicine, the entertainment industry, education and many more industries. Accessible help for navigation, display insertion for personal assistance, context sensitive projections and computer games are typical AR application scenarios.
+
+The illusion in AR applications can be realized by equating the extrinsic and intrinsic camera properties of the real and the virtual camera in a virtual scene. Motion Tracking can then be used to update the virtual camera location and orientation continuously. But the illusion of model projection in these AR applications is often disrupted when real objects in the scene are located in front of virtual projections, but not occluding them. This can be seen in the following AR example, where the missing real world wall occlusion is destroying the illusion of the second picture.
+
+In my master’s thesis I focused on this augmented reality problem and compared three occlusion mechanisms which can solve the virtual object occlusion with Project Tango’s Depth Perception on mobile hardware and in real time.
+
+The idea of real world occlusion by determined depth information was first introduced by Wloka and Anderson (1995). They used the z-buffer algorithm and a depth estimation with stereo cameras to prevent a rendering of virtual object parts which are occluded by real object depth information. For this mechanism I indicated three different approaches to fill the z-buffer with depth information captured by the infrared laser sensor, which is integrated in the Project Tango device. It is filled by the direct sensor data projection, by a TSDF (Truncated Signed Distance Function) based reconstruction called Chisel by Klingensmith et al. (2015) or by a plane based reconstruction combined and implemented by myself. Project Tango does not produce a depth map which could be integrated into the z-buffer directly. Instead it generates a point cloud with depth information of the current camera perspective. The first naive approach mentioned above is the projection of the point cloud to an image plane which then can be used as z-buffer. The results can be seen in the following two examples:
+
+A problem of this approach is that the depth sensor is limited to a range of 50 cm to 4 m and has issues capturing the depth of complex or reflecting surfaces. Another limitation is the reception rate of only 5Hz. Each of these issues negatively affects the pointcloud projection due to noise and latency.
+
+Breen et al. (1996) are mentioning that the z-buffer based occlusion can also be realized by rendering a reconstruction based on primitives or spatial information as a depth map. Therefore the second approach for solving the mentioned problems is a plane based reconstruction which was developed for this thesis. It relies on the RANSAC plane estimation from point clouds by Yang and Förstner (2010) and on the plane augmentation and plane range determination method which is used in a SLAM (Simultaneous Localization and Mapping) method by Trevor et al. (2012). In this approach all incoming points of the depth sensor get collected into an octree with a limited depth for spatial clustering. Then, the RANSAC (RANdom SAmple Consensus) algorithm is applied to all clusters with new points. It either augments existing planes in this cluster or creates new planes with a limit of three planes per cluster. The reach of each plane is calculated and triangulated by the convex hull. A result of this first reconstruction approach can be seen in the following examples:
+
+The second reconstruction and third depth generating approach of this thesis is based on the real time reconstruction field of research. Unlike the offline reconstruction methods such as the Poisson reconstruction by Kazhdan et al. (2006) or the approach of Hoppe et al. (1992), the challenge for real time reconstruction methods is the migration of continuous depth information from different perspectives into a single augmentation model. Klingensmith et al. (2015) have presented a real time reconstruction method based on truncated signed distance functions (TSDF) focusing on the mobile applications called Chisel. In this TSDF approach the world is divided into voxels which contain the shortest distance to the next surface. Usually, this representation is rendered via GPU ray casting on desktop environments like in KinectFusion by Newcombe et al. (2011). In contrast, Klingensmith et al. (2015) are using the marching cubes method to get a polygon based representation of the surface. They also integrate a spatial hash data structure presented by Nießner et al. (2013) to minimize the footprint of Chisel for mobile devices and to be able to realize Chisel as a CPU implementation. This approach is also shown in the following pictures:
+
+All theses depth map generating approaches produce errors because of noise and limitations in cluster or voxel sizes. Also the plane based reconstruction is producing gaps between planes, which lead to missing depth information in the depth map. To solve this issue I tried to improve the generated depth map quality by taking the current RGB frame into account. The best results in terms of performance and quality were achieved by the guided filtering by He et al. (2010). This filter can interpolate the depth according to the edges and gradients of the current color image frame captured by the Project Tango device. Applied on a Chisel reconstruction depth map, it can improve the quality drastically:
+
+During this thesis, all mentioned approaches were implemented or ported to the Project Tango development kit as a proof of concept. The final implemented prototype is containing all depth generating approaches and also the guided filter which can be combined and manipulated dynamically for evaluation purposes. It is written in C++ using OpenGL and OpenCV for rendering and filtering. Each combination was tested on this static and reproducible setup next to another more complex test setup to ensure the same input information for each tested approach. In addition, some immeasurable dynamic tests have been performed to get an impression of how the different approaches can be used in production. The overall process of this prototype can be seen in the following figure:
+
+All six approaches mentioned (three depth map generating methods combined with the guided filter) can be used to achieve augmented reality occlusion by real objects. The naive point cloud projection has the already mentioned disadvantages of noise and the limited depth range because of sensor limitations. Noise can be successfully reduced by the guided filter which, however, is limited to 2 − 3Hz due to the OpenCV CPU image processing. Nevertheless, in combination the point cloud projection could be used for more detailed but size constrained AR scenes.
+
+The guided filter is also able to close the depth gaps of the developed plane based reconstruction. Although the plane based reconstruction was producing good results in the static tests, it is still rebuilding non-planar surfaces with rough plane approximations. This leads to greater depth map errors in a more dynamic augmented reality scene where the camera position is not constrained. The cluster size also cannot be reduced, otherwise the RANSAC plane detection would produce statistically more false positives because of less measurement results inside each cluster.
+
+Good results could be achieved by using the TSDF reconstruction Chisel as seen in in the previous example. Although the voxel resolution was quite rough in this prototype, this reconstruction system could still be implemented on the GPU, benefitting the parallel processing characteristics. By negotiating the reconstruction scale, voxel resolution and performance, the voxel resolution could be still reduced to the limits of the depth sensor.
+
+The guided filter was always able to improve the quality of the real world occlusion in the static scenes. However, some artifacts were observed during dynamic testing. When an edge in the color frame was just painted on a flat real world surface, which also produced a flat depth map, the filter was alternating the depth map with some artifacts caused by the underlying color structure. This should be investigated next to alternative depth map upsampling methods for mobile usage in future work, like the approach of Ferstl et al. (2013). Another future idea could be the integration of the guided filter into the OpenGL fragment shader. This would make the OpenCV binding superfluous and could save the conversion time. The filter would also benefit from the parallel GPU computing characteristics implemented in OpenGL and would run much faster than in this prototype realization.
+
+Prototype Demo
+
+Unity TSDF Demo
+
+Thesis / Slides / Code can be found on GitHub.
+
+Literature
+
+Breen, D. E., Whitaker, R. T., Rose, E., and Tuceryan, M. (1996). Interactive occlusion and automatic object placement for augmented reality. In Computer Graphics Forum, volume 15, pages 11–22. Wiley Online Library.
+
+Ferstl, D., Reinbacher, C., Ranftl, R., Ruether, M., and Bischof, H. (2013). Image guided depth upsampling using anisotropic total generalized variation. In The IEEE International Conference on Computer Vision (ICCV).
+
+He, K., Sun, J., and Tang, X. (2010). Guided image filtering. In Computer Vision–ECCV 2010, pages 1–14. Springer.
+
+Hoppe, H., DeRose, T., Duchamp, T., McDonald, J., and Stuetzle, W. (1992). Surface reconstruction from unorganized points, volume 26. ACM.
+
+Kazhdan, M., Bolitho, M., and Hoppe, H. (2006). Poisson surface reconstruction. In Proceedings of the fourth Eurographics symposium on Geometry processing, volume 7.
+
+Klingensmith, M., Dryanovski, I., Srinivasa, S., and Xiao, J. (2015). Chisel: Real time large scale 3d reconstruction onboard a mobile device. In Robotics Science and Systems 2015.
+
+Newcombe, R. A., Izadi, S., Hilliges, O., Molyneaux, D., Kim, D., Davison, A. J., Kohi, P., Shotton, J., Hodges, S., and Fitzgibbon, A. (2011). Kinectfusion: Real-time dense surface mapping and tracking. In Mixed and augmented reality (ISMAR), 2011 10th IEEE international symposium on, pages 127–136. IEEE.
+
+Nießner, M., Zollhöfer, M., Izadi, S., and Stamminger, M. (2013). Real-time 3d reconstruction at scale using voxel hashing. ACM Transactions on Graphics (TOG), 32(6):169.
+
+Trevor, A. J., Rogers III, J. G., Christensen, H., et al. (2012). Planar surface slam with 3d and 2d sensors. In Robotics and Automation (ICRA), 2012 IEEE International Conference on, pages 3041–3048. IEEE.
+
+Wloka, M. M. and Anderson, B. G. (1995). Resolving occlusion in augmented reality. In Proceedings of the 1995 symposium on Interactive 3D graphics, pages 5–12. ACM.
+
+Yang, M. Y. and Förstner, W. (2010). Plane detection in point cloud data. In Proceedings of the 2nd int conf on machine control guidance, Bonn, volume 1, pages 95–104.
+
+Get in touch
+
+Wanna learn more about our services in mobile development and smart devices? Visit our website, write an email to info@inovex.de or call us at +49 721 619 021-0
+
+Join us!
+
+Looking for a job where you can work with cutting edge technology on a daily basis? We’re currently hiring Android System Entwickler/ Embedded Linux Entwickler (m/w) in Karlsruhe, Pforzheim, Munich, Stuttgart, Cologne and Hamburg!

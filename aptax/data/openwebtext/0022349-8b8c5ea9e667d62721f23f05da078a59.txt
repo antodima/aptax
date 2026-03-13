@@ -1,0 +1,51 @@
+Bellman is a Rust-language library for building zk-SNARKs — small, cheap-to-verify zero-knowledge proofs of arbitrary computations. The goal of bellman is to make it easier for the general public to use and experiment with zk-SNARKs, and also as a step forward for improving the security and performance of Zcash’s next major release, Sapling.
+
+Bellman contains an implementation of the BLS12-381 elliptic curve construction that we described a couple weeks ago, which will appear in an upcoming paper by our scientists. This construction was designed specifically for efficiently building zk-SNARKs, while maintaining a high security margin.
+
+This week, I’ve added a primitive implementation of a new zk-SNARK proving system designed by Jens Groth. Secure in the generic group model, the new design produces smaller proofs that can be constructed faster and with less memory.
+
+Overview of zk-SNARKs
+
+If you’re interested in how zk-SNARKs work internally, Ariel Gabizon has been writing a series of blog posts about the underlying math that you should check out! For now, we can understand them on a surface level.
+
+zk-SNARKs are powerful proofs that, unlike other zero-knowledge proving schemes, are very small (a couple hundred bytes) and cheap to verify (several milliseconds), even if the statement being proven is large and complicated. Their zero-knowledge property allows the prover to hide details about the computation from the verifier in the process, and so they are useful for both privacy and performance.
+
+The only such schemes known to be efficient are preprocessing. In a sense, this means that a kind of “environment” must be constructed which allows the prover to evaluate the statement and produce a proof. There is no known way to construct such an environment without necessarily being temporarily in possession of information that would allow you to construct false proofs.
+
+Zcash, which uses zk-SNARKs for its shielded transactions, uses parameters that were constructed in a sophisticated multi-party computation ceremony that you can read about here. zk-SNARKs are also useful in the designated verifier model, where the verifier itself constructs the needed parameters, and so neither the prover nor the verifier are concerned about its integrity.
+
+In many zk-SNARK schemes, the statement being proven is reduced to what is called a rank-1 quadratic constraint system, or R1CS. In this system, the prover is given a system of arithmetic constraints over a set of variables (elements in a large prime field :math:`\mathbb{F}_r`), and asked to produce an assignment to the variables which satisfies the constraints.
+
+Overview of Bellman
+
+Bellman is currently in its infancy, but we can already use it to construct these kinds of proofs. Currently, only a very low level API is available, upon which we can construct DSLs and various abstractions for synthesizing circuits. If you want to experiment with it, grab the bellman crate from crates.io.
+
+All of our circuit abstractions are written generically over an Engine trait that handles the elliptic curve and finite field arithmetic. Central to circuit synthesis is the ConstraintSystem trait:
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 pub trait ConstraintSystem < E : Engine > { /// Allocate a private variable in the constraint system, setting it to /// the provided value. fn alloc ( & mut self , value : E :: Fr ) -> Variable ; /// Enforce that `A` * `B` = `C`. fn enforce ( & mut self , a : LinearCombination < E > , b : LinearCombination < E > , c : LinearCombination < E > ); }
+
+There are two important design decisions here:
+
+All variable allocation, assignment, and constraint enforcement is done over the same code path. This differs from the design of libsnark’s gadgetlib, for which it was too easy to potentially forget a constraint or notice bugs in existing abstractions because of the separation. This approach makes it easier to write abstractions and perform code review. All variable allocation and assignment are done simultaneously, and the existing assignments cannot be queried or modified. This encourages better gadget design, and prevents gadgets from accidentally using the assignments to “communicate” with each other. This also has a performance benefit: since all variables are already assigned, constraint enforcement during proving is directly synthesized into the underlying witnesses to avoid having to keep a constraint system in memory at all.
+
+As an example of a kind of gadget implementation, here’s how a boolean constrained variable could be implemented, along with XOR:
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 #[derive(Clone)] pub struct Bit { var : Variable , value : bool } impl Bit { pub fn alloc < E , CS > ( e : & E , cs : & mut CS , value : bool ) -> Bit where E : Engine , CS : ConstraintSystem < E > + ? Sized { // Allocate the variable let var = cs . alloc ( if value { E :: Fr :: one ( e ) } else { E :: Fr :: zero () } ); // Enforce (1 - var) * var = 0, which requires // var to be either 0 or 1 cs . enforce ( LinearCombination :: one ( e ) - var , LinearCombination :: zero ( e ) + var , LinearCombination :: zero ( e ) ); Bit { var : var , value : value } } pub fn xor < E , CS > ( & self , e : & E , cs : & mut CS , other : & Bit ) -> Bit where E : Engine , CS : ConstraintSystem < E > { let new_value = self . value ^ other . value ; let new_var = cs . alloc ( if new_value { E :: Fr :: one ( e ) } else { E :: Fr :: zero () } ); // 2a * b = a + b - c cs . enforce ( LinearCombination :: zero ( e ) + self . var + self . var , LinearCombination :: zero ( e ) + other . var , LinearCombination :: zero ( e ) + self . var + other . var - new_var ); Bit { var : new_var , value : new_value } } }
+
+Building a circuit is a matter of implementing the Circuit and Input traits:
+
+1 2 3 4 5 6 7 8 9 10 11 pub trait Circuit < E : Engine > { type InputMap : Input < E > ; fn synthesize < CS : ConstraintSystem < E >> ( self , engine : & E , cs : & mut CS ) -> Self :: InputMap ; } pub trait Input < E : Engine > { fn synthesize < CS : PublicConstraintSystem < E >> ( self , engine : & E , cs : & mut CS ); }
+
+This design splits up circuits into a Circuit implementation, which provers instantiate to construct proofs, and a Input implementation, which provers and verifiers use to perform input allocation and related circuit synthesis. This differs from libsnark, where these code paths are redundant, use different utility functions and require careful code review to ensure consistency.
+
+Once we actually do have an implementation of Circuit and Input , we can use the functions provided in the groth16 module: create a keypair (with some randomly selected trapdoors), construct a proof, and perform verifications:
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 // Create a proving key and verifying key let ( pk , vk ) = { let tau = E :: Fr :: random ( e , rng ); let alpha = E :: Fr :: random ( e , rng ); let beta = E :: Fr :: random ( e , rng ); let gamma = E :: Fr :: random ( e , rng ); let delta = E :: Fr :: random ( e , rng ); let c = DummyCircuit ; groth16 :: keypair ( e , c , & tau , & alpha , & beta , & gamma , & delta ) }; // Construct a proof let proof = { let r = E :: Fr :: random ( e , rng ); let s = E :: Fr :: random ( e , rng ); let c = DummyCircuit ; groth16 :: prove ( e , c , & r , & s , & pk ). unwrap () }; // Prepare the verifying key let pvk = groth16 :: prepare_verifying_key ( e , & vk ); // Verify proof assert ! ( groth16 :: verify ( e , | cs | { DummyInput }, & proof , & pvk ));
+
+Future work
+
+These lower level foundations are all that is available in Bellman right now. In the future we will be writing tools which allow us to build things like hash functions and stream ciphers.
+
+Bellman is still under development and shouldn’t be used in production software yet. In fact, its API deliberately does not expose anything that would allow you to actually use it! It currently serves as an excellent learning opportunity for constructing zk-SNARKs safely and efficiently, and the lessons we learn from building it will shape the future of Zcash.
+
+We’re also excited to be writing Bellman in Rust! If you’re a Rustacean and you’re interested in zk-SNARKs or Zcash, we invite you to check out our project, join our community chat or look at some of the various things we’ve written in Rust before, like our multi-party computation ceremony code.

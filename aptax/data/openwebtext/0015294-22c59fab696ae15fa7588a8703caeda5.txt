@@ -1,0 +1,9 @@
+The prognosis wasn't good last week when the Japanese Space Agency, JAXA, lost communication with its new Hitomi X-ray astronomy satellite. However, there was some hope a few days later when the space agency reestablished intermittent contact with the spacecraft orbiting some 580km above the Earth.
+
+Astronomers have since been observing the satellite, originally known as Astro-H, as it has orbited around the Earth. The photos with this story, captured by University of Alabama astronomer William Keel on Sunday evening, appear to show different pieces of the spacecraft catching the Sun as they slowly rotate. The brightest moments are probably caused by solar panels spinning into view. The pattern of brighter and then fainter light suggests at least two large pieces, with different periods, are tumbling out of control.
+
+One astronomer who has been tracking Hitomi closely, Jonathan McDowell at the Harvard-Smithsonian Center for Astrophysics, tweeted on Sunday evening, "Sadly, I now believe that the radio signals were the dying sighs of a fatally wounded Astro-H."
+
+Originally there was speculation that debris could have struck the satellite, but JAXA has since said there was an equipment failure of some sort. Possible causes of the spacecraft's breakup include a rupture of the helium tank that houses the X-ray instruments, a fuel leak, or a battery failure.
+
+Regardless of the cause, the loss of the spacecraft is a major blow to X-ray astronomers, who have few tools available to probe high-energy but very-short-wavelength X-rays that are absorbed by the Earth's atmosphere. X-rays are useful for studying black holes, neutron star mergers, highly magnetized star quakes, and other unusual high-energy astrophysics. But scientists were most intrigued by the new types of high energy cosmic interactions they might see with Hitomi and which they cannot predict.

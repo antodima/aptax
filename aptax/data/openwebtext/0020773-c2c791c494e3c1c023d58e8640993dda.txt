@@ -1,0 +1,71 @@
+Day in the Life at Rdio: Ryan Sims
+
+Meet Ryan Sims, Head of Design at Rdio.
+
+You may have heard his talks at Build, Webvisions, Future of Web Design, or most famously, his series of “Design Eye for the … Guy” SXSW talks that started in 2005. He’s been making beautiful work for the web for 11 or 12 years now, so if you follow web design, you’ve probably come across him. Lately he’s been working as the head of design for music streaming service Rdio, setting the tone for the visual language of the product and product marketing and making sure that there’s a cohesive vision throughout all devices and platforms.
+
+What you might not know about Ryan is that he grew up in Missouri as the son of a preacher, and that he feels that he honed one of his biggest strengths in those early days.
+
+“I grew up in a small town in the midwest. Life’s just different there — there’s a different pace, a different energy. People are kinder. They smile at you on the streets. My dad was a preacher so I grew up in a very conservative house. I was taught the 10 commandments, and to treat other people as you want to be treated. My dad’s role in our town was to tend to this community of people who were always bumping into one another and having disputes, etc. Because of that, problem solving and empathy were instilled in me very early on. On the product side, being able to think about what users want and how the product is perceived is a great use of that empathy.”
+
+Join us as we walk through a day in the life of Ryan Sims.
+
+9:00 AM
+
+What’s it like having the Rdio offices in the Mission?
+
+“Living and working in the same neighborhood is pretty fantastic. Walking to work is something very few people get to experience and it’s a wonderful way to start and end each work day.”
+
+What’s it like working in the Bay Area in this time of explosive tech growth?
+
+“There is a wonderful buzz in San Francisco — the magnetism this place has in attracting talent is pretty spectacular. It’s a special time and that certainly attracts its fair share of pros and cons, but I’ve never felt more connected to the industry. Conversations with your peers, mentors and heroes are typically just an email away. The environment to succeed is quite literally around every corner here. Any designer that lives here and has even the slightest desire to learn and grow will do well. You won’t find that in very many cities.”
+
+10:00 AM
+
+What’s the Mission startup scene like?
+
+“With only a handful of buildings that are taller than a few stories high, the Mission is composed primarily of residences and small businesses. And even though you won’t see larger companies like Twitter or Square here, the Mission is home to a lot of wonderful, smaller startups (DoubleDutch, DIY, Asana, WillCall, Get Satisfaction), many of whom we share a building with.”
+
+11:00 AM
+
+What’s the main challenge at Rdio currently?
+
+“At this stage of the company, we get to focus on engagement: giving users the ability to discover their next favorite album, and making that path to discovery enjoyable. Whether it’s personalization or lean-back listening, the features we design next are complex in lots of really interesting ways.”
+
+Can you tell us a little bit about the challenge of balancing visual design and UI as a web product designer. How do you stand out from other music products?
+
+“Music is magical. Discovering and consuming it should be a joy. One thing we’ve tried to do with Rdio is bring the music to the foreground by pushing everything else to the back. If Rdio is the canvas, the music is the paint. And we are trying to compose spectacular landscapes. Being a company that values design at every level and having such a design-driven product, we can take some pretty big design risks where others might be more cautious and conservative. This is one hell of an opportunity and it’s something every one of our designers has a good grasp of and takes very seriously.”
+
+What would be your absolute dream feature to create for Rdio?
+
+“Whatever feature answers the question, ‘What do I play next?’ in perpetuity. Is that a feed of content tailored specifically for your tastes? Is that a shared listening experience? We are cooking up some exciting things — the next couple years are going to yield some big breakthroughs in the way that we find, discover and share music in a truly mobile, cord-cut world.”
+
+12:00 PM
+
+2:00 PM
+
+What makes an ideal Rdio designer?
+
+“I tend to gravitate towards people who are humble, hardworking, and chill.” That goes for design style as well as personality. “I’m not really looking for trendy stuff — I like a taste that’s a little bit more elegant and classic. A good sense of space, layout, proportion, and really subtle uses of color can have a big impact on a layout or on a design.”
+
+Here’s a little bit about four members of the design team.
+
+Any words of advice for aspiring designers?
+
+“Get your hands on as many products as possible. I’m a firm believer in using things, and valuing the time spent on using them as a learning opportunity. Every time I go through a product — whether it’s the new version of an app I use daily or one I’ve never used before — I just love getting my hands on it and figuring out why it works well, what it does differently. Make it a goal to seek out and appreciate good design, because the more you immerse yourself in it, the more it becomes part of you.”
+
+4:00 PM
+
+How is the work/life balance at Rdio?
+
+“Everyone here loves the product and works really hard on it until it’s time to go home, and then they go home. Finding that right balance between work and having a life outside of Rdio is of great importance to me.”
+
+6:00 PM
+
+What are you learning from this job?
+
+“Rdio is the largest startup I’ve ever worked at. It’s also the first time I’ve been in charge of managing a team of designers. So, I’m learning a lot about what it takes to be a good leader and mentor, how to build a team that complements each other as well as the product, and various other administrative challenges that are all brand new to me. It’s a much different role than being an individual contributor and I’m lucky to have such a wonderful team around me to grow alongside of.”
+
+If you want to be a designer at a startup that truly values design like Rdio, consider applying to Bridge! Keep in touch here to be invited to apply early to Bridge 5 before applications open September 15.
+
+Special thanks to Laura Brunow Miner for editorial and Helena Price for photography.

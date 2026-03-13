@@ -1,0 +1,91 @@
+The following post originally appeared here, authored by the Oryx Blog team. It has been expanded and modified with their permission for The Hoplite by Michael Smallwood and Yuri Lyamin.
+
+In a series of photos coming out of Tripoli, Libya, militants are shown using sophisticated guided air-to-surface missiles as unguided surface-to-surface weapons. The missile shown, a Kh-29T, is believed to have been seized from a weapon depot close to Ghardabiya airbase, near Sirte.
+
+The Soviet Kh-29 series of missiles (NATO reporting name AS-14 ‘Kedge’) began development in the 1970s, eventually entering service in 1980. Intended for use on larger targets that lighter missiles like the Kh-23 and Kh-25 were inadequate for, Kh-29 series missiles soon became standard armaments on almost all Soviet and Russian strike planes and multirole fighters. This includes the Su-17M4, MiG-27K, Su-24M, Su-25, Mig-29M, and others.
+
+Featuring a 320 kg high explosive (HE) warhead, Kh-29 missiles are fitted with an impact target sensor, allowing penetration of the exterior of the target prior to detonation. Separated into 5 main sections, the front “seeker” component (see section marked “I” in technical drawing below) has two main guidance variants, with the Kh-29L using semi-active laser guidance, and the Kh-29T and Kh-29TE using passive TV guidance. The Kh-29T has an optimal target detection range of 4 – 5 km and, with ideal weather conditions, is highly accurate, with a 2.2 m circular error probable (CEP).
+
+In Libyan service, the Kh-29T is believed to have been solely used on the Su-24 aircraft delivered from the Soviet Union in the late 1980s. Unable to maintain their five Su-24MKs and one Su-24MR internally, due to an imposed arms embargo, Libya turned to both Syria and Iran for assistance in keeping the fleet operational. Syria was subsequently repaid with one Su-24MK fighter-bomber and Libya’s sole Su-24MR reconnaissance aircraft. After losing their four remaining Su-24MKs – one during operations early in the Libyan conflict, and 3 to NATO air strikes at Ghardabiya airbase – it appears there are no remaining aircraft in the Libyan inventory capable of carrying some of the extant air-to-surface weaponry, including the Kh-29T.
+
+It now seems efforts have been undertaken to press some of these munitions into service again, albeit in an improvised ground-to-ground role. The Kh-29T shown in the pictures above appears to have modified fins, presumably intended to provide a more stable flight path in this new unguided capacity. The large size of the warhead is assumed to be the reason these missiles were chosen.
+
+Technical Characteristics:
+
+Kh-29T
+
+Missile weight: 680 kg
+
+Length: 3900 mm
+
+Diameter: 400 mm
+
+Wingspan: 1100 mm
+
+Minimum range*: 3 km
+
+Maximum range: 8 – 12 km
+
+Engine: fixed thrust solid, fuel rocket
+
+Fuze type: impact
+
+Guidance system: passive TV
+
+Warhead: high-explosive penetrating
+
+Warhead weight: 320 kg
+
+Kh-29TE
+
+Missile weight: 690 kg
+
+Length: 3900 mm
+
+Diameter: 400 mm
+
+Wingspan: 1100 mm
+
+Minimum range*: 3 km
+
+Maximum range: 20 – 30 km
+
+Engine: fixed thrust, solid fuel rocket
+
+Fuze type: impact
+
+Guidance system: passive TV
+
+Warhead: high-explosive penetrating
+
+Warhead weight: 320 kg
+
+Kh-29L
+
+Missile weight: 660 kg
+
+Length: 3900 mm
+
+Diameter: 400 mm
+
+Wingspan: 1100 mm
+
+Minimum range*: 3 km
+
+Maximum range: 8 – 10 km
+
+Height of launch: 0.2 – 5 km
+
+Engine: fixed thrust, solid fuel rocket
+
+Fuze type: impact
+
+Guidance system: passive TV
+
+Warhead: high-explosive penetrating
+
+Warhead weight: 320 kg
+
+*Minimum range for all systems is given with regards to guidance systems efficacy. These minimums would not apply in the case above, and do not correlate to minimum arming range of the system.
+
+Special thanks to the Oryx Blog team, Yuri Lyamin, and Khaled Ben Alewa for their assistance. Technical characteristics taken from here. Technical drawing from here. Images from here and here.

@@ -1,0 +1,185 @@
+MAKE SURE TO READ THE UPDATES IN APPENDICIES B AND C
+
+Hi everyone,
+
+We are about to make some significant changes to how long-distance travel in various forms works in EVE, with the aim of significantly increasing minimum travel times between two arbitrary distant points, most particularly in regards to jump drive and portal based movement. The overarching reason for this is that the current ease of movement has shrunk the practical dimensions of New Eden considerably, to the detriment of the game experience.
+
+Why this?/Why now?
+
+Nullsec is stagnant and needs a change. This is the first of many steps in our plan.
+
+Big fights are cool, but they’re crowding out more accessible and more frequent smaller ones.
+
+These changes have positive implications for people not involved in sovereignty warfare, for example making use of capitals in lowsec less risky.
+
+We expect the impact of these changes to be emergent, and as a consequence are unpredictable and will take a while to develop on TQ. This plays into our longer-term plans, as you’ll see in a second!
+
+How do these changes fit into the Nullsec plan?
+
+As we’ve previously discussed at Fanfest, in our recent forum post, and in the premiere episode of The o7 Show, a group of developers here at CCP has been working on Nullsec and associated game systems with the goal of releasing a series of changes to shake up the status quo and improve the overall state of Nullsec. We are planning to deploy changes over several phases, which will each provide specific improvements individually while also fitting into one greater whole.
+
+Phase One contains the long-distance travel changes, as well as some other associated changes planned in Phoebe in November. These changes are not intended to be a silver bullet to fix all of Nullsec’s issues in one fell blow. Instead, they represent a significant improvement to specific areas of concern for Nullsec (and Lowsec) while also setting the stage for the later changes.
+
+Phase Two is focused on medium-term changes to the ways that organizations capture and hold Nullsec space and infrastructure. We are working with the CSM as we firm up our plans for this phase and as we develop internal prototypes. It is during this phase that we expect to make greater progress towards smaller and more diverse Nullsec holdings. It is too early to go into great detail about what these changes will contain, but currently most of our conceptual prototyping has loosely fallen into categories that could be described as “occupancy-based” systems and more “freeform” systems that decentralize sov to focus more on control of the individual pieces of infrastructure. As we continue this investigation we will be working closely with the CSM and following all appropriate player feedback.
+
+Phase Three is the stage that CCP Seagull discussed in the EVE Keynote at Fanfest this year. This stage is intended to build upon the changes that we are planning for starbases/structures and corps/alliances in 2015, changes that will open up new possibilities for more dynamic warfare and more granular control of territory. This phase is also intended to lead quite deliberately into the future through our vision for player-built stargates.
+
+By splitting the task of improving Nullsec into manageable chunks, we are ensuring that we get you the best changes as quickly as possible rather than holding back needed updates. We’re happy to be getting the first significant chunk of these changes out to you all later this year.
+
+What is changing?
+
+We are going to allow capital ships to use gates in lowsec/nullsec, and we are aiming to make gate-to-gate travel take less time than jump travel over distances of more than ~20 LY. We've run simulations for capital ships travelling between arbitrary pairs of systems, and settled on the target movement speed of no less than 3 minutes per lightyear for travel over 20 LY. This should allow us to bring about the main change we want to see – less sustained use of jump travel – while still preserving its value for short bursts of movement.
+
+How is this going to be achieved?
+
+The primary change is the addition of a new mechanic, called "jump fatigue".
+
+Jump fatigue is tracked for each character, persisting between play sessions and over downtimes as appropriate.
+
+Every time you use any jump drive, jump bridge or jump portal (hereafter all treated as "a jump"; note that this does NOT include stargate travel!), you will accumulate jump fatigue. If your fatigue is below 1 before a jump, your fatigue will be 1 + (light years travelled) after the jump. For subsequent jumps, the fatigue is multiplied after each jump by 1 + (light years travelled). This stays on the character as mentioned earlier, and decays at a rate of 0.1 per minute.
+
+After a jump is complete but before your fatigue is increased, you gain a jump cooldown timer. The length of this timer is a number of minutes equal to your jump fatigue (before being increased by that jump!), and you are unable to make another jump of any kind until this timer expires. Note importantly that, because fatigue decays at a slower rate than a cooldown timer, you will retain fatigue for a length of time after your cooldown timer expires. Additionally, there is a minimum jump cooldown of 1 + (light years travelled) minutes. (See Appendix A for examples.)
+
+The status of both your fatigue and your cooldown timer will be displayed in the timer bar in the upper left corner of the screen:
+
+In addition:
+
+Almost all jump-capable ships will have their range reduced to 5 LY after skills; this is both necessary to allow us to not penalize short-distance travel in a cleaner way, and also as a goal in and of itself to constrain the distance covered in single hops. . (Note that jump portal range on a ship is always the same as its own jump drive range.)
+
+As above, capital ships will be able to use stargates, but will for the time being they will still be barred from entering Highsec (that is a larger discussion that we would like to revisit in future).
+
+What else?
+
+You will only be able to move your medical clone to the station you are currently docked at. This prevents obvious movement workarounds with suicide-cloning. (If your clone contract is revoked by the station owner, we are keeping the current behavior that it is moved to your home system as defined in the character sheet.)
+
+Hitpoints and resistances on various sovereignty-related structures will be revisited, to balance out the reduced ability to use Supercarriers against them. Stay tuned for a follow-up blog on this.
+
+We will be releasing a collection of other smaller changes in Phoebe that will be of interest to many of the same people who are affected by these travel changes. These include a rebalance of starbase weapons, a rebalance of stealth bombers and heavy interdictors, enabling of lowsec doomsdays, and changes to interdictor bubble mechanics. More information to come.
+
+What's not changing?
+
+Starbase jump bridges already have a 5 LY range, so they don't need range adjustments.
+
+We are hoping to leave skills as they are for the initial release; we will likely readjust them in the near future, but we want to see how behavior settles down first.
+
+Jump clones are being left alone for the time being. We are likely to want to revisit them once the initial changes shake out, the use of ship caches becomes clear and so on, but they serve a diverse enough set of purposes (null-null movement, null-highsec movement, implant swapping etc.) that we don’t want to make major changes too quickly.
+
+What's being special-cased?
+
+Jump Freighters and Rorquals will gain a role bonus: 90% reduction to effective range jumped for the purposes of all these calculations, but will otherwise get all the described changes. This means that, for all the math we’re doing on this feature, whenever we use the range jumped as a variable we first multiply it by 0.1 . We will still likely want to revisit the logistical power of these ships in future, but for now we want to bring them into the new system without nerfing them too hard.
+
+Black Ops ships will have their range unchanged, but will otherwise get all the described changes. This also keeps the range of their jump portals unchanged. We don’t feel that Black Ops range needs adjustment right now.
+
+What are the anticipated consequences?
+
+In the short term, we would anticipate a reduction in the degree to which the average non-trivial capital fight escalates, and the number of parties involved. This seems likely to increase the frequency of capitals being deployed in small-scale engagements, in both lowsec and nullsec.
+
+Over the medium term, we see the potential for more substantial changes in the nullsec status quo as the various competing parties work to adjust their internal objectives to the new situation; it seems plausible that the general reduction in travel capabilities will lead to more localism, but we don't want to make any firm predictions in this area. We're confident that these changes improve the overall system of lowsec and nullsec gameplay and take them in better directions, but any set of changes that would allow us to accurately predict their consequences would by their nature be too simple to be interesting for very long.
+
+What's next?
+
+We will be actively participating in the comments thread of this blog and listening elsewhere around the internet.
+
+These changes will be appearing on the Singularity test server in the next couple of weeks.
+
+We anticipate shipping them in Phoebe, which comes out in November.
+
+We are expecting to make follow-up adjustments in Rhea, in December.
+
+The medium-term shake-out of these changes will be very impactful on sovereignty-system changes we are anticipating making next year, so we are expecting to revisit all this again as the work on those changes progresses.
+
+Greyscale, on behalf of the Nullsec Working Group (Scarpia, Fozzie, Ytterbium, Rise, Bettik, Delegate Zero, Masterplan and Nullarbor)
+
+**Update:** As mentioned above, we're taking feedback and responding in the thread, so look for those blue bars. Greyscale has also created a short FAQ that will be updated as needed as the first reply to the thread.
+
+Appendix A – Examples
+
+Little Bobby Tables is sitting in his Archon in UJY-HE in at the top of Deklein, just after the Oceanus release. He wants to travel to Atioth, at the bottom of Geminate, which is around 50 LY as the space-crow flies. He consults a popular jump planning service, which gives him a route of four jumps and 53 LY. He’s travel fit and has max skills, so his jump range is 14.625 LY and he’s expecting to be limited primarily by the session change timer. The journey takes him around two minutes.
+
+A month or so later, he’s back in UJY-HE, and Phoebe has just shipped. His Archon’s jump range is now 5 LY. He consults his jump planner, and finds that his route is now 12 jumps and 54 LY. He hasn’t jumped anywhere since the release, so he has no jump fatigue.
+
+His first jump, of 4.85 LY, takes him to U-TJ7Y. Because he has no fatigue before the jump, he gains a minimum-length jump cooldown timer: 1 minute, plus 4.85 minutes for the distance travelled, for a total of 5.85 minutes, or 5 minutes 51 seconds. He also gains a jump fatigue value of 5.85.
+
+He waits for just under six minutes. In this time his jump fatigue decays down to 5.27 . He then makes his next jump – 3.57 LY to LEK-N5 . He gets a 5 minute 16 second jump cooldown timer, because his fatigue was 5.27 when he jumped, and his minimum timer would be 4 minutes 34 seconds based on range travelled. He then gets a fatigue increase after the jump. Because he travelled 3.57 LY, his fatigue is multiplied by 4.57, taking it up to 24.06.
+
+He waits out his timer, which also reduces his fatigue to 23.53 . After his cooldown timer expires, he makes his third jump, to RO0-AF, a distance of 4.19 LY. He gains a jump cooldown timer of 23 minutes 32 seconds, and his fatigue is multiplied by 5.19, up to 122.14.
+
+After waiting for 23.5 minutes at the convenient local station, his fatigue is down to 119.79 . He jumps again, to 2R-CRW – 4.9 LY. At this point his cooldown timer is 2 hours 2 minutes 8 seconds, and his fatigue is 706.74 . At this point his total distance travelled is 17.51 LY, leaving him with 37.04 LY to go. He looks at his map, and finds a 40-route jump through nullsec to get to the same destination, and figuring two minutes per system, his warp travel time for the whole journey is a bit over half the cooldown for his next jump. He decides to fly there directly rather than trying to jump any further.
+
+The next week, he finds he needs to take his Ark from HED-GP to 373Z-7, at the bottom of Stain. It’s been long enough that his fatigue has entirely decayed, so he’s starting fresh again. He plots the route, and sets off.
+
+First jump takes him to 5-N2EY, 4.73 LY. Because his jump freighter counts distances as being 10% of their actual distance, he incurs a minimum timer of 1.47 minutes, or 88 seconds. His fatigue similarly becomes 1.47, dropping to 1.32 while he waits out the delay.
+
+He jumps again when his timer expires, to 4NBN-9, a 4.88 LY jump. His timer after this would be 79 seconds, but because this is a longer jump his minimum is 89 seconds (1.488*60). His fatigue is multiplied by 1.488, taking it to 1.97, and then dropping back to 1.82 as he waits out the timer.
+
+This continues until he reaches 373Z-7, with a total journey time of around 7.5 minutes, and a jump distance of 22.3 LY.
+
+Appendix B - Frequently Asked Questions
+
+Can supercapital ships use gates after this change?
+
+Yes.
+
+Does this make it too difficult for new pilots to get out into 0.0?
+
+Yes, it probably does. Following further discussion after publishing this dev blog, we have come up with the following additional feature:
+
+For players less than thirty days old, once per player corporation joined, or
+
+For all players greater than thirty days old, once per year:
+
+You may push a button in your corp interface (while a member of a player corp and docked) that:
+
+Moves your medical clone to a station designated by your corporation, and
+
+Then moves you to the (new) station containing your medical clone
+
+The exact method of corporations designating the target station is still being ironed out, but it will involve at the very least being able to designate a default station for all corp members and will likely be allowed for any station with a corp office, regardless of system sec status. This seems to us like it solves the "I want to recruit people to Nullsec" concern, and also gives non-Nullsec recruiters an easier way to get genuinely new players to the right location quickly and easily.
+
+Is the balance for Black Ops final?
+
+No. Please give feedback!
+
+Very large fatigue values will take a loooong time to decay, is this too much?
+
+Possibly yes, we'll have a look at this.
+
+Does a titan providing a bridge gain fatigue when people jump through it?
+
+No. Only if the titan itself jumps.
+
+Is the ability to push your fatigue up to really high numbers a good idea?
+
+Probably not, no. We're looking at just capping fatigue at 1 month.
+
+Appendix C - Updates
+
+Conclusions we have reached through this exercise:
+
+The ease of nullsec logistics permitted by jump freighters, and to a lesser extent jump bridge networks, is not aligned with where we would like nullsec industry to be.
+
+It is however, pretty well aligned with where nullsec industry is right now. As we improve the status quo for industry in nullsec, we will want to reevaluate this balance along with the impact potential changes would have on logistical work for other areas of the game.
+
+We're pretty happy with the impact of the proposed changes on the movement of non-covert combat ships, as it relates to both jump drives and jump bridges for all ranges.
+
+We're not overly concerned about the battle rorqual; if it starts being used in a widespread fashion we will nerf it, but we're not expecting this to happen.
+
+We're also not overly concerned yet about High Grade Ascendency equipped capital fleets, since such capital movement would be very vulnerable to disruption and because it relies on very rare items. If this becomes a widespread usage pattern we will likely take action, and we'll be keeping a close eye on everything surrounding capital movement after Phoebe.
+
+Black ops are working in a generally OK manner on TQ right now, and we want to minimize harm to their use with these changes.
+
+We don't like repeating decimals.
+
+Therefore, changes we are making to the previously-announced plan:
+
+Jump freighter max range will be bumped up to 10LY, and they will keep the 90% fatigue-distance reduction. This represents a slight range reduction compared to TQ so some cynos will need to be repositioned, but otherwise leaves them largely alone. Note that, because ranges multiply together for fatigue purposes, one 10LY jump is substantially less fatiguing (multiply by 11) than two 5LY jumps (multiply by 36). Rorquals will stay at 5LY/90%.
+
+All ships designated as having a "hauling" role in ISIS (i.e. the following ship groups: Industrial, Blockade Runner, Deep Space Transport, Industrial Command Ship, Freighter) will similarly get a 90% reduction to distance counted for the purpose of fatigue generation. Obviously they can't jump themselves, but this does apply to the use of bridges or portals.
+
+We are adding some additional code to allow us to put a bonus on jump portals that reduces fatigue generation for all ships jumping through that portal. This will be applied to Covert Jump Portals, with a value of around 50% (subject to further tuning). This means that all ships using a black ops portal will generate less fatigue.
+
+We're going to bump the max range of black ops ships up slightly to 8LY, and likewise give them a ~50% fatigue bonus.
+
+Finally, we're slightly nerfing the skill Jump Drive Calibration from 25%/level to 20%/level, and tuning base ranges accordingly. This allows us to give most capital ships a base range of 2.5LY, rather than 2.2r LY, and still hit our max range targets. More work on these skills will probably be done in future, this is just minimum changes necessary to get these changes on TQ so we can see how they play out in practice and establish how comparatively valuable their different bonuses are.
+
+For more details on these updates, please see this forum thread.

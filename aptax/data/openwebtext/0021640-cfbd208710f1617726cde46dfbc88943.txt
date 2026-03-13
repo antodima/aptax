@@ -1,0 +1,47 @@
+EVANSTON, Ill. --- "Getting under your skin" takes on a brave new meaning thanks to Northwestern University research that could transform gene regulation.
+
+A team led by a physician-scientist and a chemist -- from the fields of dermatology and nanotechnology -- is the first to demonstrate the use of commercial moisturizers to deliver gene regulation technology that has great potential for life-saving therapies for skin cancers.
+
+The topical delivery of gene regulation technology to cells deep in the skin is extremely difficult because of the formidable defenses skin provides for the body. The Northwestern approach takes advantage of drugs consisting of novel spherical arrangements of nucleic acids. These structures, each about 1,000 times smaller than the diameter of a human hair, have the unique ability to recruit and bind to natural proteins that allow them to traverse the skin and enter cells.
+
+Applied directly to the skin, the drug penetrates all of the skin's layers and can selectively target disease-causing genes while sparing normal genes. Once in cells, the drug simply flips the switch of the troublesome genes to "off."
+
+A detailed study of a method that could dramatically redefine the field of gene regulation will be published online during the week of July 2 by the Proceedings of the National Academy of Sciences (PNAS).
+
+Early targets of the novel treatment are melanoma and squamous cell carcinoma (two of the most common types of skin cancer), the common inflammatory skin disorder psoriasis, diabetic wound healing and a rare genetic skin disorder that has no effective treatment (epidermolytic ichthyosis). Other targets could even include wrinkles that come with aging skin.
+
+"The technology developed by my collaborator Chad Mirkin and his lab is incredibly exciting because it can break through the skin barrier," said co-senior author Amy S. Paller, M.D., the Walter J. Hamlin Professor, chair of dermatology and professor of pediatrics at Northwestern University Feinberg School of Medicine. She also is director of Northwestern's Skin Disease Research Center.
+
+"This allows us to treat a skin problem precisely where it is manifesting -- on the skin," she said. "We can target our therapy to the drivers of disease, at a level so minute that it can distinguish mutant genes from normal genes. Risks are minimized, and side effects have not been seen to date in our human skin and mouse models."
+
+A co-senior author of the paper, Mirkin is the George B. Rathmann Professor of Chemistry in the Weinberg College of Arts and Sciences and professor of medicine, chemical and biological engineering, biomedical engineering and materials science and engineering. He also is the director of Northwestern's International Institute for Nanotechnology.
+
+Mirkin first developed the nanostructure platform used in this study in 1996 at Northwestern, and the FDA-cleared technology now is the basis of powerful commercialized medical diagnostic tools. This, however, is the first realization that the nanostructures naturally enter skin and that they can deliver a large payload of therapeutics.
+
+"The field of medicine needs new constructs and strategies for treating disease," Mirkin said. "Many of the ways we treat disease are based on old methods and materials. Nanotechnology offers the ability to very rapidly create new structures with properties that are very different from conventional forms of matter. This collaborative study is a case in point."
+
+The key is the nanostructure's spherical shape and nucleic acid density. Normal (linear) nucleic acids cannot get into cells, but these spherical nucleic acids can. Small interfering RNA (siRNA) surrounds a gold nanoparticle like a shell; the nucleic acids are highly oriented, densely packed and form a tiny sphere. The RNA's sequence is programmed to target the disease-causing gene.
+
+"We now can go after a whole new set of diseases," Mirkin said. "Thanks to the Human Genome Project and all of the genomics research over the last two decades, we have an enormous number of known targets. And we can use the same tool for each, the spherical nucleic acid. We simply change the sequence to match the target gene. That's the power of gene regulation technology."
+
+The nanostructures were developed in Mirkin's lab on the Evanston campus and then combined with a commercial moisturizer. Next, down in Paller's Chicago lab, the researchers applied the therapeutic ointment to the skin of mice and to human epidermis. The nanostructures were designed to target epidermal growth factor receptor (EGFR), a biomarker associated with a number of cancers.
+
+In both cases, the drug broke through the epidermal layer and penetrated the skin very deeply, with cells taking up 100 percent of the nanostructures. They selectively knocked down the EGFR gene, decreasing the production of the problem proteins.
+
+After a month of continued application of the ointment, there was no evidence of side effects, inappropriate triggering of the immune system or accumulation of the particles in organs. The treatment is skin specific and doesn't interfere with other cells.
+
+Interdisciplinary research is a hallmark of Northwestern. Paller and Mirkin said their work highlights the power of physician-scientists and scientists and engineers from other fields coming together to address a difficult medical problem.
+
+"This all happened because of our world-class presence in both cancer nanotechnology and skin disease research," Paller said. "In putting together the Skin Disease Research Center proposal, I reached out to Chad to see if his nanostructures might be applied to skin disease. We initially worked together through a pilot project of the center, and now the rest is history."
+
+Northwestern has one of nine Centers of Cancer Nanotechnology Excellence funded by the National Cancer Institute and one of six Skin Disease Research Centers funded by the National Institute of Arthritis and Musculoskeletal and Skin Diseases.
+
+"This study is a landmark achievement in the area of gene regulation -- I believe our work has a chance to positively and irreversibly change the field," Mirkin said. "The skin is a very tough barrier to go through, which is why this effective gene knockdown has not been accomplished before. The power and elegance of this system are in its simplicity."
+
+###
+
+Mirkin and Paller are both members of the Robert H. Lurie Comprehensive Cancer Center of Northwestern University.
+
+The National Institute of Arthritis and Musculoskeletal and Skin Diseases, the National Cancer Institute and the Army Research Office supported the research. The Northwestern Skin Disease Research Center provided core resources and a pilot grant.
+
+The title of the paper is "Topical Delivery of siRNA-based Spherical Nucleic Acid Nanoparticle Conjugates for Gene Regulation." In addition to Mirkin and Paller, other authors of the paper are Dan Zheng, David A. Giljohann, David L. Chen, Matthew D. Massich, Xiao-Qi Wang and Hristo Iordanov, all from Northwestern.

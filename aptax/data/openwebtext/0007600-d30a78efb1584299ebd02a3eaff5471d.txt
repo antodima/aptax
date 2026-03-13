@@ -1,0 +1,21 @@
+Lava Lamp Centrifuge
+
+Would a Lava Lamp work in a high-gravity environment such as Jupiter? Would the wax still rise to the surface? Would the blobs be smaller and faster? With broad disagreement on the answers, I built a large centrifuge to find out.
+
+[Music credit: Riverdance by Bill Whelan.]
+
+The centrifuge is made of Meccano, spans a diameter of 3 meters, weighs about 50 kilograms and rotates at 42 RPM. At one end is the payload container which holds the lava lamp and data recorders. At the other end is a set of counterweights.
+
+The payload container pivots freely so that it is always facing 'down'. In the middle is a 20 oz Motion Lamp from Google. Next to it is a Nexus One Android phone which runs G-Force to monitor the current gravity conditions (in the photo below the Android is not present since it was being used to take the photo). Recording both the lamp and the gravity monitor is a digital camera set to record a movie.
+
+A set of counterweights are at the other end of the arm. These are very carefully configured to eliminate any lateral forces on the main bearing. The heaviest counterweight is a big steel cylinder borrowed from the equatorial mount of my telescope. Enclosed within the girders are two rectangular juice bottles filled with glass marbles and topped off with water. A set of steel bars lashed to the top of the girders offer the ability to fine-tune the total weight.
+
+The turntable is a large 25 cm thrust bearing using eight roller wheels. Suspended in the middle of the turntable is a 1/4" mono audio connector. This connector can rotate 360° continuously and is wired to 120 volts AC thus allowing uninterrupted power to flow to the lava lamp at the end of the arm. The entire centrifuge is driven by one 12 volt motor in the base. The motor draws somewhere between 15 amps and 33 amps (far beyond the upper range of my multimeter).
+
+The centrifuge is a genuinely terrifying device. The lights dim when it is switched on. A strong wind is produced as the centrifuge induces a cyclone in the room. The smell of boiling insulation emanates from the overloaded 25 amp cables. If not perfectly adjusted and lubricated, it will shred the teeth off solid brass gears in under a second. Runs were conducted from the relative safety of the next room while peeking through a crack in the door.
+
+Despite the technical hurdles, the centrifuge performed its job well. It turns out that the accelerometers in the Nexus One are badly mis-calibrated; although 0.0 G and 1.0 G are both properly reported, what it reports as 2.0 G is actually 3.0 G (Googlers can view the resulting bug: #2485924). As one can see in the video above, the lava lamp continues to operate well at three times the force of gravity. That's slightly higher than Jupiter's gravity (2.3 G) and it is equivalent to launching in the Space Shuttle. Below are some raw source videos of the operation:
+
+3g-floor.avi (159 MB) External view of centrifuge. 3g-payload.avi (43 MB) Watching the lava lamp and gravity monitor (first at 3 G then at 1 G as a control). 3g-side.3gp (16 MB) Side-mounted camera on payload container (a different run from the previous two videos). nasa.jpg (200 KB) On exhibit at NASA Ames. maker.avi (46 MB) Running at 2 G at Maker Faire.
+
+Last modified: 28 July 2014

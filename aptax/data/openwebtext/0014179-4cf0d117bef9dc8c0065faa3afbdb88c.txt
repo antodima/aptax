@@ -1,0 +1,23 @@
+The orientation of a diagram on the page of a textbook may seem inconsequential, but it can have a significant impact on a reader's ability to comprehend the information as presented, according to a team of researchers at UC Santa Barbara, Vanderbilt University, and Western Carolina University. Their findings appear in a recent issue of the journal Bioscience.
+
+Focusing on variously formatted cladograms –– also known as phylogenetic trees –– the researchers found that two diagrams may contain the same information, but they aren't necessarily equivalent in terms of how the information is interpreted. "In Western culture, we read from left to right, so we naturally come to a diagram with that behavior," said Andrew T. Stull, a researcher in the Department of Psychological & Brain Sciences at UCSB and an author of the paper. "The important point in this research, however, is that how efficiently a student comprehends the information presented in the phylogenetic tree depends on how the tree is angled."
+
+As it turns out, when a diagonal tree extends from tips on the left to the root on the right, and the trunk angles downward to the right-hand side, the information is more easily accessible. "The way we interrogate the tree is first culturally based –– left to right –– and the strong diagonal line tends to make us flow one way or another," said Stull. "But that combined effect influences the accuracy, or how we're able to use the tree effectively."
+
+However, most textbooks depict the diagonal cladogram in the upward orientation, Stull noted. "Many artists draw the diagram in an inefficient and potentially confusing way," he said. "Artists have a tendency to draw it at the upward angle, not realizing they'd communicate the information better if they angled it downward."
+
+The researchers used a phylogenetic tree for their research because it is very important for a process called tree thinking. "It's the idea that from an evolutionary perspective, there is a distinctive relationship between taxa," said Stull. "It's not just that things line up together on a tree, but you can infer certain biological, physiological, and pharmaceutical commonalities that might be relevant. There are a lot of things you can do in knowing how all of life is organized, and each organism's relation to everything else."
+
+Drawing them in tree form, Stull continued, should help teach students the relationships between organisms, and to anticipate the valuable information those relationships can provide.
+
+The researchers used eye-tracking technology to carry out their research. They showed test subjects one tree, and then another, and asked them to determine whether or not they were the same. "In order to answer the question, they had to interpret the two images," Stull explained. "Then we took all the eye positions. What we found is that when people studied the tree with the upward diagonal trunk, they were less accurate than when the tree followed the downward diagonal."
+
+Why the directional angle makes a difference may have to do with how organisms represented by the individual branches relate to their closest common ancestor and to those with a more distant common ancestor. "With upward angled trunks, it may be because they [students] are thinking of it from the root up," Stull said. "But it's more efficient to think of it from the branches down. So, from an artistic perspective, it makes more sense to build it that way. With that orientation, the user doesn't have to deconstruct it in order to access the information."
+
+Stull's co-authors include Laura R. Novick, associate professor of psychology and human development at Vanderbilt University; and Kefyn M. Catley, a professor of evolutionary biology at Western Carolina University.
+
+[RETURN TO TOP]
+
+† Top image: Although images in textbooks generally represent phylogenetic trees with trunks angling up and to the right, research shows that students have better comprehension when the trunks angle down to the right.
+
+BioScience

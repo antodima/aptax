@@ -1,0 +1,7 @@
+A Robot of Your Own
+
+At this year’s Consumer Electronics Show, Mayfield Robotics unveiled what could possibly be the first truly domestic robot. The Bosch-owned company integrated full functionality with a pleasing, approachable design to establish the robot, named Kuri, as a friendly presence in the home.
+
+Kuri is designed to fit right into smart homes. According to Kuri’s Blog, the bot has a 1080p camera behind one of its eyes, an array of four microphones, dual speakers, wifi and Bluetooth connectivity, and spatial sensors for navigation. It can be programmed to do various tasks around the house and is capable of connecting to modern smart homes through IFTTT. Kuri is 50.8 centimeters (20 inches) tall and weighs 6.4 kilograms (14 pounds), and when its hours of battery life run out, the bot simply returns to its charging dock to recharge.
+
+The fact that Kuri reminds us of certain characters from animated films is not coincidental — Mayfield Robotics intentionally made the robot look that way so that it could easily ingratiate itself to its owners. However, Kuri is more than just a pretty face. “While insanely cute on the outside, Kuri contains serious technologies on the inside that represent the latest developments in smartphones, gaming, and robotics,” said Mayfield Robotics CTO and co-founder Kaijen Hsiao in a press release. “We hope Kuri introduces people — especially kids — to the power of technology and can inspire a new world of possibilities for their future.”

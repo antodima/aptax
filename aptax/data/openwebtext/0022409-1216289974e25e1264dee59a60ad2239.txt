@@ -1,0 +1,55 @@
+The mysterious crusader known only as HonorTheCall gained viewers – and respect – when he blew the lid off a video game scandal
+
+O n June 27th, a bombshell of an investigative report rocked the Counter-Strike: Global Offensive community. Using irrefutable facts and public documents, it tore the lid off of a case in which several high profile professional YouTubers were illicitly profiting from the bizarre shadow economy that has sprouted up around the popular online shooter. The release of the report touched off what came to be known as the CS:GO Gambling Scandal. It led to several lawsuits, prompted follow-on coverage from many major news outlets, and sparked a conversation within the community about the legal and ethical rules around disclosure – a topic that has become increasingly hot as the popularity and followings of what marketers call YouTube "influencers" has ballooned, along with their earnings.
+
+Though the scandal blew up into a mini Watergate-for-gamers story, there was no Woodward and Bernstein in the picture. Neither mainstream media nor the specialist gaming press were responsible for what came to light. The report was entirely the work of one man – a regular shooter fan who started out making videos for fun and chooses to remain anonymous.
+
+
+
+Known only by the handle of HonorTheCall, this muckraking crusader is a mild-mannered engineer by day. "I make boring software that enables big enterprises to do their work," he says. But in his spare time, he creates fiery, profanity-laced video rants that excoriate wrongdoers in the gaming community.
+
+Only HonorTheCall’s immediate family and one close friend know his secret identity. All that his online audience of tens of thousands know about him is that he was born and raised in Northern India, that he now lives in Toronto, and that he dedicates a significant portion of his spare time to policing the community of online shooter game fans. He sees himself as a truth-teller and an advocate, and he doesn’t hesitate to call out stars in the YouTube community when he feels that they have transgressed.
+
+HonorTheCall didn’t set out to be a crusader. He initially got into YouTube because he was a fan of the Call of Duty franchise, and he enjoyed watching videos that offered tips and insights that helped him improve his play. He began posting his own clips late last year under the handle War God. At first, he simply presented straightforward information on the latest developments related to his favorite game. But he increasingly felt a responsibility to try to improve behavior in this community that he spent so much time in.
+
+He literally felt a call of duty, and he changed his handle accordingly. He started out six months ago with a video that castigated his fellow YouTubers for ignoring a worthy cause. “Let’s talk boots on the ground – the real heroes who keep us safe while we sit here and grind,” said HonorTheCall. He championed a new $3.99 content pack released for Call of Duty , the proceeds of which would go to an endowment that helps veterans find jobs. Then he singled out all of the popular streamers who were ignoring in favor of frivolous stuff.
+
+“ I used to get a hundred comments a month that were just saying something racist about my accent ”
+
+That video set him on a path towards a more advocacy-based approach. HonorTheCall’s most visible achievement to date was unearthing the so-called " CS:GO Gambling Scandal." His exposés on this topic earned him millions of views and a fiftyfold increase in his regular audience, plus a new level of respect. “I used to get a hundred comments a month that were just saying something racist about my accent,” he says. “Nowadays, that’s down to about five racist comments a month even though my traffic is way up.”
+
+To understand why HonorTheCall’s muckraking struck a nerve, you first have to understand how “gun skins” in CS:GO have become a form of digital wampum, akin to cigarettes in prison – something that has an actual use, but is more often employed as an illicit currency. A gun skin is an overlay that changes the appearance of your weapon in the game, giving it, say, a unique camouflage pattern, or leopard spots, or a purple lightning bolt motif. It is purely cosmetic, and has no effect on gameplay. The casual observer might wonder why players care so much about weapon skins. What does it matter what your weapon looks like? Who even sees it when you’re racing around a map, crouching behind cover, or sniping enemies from a rooftop?
+
+What they don’t understand is that killer and victim share a special moment of intimacy after each execution in a CS:GO match. This is thanks to a feature found in most shooters called the killcam. After getting blasted in the face, the doomed player can look forward to witnessing their final moments again through the eyes of their killer courtesy of the killcam.
+
+The killcam means that each frag you log is far more gratifying, because you know that your victim is reliving their moment of humiliating defeat while staring down the sights of your weapon. It’s literally adding insult to injury. Why not further personalize that delicious moment by embellishing your weapon with a unique overlay?
+
+Custom paint jobs – or "skins" – have become their own form of currency for the popular 'Counter-Strike: Global Offensive'. Steamcommunity.com / AléSSandroCaSSo
+
+Unusual and rare skins are highly sought after. CS:GO developer Valve boosted the desirability of gun skins by offering a wide array of them, creating a sort of metagame by randomizing how players can get them, and allowing people to buy and sell and trade them freely. Players could do this on Valve’s game marketplace Steam, or through third party sites built on top of the Steam platform.
+
+
+
+Those third party sites are where things begin to get weird. Instead of simply facilitating trades, many of these sites allowed players to use skins to gamble on the outcome of esports matches, or use them as betting chips in casino-style games. Because skins are such a new and murky form of pseudo currency, many of these sites could effectively skirt laws that constrain straightforward cash-based online gambling.
+
+The lucrative skin gambling sites became increasingly impossible for gamers to ignore. Prominent YouTubers who weren’t even known for playing CS:GO began recording videos of themselves winning huge sums through skin gambling. There was widespread speculation that these YouTubers were paid to promote these sites, and that they were faking their enthusiastic reactions to their alleged winnings in order to drive more traffic and income to these sites.
+
+That’s when HonorTheCall got interested. He noticed that several of his favorite full-time professional Call of Duty YouTubers were posting videos on their huge winnings from CS:GO gambling sites, and he decided to do some digging on the phenomenon. He posted his findings in late June.
+
+HonorTheCall singled out the popular YouTuber Trevor “TmarTn” Martin, who had been posting videos of himself gambling on a site called CSGO Lotto, including a clip where he shrieks with delight after apparently winning $13,000 on the site. “I did some digging into this, and holy shitballs,” says HonorTheCall. To emphasize the incendiary nature of his discovery, he splices in a clip of Walter White from Breaking Bad walking away from an explosion.
+
+What HonorTheCall learned is that the site CSGO Lotto Inc. was registered to Tmartn Enterprises Inc. “Trevor Martin, aka TmarTn, is the director of this site,” thunders HonorTheCall. “He fucking owns the damn site. He goes on his own site, pretends to allegedly win huge amounts of cash, and do pre-rehearsed reactions!”
+
+HonorTheCall posted screenshots of online listings for CSGO Lotto by the Better Business Bureau and the Florida Department of State Division of Corporations and a half dozen other sites. He added giant red arrows to the screenshots, pointing out where Martin was listed as principal and president of the site. (These sites also showed that YouTuber Thomas “TheSyndicateProject” Cassell, who also posted videos of himself on CSGO Lotto, is the vice president of that site.)
+
+Trevor Martin responded to the allegations, claiming that the fact that he and some other YouTubers owned CSGO Lotto “has never been a secret.” HonorTheCall published a followup video that excerpted footage of one of Martin’s videos in which he claimed to have stumbled upon the site, and claimed that the people behind the site were offering to sponsor him. “Why did you lie to your five million followers, Trevor?” he demanded.
+
+HonorTheCall has continued to release videos on the people behind CSGO Lotto. He has also gone on to excoriate other YouTubers who concealed their ownership of skin gambling sites, as well as YouTubers who presented fake results of PC performance benchmark testing, YouTubers who have failed to deliver on Kickstarter rewards, and YouTubers who stole the thumbnail images they use to promote their content. (A mortal sin in the community.)
+
+HonorTheCall has expanded his social media profile as his audience has grown. His Twitter account is full of strangers reaching out to him about other potential scandals that he should look into. He assures them that he answers every email he receives.
+
+The Torontonian insists that he doesn’t see himself a journalist. To his mind, what he’s doing doesn’t count as journalism because his videos only earn him enough to buy a nice restaurant meal once a month, and he doesn’t give his targets a chance to respond to his allegations before publishing his videos the way a reporter should. But he fits the definition of citizen journalist laid out by media critic and NYU professor Jay Rosen: “People formerly known as the audience who employ the press tools they have in their possession to inform one another.”
+
+HonorTheCall points out that YouTube receives far less scrutiny than other more traditional media sources. “There are so many different mediums through which people are consuming information now; twice as many people tuned into YouTube to watch the presidential debates than all the traditional TV channels,” he correctly points out. “But there aren’t many people who are actually following the scene on YouTube closely. No one is actually paying attention to what’s really going on here.”
+
+He has a simple message for prominent YouTubers who want to remain in his good graces. “Realize that your viewers made you what you are,” he says. “You shouldn’t rip them off.”

@@ -1,0 +1,13 @@
+Apple has released iOS 10 beta 6 for developers to test on iPhone, iPad, and iPod touch. iOS 10 brings a refreshed look to Apple Music and News plus loads of new features to the platform. The software update will be ready for everyone likely sometime next month, and we’ll dig through the sixth developer version of the iOS 10 beta below.
+
+If you’re already testing iOS 10 beta on your iPhone or iPad, head to the Software Update section of the Settings app to find the OTA update. If you’re a registered developer deciding to start testing iOS 10 with beta 6, head over to the Apple’s developer page to install the beta profile. For non-developers, Apple is currently testing iOS 10 through the public beta program which usually receives updates a couple of days after developers (or sooner as we near final release). iOS 10 public beta 5 is also available for non-developer testers.
+
+iOS 10 includes loads of new features and changes including redesigned Music and News apps, the first Home app for HomeKit, a redesigned Lock screen and Home screen experience for widgets, tons of iMessage features in Messages, and much more.
+
+iOS 10 beta 5, which was released on August 9, included minor tweaks including a new lock sound, AirPlay icon, widget UI tweaks, and a new Home app wallpaper. Check out our hands-on video of those changes below:
+
+Apple is rumored to be planning a September 7 event to debut the iPhone 7 ahead of pre-orders on September 9 and launch on September 16. New versions of iOS typically roll out a couple of days before new iPhones so we could see iOS 10 publicly launch as soon as September 14.
+
+Catch up on our full coverage with our iOS 10 guide. We’ll dig through the latest iOS 10 beta and update with notable changes. As always, shout in the comments, mention us on @9to5mac, or email tips@9to5mac.com with changes you discover as well.
+
+Here’s the update:

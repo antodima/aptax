@@ -1,0 +1,115 @@
+You can find out how crucial an enterprise resource planning (ERP) software rollout can be for a company from a single word: billions—as in, lawsuits over failed ERP and customer relationship management (CRM) implementations are now being denominated in the billions of dollars. Greg Crouse, managing director at Navigant Consulting, has learned all about this from inside the belly of the litigious beast, serving as an expert court witness or consultant after spending 25 years managing large-scale projects.
+
+Twenty-one percent of companies who responded to a 2015 Panorama Consulting Solutions survey characterized their most recent ERP rollout as a failure. So there are a lot of disasters out there. But the high stakes in these projects, and the uptick in litigation, have meant that they're simultaneously more and less visible than ever. When lawsuits go public, that's a flag that there's a juicy story out there — but legal necessities often mean that the full details of the dispute never come out. "You'd have a hard time finding anyone who will talk about it — cases either litigate forever or get settled and sealed," says Crouse.
+
+Nevertheless, we've assembled some dramatic ERP flops from over the years and tried to suss some wisdom out of the wreckage. (All comments from Crouse are about his general experience with these kinds of cases; he hasn't actually worked on any of the specific disasters we're discussing here.)
+
+1. Vodafone: The long arm of the law
+
+When British telecom provider Vodafone consolidated its CRM systems onto a Siebel platform, they ran into problems: not all the customer accounts migrated properly. The company didn't go out of its way to advertise this, of course, but people started to notice when their accounts weren't properly credited for payments made.
+
+The upshot: a £4.6 million fine from the British telecom regulator. And while this incident was concluded with just the fine paid, Crouse points out that regulatory oversight can, somewhat surprisingly, lead to private litigation down the road. "If there's problems with large scale implementations, people are going to find out about it — because you have to report it to your regulator if things go bad." Whereas a company might've been previously tempted to keep quiet about the whole affair, with regulators revealing screwups, that company might decide its best bet is to cast blame on someone else through litigation.
+
+2. Washington community college system: When third parties flop
+
+But that litigation can go both ways. For instance, students at Washington State's community colleges have been paying a portion of their tuition every year to help the schools upgrade to a PeopleSoft ERP system that was supposed to go live in 2012. Instead, the project is still limping along. One cause of delay was internal: the 34 campuses in the system had widely varying business processes that needed to be standardized, which wasn't clear until well into the rollout.
+
+But now another crisis has emerged: Ciber, the third-party company hired to roll out the PeopleSoft system, went bankrupt in April of this year, only to have its assets scooped up by HTC, a Michigan company — and HTC then cancelled its contract with the school system and sued for $13 million, claiming the failed rollout was due to "internal dysfunction" on the colleges' part.
+
+Crouse says that this sort of mutual animosity is not uncommon. "You get into cases where the client is unhappy with the work the implementation firm has done and so they sue them. You also get into issues of the client’s not happy so they stop paying the bills. Then you have the third parties that sometimes get involved from a vendor reseller perspective. You can see either side being the plaintiff or the defendant, based on who got mad first."
+
+The rollout is meanwhile stuck in limbo.
+
+3. Woolworth's Australia: The death of institutional memory
+
+The Australian outpost of the venerable department store chain, affectionately known as "Woolies," also ran into data-related problems as it transitioned from a system built 30 years ago in-house to SAP. One of the biggest crises that arose was that profit-and-loss reports tailored for individual stores, which managers were accustomed to receiving every week, couldn't be generated for nearly 18 months.
+
+The problem lay in the change in data collection procedures, but the root cause was a failure of the business to fully understand its own processes. The day-to-day business procedures weren't properly documented, and as senior staff left the company over the too-long six-year transition process, all that institutional knowledge was lost — and wasn't able to be baked into the new rollout.
+
+"I often see companies that don’t take the people who really know business processes and dedicate them to the ERP rollout," says Crouse. "They make it a part-time job, or they hire new people to tell the system guys what to build. None of that works. You have to really dedicate the people who know the process that you’re trying to get right, full-time. And it’s a common theme that, when you don’t dedicate those people, you get into trouble."
+
+4. Target Canada: Garbage in, garbage out
+
+Many companies rolling out ERP systems hit snags when it comes to importing data from legacy systems into their shiny new infrastructure. When Target was launching in Canada in 2013, though, they assumed they would avoid this problem: there would be no data to convert, just new information to input into their SAP system.
+
+But upon launch, the company's supply chain collapsed, and investigators quickly tracked the fault down to this supposedly fresh data, which was riddled with errors— items were tagged with incorrect dimensions, prices, manufacturers, you name it. Turns out thousands of entries were put into the system by hand by entry-level employees with no experience to help them recognize when they had been given incorrect information from manufacturers, working on crushingly tight deadlines. An investigation found that only about 30 percent of the data in the system was actually correct.
+
+5. PG&E: When "sample" data isn't
+
+Some rollouts aim to tackle this sort of problem by testing new systems with production data, generally imported from existing databases. This can ensure that data errors are corrected before rollout — but production data is valuable stuff containing a lot of confidential and proprietary information, and it needs to be guarded with the same care as it would in actual production.
+
+In May of 2016, Chris Vickery, risk analyst at UpGuard, discovered a publicly exposed database that appeared to be Pacific Gas and Electric's asset management system, containing details for over 47,000 PG&E computers, virtual machines, servers, and other devices — completely open to viewing, without username or password required. While PG&E initially denied that this was production data, Vickery says that it was, and was exposed as a result of an ERP rollout: a third-party vendor was given live PG&E data in order to fill a "demo" database and test how it would react in real production practice. They then failed to supply any of the protection a real production database would need.
+
+6. Definitely not a sweet experience for hershey
+
+Could a failed technology implementation (in this case SAP's R/3 ERP software) take down a Fortune 500 company (in this case Hershey Foods)? Well, it certainly didn't help Hershey's operations during the Halloween season in 1999 or make Wall Street investors thrilled.
+
+In the end, Hershey's ghastly problems with its SAP ERP, Siebel CRM and Manugistics supply chain applications prevented it from delivering $100 million worth of Kisses for Halloween that year and caused the stock to dip 8 percent.
+
+So I guess a failed technology project can't actually take down a Fortune 500 company for good, but it can certainly knock it around a bit.
+
+7. Just do it: Fix our supply chain system!
+
+What did a $400 million upgrade to Nike's supply chain and ERP systems get the world-renowned shoe- and athletic gear-maker? Well, for starters, $100 million in lost sales, a 20 percent stock dip and a collection of class-action lawsuits.
+
+This was all back in 2000, and the horrendous results were due to a bold ERP, supply chain and CRM project that aimed to upgrade the systems into one superstar system. Nike's tale is both of woe and warning.
+
+8. HP's "perfect storm" of ERP problems
+
+The epic tale of HP's centralization of its disparate North American ERP systems onto one SAP system proves that one can never be too pessimistic when it comes to ERP project management. You see, in 2004, HP's project managers knew all of the things that could go wrong with their ERP rollout. But they just didn't plan for so many of them to happen at once.
+
+The project eventually cost HP $160 million in order backlogs and lost revenue—more than five times the project's estimated cost. Said Gilles Bouchard, then-CIO of HP's global operations: "We had a series of small problems, none of which individually would have been too much to handle. But together they created the perfect storm."
+
+9. A new type of freshman hazing
+
+Pity the college freshman at the University of Massachusetts in fall 2004: The last thing they needed was some computer program to haunt their lives and make their new collegiate experience even more uncertain.
+
+But more than 27,000 students at the University of Massachusetts as well as Stanford and Indiana University were forced to do battle with buggy portals and ERP applications that left them at best unable to find their classes and at worst unable to collect their financial aid checks. Said one UMass senior at the time: "The freshmen were going crazy because they didn't know where to go." After a couple of tense days and weeks, however, everyone eventually got their checks and class schedules.
+
+10. Waste Management trashes its "fake" ERP software
+
+Garbage-disposal giant Waste Management is still embroiled in an acrimonious $100 million legal battle with SAP over an 18-month installation of its ERP software. The initial deal began in 2005, but the legal saga commenced in March 2008, when Waste Management filed suit and claimed SAP executives participated in a fraudulent sales scheme that resulted in the massive failure.
+
+Several months later, SAP fired back, claiming that Waste Management allegedly violated its contractual agreement with SAP in several ways, including by "failing to timely and accurately define its business requirements," and not providing "sufficient, knowledgeable, decision-empowered users and managers" to work on the project.
+
+In the fall 2008, accusations were still flying about documentation, depositions and delays in bringing the case before a judge. And that proposed 18-month implementation now sounds like a dream scenario.
+
+11. The curious case of Oracle Fusion Applications
+
+Back in January 2006, Oracle boasted that it was halfway through the Fusion Applications development process. You might remember the hype about Fusion Apps: a killer enterprise application suite that combines the best features and functionalities taken from Oracle's expansive E-Business Suite, J.D. Edwards, PeopleSoft and Siebel product lines.
+
+Oracle's master plan was to "build the next-generation of applications that are completely standard." More than three years later, we're all still waiting for the first generation of Oracle's suite of Fusion Apps. Guess what? We'll have to wait some more. How does 2010 sound?
+
+12. Oracle, SAP and a little company named TomorrowNow
+
+If enterprise software maintenance wasn't so boring, the details of this sordid story would make Hollywood producers fight over the rights to shoot this movie. Here's a brief summary: In 2005, SAP bought TomorrowNow (TN), a small company that provides ERP software maintenance and services for Oracle's ERP products—at 50 percent off Oracle's prices. Of course, TN's services could work equally as well for SAP's products (but we were supposed to ignore that). We have come to find out that not everyone at SAP thought the TomorrowNow acquisition was a good idea.
+
+Flash forward to 2007: Oracle alleges that SAP (via TN) "has compiled an illegal library of Oracle's copyrighted software code and other materials." A nasty lawsuit unfolded (and is still going strong) and SAP abruptly shut down TN in 2008.
+
+Meanwhile, a former TN cofounder (Seth Ravin) formed his own TN-like company (Rimini Street) and has been scooping up all the former TN business. And, oh by the way, in addition to the Oracle ERP products his company already services, he's going to start offering half-off maintenance services for some of SAP's ERP products this year. (BTW: I've got the script ready if anyone in Hollywood is interested.)
+
+13. Shareholder pressure halts SAP ERP rollout
+
+All was not well with bedding-maker Select Comfort's multi-module ERP implementation of SAP's ERP, CRM, supply chain and other applications. So in 2008, with serious shareholder pressure to end the $20-million-plus project that was "indicative of extremely poor judgment by management" (charged one shareholder's SEC filing), Select Comfort did just that: It put the project on hold.
+
+In this economic environment, is this just an incidental sign of the times or a sign of more things to come?
+
+14. ERP + SaaS = Software success or bad idea?
+
+When CIO magazine surveyed 400 IT leaders about their ERP systems in early 2008, CIOs said they remained committed to on-premise, traditional ERP systems—despite aggravating integration and high-cost headaches.
+
+The results weren't that surprising. CIOs have been reluctant to take chances storing the sensitive data (accounting, HR, supply chain) contained in their ERP systems in another company's data center. In the survey, just 9 percent of respondents reported using an alternative ERP model, which included SaaS applications.
+
+That was then. This is now: SaaS ERP providers such as NetSuite have experienced greater acceptance of their house-your-ERP-data-offsite models, which in turn has allowed them to go from upstart to industry player.
+
+15. A legendary "moon" on the high seas
+
+The details of the infamous "mooning" between SAP's Hasso Plattner and Oracle's Larry Ellison have become stuff of urban legend. So what actually did happen? Well, during the 1996 Kenwood Cup sailing race, Ellison's sailing crew reportedly ignored Plattner's wounded sailing yacht (which had a broken mast and bloodied crew member).
+
+Plattner did admit to mooning Ellison's crew ("I lowered my pants," he told Sailing World) for not helping with his injured crew member and battered yacht. But, alas, Ellison was not aboard that yacht. SAP and Oracle haven't stopped battling it out—on land or on water—since.
+
+Surviving an ERP rollout
+
+So what have we learned? Well, don't fall afoul of regulators, make sure your data is secure and clean, and document your processes before you move to a new platform: all good advice for any rollout (or any other big IT project, really). If there's one other key word Crouse has for CIOs, it's this: continuity.
+
+"I’m working a case today that involves an ERP implementation with a timeline of multiple years," he says, "and there have been four CIOs during that timeframe. That causes a whole host of problems. You have to have an executive sponsor. You have to have someone who's really championing the project. It’s difficult if the people at the top and the people who know the project from the client side continually change."

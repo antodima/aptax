@@ -1,0 +1,11 @@
+Websites that detect ad-blockers to stop their users from reading webpages could be illegal under European law.
+
+Alexander Hanff, a privacy campaigner and programmer, says he has received a letter from the European Commission confirming that browser-side web scripts that pick out advert blockers access people's personal data (ie: the plugin stored on their computer). Thus, just like you need to give permission to EU websites to access and store your cookies, ad-blocker detectors must ask for permission before probing your browser.
+
+Since so many people are bugging me for them here are photos of the relevant pages of letter. pic.twitter.com/vcTG0qdhIC — Alexander Hanff (@alexanderhanff) April 20, 2016
+
+Therefore, under EU law in force since May 2011, people must give their consent before an anti-ad-blocker script can run and hide content on a page. Of course, while waiting for that consent from a visitor, the site could refuse to show anything, but then the publisher will scare off all readers, even the ones who turn out to be not running anti-ad plugins. If the page is viewable while waiting for the consent, then blocking ad-blockers is pointless.
+
+Hanff has now said he will be using the commission's letter as the basis for a series of legal challenges against firms that use anti-ad-blocking software. Next week he'll also be setting up a website for people to identify websites that use the code, so that a list of potential defendants can been identified.
+
+That's bad news for outlets that have decided to block anti-ad plugins. ®

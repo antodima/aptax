@@ -1,0 +1,19 @@
+Following news of Demonoid's takedown, the hacktivist group Anonymous attacked the Ukrainian government on Tuesday with its usual technique: a Distributed Denial of Service (DDoS) attack.
+
+The collective targeted and took down the National Television and Radio Broadcasting Council of Ukraine (nrada.gov.ua), the Ukrainian Agency for Copyright and Related Rights (uacrr.kiev.ua), and the Ukrainian Anti-Piracy Association (apo.kiev.ua).
+
+All the sites appear to be fully operational again at the time of writing.
+
+The initiative, dubbed OpDemonoid, was explained by an Anonymous-released video -- seen above -- which announced the plan on Tuesday.
+
+In a previous statement to the public, Anonymous reminded the Ukrainian government that they had faced its wrath before. Here's an excerpt:
+
+Haven't you, Ukraine, learned anything from the Anonymous Collective? You were attacked once, and yet feel the need to keep censoring us, your people, and every day hard working citizens? Ukrainian government, You should have expected us.
+
+Last month, a massive Distributed Denial of Service (DDoS) attack brought Demonoid to its knees. Last week, the server was turned off completely and the site led to a dead end . Then it came back to life, and started redirecting to random sites full of advertisements . Eventually this stopped and both demonoid.me and demonoid.ph crumbled again.
+
+Then we learned that the situation was much worse. Demonoid was busted by Ukrainian authorities who had a talk with ColoCall, the largest datacenter in Ukraine. Mexico initiated a criminal investigation into Demonoid's owners .
+
+Anonymous is apparently interested in punishing Ukraine right now; it's not yet clear if Mexico will be next.
+
+See also:

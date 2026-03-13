@@ -1,0 +1,23 @@
+If you want your pet black hole to be visible, you must feed it regularly. Only when a black hole gorges on a steady diet of gas or other matter does it shine. The disk of matter that orbits it heats up and emits large amounts of light, especially in X-rays. If you have one of the supermassive black holes at the centers of galaxies, feeding it matter can create one of the brightest objects in the Universe.
+
+But the smaller ones should also be pretty visible. And while astronomers expect and have observed black holes comparable in mass to stars, their numbers are fewer than expected, even after decades of searching. Perhaps, as a new paper suggests, this is because many black holes are hidden by an opaque, donut-shaped disk of matter.
+
+J. M. Corral-Santana and colleagues based this hypothesis on a detailed study of a relatively faint, fluctuating X-ray source in the Milky Way. Their observations in X-ray and visible light revealed the signs of a binary system: an ordinary star in orbit around a black hole, similar to other systems, but with some key differences. For one, the star and black hole were so close together that the orbital period of the system was only 2.8 hours. For another, the matter being drawn off the star was obscuring the black hole when viewed from Earth. The authors hypothesized that many other black holes may be similarly hidden, and future searches should take that possibility into account.
+
+Stellar-mass black holes are the remnants of the cores of stars which exploded in supernovae and are at least 20 times the mass of the Sun. Black holes in this mass range have been discovered in binary systems, where their companion is an ordinary star. The transfer of mass from the companion onto the black hole creates an accretion disk: a hot, rapidly rotating platter that emits a great deal of X-ray light. The first black hole discovered, Cygnus X-1, was found through these emissions.
+
+However, in nearly 50 years of X-ray observations, only about 50 black holes candidates have been known in the Milky Way, of which only 18 are confirmed. None of them exhibit eclipses, where the companion star or accretion disk block the X-ray emission. That's a somewhat surprising result, as it may imply we're only identifying systems we see from a privileged angle, one where our telescopes peer "down" onto the system. Since a bright black hole system that undergoes eclipses was identified in the M33 (Triangulum) galaxy, astronomers know it does happen.
+
+But if the orientation of the binaries was random, we would expect about 1/5 of all systems to exhibit strong eclipses. We've seen nothing like that number, so obviously something is amiss.
+
+The current paper examined a faint X-ray source, Swift J1357.2-093313, discovered by the orbiting Swift observatory in 2011. This object was not obviously a black hole from its X-ray signal, but the authors followed up in visible light using the Isaac Newton and William Herschel Telescopes. They found the telltale signs of an accretion disk: two strong peaks of light representing the portions of the disk moving toward us and away from us. (This is due to the Doppler effect: light emitted from material moving toward the telescope will have a shorter wavelength, while material moving away will have longer wavelength.)
+
+Studying the orbital properties of the system, the researchers concluded that the disk rotates around the binary system's shared center of mass once every 2.8 hours, indicating the star's partner is an object about 3 times the mass of the Sun. That relatively large mass rules out other candidates like white dwarfs or neutron stars. The astronomers also identified strong regular variations in the accretion disk's visible light output, with no corresponding X-ray variation. That indicated ripples in the disk, with matter moving inward toward the black hole.
+
+Together, this data strongly indicated a thick, donut-shaped accretion disk that hides the black hole by keeping most of its X-ray emissions from reaching our telescopes. Since the X-ray signature was so weak, the system could only be seen because it is relatively close to Earth. That means astronomers should pay greater attention to other weak X-ray emitters. But it also indicates that many black holes may be too faint to see or may be obscured by other gas in the galaxy.
+
+Nevertheless, the implication is clear: if other black holes are obscured by their accretion disks, it would explain why astronomers have failed to find more stellar-mass black holes in the galaxy, and it could give us a better idea of how many are truly out there.
+
+And now I want a donut.
+
+Science, 2013. DOI: 10.1126/science.1228222 (About DOIs).

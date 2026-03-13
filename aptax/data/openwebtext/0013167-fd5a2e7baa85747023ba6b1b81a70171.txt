@@ -1,0 +1,31 @@
+SAN JOSE — A popular online safe-search filter is ending its practice of blocking links to mainstream gay and lesbian advocacy groups for users hoping to avoid obscene sites.
+
+For several years, top Web-filtering services have been resolving a security over-reach that conflated gay rights websites with child porn, blocking both from web surfers using safe-search software. Now Symantec, one of a handful of key players in the content-filtering market, is joining the push.
+
+Online security firm Symantec told The Associated Press that while customers can still set their search to block offensive websites, there will no longer be an option to block websites just because they relate to sexual orientation.
+
+“Making this change was not only the right thing to do, it was a good business decision,” said Fran Rosch, executive vice president, Norton Business Unit, Symantec in a Tuesday announcement. “Having a category in place that could be used to filter out all LGBT-oriented sites was inconsistent with Symantec’s values and the mission of our software.”
+
+Symantec’s shift, which came after customers at an Au Bon Pain cafe and bakery blogged in January that the free Wi-Fi was blocking access to advocacy groups, is the latest in a series of Internet-filter revamps prompted after frustrated Web searchers found human rights campaigns and gay advocacy groups were being grouped together with child porn sites by some Web-content monitors, which then prevented users from clicking on them.
+
+Internet filters are mandatory in most public schools and libraries, and they are frequently used as well by anyone offering Wi-Fi, from airports to cafes. They can limit students and patrons from browsing obscene or inappropriate content. But many of those filters have blocked appropriate and important content.
+
+In 2011, the American Civil Liberties Union launched a “Don’t Filter Me” campaign specifically aimed at getting public schools to allow students to look at non-sexual websites about LGBT issues and organizations. ACLU attorney Joshua Block said that at the time, they had “a gazillion complaints” about Internet filters, but in recent months, as many software firms have revised their systems, they’ve heard few grievances.
+
+“Symantec is a little bit behind the curve on this,” said Block, who helped lead that campaign. “Most of the leading Internet-filtering companies have already eliminated these sorts of filters from their own systems.”
+
+Analyst Bryan Fischer at the conservative American Family Association said some people consider websites advocating gay rights as dangerous propaganda and should be allowed to block them.
+
+“Symantec is simply wrong to deny their customers this option,” he said.
+
+GLAAD, a lesbian, gay, bisexual and transgender media advocacy organization, along with The Trevor Project, a youth suicide prevention program, were among those that until now were blocked by Symantec’s software, and they are still blocked by several major systems.
+
+GLAAD CEO Sarah Kate Ellis said the change shows that “Symantec gets it.”
+
+“It’s time that our software reflects our values, and that means filtering out discrimination,” she said Monday in advance of the announcement.
+
+Web-filtering systems, including McAfee, Blue Coat, Websense and Netsweeper, divide millions of Web addresses into categories like nudity, marijuana, cults or war games and then allow the network owner to select what categories they want blocked from their systems.
+
+Symantec’s Web-content database, which is used by its Web-content filtering and parental-control programs, dates to 1996 and is one of the largest in the industry, including billions of Web pages from around the world.
+
+Symantec, the fourth-largest software company in the world, said the lifestyle-sexual orientation category has been removed from its databases, but that it’s still being implemented in some products. The Mountain View, California-based firm said it’s also taking a broader look at all of the categories in this database, and it will be eliminating any others that are similarly outdated.

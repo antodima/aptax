@@ -1,0 +1,27 @@
+After getting an Amiga 1200 summer 2016, almost a year later I’ve finally got it set up close to how I want it. What I primarily did on the Amiga back in the days was create music on it and the only thing I didn’t sell when making the big mistake of selling my towered A1200 in 2005 was my Amiga MIDI interface. I used to connect a MIDI controller Keyboard to it. As software I use a tracker program which came free on a coverdisk of CU Amiga Magazine back In 1996 called ‘Soundtracker pro 2’ by Marco Nelissen. Little did I know this software was going to shape my creative life.
+
+
+
+Still having an Amiga 500 back then, I had an Action reply cartridge and I used to rip music from demos, games and intros via that trusty red square freeze button and my collection began. ‘Soundtracker Pro 2’ was practically my main music player, I used to sit and watch the tracker go up as the numbers danced to the music. I started dabbling with sampling, I would sample sounds and instruments and start replacing samples in mod music, and save them as remixed mods. As with most people at that time, there was no internet nor any other distraction other than TV which was never my thing. It was just me with Soundtracker pro 2 loaded onto my Amiga and lots of floppy disks, ah simple times!
+
+After about a year of messing with mods, samples and remixes. In 1997 I had a go at writing/composing my own music module. 1997 was the year I got an Amiga 1200, which with it’s doubled memory and cpu power and IDE hard drive support, (Of course eventually leading me to get a hard drive even if it was only 200mb), give me some more space to breathe when creating music. This went on until 2004.
+
+The only disadvantage to Soundtracker Pro 2 is the file format, it saves as MOD but this is not a standard protracker MOD and loading it into any other tracker program would come up with a mess or reacquaint us with our old friend ‘Guru Meditation’. I tried dabbling with Protracker, Noisetracker and Octamed v5 but the interface just didnt agree with me, it was not like Soundtracker Pro 2 and despite having the Source Code? For the STP file format, I don’t know how to code in order to create a converter from STP MOD to regular MOD format.
+
+Not so long ago I bought a Yamaha Reface DX, an amazing synthesizer that is a remake of the vintage Yamaha DX7, which was popular amongst musicians and bands in the 1980s. This powerful little synth has MIDI and can of course be connected to the Amiga. My first ever recent music project began when I was messing around playing Turrican 3 on my Commodore 64, the music to the second level grabbed me and got stuck in my mind. So I got hold of the SID file and I could play it back on my Amiga using playSID, a simple SID playing program available on Aminet.
+
+The .MOD and .SID formats are completely different in how they work, as are the SID and Paula Chips. I do believe Paula also has some Wavetable Synthesis and FM Synthesis capabilities. Which is why I sometimes felt that Amiga and Commodore 64 music sometimes reminds me of one another. However as far as I know there is no chance of conversion from one format to the other. So the only option is to recreate a MOD by ear.
+
+Using my Reface DX, I created a custom sound for the Turrican 3 music by messing around with envelopes, operators and effects. With my Technosound Turbo Sampling Cartridge, I began to sample some of these sounds and also some built in presets such as bass sounds, pads, musical instrument sounds and effects and saved them into a folder.
+
+Now is the time to start creating the music. I now started to use the Reface DX as a MIDI controller and after hours of playing snippets of melody into the tracker, programming drum rhythms and sequences along with bass, identifying notes and chords by playing the original SID file at a lower tempo and then playing them into the tracker program, it was all coming together.
+
+I used effects such as a sample start position shift, which starts playing the sample at different points, this is useful for emulating a sort of cut off, filter slide type effect with the correct sample (i’m unsure of the exact term for this effect).
+
+Another I used was portamento which is the shift in pitch from one note to another. I also used a modulation effect at certain points to shape the way the sound flows. All number commands that i’ve known from back in the days when I used to watch the ‘dancing numbers’ while listening to mods from my collection.
+
+My aim isn’t to improve on the SID tune but to show my appreciation for it by recreating it on the Amiga. The music has been stuck in my mind for weeks and It was the perfect time to do a project like this and give it an outlet, use the passion which was within.
+
+Update: The track can be downloaded as an MP3 (320kbps) from Remix64: http://www.remix64.com/track/madija/turrican-3-shooter/
+
+Here is the video from my channel on how i’m creating this music from scratch on Soundtracker Pro 2.

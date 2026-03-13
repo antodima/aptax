@@ -1,0 +1,25 @@
+The Drug Enforcement Administration (DEA), under approval from the top echelons of the Department of Justice, ran a secret, extensive phone metadata bulk collection program for over two decades, amassing billions of records, according to a new report published Tuesday in USA Today.
+
+This database had previously been revealed to a lesser extent earlier this year, but neither its operational details nor its scope had been revealed until now.
+
+The newspaper wrote:
+
+For more than two decades, the Justice Department and the Drug Enforcement Administration amassed logs of virtually all telephone calls from the USA to as many as 116 countries linked to drug trafficking, current and former officials involved with the operation said. The targeted countries changed over time but included Canada, Mexico and most of Central and South America. Federal investigators used the call records to track drug cartels' distribution networks in the USA, allowing agents to detect previously unknown trafficking rings and money handlers. They also used the records to help rule out foreign ties to the bombing in 1995 of a federal building in Oklahoma City and to identify U.S. suspects in a wide range of other investigations.
+
+As Ars reported in January 2015, the DEA had previously revealed some information about this database in a three-page partially-redacted affidavit that the database was authorized under a particular federal drug trafficking statute. The law allows the government to use "administrative subpoenas" to obtain business records and other "tangible things."
+
+So, the DEA simply "began ordering telephone companies to turn over lists of all phone calls from the USA to countries where the government determined drug traffickers operated, current and former officials said."
+
+This affidavit was filed as part of an ongoing criminal case filed against an Iranian-American man named Shantia Hassanshahi, who is accused of violating the American trade embargo against Iran. His lawyer, Mir Saied Kashani, told Ars earlier this year that the government has clearly abused its authority.
+
+This database program appears to be wholly separate from the National Security Agency’s metadata program revealed by Edward Snowden, but it targets similar materials and is collected by a different agency. The Wall Street Journal, citing anonymous sources, also reported in January 2015 that this newly-revealed program began in the 1990s and was shut down in August 2013.
+
+USA Today also noted that the program began in 1992 during the George H.W. Bush administration, and was "approved by top Justice Department officials in four presidential administrations and detailed in occasional briefings to members of Congress but otherwise had little independent oversight, according to officials involved with running it."
+
+DEA agents, the paper added, "gathered the records without court approval, searched them more often in a day than the spy agency does in a year and automatically linked the numbers the agency gathered to large electronic collections of investigative reports, domestic call records accumulated by its agents and intelligence data from overseas."
+
+Mir Saied Kashani did not immediately respond to Ars’ request for comment.
+
+USA Today added: "The DEA stopped searching USTO in September 2013. Not long after that, it purged the database."
+
+In a statement sent to Ars, Patrick Toomey, an attorney with the American Civil Liberties Union, wrote:

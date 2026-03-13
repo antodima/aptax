@@ -1,0 +1,101 @@
+This article is written by Matthew Austin and Anna Vella.
+
+As stated in our recent article about the Queensland government’s proposed redesigned financial assurance framework for resource projects, the government is undertaking a broad review of mining projects to achieve a tailored solution for various types of operators within the resource sector– aimed at encouraging ‘best practice’ environmental outcomes, dealing with residual risk issues and to reduce the State’s risk in the event of environmental and rehabilitation obligations not being met.
+
+In addition to announcing potential changes to the financial assurance framework and a broader jurisdictional review, the Queensland government has released a discussion paper which outlines a proposed new policy for mine rehabilitation in Queensland.
+
+Existing rehabilitation issues
+
+Mining project rehabilitation is required under the Environmental Protection Act 1994 (Qld) (EP Act). Where a proponent for a mining activity makes a variation or site-specific environmental authority (EA) application, the EP Act requires the proponent to provide details as to how the land the subject of the application will be rehabilitated after each relevant activity ceases. In approving an EA application for a mining activity, the Department of Environment and Heritage Protection (DEHP) may impose a condition which relates to rehabilitating or remediating environmental harm caused by the undertaking of that activity.
+
+For some time, the criticism of Queensland’s mining rehabilitation requirements have been gaining momentum as, among other things:
+
+the progressive rehabilitation obligations for a mining activity are informed by the project’s plan of operations ( PoO ), which has a limited forward planning horizon;
+
+EA approval conditions have not provided detail as to the environmental outcomes, environmental criteria and ultimate land uses which are to be achieved on the land upon which mining activities are carried out;
+
+the regime does not provide a meaningful financial incentive for mining proponents to undertake progressive rehabilitation;
+
+rehabilitation commitments as stated in an environmental impact statement or a PoO are not necessarily translated into enforceable conditions or obligations; and
+
+little guidance has been provided to mining proponents to indicate what the DEHP requires to be satisfied with rehabilitation so that it can be progressively certified (as part of an ongoing mining project) or to be accepted upon surrender of an EA for the whole or part of a project.
+
+Rehabilitation policy and delivery elements
+
+The rehabilitation discussion paper released by the Queensland government is a key component of an integrated mined land management framework.
+
+At this stage, the possible rehabilitation reforms are limited to the undertaking of mining activities – but may be broadened to eventually include the undertaking of petroleum activities.
+
+The rehabilitation policies underlying the discussion paper are that:
+
+all mined land in Queensland should be rehabilitated so that it is able to support another land use;
+
+mined land is to be rehabilitated progressively to minimise risks of environmental impacts and to demonstrate the success of waste and land management solutions. Central to the policy and to provide certainty about the outcomes and timing of rehabilitation, mining companies with large mines will be required to prepare a ‘life-of-mine’ plan ( LOM Plan ) which encompass all states of the mine’s life – such as development, operation, care and maintenance, decommissioning, closure and post-closure monitoring - and will include binding milestones that support transition to its future use. In circumstances where major changes need to be made to the LOM Plan over the life of the mine – the public is to have an opportunity to comment on those changes;
+
+when preparing a LOM Plan, future land uses will be identified having regard to community views and any desired use expressed in local and regional planning strategies, but may include retaining built infrastructure that will have ongoing value for the landholder or the community;
+
+a LOM Plan will include actions and time-based milestones for achieving rehabilitation outcomes which are intended to be enforceable and enable the regulator to act if an operator fails to meet its obligations;
+
+mined land will be considered available for rehabilitation unless it is:
+
+being mined; or
+
+
+
+being used for operating mining infrastructure; or
+
+
+
+overlays a mineral reserve that has been assessed as economically viable for extraction within 10 years;
+
+mined land will be considered to be rehabilitated when it can be demonstrated it is safe, stable, will not cause environmental harm and is able to support the post mining land use;
+
+regular monitoring, assessment and public reporting of progress against rehabilitation outcomes stated in the LOM Plan are proposed which may in turn replace existing reporting processes – self-assessment by the operator is to be supplemented by independent auditing every three to five years as well as regular regulator checks;
+
+guidelines will be produced which outline standard criteria for common types of rehabilitation outcomes and the process companies must follow to develop additional completion criteria for rehabilitation outcomes that reflect site-specific characteristics. Further guidance is also to be developed as to the standard of scientific evidence required to support EA surrender application and the process for assessing final rehabilitation.
+
+The discussion paper also contemplates that, to incentivise compliance, a risk factor based on rehabilitation performance could be built into the annual fee calculation for environmentally relevant activities and fees discounted where auditing and compliance show full compliance. Increased fees could be imposed where substantial non-compliance is identified.
+
+Proposed transitional arrangements
+
+At this stage, the government expects that the legislative changes required to implement the intentions of the rehabilitation discussion paper are likely to be made in mid-to-late 2018.
+
+The new rehabilitation framework is to apply:
+
+to all new mines in Queensland that require an EA obtained through a site-specific assessment process; and
+
+progressively to all current operating site-specific mines – with a varying transitional arrangements depending on whether a mine is considered to be:
+
+‘high risk’ – based on factors which may include area of disturbance, proximity to significant environmental areas and the expected remaining life of mine - which will need a LOM Plan within 1 year of the legislative provisions commencing; or for the remaining existing mines, a LOM Plan will be required within 2 years after commencement of the legislative provisions.
+
+
+
+Conclusion
+
+The reforms outlined in the rehabilitation discussion paper seek to achieve – among other things:
+
+binding and enforceable rehabilitation obligations for new and existing mines which will be developed through a LOM Plan which encompass all stages of mine development;
+
+progressive rehabilitation of mined areas over the life of a mine;
+
+mining companies planning and committing to enforceable rehabilitation obligations;
+
+monitoring, assessment, auditing and reporting occurring on a regular basis with the opportunity for community scrutiny and third parties being consulted if major changes are proposed to made to the LOM Plan; and
+
+more rigour around ‘care and maintenance’ obligations for mining projects.
+
+The overall effectiveness of this aspect of the overall reform framework will become more clear once detail as to the regulator’s final certification requirements for rehabilitation requirements is made available.
+
+Similarly to the financial assurance discussion paper, the Queensland government is seeking feedback on the proposed rehabilitation reform package by 15 June 2017.
+
+If you would like information about how your business may be affected please contact us.
+
+Better Mine Rehabilitation for Queensland, Discussion Paper, Department of the Premier and Cabinet, Queensland Treasury, Department of Natural Resources and Mines and Department of Environment and Heritage Protection, released on 4 May 2017: https://www.treasury.qld.gov.au/projects-infrastructure/initiatives/improving-outcomes-resources-sector/better-mine-rehabilitation-in-qld-discussion-paper.pdf
+
+In circumstances where an environmental impact statement is prepared under the EP Act and/or as per the requirements of section 125(1)(l)(i)(E), EP Act.
+
+Section 207(1)(e), EP Act. Guidance is also provided by the Department of Environment and Heritage Protection’s Rehabilitation requirements for mining resource activities guideline, Version 2, 23 May 2014: https://www.ehp.qld.gov.au/assets/documents/regulation/rs-gl-rehabilitation-requirements-mining.pdf
+
+With a view to potentially removing the need to prepare PoOs, which is likely to duplicate LOM Plan requirements.
+
+Better Mine Rehabilitation for Queensland, Discussion Paper, op. cit, p. 26.

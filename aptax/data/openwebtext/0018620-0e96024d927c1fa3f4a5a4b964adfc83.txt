@@ -1,0 +1,35 @@
+Hardware physical limits [ edit ]
+
+There are several physical and practical limits to the amount of computation or data storage that can be performed with a given amount of mass, volume, or energy.
+
+Processing and memory density [ edit ]
+
+The Bekenstein bound limits the amount of information that can be stored within a spherical volume to the entropy of a black hole with the same surface area.
+
+Thermodynamics limit the data storage of a system based on its energy, number of particles and particle modes. In practice it is a stronger bound than Bekenstein bound.[1]
+
+Processing speed [ edit ]
+
+Bremermann's limit is the maximum computational speed of a self-contained system in the material universe, and is based on mass-energy versus quantum uncertainty constraints.
+
+Communication delays [ edit ]
+
+The Margolus–Levitin theorem sets a bound on the maximum computational speed per unit of energy: 6 × 1033 operations per second per joule. This bound, however, can be avoided if there is access to quantum memory. Computational algorithms can then be designed that require arbitrarily small amount of energy/time per one elementary computation step.[2][3]
+
+Energy supply [ edit ]
+
+Landauer's principle defines a lower theoretical limit for energy consumption: kT ln 2 ln 2 joules consumed per irreversible state change, where k is the Boltzmann constant and T is the operating temperature of the computer.[4] Reversible computing is not subject to this lower bound. T cannot, even in theory, be made lower than 3 kelvins, the approximate temperature of the cosmic microwave background radiation, without spending more energy on cooling than is saved in computation. However, on a timescale of 109 - 1010 years, the cosmic microwave background radiation will be decreasing exponentially, which will make it possible to eventually get 1030 as much computations per unit of energy.[5]
+
+Building devices that approach physical limits [ edit ]
+
+Several methods have been proposed for producing computing devices or data storage devices that approach physical and practical limits:
+
+Abstract limits in computer science [ edit ]
+
+In the field of theoretical computer science the computability and complexity of computational problems are often sought-after. Computability theory describes the degree to which problems are computable; whereas complexity theory describes the asymptotic degree of resource consumption. Computational problems are therefore confined into complexity classes. The arithmetical hierarchy and polynomial hierarchy classify the degree to which problems are respectively computable and computable in polynomial time. For instance, the level Σ 0 0 = Π 0 0 = Δ 0 0 {\displaystyle \Sigma _{0}^{0}=\Pi _{0}^{0}=\Delta _{0}^{0}} of the arithmetical hierarchy classifies computable, partial functions. Moreover, this hierarchy is strict such that at any other class in the arithmetic hierarchy classifies strictly uncomputable functions.
+
+Loose and tight limits [ edit ]
+
+Many limits derived in terms of physical constants and abstract models of computation in Computer Science are loose.[11] Very few known limits directly obstruct leading-edge technologies, but many engineering obstacles currently cannot be explained by closed-form limits.
+
+See also [ edit ]

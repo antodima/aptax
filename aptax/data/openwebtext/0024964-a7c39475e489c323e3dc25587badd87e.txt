@@ -1,0 +1,11 @@
+Like a bioluminescent creature rising from the depths, these OLED lighting concepts from Audi are simply otherworldly. Eat your heart out, KITT.
+
+Audi demonstrated the new lighting today at the Audi Electronics Center in Ingolstadt. As you can see, the R8 and Q7 both feature flat-panel OLED displays running the length of the vehicle—eight segments alone create the flashing turn indicator strip.
+
+Advertisement
+
+According the Stephan Berlitz, Head of Lighting Technology and Electronics at Audi, OLED is a natural extension of Audi's own pioneering efforts integrating LED lighting into its vehicles,
+
+This homogeneous visual effect would not be possible with today's LEDs. These are individual points of light that need additional optical devices – reflectors, optical conductors or scatter optics. OLED surfaces are themselves the source of light, and the thin plates also look attractive. They weigh little, light up extremely fast, develop only a small amount of heat, last for several tens of thousand hours and don't consume any more energy than conventional light-emitting diodes. OLEDs suit Audi perfectly because they combine high-end technology, maximum precision and super design!
+
+This technology is still a few years from the showroom floor and Audi still needs to overcome the lights' 80-degree Celcius temperature limit. As soon as that's sorted, Berlitz expects these lights to begin showing up as white daytime running lights (just as the LED's did before them) before being integrated into the larger signal sets. The company is even rumored to be exploring a 3D OLED feature. [Eurocar News via OLED Display]

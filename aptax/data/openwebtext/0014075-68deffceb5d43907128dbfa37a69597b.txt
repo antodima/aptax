@@ -1,0 +1,31 @@
+Researchers have uncovered a major security vulnerability they are calling Heartbleed. It is said to have huge implications for the entire Internet.
+
+Here is an overview of the bug and how it works:
+
+Yan Zhu of the Electronic Frontier Foundation explained how the bug operates in more detail in her article Why the Web Needs Perfect Forward Secrecy More Than Ever:
+
+EFF has long advocated for websites to support HTTPS instead of plain HTTP to encrypt and authenticate data transmitted on the Internet. However, we learned yesterday of a catastrophic bug, nicknamed “Heartbleed,” that has critically threatened the security of some HTTPS sites since 2011. By some estimates, Heartbleed affects 2 out of 3 web servers on the Internet. Heartbleed isn’t a bug in the design of HTTPS itself but rather the result of a simple programming error in a widely-used piece of software called OpenSSL. It allows an attacker who connects to an HTTPS server running a vulnerable version of OpenSSL to access up to 64KB of private memory space. Doing the attack once can easily cause the server to leak cookies, emails, and passwords. Doing the attack repeatedly in a clever way can potentially leak entire encryption keys, such as the private SSL keys used to protect HTTPS traffic. If an attacker has access to a website’s private SSL key, they can run a fake version of the website and/or steal any information that users send, including passwords, private messages, and credit card numbers. Neither users nor website owners can detect this attack as it happens.
+
+In case you didn’t catch it, this bug has been around since 2011.
+
+CNET.com provided tips on how to protect yourself from the bug:
+
+Do not log into accounts from afflicted sites until you’re sure the company has patched the problem. If the company hasn’t been forthcoming — confirming a fix or keeping you up to date with progress — reach out to its customer service teams for information, said John Miller, security research manager for TrustWave, a security and compliance firm. Once you’ve got confirmation of a security patch, change passwords of sensitive accounts like banks and email first. Even if you’ve implemented two-factor authentication — which, in addition to a password asks for another piece of identifying information, like a code that’s been texted to you — changing that password is recommended. Don’t be shy about reaching out to small businesses that have your data to make sure they are secure. While the high-profile companies like Yahoo and Imgur certainly know about the problem, small businesses might not even be aware of it, said TrustWave’s Miller. Be proactive about making sure your information is safe. Keep a close eye on financial statements for the next few days. Because attackers can access a server’s memory for credit card information, it wouldn’t hurt to be on the lookout for unfamiliar charges on your bank statements.
+
+CNET also said that a site called LastPass can be used to check websites to see for their Heartbleed patch status.
+
+It has been reported that the NSA used Heartbleed for intelligence for years.
+
+According to Bloomberg.com, the NSA kept the bug secret in order to exploit its capabilities:
+
+Putting the Heartbleed bug in its arsenal, the NSA was able to obtain passwords and other basic data that are the building blocks of the sophisticated hacking operations at the core of its mission, but at a cost. Millions of ordinary users were left vulnerable to attack from other nations’ intelligence arms and criminal hackers. “It flies in the face of the agency’s comments that defense comes first,” said Jason Healey, director of the cyber statecraft initiative at the Atlantic Council and a former Air Force cyber officer. “They are going to be completely shredded by the computer security community for this.” The NSA and other elite intelligence agencies devote millions of dollars to hunt for common software flaws that are critical to stealing data from secure computers. Open-source protocols like OpenSSL, where the flaw was found, are primary targets. While many Internet companies rely on the free code, its integrity depends on a small number of underfunded researchers who devote their energies to the projects. In contrast, the NSA has more than 1,000 experts devoted to ferreting out such flaws using sophisticated analysis techniques, many of them classified. The agency found the Heartbleed glitch shortly after its introduction, according to one of the people familiar with the matter, and it became a basic part of the agency’s toolkit for stealing account passwords and other common tasks.
+
+A statement by Michael Sutton, vice president of security research at Zscaler, a San Jose, California-based security firm, sums up the seriousness of the bug and its potential impacts:
+
+“We’ve never seen any quite like this. Not only is a huge portion of the Internet impacted, but the damage that can be done, and with relative ease, is immense.”
+
+——————-
+
+Contributed by Lily Dane of The Daily Sheeple.
+
+Lily Dane is a staff writer for The Daily Sheeple. Her goal is to help people to “Wake the Flock Up!”

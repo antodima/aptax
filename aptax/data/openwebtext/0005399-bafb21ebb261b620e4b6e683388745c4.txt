@@ -1,0 +1,37 @@
+Last week, the cult USA channel TV show Mr. Robot showed once again why it is required viewing for anyone interested in technology. In a conversation between E Corp CEO Phillip Price and a top government official named Jack (a thinly-veiled Jack Lew?), he talked about his plans to get official government backing for his virtual currency, eCoin:
+
+Jack (James Lloyd Reynolds) : “…it’s unconstitutional, you can’t make your own currency. That is the Federal Government’s job! We simply cannot let you make big loans in eCoin that you would not make in dollars.”
+
+Phillip Price (Michael Cristofer): “Jack look at me. I am not the problem here. The problem here is hard cash is fading rapidly. That’s just the way of the world right now. And Bitcoin is spreading. And if Bitcoin takes over, we are all in a world of hell! It is unregulated. It has already reached its transaction volume maximum. And, it is partly controlled by Chinese miners.”
+
+Jack: “You just accepted two trillion dollars from them!”
+
+Phillip Price: “Yes, yes, and now I want to use it against them. With eCoin we control the ledger… and the mining servers. We are the authority! I will make sure you have visibility into every single wallet that’s open, every loan, every transaction; which means we can start making new assets, which means we can start rebuilding the banking sector.”
+
+In this conversation, the show reveals a grasp of technological change that few in the policy community, and fewer in government itself, display. The central issue in play with the future of money is that money is itself a technology. It is a technology for making payments (the exchange of wealth in return for goods or services) and storing value. If other technologies can provide those services better than money, then money will be replaced.
+
+We already know that money is a terrible store of value. As George Gilder points out in his recent book, The Scandal of Money, “A million paper dollars held since 1913, when the Federal Reserve Bank was created, would be worth $20,000 today, down 98 percent. A million dollars of gold in 1913 would now be worth $62 million.”
+
+Inflation eats away at its worth, which is why so many people store their wealth in things other than savings accounts, whether it be in physical gold, real estate, or artwork. None of these, however, are good at making payments of all sorts of value, which has been money’s forte since Croesus of Lydia minted the first electrum coin.
+
+Government Money's Shoddy Payment System
+
+In today’s world, however, money is also proving to be a less reliable system of making payments than other new technologies. Its clearing systems are either antiquated, like the Federal Reserve’s check clearing system, or constrained by regulation aimed at preventing fraud that results in delays in exchanges.
+
+Digital currencies, on the other hand, are proving more adept at payments than money-based systems. In Kenya, digital currency is rapidly replacing cash. Bitcoin payments are registered through the Blockchain, allowing for both rapid payment and for fraud protection (most “Bitcoin scandals” have been at exchanges where Bitcoins are changed into money, or represent theft of unsecure wallets).
+
+Yet digital currencies have plenty of weaknesses thanks to the way the financial system is regulated, as Bill Frezza discussed when he looked into the failure of e-Gold. These problems are not inherent to the technologies, but are instead built into the regulatory system because of limitations in the technology of money.
+
+Mr. Robot’s putative eCoin perhaps suggests a way around this regulatory problem – a cronyist currency controlled by one company working hand-in-glove with the government – but it is hardly one suited to innovation or solving the problems of currencies that have a political dimension.
+
+Indeed, it is the worst of all worlds, losing the ancillary benefits of cash money in terms of privacy. It represents the truly dystopian view of a “cashless society.”
+
+Free the Money
+
+Instead, the regulatory problems should be solved the way such problems are by sane societies when the regulations prove to be inappropriate – by deregulation and/or new regulatory frameworks appropriate to the new technology. Coin Center has plenty of ideas along these lines.
+
+Unfortunately, financial regulation is an area where sanity is in limited supply, which is why the Dodd-Frank Act, designed to combat the problem of “Too Big to Fail,” is immiserating African villages. And public choice theory tells us that this problem will be hard to fix.
+
+This is why reforming the regulation of payments systems to be innovation-friendly may represent the easiest way to square this particular circle. If existing networks and international standards can learn from how digital currencies work, and incorporate their best features, we may yet see how the dystopian nightmare posited by Mr. Robot can be averted without society bringing down the global financial system.
+
+This piece ran on CEI's blog.

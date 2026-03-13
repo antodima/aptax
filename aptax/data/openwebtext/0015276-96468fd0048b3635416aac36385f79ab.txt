@@ -1,0 +1,39 @@
+Bitcoin cash’s developer team is shedding new light on how it might manage the world’s third most valuable cryptocurrency network.
+
+Details, not only about its development roadmap, but also the ideas of its development team, have so far been sparse since the new blockchain forked off bitcoin on August 1. Yet given the sudden, controversial manner in which it was created, it might come as no surprise that bitcoin cash’s developer team isn’t taking a more conservative approach.
+
+In an email addressing other bitcoin cash developers over the weekend, Amaury Sechet, lead developer of the main bitcoin cash client, Bitcoin ABC, argued that the network should pursue an aggressive means of increasing its transaction capacity.
+
+Sechet wrote:
+
+“If we want to scale big, we’ll have to do a [hard fork] from time to time.”
+
+This could be a questionable plan, however, since critics contend that developers shouldn’t have the power to enforce hard fork changes not everyone in the ecosystem will agree with. Further, since such changes could lead to splits into competing assets, it’s widely believed developers should deploy changes in a way that prioritizes keeping the network together.
+
+Supporters, though, argue that hard forks offer a way to make more types of software upgrades, and give users more choice over technical decisions.
+
+Pushback remains
+
+In an effort to highlight those benefits, Sechet proposed a rough roadmap of hard fork changes he believes will lead to the best future scaling, including changing how transactions are ordered and block data is computed.
+
+According to the developer: “There seems to be a few changes that are relatively obvious, but hard to advocate for in a climate where [hard forks] are not acceptable.”
+
+And his conclusion may be right.
+
+Already, there’s disagreement about how often hard forks should be deployed. In an earlier email thread, bitcoin classic (another client compatible with bitcoin cash) developer Tom Zander argued against executing too many changes that way, saying:
+
+“At every hard fork we put a strain on the ecosystem. Less is better.”
+
+Other upgrades
+
+Forks or otherwise, this isn’t the only challenge bitcoin cash developers will have to decide on.
+
+For one, developers are discussing better mining difficulty algorithms, since the current one, while enticing to bitcoin miners in the short term, might lead to problems for the cryptocurrency down the line, especially since bitcoin cash hasn’t yet been widely adopted.
+
+Further, in an effort to entice more users to use the cryptocurrency, developers want to keep transaction fees close to zero – an effort to further differentiate itself from bitcoin (which has seen higher average transaction fees as of late).
+
+“We want to bring back zero-fee transactions ASAP,” bitcoin cash developer Calin Culianu told CoinDesk. “This lets people that want to save money transact cheaper. This is bitcoin the way it was back in 2013, when I first fell in love with it.”
+
+Though, he admitted this could “open the floodgates to spam attacks” and have a negative impact on the network, it provides further evidence of the design decisions currently being considered in an attempt to differentiate the cryptocurrency.
+
+Fork and knife image via Shutterstock

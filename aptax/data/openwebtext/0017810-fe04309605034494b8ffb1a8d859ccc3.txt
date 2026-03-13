@@ -1,0 +1,49 @@
+When The Magazine ceases publication this December, owner Glenn Fleishman will be closing shop on an ambitious two-year experiment in digital publishing.
+
+It’s not a total surprise — subscriptions were already on a downward trend when Fleishman transitioned from editor to owner of The Magazine after purchasing the publication from Marco Arment last year — and it’s not a total bummer, either.
+
+In fact, Fleishman says he’s feeling pretty good about stopping here: he’s met his obligation to provide Kickstarter backers with their one-year subscriptions, and he’s ending this fascinating experiment while it’s still profitable.
+
+“I’m even able to pay myself an ever-declining hourly rate for my time,” said Fleishman, who spoke with Cult of Mac about what went right, what went wrong, and his feelings about pulling the plug on a project that was his full-time job for the last year and a half.
+
+For Fleishman, this is a thoughtfully planned ending rather than a forced, last-minute exit. He counts this period of his career as one long learning process, for himself as well as for the folks behind the publishing platform he used, TypeEngine. (He even learned quite a bit about book publishing when putting together the crowd-funded print archive The Magazine, Year One.)
+
+Nevertheless, The Magazine is shuttering, and there’s no single reason for the publication’s failure. The following are nine hard lessons he learned that contributed to the tough decision.
+
+Topical drift can hurt: When it first came out, The Magazine was a unique thing. “It was a really great, unique idea — it was independent, it was paying people,” he said, “and it was the only one on Newsstand that was compact and lightweight. People subscribed out of interest.”
+
+The Magazine pulled in almost 35,000 subscribers on launch (the title currently only has 7,000 to 8,000). To contrast that, Rupert Murdoch’s experiment in digital publishing, The Daily, attracted 80,000 subscribers, a sixth of what the media giant said he needed to break even.
+
+The Magazine started out publishing a lot of personal essays that were about technology, by app developers and other folks in technology, who were also the target audience. Fleishman and Arment quickly realized that kind of content couldn’t sustain the publication.
+
+“We started doing reported features and we started stretching,” Fleishman said. Many of the original readers weren’t interested in these new stories, even though Fleishman thinks everyone would have gotten bored by too many tech-focused personal stories.
+
+“It would have become too blog-like over time,” he said, “with stuff like you could read elsewhere.”
+
+Newsstand changed for the worse: “iOS 6 Newsstand was good for the publication,” said Fleishman, “but iOS 7 Newsstand was bad.” Apple, he said, lost interest in its iOS publishing hub.
+
+“They hid it, they made it sort of ugly, and they suppressed the screen previews in the interest of flatness,” he said. Loyal subscribers canceled subscriptions, he said, because they forgot that new issues existed, even with Notifications and email reminders. It wasn’t in their face enough, something Fleishman attributes to the lack of publication-supportive design in Newsstand, which lost the little dot and any active cover previews of new issues.
+
+“Apple’s disinterest in the Newsstand didn’t doom The Magazine,” he said, “but it certainly meant that people who were already subscribers forgot it existed, and contributed to the drop in subscriptions.”
+
+Notifications aren’t always helpful: Apple sent out emails to subscribers reminding them that their subscriptions were about to renew. Fleishman notes that this counter-intuitively made people unsubscribe: If folks weren’t reading The Magazine because they forgot it had new issues, a reminder that they were “wasting” money each week didn’t help.
+
+Targets can be too broad: Another thing Fleishman thinks contributed to The Magazine’s loss of subscribers was that the complement of content was just too broad. The original tagline, “For curious people with a technical bent,” was hard to pitch to both advertisers and potential readers, the latter of which consisted of tech-savvy people unhappy with the quirky stuff The Magazine was publishing as well as less-savvy folks.
+
+The garden was walled: The publication’s website wasn’t really built out until June of last year. “We failed to capture readers early that way,” said Fleishman, “and many people still don’t realize they can read it online with a login.” Subscribers can download .epub and .mobi versions of the issues, but most didn’t take advantage.
+
+Making a Newsstand app is labor- and cost-intensive. Fleishman isn’t sure he’d decide to go the same route today if he was commissioning a publication like The Magazine. “I would have avoided the expense of a native app,” he said, “and focused entirely on a backend with super-responsive design and eventually restyle as an app, or adopt a platform like TypeEngine.”
+
+Not enough flash: Fleishman put in thousands of dollars and an equal number of hours designing parts of the app, but never was able to do the serious work of making the app interesting enough for people who like the flash and bang of modern media apps. People lost interest in the app itself at the same time that Newsstand was side-lining publications, making The Magazine lose subscribers faster than it was picking them up.
+
+Not everyone can be an Internet personality: “If I were Guy Kawasaki,” said Fleishman, “I’d have 100,000 subscribers right now, but, sadly, I’m not.” Attention, he said, is an extremely scarce commodity — he was unable to attract enough interest in the writing quality alone to really bring and maintain attention to The Magazine.
+
+Original content is tough: Building an all-commissioned digital magazine is time- and labor-intensive. The Magazine started as a publication and then became a website. Fleishman suggests it would have been better using Web content to populate a digital magazine (and points out that some sites, like Cult of Mac and The Loop, are already doing this). That way, he said, readers get all their content in one well-designed space without a publisher having to split their already beleaguered staff into yet another content stream. People love to get content in a different reading experience, he said.
+
+Ultimately, notes Fleishman, all these factors combined to lead to the shuttering of The Magazine. Anyone starting up an independent digital magazine like it these days would be best served using a platform like TypeEngine, he said, and effectively keeping startup costs low.
+
+The Magazine has been profitable. Nobody lost any money in the venture, which has paid out a half-million dollars to its writers. Because of that, Fleishman is not unhappy at all about having to end this part of his career, though he would do it differently if he started today.
+
+“I would rather bring [a digital magazine] into being and make it flower,” he said, “as opposed to starting at a super-high point but with an extremely expensive and time-consuming infrastructure.”
+
+Fleishman is currently finishing a The Magazine: The Book (October 2012 to October 2013).

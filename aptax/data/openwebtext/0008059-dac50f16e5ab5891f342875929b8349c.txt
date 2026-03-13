@@ -1,0 +1,47 @@
+This October 21, 2013 photo shows the US government internet health insurance exchange Healthcare.gov. US President Barack Obama on Monday defended his problem-plagued health reform plan, declaring at a White House event that, despite numerous glitches, the program is already helping many uninsured Americans. "Let me remind everybody that the Affordable Care Act is not just a website," Obama said, after the troubled online rollout of the plan. "It's much more...You may not know it, but you're already benefiting from these provisions in the law."AFP PHOTO / Karen BLEIER (Photo credit should read KAREN BLEIER/AFP/Getty Images) (credit: KAREN BLEIER/AFP/Getty Images)
+
+SALEM, Ore. (AP) — With a reputation as a pacesetter in health care, Oregon laid out bold plans for complying with the federal overhaul.
+
+The state wouldn’t just create a health insurance exchange, a complicated undertaking in its own right. Oregon officials set out to build one of the biggest and best in the nation — a model that other states would want to copy.
+
+But more than a month after Cover Oregon’s online enrollment was supposed to launch, reality is lagging far behind Gov. John Kitzhaber’s grand ideas. The online system still doesn’t work, and the exchange has yet to enroll a single person in health insurance.
+
+Interviews with state officials and a review of public records by The Associated Press suggest Cover Oregon officials bit off more than they could chew and clung to their ambitious vision even when their risk management consultants raised alarms.
+
+While rushing to get the exchange done, programmers and project managers also were busy with separate complex computer projects for the Oregon Health Authority and the Department of Human Services.
+
+Cover Oregon officials say they’re working hard to finish the project and insist the features they’re creating will be worth the wait — even if it remains unclear when the site will go online.
+
+“We stuck to the vision, and we’re experiencing now the bumps that go along with having a grand vision that doesn’t work out exactly the way you hope it will,” said Amy Fauver, chief communications officer for Cover Oregon.
+
+Fauver said “we’re confident that we will get the system up and running here in the near future” and that it “will be something we can be really proud of.”
+
+More than $300 million has been spent on the exchange so far, but the online enrollment system is still having trouble accurately determining whether people in complex family arrangements are eligible for Medicaid or the Children’s Health Insurance Program.
+
+Cover Oregon officials say their launch has been delayed because they refuse to put out an imperfect product and fix the bugs later. And they say their whole system is more complex and has more features than most other states — but that also means more things can go wrong.
+
+Some of the complexity they face is inherent in Oregon’s health care environment, which is unusually competitive. Eleven insurers are selling plans through Cover Oregon; some states have just a handful. Oregon also has complicated eligibility rules for Medicaid and the Children’s Health Insurance Program — known here as the Oregon Health Plan and Healthy Kids.
+
+Some of the complications, though, are self-imposed, by the aspirations of the Legislature, the governor and the exchange’s own leadership. When other states delayed or gave up on a concept called “no wrong door,” Oregon held on, and is still holding on. The goal is to give people one portal — the Cover Oregon website — to sign up for insurance, whether they qualify for commercial insurance or Medicaid. In most other states, people who appear to qualify for Medicaid are sent to a separate enrollment process through the state Medicaid office.
+
+From the very beginning, Oregon promised a “one-stop shop” for health insurance and, for better or worse, has refused to waiver. That means the state is seeking an entirely automated process for determining Medicaid eligibility and enrolling.
+
+Once state lawmakers approved the exchange in 2011, the first stages of development were done by the Office of Information Services for the Oregon Health Authority and the Department of Human Services. At the same time, as it was overseeing construction of the exchange’s back-end information technology, the information office was also working on a massive project to modernize the internal computer systems for the health authority and human services agency. They were trying to use the same software to determine whether people are eligible for all public-assistance programs — not just Medicaid, but also programs like food stamps and welfare.
+
+Carolyn Lawson, chief information officer for the health and human service agencies, said she doesn’t think work on modernizing her department’s own systems slowed down the architecture for Cover Oregon.
+
+“There was always the fear that one project would overtake the other in importance, but it was two separate agencies and two separate projects,” Lawson said. “It was a risk, but it did not happen.”
+
+Eventually, it might allow someone to fill out a single form and find out automatically whether they’re eligible for a variety of public assistance programs.
+
+Over the past year, Cover Oregon’s risk consultant, Maximus, warned that the project was in danger of missing the Oct. 1 deadline to go live. In March, Maximus suggested that Cover Oregon re-organize its business to make individuals, small businesses and Medicaid distinct so one piece could be delayed if it was holding up the others. Cover Oregon rejected the suggestion, saying it was required to launch everything together on Oct. 1.
+
+Oregon’s exchange struggles are far from isolated. The federal website running exchanges for 36 states has been mired with problems, and many states that are running their own exchanges have endured small glitches. But Oregon’s problems stand out, both because of their severity and because the state has held itself out as a leader.
+
+There’s still no estimate for when online enrollment will be available, and officials are now urging people who need or want insurance to fill out a paper application or an online PDF and send it in as soon as possible. Applications are being processed by hand — a process that’s likely to take weeks, rather than the minutes that the website promised.
+
+On Friday, the state announced plans to hire at least 400 people to process the paper applications.
+
+“It is a complex system,” Kitzhaber said at a recent news conference when asked whether the state took on too much complexity. “But I think once we get through this initial rollout phase it’s going to be a real asset for us.”
+
+(© Copyright 2013 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten or redistributed.)

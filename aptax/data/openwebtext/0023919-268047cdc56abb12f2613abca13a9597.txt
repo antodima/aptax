@@ -1,0 +1,149 @@
+Steam Link beta build 606
+
+Improved performance for Bluetooth audio
+
+
+
+Added support for the Razer Wildcat controller
+
+The HDMI port is powered down when the Steam Link goes to sleep, and should have better compatibility with CEC enabled TVs
+
+
+
+Steam Controller right pad and triggers act as a mouse for native applications
+
+Upgraded Qt to version 5.8.0 and now the complete runtime environment is available for native applications
+
+Fixed sharing the Thrustmaster TX with the remote computer using VirtualHere
+
+
+
+Fixed using the PS4 controller locally after sharing it with the remote computer using VirtualHere
+
+Fixed timeout connecting to the remote computer when Big Picture starts slowly
+
+
+
+Updated streaming audio to opus 1.1.4 for a small performance improvement
+
+Fixed occasional problem with Bluetooth no longer scanning on the Bluetooth settings panel.
+
+Fixed increasing audio latency when the remote computer is sending audio faster than expected
+
+
+
+Implemented rumble support for the XiaoMi Bluetooth controller
+
+
+
+Prompt the user to put their Bluetooth controller in discoverable mode if the controller thinks it's paired with the Steam Link but the pairing has been removed (or factory reset)
+
+Implemented support for rumble over Bluetooth with the XBox One S controller
+
+Made it possible to cancel the controller mapping UI
+
+
+
+The controller mapping UI comes up if you connect an unknown Bluetooth controller
+
+
+
+Added support for the 8Bitdo NES30 Pro and iBuffalo SNES Controller
+
+
+
+Switched the default Wii U Pro Controller button mapping to match the physical layout of a Steam Controller
+
+Added support for entering a PIN code to start streaming, with the Steam client beta
+
+
+
+Improved controller mapping UI to support more third party controllers
+
+
+
+Added support for the Mayflash GameCube controller adapter
+
+
+
+Added support for some third party SNES controllers
+
+
+
+The Steam Link no longer wakes up when plugging in non-sound / non-input devices
+
+Added an option to disable video streaming in the advanced streaming settings
+
+
+
+Added an option to reset advanced streaming settings to default
+
+
+
+Added support for using the Logitech G920 racing wheel with VirtualHere
+
+
+
+Fixed a cause of the PS3 controller being unable to connect wirelessly
+
+
+
+Fixed Wake On LAN timing out early in some circumstances
+
+Upgraded to BlueZ 5.43 for improved Bluetooth device compatibility
+
+
+
+Automatically pair with the PS4 controller when it's plugged in via USB
+
+
+
+Fixed pairing with the Microsoft Foldable Keyboard
+
+
+
+Fixed delay on button presses when using the Steam Controller with local apps
+
+
+
+Fixed occasional difficulty connecting to wireless networks
+
+Disabled Bluetooth headsets by default, because of performance issues
+
+
+
+Added audio settings to change output (allowing use of Bluetooth headsets and PS4 controller headphone jack when plugged in via USB)
+
+
+
+Added controller settings to setup third party game controllers
+
+
+
+Automatically re-pair with Bluetooth devices that have been paired before and are put back in pairing mode while on the Bluetooth or connect input screens
+
+
+
+Added support for the XiaoMi Bluetooth controller (小米蓝牙手柄)
+
+
+
+Stopped waking when USB devices are unplugged
+
+
+
+You can add the USB VID/PID of devices that aren't waking the Steam Link by putting them in the file \steamlink\config\system\usb_blacklist.txt on a USB drive, inserting it in the Steam Link and power cycling it. The lines are in the form VID,PID, e.g. 0x2378, 0x1008
+
+
+
+Fixed re-connecting to a network via WPS
+
+
+
+Increased the timeout for WiFi password entry to 5 minutes
+
+
+
+Increased the Wake On LAN wait time to 5 minutes
+
+Changes for build 606:Changes for build 600:Changes for build 597:Changes for build 589:Changes for build 587:Changes for build 585:Changes for build 584:Changes for build 582:Changes for build 581:Changes for build 578:Changes for build 575:Changes for build 574:Changes for build 572:

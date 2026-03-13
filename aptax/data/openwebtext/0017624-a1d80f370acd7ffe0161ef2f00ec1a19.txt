@@ -1,0 +1,95 @@
+Tech / Help
+
+Deep dive: What makes the Demon so wicked?
+
+by Patrick Rall
+
+At a small Detroit media event, SRT powertrain boss Chris Cowland laid out all of the fine details of the 2018 Dodge Challenger SRT Demon.
+
+The 2018 Challenger Demon had two simple guidelines during development – to run a 9-second quarter mile and to lift the front wheels off of the ground on launch, both in street legal trim.
+
+Once the Demon was given the green light, Dodge added a few initial requirements, including an engine power increase of 10% over the Hellcat Hemi, and launch forces at least 20% greater than the standard Hellcat Challenger. At the same time, the Demon had to be emission-legal in all 50 states (meeting LEV160), meet pass-by noise requirements, and pass strict SRT durability testing.
+
+The result is a 4,200 pound muscle car which will run a 9.65 quarter mile and lift the front wheels off of the ground on a hard launch with an 840 horsepower Hemi – which meets all emission and noise requirements set for by the industry and the company. Most importantly, the new Demon is 100% street-friendly, so in addition to being the quickest production car in the world, it can also serve as a comfortable daily driver.
+
+This was achieved by introducing a new version 6.2-liter supercharged Hemi, with 62% of the content changed from the original Hellcat Hemi — including a new block, crankshaft, connecting rods, pistons, and supercharger assembly.
+
+That 840 horsepower Hemi is mated to a new 8-speed automatic transmission which has been heavily upgraded with a new torque convertor and trans brake. From that stronger transmission, the power travels through a stronger driveshaft to a stronger rear differential with a steeper gear ratio and stronger axles – reaching the ground by means of the lightweight 18” wheels and the Demon-branded Nitto NT05R tires.
+
+We knew all of that when the car was introduced back in April, but below, you will find a detailed rundown of how each key component of the drivetrain in the 2018 Dodge Challenger SRT Demon differs from the Hellcat Hemi.
+
+Induction system
+
+The Air Grabber Hood is a functional hood scoop system which feeds a high volume of cold air to the airbox, along with dual air catchers in the grille (replacing the fog lights) — all feeding the 14.8 liter air box. A new oiled conical air filter has a 72% increase in filtered air, compared to the standard Hellcat air filter (712 cm2 in the standard Hellcat, 1,224 cm2 in the Demon).
+
+After the air filter, the air passes through a low restriction air intake system, with 25% less resistance than the Hellcat intake setup at full power, and into the new 92mm throttle body. This whole system has been tuned to offer the best flow possible, while meeting all pass-by noise rules.
+
+Supercharger and Drive System
+
+The 2018 Dodge Challenger SRT Demon features a new 2,700cc supercharger housing, with 320cc more air volume than the Hellcat supercharger. This increase in volume was achieved by adding longer rotors, both of which are 28mm longer than the Hellcat blower.
+
+The air being sucked into the 2,700cc IHI supercharger passes through a revised front bearing housing, so the air enters the supercharger more easily while providing some cooling effect for the front bearing assembly. When coupled with the dual integrated charge coolers and the electric bypass valve, the maximum boost pressure rises from 11.6 in the Hellcat to 14.5psi in the Demon, as the 2.36:1 drive ratio leads to a maximum supercharger speed of 15,340rpm (at 6,500 engine rpm).
+
+To get an idea of how much air we are talking about, Dodge points out that on a quarter mile run, the Demon’s Hemi will take in around 173 cubic feet of air – or the lung capacity of 816 human lungs. Also, at the 800-foot mark of a quarter mile run, which takes only 7.35 seconds at wide open throttle, the Demon could effectively suck all of the air out of the 105 cubic foot cabin.
+
+The Cooling Module
+
+The Demon features a high tech cooling module which works with the water-to-air heat exchangers integrated into the supercharger housing. The cooling module includes the “normal” engine coolant radiator (high temp loop), the low supercharger cooling system (low temp loop) and the components of the SRT Chiller system. With the auxiliary cooling pump, the supercharger’s cooling system can move around 45 liters of coolant per minute – allowing the system to reject around 258kW at full power.
+
+In other words, the amount of energy during the cooling process is equivalent to 258kW or heat energy – enough to boil a quart of water in 1.2 seconds. That is about as much thermal power as 250 electric toasters.
+
+The Fuel System
+
+The fuel system of the 2018 Dodge Challenger SRT Demon starts with a set of larger fuel injectors with 67g/s flow at full power. These injectors are optimized for a high flow supercharged engine, with 20 degree bent spray and a 17 degree cone. These injectors are fed by a pair of high volume in-tank fuel pumps, which allow a 27% increase in peak pressure compared to the Hellcat.
+
+At full power, the Demon’s fuel system peaks at 510lb/hr, or around 1.36 gallons per minute. The showerhead in your bathroom likely flows around 2 gallons per minute, so the Demon uses almost as much gasoline in one minute as you use water in one minute of showering.
+
+Cylinder Heads and Valve Train
+
+The cylinder heads of the 2018 Dodge Challenger SRT Demon are, of course, a hemispherical (Hemi) design, with a 34.5 degree valve angle and M14 spark plugs. These heads are constructed of high strength, high thermal conductivity aluminum alloy (A356) with heat, quench, and solution treatment. They have single groove collets for improved stability, with revised design valve springs and top retainers; 33% more oil cooling for the valve springs and the rocker tips work to keep the system cool at high RPM.
+
+When combined with the high temperature resistant cylinder heads, the two piece valves (hollow intake valves, sodium filled exhaust valves) are good for continuous heat loads of 800°C.
+
+The Demon’s gun-drilled steel camshaft has different profiles from the original Hellcat. The newest supercharged Hemi has intake and exhaust lift of 14.25mm and 14mm, lobe centers of 109° and 137°, and durations of 224° and 240° at 0.050” of lift. This camshaft is paired with hydraulic roller tappets (no MDS) and hydraulic actuated variable valve timing, with a total variation of 17°.
+
+The Engine Block
+
+The Demon’s unique red-painted engine block is constructed of high strength cast iron with 4-bolt steel main caps. The engine has been deck plane honed to minimize engine bore distortion at high RPM while the revised design main bearing cap bolts with increase clamp load and the increased cylinder head clamp load (52kN to 80kN) afford the Demon peak fire pressure in the combustion chamber of 135 bar (1,958psi) when running on race gas.
+
+The Rotating Assembly
+
+The supercharged Hemi of the 2018 Challenger Demon has a heavily revised rotating assembly, including a forged allot steel crankshaft with a 90.9mm stroke and revised balancing which is secured against induction hardened crank bearing surfaces running in high load capacity beatings with individual journal optimized main bearing clearances having as much of a difference as 10 microns compared to the Hellcat.
+
+The Demon’s pistons are comprised of forged high strength alloy with an inclined box wall for added support; piston cooling jets provide 100% more oil flow cooling to each cylinder. The revised connecting rods feature an enlarged big end and enlarged shank with a tapered small end, along with high tensile fasteners on the rods – resulting in a capacity of 210,000psi.
+
+At full power, the rotating assembly faces 11.1 tons of force on compression stroke and 3.2 tons of pressure on the exhaust stroke- each 50 times per second. (For comparison, an assault rifle fires a 25 gram projectile at 2000 G; the pistons in the Demon, which weigh 695 grams, accelerate at around 2,600 G).
+
+The Lubrication Circuit
+
+The Demon’s Hemi is kept oiled by a high flow, 25cc/revolution oil pump driven off of the crankshaft nose. In addition to the normal oiling flow through the engine, the Demon includes 8 high flow piston cooling jets with check valves, with up to double the oil flow of the Hellcat system. The top end flow to the springs and rocker arms arrives with 33% more volume than the Hellcat.
+
+To deal with the 1.8Gs experienced during a hard launch, the Demon has a unique windage system in the oil pan to keep the Pennzoil/SRT 0W-40 oil under control.
+
+Exhaust System
+
+The Demon’s exhaust begins with a set of double wall, insulated, high temp tubular stainless steel exhaust headers which lead to a set of high temperature close-coupled catalysts and a 73mm diameter low restriction dual exhaust system. This system has a custom-engineered exhaust note via the electronic valves, reducing backpressure to just 66kPa at full power.
+
+Transmission
+
+Like the standard Hellcat, the Dodge Challenger SRT Demon has a heavy duty 8-speed automatic transmission with shift paddles; unlike the ordinary Hellcat, the Demon uses an upgraded 151k torque convertor, with an 18% increase in torque multiplication and an 11% increase in stall speed.
+
+When in Drag Mode, the Demon’s transmission moves from gear to gear in just 400 milliseconds while the Track Mode shifts take 200ms. The transmission could actually shift faster and harder in Drag Mode, but to put the most torque to the ground as efficiently as possible, the engineers found that the 400ms shifts has the best performance.
+
+The Demon’s integrated TransBrake locks the output shaft at an engine speed of up to 2,350rpm. This leads to a 110% increase in engine stall torque on launch compared to a simple brake torque launch – yielding 18% more torque at the rear tires when this beast leaves the line.
+
+The Driveline
+
+The entire driveline of the 2018 Dodge Challenger SRT Demon has been revised to handle the extreme power and the extreme loads during launch. This begins with an upgraded driveshaft with 20% thicker high strength steel tubes and stronger steel stub shafts. From there, the power heads into the uni-directional, limited slip differential in an upgraded housing which holds a new 230mm ring gear and 3.09 gear set.
+
+Between the differential and the Demon’s lightweight wheels is a set of upgraded half shafts with 8-ball cross glide inner and outer joints, an increased diameter barshaft with 41 end spline count and high alloy steel inner/outer stub shafts.
+
+The culmination of these unique components is a 4,200-plus pound Dodge Challenger which packs 840 horsepower and 770 pound-feet of torque – enough to propel it down the quarter-mile track in just 9.65 seconds. As Dodge pointed out, the Demon makes more horsepower by 4500 rpm and more torque by 2300 rpm than the new Chevrolet Camaro ZL1. It makes more horsepower by 3,800 rpm and more torque by just 1,300 rpm than the Nissan GTR – Japan’s top performance car – and it beats the McLaren 720S by 131 horsepower and 202 pound-feet of torque.
+
+Released today: How they kept the secrets of the Demon • Hear the Demon roar, watch it fly
+
+Dodge Challenger Demon • Demon Reveal • Behind the hints • Colors • Original Demon

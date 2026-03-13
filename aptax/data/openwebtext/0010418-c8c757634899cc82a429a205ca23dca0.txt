@@ -1,0 +1,17 @@
+247 SHARES Facebook Twitter Linkedin Reddit
+
+Back toward the end of 2015, light field camera company Lytro announced a major turn toward the VR market with the introduction of ‘Immerge’, a light field camera made for capturing data which can be played back as VR video with positional tracking. Now the company is showing the first footage shot with the camera.
+
+Lytro has made point-and-shoot consumer light field cameras since 2012. And while the company has had some success in the static photo market, the potential market for the application of light field capture has pulled the company into VR in a big way.
+
+Immerge, a 360 degree light field camera in the works by Lytro, captures incoming light from all directions. With not only the color of the light, but also its direction, the camera is capable of capturing data representing a stitch-free snippet of the real world, and (uniquely compared to other 360 degree cameras) the data which is captured allows for positional tracking from the user’s head (the ability to move your head through 3D space {‘parallax’} and have the scene react accurately).
+
+This ability is one of the major advantages over standard film capture, and is seen as critical for immersion and comfort in VR experience. Now, Lytro is showing off the first light field footage shot by their Immerge camera; they say it’s the “first piece of 6DOF 360 live action VR content ever produced.”
+
+Light field captures from Lytro’s camera also have a few other tricks, like the ability to change the IPD (distance between the stereo images, to align with each user’s eyes) and focus as needed in post-production.
+
+The company says that Immerge’s light field data captures scenes not only with parallax, but also with view-dependent lighting (reflections that move correctly based on your head position), and truly correct stereo which works no matter the orientation of your head. Traditional 360 degree camera systems have issues showing stereoscopic content when the viewer tilts their head in certain directions, while Immerge’s light field captures retain proper stereo no matter the orientation of the head, Lytro says.
+
+According to Lytro’s VP of Engineering, Tim Milliron, Immerge can render up to 8k per eye resolution, synthesizing the view from hundreds of constituent sub-cameras. Milliron says the company expects content creators to use Immerge’s light field captures like a high quality master file, from which a high-end 6DOF-capable experience could be distributed in app-form to desktop VR headsets, or other more basic 360 video files could be rendered for uploading and playback through traditional means.
+
+Last year, Lytro raised a $50 million investment to pursue their VR interests. While the company initially expected to have Immerge ready in the first half of 2016, it’s just now in Q3 that we’re seeing the first test footage shot with the device. Felix & Paul Studios, Within (formerly ‘Vrse)’, and Wevr were initially said to be among the first companies outside of Lytro to get access to the camera to begin prototyping content. The company is also accepting applications for access to the prototype camera on the official Immerge website.

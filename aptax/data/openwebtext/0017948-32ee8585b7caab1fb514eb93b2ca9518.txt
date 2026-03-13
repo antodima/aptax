@@ -1,0 +1,39 @@
+Greetings adventurers!
+
+We hope everyone is enjoying their time in the Forgotten Realms so far. We appreciate all of the feedback you’ve given us over this first week and are actively working to ensure Neverwinter is the best experience possible. We’ve noticed a few common threads the community has brought up that we’d like to address heading into week two.
+
+Why am I experiencing lag?
+
+The short answer is several factors determine network conditions on an individual basis, and since Neverwinter is a living online world, we're still forging the best experience possible to accomodate all of our new players. We ask you to bear with us while we work on lag issues, and appreciate your continued feedback.
+
+What are the steps to creating a Guild?
+
+Your entire party of five must be level 15 or above and in the same instance of Protector’s Enclave. Once those requirements are met, the leader will name the guild and all players will enjoy guild privileges including guild bank slots*, a guild tag, and guild chat.
+
+*Only allow your most trusted guild members access to your guild’s bank as they will have complete control of its contents after access is granted.
+
+What is invoking and how do I do it?
+
+Invoke early, invoke often. Invoking allows players to earn a small bonus of experience, consumables, and Astral Diamonds every hour. While near a campfire or after using a portable altar, press LB + right on the d-pad to gain this hourly bonus.
+
+Will there be maintenance every week? What occurs during maintenance?
+
+Every Tuesday, Neverwinter will close its gates to all users for a brief period of time; usually around two hours. During maintenance, the team at Cryptic Studios applies game patches, optimizes backend processes, and ensures that nothing has gone wrong since the last week’s maintenance period. Watch our @NeverwinterGame for the latest maintenance updates.
+
+I want to focus on Dungeons & Skirmishes, I don’t want to wait in a queue. What’s the best way to prioritize them?
+
+In game, pull up chat using LB + down on the d-pad. Once chat is open, change your channel with RB & LB to [Looking For Group]. Now just type your next objective into chat with your controller, keyboard, or Smart Glass and you'll surely find a group of goal-oriented adventurers in no time. You can also try using the hashtag #NWXboxLFG on Twitter or use our forums http://bit.ly/1HIyTxD to build a party for maximum skirmishing/dungeoneering efficiency!
+
+How does the Astral Diamond Exchange work?
+
+Neverwinter’s Astral Diamond Exchange allows players to exchange Zen with Astral Diamonds and vice versa. Players have a range of top currency exchange rates to choose from exchange the currencies, or they may determine their own amount. These player determined exchanges cause game-wide rates to fluctuate. The best way to maximize your currency exchange is by watching for in-game economy trends and keeping an eye on the rates. The exchange can be found by pressing the Menu button, selecting the Store tab, then choosing Astral Diamond Exchange. Some exchanges may not happen instantly, so please be patient while the exchange occurs.
+
+I’m level 60, or will be soon; what now?
+
+Tyranny of Dragons is a huge campaign and includes a ton of highly replayable content. Once your adventurer reaches level 26, simply select "Campaign" under the Start menu's Quests tab to begin the Tyranny of Dragons. Players can look forward to half a dozen deadly encounters with dragons including a showdown in the Lair of Lostmauth; unique, class-specific Draconic gear and Infernal armor that provides magical bonuses when worn as a full set; as well as rare artifacts and weapons only available by completing Tyranny of Dragon content. For a more in-depth breakdown of the Tyranny of Dragons loot and content check out the Neverwinter wiki.
+
+Further optimize your endgame experience by visiting Rhix and the Dungeon Key Master before tackling any quests each day. Also, don’t forget to invoke! Before you depart Protector’s Enclave, party up with some friends or Guildmates, then select your favorite Epic Dungeon, Skirmish, or Heroic/Daily for a chance at Tyranny of Dragons loot, the highest tiered loot currently available in Neverwinter!
+
+Why can’t I stop playing Neverwinter?
+
+Evil doesn’t rest, so neither should you! Please, adventure responsibly.

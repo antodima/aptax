@@ -1,0 +1,75 @@
+A bunch of developers published the ' agile manifesto ' in 2001 after they got fed up with the many software projects that hadn't worked. They thought that these projects were too complicated and too slow, in other words, they weren't sufficient enough. The developers had to do many unnecessary things. The system was inflexible and couldn't cope with changes. It was difficult to plan projects which eventually weren't accomplished on time. The participants were always stressed. And then the agile design process was born.
+
+The aim of the agile design process
+
+The projects were previously organized in a linear way. The first step was to analyze the problem and write a specification. The next phase was the design and development planning process. Softwares were programmed based on the plans. Then they were tested. Most of the time testing included only functional testing. Softwares were checked in order to determine whether they functioned perfectly.
+
+The main problem was that this process took too long and there were only experts who oversaw the product. The users and the business side did not. Any problem occurring during the long development process was noticed only at the end and everything had to be done from scratch.
+
+Today we want to produce business results quickly. These could only be reached by dividing the project into smaller pieces instead of building one huge project. These pieces should be standalone products, so they have to generate value for the end-users. They should be something you can show to customers or business leaders.
+
+New waves, the agile design process
+
+In an agile environment the phases run parallel instead of following each other. We design, develop and test at the same time. We divide the product into smaller, independent, viable parts that can be released individually. We can design, develop and test these small parts faster and as a result we can get faster feedback from users and the market. If there’s a mistake it comes to light in no time and we can fix it immediately. Therefore, there’s no waste of money and time.
+
+We try to get rid of every unnecessary task. For example, we don’t create infinite documentations, but we prefer personal communications. Here is another post on how we use design as a tool for communication. We just try to avoid designing something that users can’t use.
+
+How does UX help to be more agile?
+
+With UX design and advanced UX research methods we can build more agile development processes. Here are the 4 most important standpoints:
+
+Finding real pain points
+
+Problems can be identified in an existing software or in the user’s life as well thanks to the UX research process. So we are going to develop functions that suffice real user demands. Some methods that you can use:
+
+interviewing
+
+jobs to be done
+
+field research
+
+experience sampling
+
+Building prototypes and iterate fast
+
+UX designers have tools for building prototypes from an idea in a short period of time. Prototypes are the best way to try out more ideas simultaneously. And we iterate them. It is easier to make changes on a prototype than a pixel perfect design, or a running code.
+
+Quick feedback from the users
+
+The prototypes are tested before we create the detailed design and send it to the programming phase. Plans are ready to go to the next stages if they worked well for users.
+
+Better communication
+
+We involve the whole team in the process. We, designers, are not lonely fighters. We are connectors. Connectors between users, developers and business leaders. We arrange workshops which gives us a great opportunity to gather the whole team together so we can brainstorm or make decisions cooperatively. And last but not at least, the final wireframes are better than any written specification. They show every feature and how they work.
+
+We recently wrote an ebook: “Product Managers’ guide to UX design”. Click here to download!
+
+Design sprints
+
+We organize our tasks in sprints like developers do. A design sprint starts with a design meeting. This meeting have to be attended by the designers and by someone from the business and from the development side as well. It is a good chance to present the final design works and results of the researches. And then the team makes decisions regarding the upcoming questions. At the end of the meetings they clarify the action points, the tasks for the next sprint. And then the next sprint starts.
+
+We like to form the design sprint process to be able to run a whole design iteration phase. This means that the designers do the design tasks and researchers do the user testing (or other type of research). So at the next meeting they can present the new design and the feedback from the users as well.
+
+We at UX studio like working in week-long design sprints. There are some products where we can do two iteration rounds a week. This means two design and two research rounds per week. But in this case, we need a very close and effective collaboration from the participants.
+
+How can we build design in the agile development processes?
+
+The first and maybe the most important step is to realize that design is not just a quick project before the development phase. Design is a process, which follows the product for a whole lifetime. As long as you need developers, designers will be needed as well.
+
+At a very fresh product, you don’t need developers at the beginning, rather only ux designers. After a while designers and developers work in collaboration. In this case, designers prepare plans for developers, that they will then code.
+
+It’s a cliche, but we can “draw” faster than we can code. It means a feature or a function of a product could be designed faster than the developers code it. This is especially true if we consider “bug” fixes and back-end tasks. That is why a design team has less members than a development team.
+
+As the design tasks are shorter than the development tasks, design sprints are shorter as well. Having dedign and development sprints with different length can sound a bit weird, but you just have to take care of the coordination between the two departments.
+
+And another important takeaway is not to mix design and developing sprints together. You cannot develop that feature which is still in the design phase.
+
+Cooperation
+
+The design process needs cooperation from other parts of the team, too. The design will only be agile if it can involve everybody. When designers hold workshops or meetings it is necessary for business and development people to attend as well. Of course, it is not expected to invite everybody to these meetings but every party has to be represented.
+
+We need developers to tell us if an idea is too difficult to build. And we need business leaders as well to settle clear business goals and to help us focus on them during the design process. We also need them to give us access to existing customers for testing the product. It’s impossible to design a product for people who you haven’t met before.
+
+It’s worth inviting sales and support people sometimes for meetings too. Their opinion can be helpful in some situations because they speak to real users every day.
+
+Want to learn how to implement agile methodologies in your product team? You’re in luck. Recently, we launched a new service: we facilitate 3-to-5-day UX training sessions for teams aiming to get a new perspective on UX. Read more about the training here.

@@ -1,0 +1,97 @@
+Free Funktion One impulse responses. Hear your mix at London club The Hive Project.
+
+The Hive Project – The Yard Theatre, Hackney Wick’s night time alter ego – let us have a few hours in on their Funktion One soundsystem. Many tinnitus inducing tones, coloured noises and hours of studio tweaking later, we came up with a set of impulse responses that turn your convolution plugin into a mix tool for club soundsystem music. But even if your music isn’t club related, these impulse responses give a fresh perspective on the mix of any genre. Load these IRs into your convolution plugin and hear what your music sounds like on The Hive Project’s Funktion One rig.
+
+Download impulse responses
+
+Alternate download 1
+
+Alternate download 2
+
+Please share if you find these useful.
+
+
+
+How to use these IRs
+
+Put a convolution plugin on your master channel as the last effect in the chain. Pull the master channel down about 12dB to allow some headroom. (Like a real Funktion One rig, these IRs give a bit of a kick.) Load in the impulse responses. (True stereo if possible, otherwise try parallel stereo or mono.) Turn down the dry signal or make sure the plugin is set to 100% wet so that only the IR sound is audible. Enjoy the sound of your track through The Hive Project’s Funktion One.
+
+True stereo, parallel stereo or mono?
+
+The impulse response pack contains 4 files:
+
+1 mono IR
+
+1 parallel stereo IR
+
+2 files that form a ‘true stereo’ pair of IRs
+
+The true stereo set gives the most realistic impression of what it sounds like to stand in front of these speakers. If you’re using the parallel stereo or the straight mono IRs it’s best to reduce the stereo width of your master channel to about 25–50% to mimic the width reduction that occurs with the true stereo set.
+
+Headphones or speakers?
+
+If you have accurate monitoring and an acoustically treated room that’s quite dry sounding then speakers will work. In this case it’s best to use the parallel stereo or the straight mono impulse responses set to full stereo width.
+
+However, where these IRs really shine is by using the true stereo set with a good quality pair of headphones (preferably open-backed). This removes the influence of your own room acoustics and by using the true stereo set you get a slightly narrow stereo image comparable to standing about 10 feet in front of The Hive Project’s speaker stacks. This emulation of the behaviour of real speakers make these IRs a valuable aid to anyone who’s forced to mix on headphones.
+
+File format not compatible with your plugin?
+
+The default set are 32bit 96kHz WAV files. These are the recommended set as the original recordings were made at 96kHz. But if they don’t work…
+
+Download advanced IR pack
+
+Alternate download advanced 1
+
+Alternate download advanced 2
+
+This full collection has the converted 44.1, 48, 88.2 and original 96kHz sample rates each at 16, 24 and 32 bit depths versions for your convenience. The conversion was performed by Naoki Shibata’s excellent Shibatch SRC HQ.
+
+Unfamiliar with convolution and impulse responses?
+
+This 2005 Sound On Sound article explains convolution and using IRs not just for reverbs which is the standard use but for other processes too.
+
+Or you could just get stuck in with a convolution plugin native to your system.
+
+Ableton Live 9 – Convolution Reverb
+
+Apple Logic Pro – Space Designer
+
+Avid Pro Tools – Space
+
+Free option
+
+If you find that your DAW doesn’t have a native convolution reverb plugin you can use a third party plugin to load these such as these ones.
+
+Best option
+
+For us, Liquidsonics provide the best option(s). Both of the following are cross platform plugins and offer true stereo convolution at zero latency.
+
+CPU efficient – Reverberate Core – £30
+
+Fully featured flagship – Reverberate – £50
+
+Is there a catch?
+
+Those of you very familiar with impulse response processing will know that convolution only captures a systems linear characteristics. So any non-linearities inherent in the system won’t be reproduced. That means overdrive, distortion, clipping, compression etc. Fortunately Funktion One systems are clean sounding and measure low THD which makes them great candidates for approximation by convolution. We spent a large amount of time tweaking and shaping these impulse responses in the time and frequency domain whilst on site by ear, so they sound as close as possible to the real thing. Time consuming but worth it.
+
+Help us help you
+
+We’ve spent a lot of time and effort on these IRs. These weren’t just set and forget sweep recordings, they’re the result of many hours of critical listening and tweaking both on location and back in the studio. We’re hoping to create more useful tools like this to help you make great sounding mixes, quickly and efficiently.
+
+If you use this IR set and would like us to create more like it, here’s how you can help:
+
+Try our mastering service
+
+Send us a track and we’ll make you up a free sample. Tell a friend about these IRs
+
+Either online via forum post, sharing socially…
+
+Support our social channels
+
+Like us on Facebook, follow us on Twitter & Soundcloud.
+
+Finally. Remember. Like anything involving convolution, you don’t have to use these IRs as intended. Use them in productions as a standard reverb if you want to. Reverse them, mangle them, distort them; these are just a starting point.
+
+Share this post:
+
+← Back to all posts

@@ -1,0 +1,35 @@
+“E-cigarettes can cause cancer”; “Vaping ‘no better’ than smoking”: headlines last week challenged the idea that electronic cigarettes are safer than conventional cigarettes, after findings emerged that their vapour damaged and killed human cells.
+
+Jessica Wang-Rodriguez, a head and neck cancer specialist at the University of California at San Diego, and her team found that cells lining human organs sustained up to twice the DNA damage seen in unexposed cells. They were also five to 10 times more likely to wither and die than unexposed cells even if the vapour contained no nicotine, the addictive ingredient in conventional and most electronic cigarettes.
+
+“Without the nicotine, the damage is slightly less, but still statistically significant compared with control cells,” says Wang-Rodriguez, who led the research.
+
+Advertisement
+
+Although the study garnered headlines around the world, researchers contacted by New Scientist have criticised it for its inability to properly compare the damage caused by smoke from conventional and electronic cigarettes.
+
+Relative harm
+
+“The relative harm compared to real smoking is the critical point here, since the majority of vapers use e-cigarettes to cut down or quit smoking,” says Marcus Munafò of the University of Bristol, UK. “That direct comparison is largely missing.”
+
+To assess what vaping does to human tissue, the researchers exposed cells to vapour from two brands of e-cigarettes every three days for between one to 8 weeks. However, with cigarette smoke they were only able to expose the cells for 24 hours before all the cells died.
+
+Because the cells were able to survive for far longer when exposed to vapour rather than smoke, the main outcome of the study is the opposite of what the media has reported: that cigarette smoke is far more toxic than e-cigarette aerosol, says Konstantinos Farsalinos of the University of Patras in Greece.
+
+“The comparisons were based on unequal treatments, without equivalent exposures for equivalent periods of time,” says John Britton, a toxicologist at the University of Nottingham, UK. Even if the time periods had been equal, the results would not necessarily have reflected real-life hazards, he says. The dose of vapour the cells received was equivalent to that from vaping for hours on end, a much higher dose than someone would typically get.
+
+More realistic would have been to compare samples of cells taken from the airways of people who use either e-cigarettes or real cigarettes, says Britton.
+
+Toxins from flavourings?
+
+One puzzle the results raise is why cells appeared to be damaged even by nicotine-free vapour. One possibility is that other toxins are created when flavourings are exposed to heat.
+
+“E-cigarette vapour is known to contain a range of toxins which include impurities in the e-cigarette liquids and toxins generated when solutions are heated to generate vapour,” says Britton. “Some are carcinogenic, so it’s likely some long-term users of e-cigarettes will experience adverse effects on their health, and the authors are correct to point out that these products should not be considered risk-free,” he says. But if smokers can’t give up completely, e-cigarettes are safer than smoking, he says.
+
+“Those of us reviewing the evidence are saying that when compared with tobacco smoking, e-cigarettes are a safer option, and I don’t think this new research detracts from that advice,” says Linda Bauld of the University of Stirling, UK.
+
+Wang-Rodriguez, however, urges vapers to be cautious. “They shouldn’t assume it’s a safe alternative to smoking,” she says. “We don’t really know all the harmful effects of vaping at this point, so I’d encourage users of both e-cigarettes and regular cigarettes to understand the consequences and stop using.”
+
+Journal reference: Oral Oncology, DOI: 10.1016/j.oraloncology.2015.10.018
+
+(Image credit: Sefa Karacan/Anadolu Agency/Getty)

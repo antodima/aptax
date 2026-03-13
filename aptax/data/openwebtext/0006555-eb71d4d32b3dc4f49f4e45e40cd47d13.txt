@@ -1,0 +1,37 @@
+NEW YORK -- A training document released in response to a civil liberties organization's lawsuit and obtained by The Huffington Post reveals that the government considers an "analyst's wisdom" the ultimate arbiter of whether data on American citizens can be classified as "terrorist information" and retained forever.
+
+"Only a CT (counter-terrorism) analyst can determine whether data constitutes terrorism information," the electronic training course for new National Counterterrorism Center analysts states. "There is no requirement that the analyst's wisdom be rock solid or infallible."
+
+The document, identified by its introduction as a "rules of the road" course on data access and use, is marked "SECRET." But it was released in a significantly redacted form to the Electronic Privacy Information Center under a Freedom of Information Act request on Tuesday, in response to a lawsuit filed in August 2012.
+
+The training course is a novel window into the thought processes of analysts for the NCTC, which was created by President George W. Bush in 2003 in response to recommendations from 9/11 Commission. The NCTC is supposed to connect the dots on potential terrorist threats to the United States by combining information from other agencies like the Central Intelligence Agency, Federal Bureau of Investigation and Department of Homeland Security.
+
+The NCTC saw its powers to legally examine and retain data on American citizens and other people in the country vastly expanded under rules approved by the Justice Department in March 2012. As the Wall Street Journal reported in December, the agency can now copy entire databases -- such as citizens' flight records -- and retain that information for up to five years.
+
+The public affairs department of the Office of the Director of National Intelligence said in a written comment that the training document was created in 2012 and is still in use.
+
+Since deeming data "terrorist information" makes it eligible to be saved in the NCTC's database forever, the document's fuzzy definition of terrorist information is a source for concern, said Ginger McCall of EPIC.
+
+"This is high stakes, because you're talking about potentially being classified in connection with terrorism information," she said. "The data can be retained indefinitely then. We don't know all the parties that this data is shared with, or all the uses that are made of this data."
+
+The NCTC guidelines say that data can be retained indefinitely where there is a "reasonable and articulable suspicion" that it has something to do with terrorism. The training course provides for the first time an explanation of how analysts come to that conclusion:
+
+The analyst must be able to explain the "math" (logic) on their analysis and how they arrived at their conclusion. This is the articulable portion of the standard.
+
+The "math" or analysis must be prudent to the average counterterrorism analyst. This is the reasonable portion of the standard.
+
+"They try to boil it down to math, as if this is an exact science," said McCall. "It's not an exact science, as they acknowledge below."
+
+Further down on the same slide, the course states that "The totality of the facts -- even if the facts individually appear innocent in nature" can be used to classify data as terrorist information. And it also states the line about there being "no requirement that the analyst's wisdom be rock solid or infallible," adding, "In fact, it is expected to change as new information comes to light."
+
+The document does not specify what kind of access the NCTC has to Americans' private information. Before the center's new guidelines went into effect, a Department of Homeland Security privacy official warned that they represented a "sea change" in how the government treated its citizens' privacy.
+
+An information paper released by the Office of the Director of National Intelligence in January claimed that the new guidelines improved on old ones by "adding specificity on how data is obtained, retained, and disseminated, and providing for enhanced safeguards and oversight mechanisms to protect important privacy and civil liberties."
+
+EPIC's ultimate goal with its Freedom Of Information Act request is to find out which government agencies are sharing information with the NCTC, and under what terms they are allowing the center to make wholesale copies of databases. So far, however, the government has refused to provide the memorandums of understanding between the NCTC and other government agencies. The government claimed to EPIC that it couldn't find any such memoranda, even though they are referenced and linked in the training guide. The ODNI public affairs office declined to comment on the missing memoranda, citing EPIC's ongoing lawsuit.
+
+Until the interagency agreements are released, McCall said, the public will remain in the dark.
+
+"If we're going to be using these sorts of mechanisms where it's wholesale retention of information … we should have a real conversation about that," she said. "We should have a real debate about what these protections for privacy and civil liberties are."
+
+Read the full document:

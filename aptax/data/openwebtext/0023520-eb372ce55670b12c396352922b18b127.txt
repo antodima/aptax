@@ -1,0 +1,35 @@
+Amazon's cloud computing infrastructure is growing so fast that it's silently becoming a core piece of the internet.
+
+That's according to an analysis done by DeepField Networks, a start-up that number-crunched several weeks' worth of anonymous network traffic provided by internet service providers, mainly in North America.
+
+They found that one-third of the several million users in the study visited a website that uses Amazon's infrastructure each day.
+
+Most people still think of Amazon as the internet's giant shopping mall – a purveyor of gadgets, books and movies – but it's quietly become "a massive utility" that is either on the sending or receiving end of 1 percent of all of the internet traffic in North America, says Craig Labovitz, a well-known internet researcher and co-founder of DeepField.
+
+"My mother, for example, has heard of Facebook. She's heard of Google. She buys stuff from Amazon. But I don't think most people realize just how pervasive Amazon is becoming," he says. "The number of websites that would now break if Amazon were to go down, and the growing pervasiveness of Amazon behind the scenes, is really quite impressive."
+
+Amazon introduced its first cloud service, the Elastic Compute Cloud, in 2006, basing it on the technology it had developed in-house while building up Amazon.com. It's now caught on as a quick way for companies to spin up servers without actually having to set up their own computers. Amazon now sells even more data center resources – storage, databases and search-indexing, for example – as cloud services.
+
+It's popular with companies that see big spikes and drops in computing demand. Netflix uses it to handle the back-end of its streaming service, which is in hot demand on Sunday nights and then gets quiet a few hours later. And Amazon even managed to build one of the world's 50 most powerful supercomputers on its cloud.
+
+One of cloud supercomputing company Cycle Computing's clients, pharmaceutical research firm Schrödinger, recently built a massive supercomputer on Amazon's cloud. It ran a chemical simulation for three hours and then was gone. Cost of compute resources: $15,000. "It puts access to massive quantities of supercomputing power into the hands of anyone," says Cycle CEO Jason Stowe. "At this point any small organization can afford to use it, if only for a brief period of time"
+
+But a big question remains: How big is Amazon's cloud? How many servers power its data centers? The company didn't respond to a request for comment on this story – like many cloud providers it considers this type of information a proprietary secret. But there are a few clues out there.
+
+Last month Accenture's Huan Liu did a bit of internet sleuthing and came up with a guess: 445,000. That number could be high. Gartner researcher Lydia Leong estimates that Amazon's cloud business was $1 billion in 2011, more than five times the size of its closest competitor, Rackspace. Last week Rackspace Chief Technology Officer John Engates was happy to tell us how many servers he has in his data centers: 80,000. But only 23 percent ($189 million) of Rackspace's 2011 business was in the cloud. That implies that Rackspace could do the same amount of cloud business as Amazon with maybe 100,000 servers.
+
+Amazon itself has lobbed out some impressive-sounding tidbits about its cloud.
+
+For example, the company stored 762 billion objects in its S3 storage cloud last year – three times the 2010 tally. Another favorite: Amazon says that “Every day Amazon Web Services adds enough new capacity to support all of Amazon.com’s global infrastructure through the company’s first 5 years, when it was a $2.76 billion annual revenue enterprise.”
+
+Amazon was founded in 1995, when a 200 MHz Pentium Pro chip was pretty much top-of-the-line, and since Amazon hasn't said how much infrastructure it required for those first five years, this number is also hard to parse.
+
+The company operates several data centers – it calls them "availability zones" – in Virginia, the West Coast, Singapore, Tokyo and Europe and, clearly, they have been growing fast in the past few years.
+
+According to data compiled by Adrian Cockcroft, director of cloud architecture at Netflix, Amazon has increased the number of IP addresses assigned to servers in those data centers more than fivefold in the past two years – from just over a quarter-million IP addresses in February 2010 to more than 1.7 million last month.
+
+That could show that Amazon's business is growing even faster than most people realize (Gartner pegs its growth rate at about 30 percent year over year) or it could mean that Amazon is simply loading up on IP addresses in anticipation of future growth.
+
+As is so often the case with Amazon's very important infrastructure: the answer is cloudy.
+
+This story has been updated to correct the name of the company that built an Amazon cloud supercomputer. It was Amazon.

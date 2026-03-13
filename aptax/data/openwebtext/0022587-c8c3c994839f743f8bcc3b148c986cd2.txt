@@ -1,0 +1,49 @@
+Published online 22 September 2011 | Nature | doi:10.1038/news.2011.545
+
+News
+
+Ecologists hope to avert public-health disaster without a cull.
+
+On the menu. Ivan Kuzmin / Photolibrary
+
+Serious viruses carried by bats pose a considerable risk to people in West Africa, warn epidemiologists cataloguing bat–human interactions in the region.
+
+Bats are thought to have been the source of several of the nastiest viruses to jump to humans from animals during the past 40 years, including Ebola haemorrhagic fever and severe acute respiratory syndrome (SARS), an outbreak of which killed more than 900 people in 2002–03. Researchers hope that by studying how the viruses jump to people they can come up with ways to limit the spread of disease without culling the bats, which in many regions function as important fruit pollinators.
+
+Andrew Cunningham, a wildlife epidemiologist at the Institute of Zoology in London, and his colleagues fear that the next big epidemic could come from henipaviruses, which can cause fatal encephalitis or respiratory disease in humans. There is no vaccination to protect against Hendra virus or Nipah virus, the two established species of henipavirus.
+
+"We are concerned the solution will be to just kill the bats to control the virus," says Cunningham. "We need to find another way that protects bats and people at the same time."
+
+Urban exposure
+
+Spread of infection from bats to humans is an increasing problem in Asia and Africa, in part because people are living in closer contact with bats than ever before. As forest habitats are destroyed, many bats are moving into urban areas. Bats are also increasingly on people's menus because larger, traditional bushmeat species such as apes and antelope are no longer easily available owing to over-hunting and, in some cases, their protected status.
+
+"Zoonotic spill-over only occurs where you have contact," says Peter Hudson, a wildlife epidemiologist at Pennsylvania State University in State College. "As urbanization spreads we become more exposed. Conservation and disease must be managed together."
+
+“We spend millions on hunting down new viruses but very little on working out what causes viruses to jump species.” Andrew Dobson
+
+Princeton University
+
+Cunningham and his team started investigating the risk from henipaviruses five years ago. The viruses were then thought to be restricted to Asia and Australasia, but in 2008 the team reported finding antibodies to them in Eidolon helvum fruit bats in Ghana, West Africa, indicating that these bats had been infected too1. The expanded virus range is cause for alarm, says James Wood, a veterinary researcher at the University of Cambridge, UK, who co-leads the project with Cunningham.
+
+This is because bats live in closer proximity to people in West Africa than in Asia or Australasia. For example, a colony of more than half a million bats lives in the roof of a major hospital in Accra. Patients and doctors are showered daily with bat urine, which could be infected with the virus. Such huge colonies in residential areas are uncommon in Asia and Australasia.
+
+People in West Africa also eat bats to a greater extent than previously thought. The team has discovered that at least 128,000 E. helvum bats are sold each year in southern Ghana, revealing the "previously unrecognized scale" of their use as bushmeat. The findings, due to be published later this year in the journal Biological Conservation, were collected from a survey of 551 Ghanaian bat hunters, vendors and consumers.
+
+"There is a massive bat-bushmeat industry in Ghana that has not been picked up in previous studies of the bushmeat trade," says Cunningham.
+
+All this adds up to a potentially disastrous public-health problem in West Africa, says Cunningham — and one that is currently not recognized or being treated. He suspects that people who fall ill may not know they are infected with henipavirus because doctors are unlikely to be looking for it and may misdiagnose it as cerebral malaria.
+
+Pig spill
+
+Cunningham says it's too early to say for sure how many people are infected with the viruses in Ghana. "We are getting some interesting results, however these have not yet been fully validated," he says. But the team has found evidence of a 'henipa-like' virus in domestic pigs from two villages about 70 kilometres north of Accra. In a paper published on 22 September in Plos ONE, the team reports finding antibodies against members of the Henipavirus genus in 5% of 97 pigs studied.
+
+ADVERTISEMENT
+
+Nipah virus is known to multiply in pigs, and the species had a key role in a 1999 outbreak in Malaysia that killed more than 100 people.
+
+"It looks like there is spill-over from bats to pigs in Ghana," says Cunningham. "This is the first step along the line to a public-health threat."
+
+Wood agrees. "I would be surprised if there was no spill-over to humans," he says.
+
+"We spend millions on hunting down new viruses but very little on working out what causes viruses to jump species," says Andrew Dobson, an infectious-disease ecologist at Princeton University in New Jersey who commends the project's focus. To control the increasing occurrence of diseases making the jump from animals to humans, he says, researchers need a deeper understanding of the triggers for such spill-over events.

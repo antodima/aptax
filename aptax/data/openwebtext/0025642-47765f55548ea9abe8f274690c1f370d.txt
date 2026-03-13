@@ -1,0 +1,219 @@
+It's been a while since I last posted and for good reason...I've decided I need to attempt to compliment my backend skills with some frontend skills! I've never enjoyed writing javascript. Mostly because I've only ever used jQuery to added a little pizzazz to my sites(ie. toggleClass() and ajax()). I didn't have any javascript code organization. It was all spaghetti.
+
+Javascript Revolution
+
+Currently javascript is getting an insane amount of attention. New things are popping up all over the place(or maybe I've just been sheltered under my php rock). There are all sorts of frontend javascript frameworks now: Backbone, Angular, Ember, CanJS. Combine one of those with Twitter Boostrap or Zurb's Foundation and you can create some pretty slick frontends without doing much work.
+
+Javascript is even becoming popular for the backend with the advent of Node. Node has spurred Express, Meteor, Sails, and more. I've got to say, programming both the backend and frontend with the same language is pretty darn appealing, even if I hate the fact that javascript isn't class based.
+
+Where I'll start
+
+Considering all that, I figure it would do my career well to really start giving javascript more of my attention. So where in the world do I start? Well, Ember seems to be the new hotness and even though I don't know a lick of ruby or rails, having a contributor to both rails and jQuery on the core team, gives me a warm fuzzy feeling. I'll start with Ember!
+
+Ignition
+
+After a couple of days of trying to create something I realized one thing: Ember is hard. Ember does a ton of magic for you behind the scenes. As a noob, this was a hindrance to me. I couldn't distinguish what Ember was doing for me and what it expected me to do. It was also extremely difficult to wrap my head around what MV* means in Ember. It doesn't resemble MVC in the backend at all. Once I realized and understood that, it all started to click and I've grown to really enjoy developing the frontend with Ember.
+
+Another frustration of learning Ember/Ember-Data was the lack of up-to-date resources. I would constantly find stackoverflow questions that were "answered" and the answer referred to a jsfiddle that referenced "ember-latest.js" and guess what...Ember's api had changed, rendering it useless. So many times I found myself wanting to ditch it and stick to backend dev, but no, I don't want to be the guy unwilling to adapt. I. Must. Persevere.
+
+I set out to build a tiny CRM application and implement some features I know I'll run into when developing something for real. Some features like:
+
+basic CRUD operations
+
+various relationship types, including a polymorphic relationship
+
+loading relationships asynchronously
+
+modals
+
+Select2 integration
+
+data normalization, serialization
+
+and more
+
+After trying to soak up absolutely everything Ember(stackoverflow, blogs, digging through the docs, IRC) for a solid two weeks I finally found some enlightenment. I successfully built out my application and am delighted with the result.
+
+I've recorded a 10 part video playlist of myself rebuilding the app so that you all may reap the benefits of my efforts. I know when I first set out to learn ember I got tired of being pointed to paid methods of learning the framework. This is me giving back for all of the help I've received on my quest. Enjoy.
+
+Project Overview
+
+Before we get started I think it makes the most sense to have a look at what we're going to build.
+
+
+
+
+
+You can find all of the frontend source code in the repo . Each part has its own branch.
+
+Part 1
+
+Let's get to it. In this first episode we're going to cover:
+
+project structure
+
+libraries used
+
+model definitions
+
+route definitions
+
+Part 2
+
+Topics covered:
+
+creating Route objects
+
+retrieving models from the ember-data store/API
+
+expected JSON format
+
+displaying a list of models in a template
+
+using a few handlebars helpers
+
+
+
+
+
+Part 3
+
+Topics covered:
+
+creating a route that uses a dynamic segment
+
+using handlebars partials
+
+getting and displaying related models
+
+sending actions from templates to controllers
+
+using ember-data model flags
+
+rolling back model changes
+
+saving models
+
+
+
+
+
+Part 4
+
+Topics covered:
+
+reviewing relationship JSON
+
+creating a custom REST serializer
+
+
+
+
+
+Part 5
+
+Topics covered:
+
+creating a route for new models
+
+rendering a specific template from the route
+
+what JSON to return when saving models
+
+removing unused models
+
+cleaning up unsaved model changes
+
+
+
+
+
+Part 6
+
+Topics covered:
+
+hiding models based on properties
+
+creating mixins for our controllers
+
+handling backend errors
+
+using Twitter Bootstrap's alerts
+
+
+
+
+
+Part 7
+
+Topics covered:
+
+fixing a mixin bug
+
+reviewing my error response JSON
+
+
+
+
+
+Part 8
+
+Topics covered:
+
+implementing everything we've done for companies so far for people
+
+
+
+
+
+Part 9
+
+Topics covered:
+
+fixing a dynamic model property bug
+
+incorporating Select2 using a custom view
+
+using meta data in our JSON
+
+sending actions from a view
+
+
+
+
+
+Part 10
+
+Topics covered:
+
+using a Twitter Bootstrap modal
+
+rendering into named outlets
+
+using the Ember.Evented mixin
+
+sending actions from a view
+
+using two controllers in the same route
+
+binding attributes
+
+
+
+
+
+<
+
+p>
+
+Questions, comments?
+
+I hope you've found this useful. It was a really fun exercise and it sparked my interest to dive deeper into the javsacript world.
+
+I'd love to hear any questions or comments. As I said in the first video, I want to learn from you guys as well. Please tell me if I'm doing something wrong or I could be doing something better!
+
+Help! One huge aspect I didn't touch on was pagination. I'm still lurking and trying to figure out the best way to handle it. I'd love to learn more about the preferred method of paginating requested models using the meta object, especially paginating related models. For instance, if I'm on the company route, viewing a company that has 10,000 tasks, how do you paginate through those?
+
+
+
+If you have some ideas, please let me know! I'll append this post with the information.

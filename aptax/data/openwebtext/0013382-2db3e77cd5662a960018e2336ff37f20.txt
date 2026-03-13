@@ -1,0 +1,39 @@
+The most interesting part in programming is creating stuff that to you seem like the most awesome stuff but to others seem like “yeah, cool” or “why did you spent your time building this useless thing?”. That might be the reason why many of our pet projects don’t get published/released (all creators denounce their creations). Our maybe that’s not the reason. Whatever.
+
+On little tip I am using (that’s generally a good tip regardless of whether you release your new-born software to the public or not) is timing my projects. It sounds a little bit boring (it’s like when you were told to create a skeleton of your essay before you started writing it) but it has two main advantages :
+
+Prevents feature-creepism Gives you satisfaction
+
+Of course there are many more reasons to time your projects (check joel’s article here) ranging from “knowing your programming skills” to “know how much you can charge when you are freelancing” but from the perspective of programming junkies (“oh, I have a great idea! Let’s do it!”), they don’t have a great influence.
+
+I time my pet projects just to be sure I stay on track (and not implementing a 3d engine when I’ve started creating a lisp module - believe me I’ve done it…) and because it gives me a nice approximation of whether this thing is really 30 minutes of work or 3 months. When you’ve done it some times, you become better and you have second thoughs about adding the twitter-clone in your text editor that would be VERY cool and at first it seemed like 1 hour of work but after you put your estimated time-frame you see it’s actually 5 months.
+
+But in order for this thing to work, it has to be VERY simple (so you don’t spend 5 months implementing a better system for tracking projects). What I do? Here it goes :
+
+Write on paper (or on your favorite editor) what must be done (with some time estimations). You can save your file in your directory of your project (I usually save it with the name .plan)
+
+For example:
+
+Create J2ME project (5 minutes)
+
+Put the nodes (20 minutes)
+
+Create prototype algorithm in Python (1 hour)
+
+Port it to J2ME (1 hour)
+
+Create Splash screen (30 minutes)
+
+Git it (5 minutes)
+
+Tell the world - twitter/facebook/blog/reddit (10 minutes)
+
+You could say “5 minutes for creating a J2ME project?”. Ok, it could be 1 minute but if you put there the directory structure, some files and other stuff it could go up to 3. And these are rough estimates just so you can do your work easily and having fun and NOT trying to beat the clock! Don’t forget this is a pet project that has to be fun :D
+
+and now for the second and final step :
+
+2. Time your progress step-by-step ( ooooo babeeeeee ) and click them away from your .plan
+
+Yeap, it’s easy!
+
+So give it a go and tell me what you think of! I am heading to create an emacs plugin for this :D

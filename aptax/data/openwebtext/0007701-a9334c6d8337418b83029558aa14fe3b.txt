@@ -1,0 +1,59 @@
+OS X Yosemite is the latest version of the Mac operating system, complete with an overhauled user interface and a variety of new features that are sure to make your Mac experience better and more productive.
+
+While OS X Yosemite is a free download and arrives as a simple to use installer from the Mac App Store, you’ll want to prepare your Mac before jumping into the update to OS X 10.10. That’s what we’re going to cover here with five simple tips to get everything squared away, updated, and ready to go.
+
+1: Should you update your Mac to Yosemite?
+
+This is a valid question many users have after experiencing some of the issues with prior versions of OS X and iOS, notably the weirdness that was Lion to the variety of bugs and annoyances brought to iOS 8 mobile devices with the more recent iOS launch.
+
+Based upon a fair amount of testing, I would generally say yes, most Macs should update to OS X Yosemite. Performance wise Yosemite appears to be at least the same as Mavericks, and stability wise, it’s about as stable too. That’s a really good thing, most users will be able to update to OS X Yosemite and go right along their business, all while enjoying the new features brought to their Macs.
+
+Perhaps the only reasons not to update to Yosemite would be due to compatibility reasons with some particular app (though if it runs in Mavericks, it will run in Yosemite), an unusually strong dislike for the redesigned user interface (which isn’t too different, just brighter and whiter), or, perhaps a more important potential issue related to the user interface, a readability issue with the thin system font which can be challenging to view on smaller screen Macs. For example, reading the Helvetica Neue system font on a MacBook Air 11″ gives me eyestrain, but that same font looks fine on 22″ monitor, and the font reads fine on any Mac with a Retina display. If you’re sensitive to that sort of thing and you primarily use a smaller screen Mac, it’s at least worth a thought. You can get an idea of what it would look like by downloading a full resolution screenshot of OS X Yosemite like this one and making it full-screen on your MacBook. If you can read everything fine, you should have nothing to be concerned about in terms of the new font. Any font readability issue will likely only impact a small number of users who have less than ideal eyesight and who use Macs with the smallest displays.
+
+2: Confirm System Requirements Compatibility
+
+System requirements for OS X Yosemite are quite generous, and if the Mac is capable of running OS X Mavericks then it can also run OS X Yosemite. The minimum hardware list as determined by developer versions is as follows:
+
+iMac (Mid-2007 or newer)
+
+MacBook (13-inch Aluminum, Late 2008), (13-inch, Early 2009 or newer)
+
+MacBook Pro (13-inch, Mid-2009 or newer), (15-inch, Mid / Late 2007 or newer), (17-inch, Late 2007 or newer)
+
+MacBook Air (Late 2008 or newer)
+
+Mac Mini (Early 2009 or newer)
+
+Mac Pro (Early 2008 or newer)
+
+Xserve (Early 2009)
+
+Those Macs or newer, which all have a Core 2 Duo or better processor, will run OS X Yosemite. You’ll also need at least 15GB of disk space available to download the update from the App Store and then install Yosemite, but realistically you should have more than that avaialble for performance reasons.
+
+3: Update Apps & Install Lingering Software Updates
+
+It’s always good practice to regularly update your Mac apps, system software, and the other occasional updates that come through to OS X, but many of us ignore these things. Before updating to a major new release of OS X, it’s a good idea to update all of this stuff though.
+
+Head to the  Apple menu and choose “Software Update” Install whatever updates are waiting within the Updates tab of the Mac App Store
+
+As usual, if any core system updates are in there, be sure to back up the Mac before installing them.
+
+4: Perform General System Maintenance
+
+Performing some general system maintenance is always a good idea, so try to make it a habit. We’ve touched on some easy maintenance tips before, and they still apply here.
+
+If your Mac is low on hard drive space, free up disk space so that you have enough available storage to install the update and be sure that OS X has space to run well (that means plenty of room for caches, virtual memory, your own files and apps, etc).
+
+Also, if you have some old Mac apps that are sitting around collecting dust and never being used, you may want to consider uninstalling them to free up some space and reduce overhead for functions like Software Update.
+
+5: Back Up the Mac
+
+You’re almost ready to install Yosemite! But before doing so, you absolutely must back up your Mac. This should not be considered optional, without a backup you could lose your stuff if something goes wrong. Don’t risk it, just back up your Mac. Time Machine is so easy to use, runs automatically and routinely, and external hard drives are cheap . Seriously, there’s no excuse and the risk is not worth it, always have backups.
+
+Remember to start a backup with Time Machine right before you begin the actual installation with Yosemite, this insures that if a disaster happens, you can resume to exactly where you were right before the problem happened. Do not skip this!
+
+6: Download Yosemite & Install
+
+Checked everything off the list and you’re ready to go? Head to the App Store, start the download on your Mac, and update to OS X Yosemite, and enjoy!
+
+Remember that to utilize the full feature set in OS X Yosemite, you’ll also want the latest version of iOS (iOS 8.1 or newer) on your iPhone, iPad, or iPod touch, this allows for features like Handoff, Continuity, and the ability to make phone calls from your Mac.

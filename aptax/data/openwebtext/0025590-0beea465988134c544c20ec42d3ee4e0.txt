@@ -1,0 +1,77 @@
+State of the art
+
+Probably you’re a webdeveloper. Probably you’ve got a long journey behind you. Probably you were using php, cgi or even asp (ugh!) in the past to create your websites or apis. Probably you recently stubmled upon nodejs and learned to love the full stack JavaScript approach… and that was when it got nasty.
+
+Problems with nodeJS
+
+Callbacks.
+
+They just suck. The idea is to have asynchronous code which is very fast and you could do multiple things at once. But in the end you wind up waiting for each callback to be called. Koa is a framework which tries to get rid of these problems by using yield in a comfortable way for developers. So you basically have a framework which converts JavaScript from an asynchronous language in a synchronous language – which works surprisingly well.
+
+0.10.x vs 0.11.x
+
+When working with current frameworks like koa, you will most certainly run into compatibility problems. Oh – but we do have version managers. Yeah right. I did something like this a lot:
+
+n use 0.10.32 npm install n use 0.11.14 npm install
+
+Typelessness
+
+You cannot be sure what type a variable has at any given point. You can only assume from your code that it should have the right type. While this is a “feature” of JavaScript it can be annoying in big applications. Also it will be a pain in writing tests for your software.
+
+Could be worse
+
+Let’s not rant too much about nodeJS. NodeJS has a lot of upsides – one of the major ones is that it is written entirely in JavaScript.
+
+Node is still a nice tool and if it’s working for you then you
+
+have nothing to worry about, but if things are bothering you, don’t forget
+
+to step out of your box and see what else is out there — within the first
+
+few hours of using Go for production work I was already hooked.
+
+TJ Holowaychuk
+
+3 main reasons why you should consider Go (and probably love it)
+
+1. It’s easy to learn
+
+There a tons of resources to learn go. Before even installing it on your machine and dealing with configuring the workspace and getting used to the library structure, you can play around with it at the playground.
+
+2. You feel like you are in charge
+
+Take bodyparsing for example. In NodeJS applications you throw in some bodyparser library which populates all of a request’s body to req.body and you’re done. Awesome, right? No. You would have to check if your desired values are stored under the given keys.
+
+if(typeof req.user != 'undefined' && typeof req.user.age != 'undefined') { /* yay ... i know your age now. But not if it is numeric */ }
+
+In Go you would achieve this a little different. First you would define how the request should look like:
+
+type UserAgeRequest struct { User struct { Age int `json: "age"` } `json: "user"` }
+
+You would then receive the request and parse it. Notice the annotations behind the values `json:"age"` ? This is where you tell the json decoder where to look:
+
+var body = UserAgeRequest{} decoder := json.NewDecoder(request) // request is a pointer to an http.request err := decoder.decode(&body) // Decode the request and store the result inside body if err != nil { Log.prinf(err.Error()) // Something went wrong }
+
+While this is slighty more code than in NodeJS it has one major benefit: You exactly know whats coming at you. You would only have to check wether some attributes are empty, but there is no way of sneaking some unwanted data into your application. It’s great in terms of sanitizing user input. Also there is no memory wasted since we only store what we want to store.
+
+3. It’s synchronous
+
+No callbacks. Will you lose performance? No. You can start parallel threads via goroutines concurrent goroutines – a concept explained here. You can even communicate between two independent threads goroutines via channels. Thanks for pointing that out nillium on reddit – also check out this talk on the topic.
+
+More benefits
+
+Errorhandling is superior
+
+It’s super fast
+
+A superb testing framework is included
+
+There is this awesome vim plugin
+
+Lot’s of free libraries to use: Sophisticated router MongoDB driver Various middlewares
+
+Third party code is usually very easy to read and understand
+
+Try it out!
+
+Hop over to the projects website and get started. You won’t regret it.

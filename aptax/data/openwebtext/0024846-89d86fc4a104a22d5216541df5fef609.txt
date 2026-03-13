@@ -1,0 +1,75 @@
+The article was written by Motek Moyen Research Seeking Alpha’s #1 Writer on Long Ideas and #2 in Technology – Senior Analyst at I Know First.
+
+Nvidia Stock Outlook
+
+Summary:
+
+I agree that Nvidia’s stock enjoys very high valuation. However, this company has what it takes to fulfill the high expectations of investors.
+
+Nvidia still has a lead over AMD in graphics processor sales. Nvidia still has a lead over Intel when it comes to Artificial Intelligence processors.
+
+I expect Nvidia to report better than predicted EPS and revenue when it reports Thursday next week. The second-quarter period did not see AMD release a high-end GPU product.
+
+NVDA bulls will probably do some profit-taking post-earnings. However, it will not surprise me if NVDA posts another 52-week high within the next few weeks.
+
+I Know First has positive, near, intermediate and long-term algorithmic forecasts for Nvidia.
+
+I agree that the market has boosted Nvidia (NVDA) to notably high valuation if compared to its sector/industry peers. However, the unique position of Nvidia of being the dominant player in the duopoly over GPUs (Graphics Processing Units) gives it almost-unlimited source of growth momentum. Jon Peddie Research already reported earlier this year that Nvidia still has over 70% of the global market for discrete GPUs.
+
+The entry-level and mid-range Polaris Radeon GPUs from Advanced Micro Devices (AMD) chipped away at Nvidia’s market share last year. However, Nvidia took some back in Q1 this year.
+
+(Source: Jon Peddie Research)
+
+There’s still no Q2 2017 report from Jon Peddie. However, I believe Nvidia most likely retained the same 72% or higher share in discrete GPUs. AMD did not really a high-end Radeon GPU during the Q2 period. I also checked Amazon’s best-seller list and Nvidia GPUs still ruled. The discrete GPU business is not solely dictated by OEMs, it is the consumer, enthusiast, the PC builder who also determines which discrete GPUs are going to be top-grossing.
+
+Nvidia’s stock is unlikely to dive and linger below $160 anytime soon. The reality is Nvidia GeForce-branded video cards are the top 10 best-selling graphic cards at Amazon. As long as Nvidia is a making killing on gaming, the bull thesis for its stock remains indomitable.
+
+(Source: Amazon)
+
+Tech Radar also released its August 3 review of the top video cards available right now and Nvidia’s more expensive GPUs still dominate the list. It goes to show that gamers are willing to pay premium to own the better performing video cards of Nvidia. The April-June quarter of Nvidia this year is likely going to deliver better Gaming-related sales than Q1’s $1.027 billion.
+
+(Source: Nvidia)
+
+Further, the global shortage of Nvidia’s GTX 1070 is also due to it being the best GPU for mining Ethereum. Nvidia’s GPU business has a nice steady income from catering to people who farm crypto-currencies like Ethereum. The decision to release crypto-currency mining-specific Nvidia cards will hopefully ease the supply for gaming-specific GeForce GPUs like the GTX 1070.
+
+(Source: HotHardware)
+
+Nvidia Still Rules The Market For Artificial Intelligence Processors
+
+I know AMD has an upcoming processor for deep learning parallel computing tasks. I also know Intel has some AI-related processors (Xeons and Altera FPGAs). However, Nvidia is the only company right now that actually has realistic revenue/income from supplying GPUs to data center and cloud computing service provides.
+
+As per the chart from Nvidia’s 10-Q filing, its Datacenter and Automotive business segments now generate combined quarterly revenue of $549 million. I believe Intel has a long way to go before it can achieve the quarterly revenue of Nvidia’s AI-related chip supply business. As far as I know, Intel has yet to announce any major deep learning design win for Altera’s FPGA processors. Nvidia’s GPUs still generate the most amount of revenue when it comes to AI-related processor sales.
+
+It will also take several years before AMD can persuade data centers to trust its upcoming Radeon Instinct MI25. Sad but true, the Instinct MI25 deep learning GPU from AMD is very powerful. However, benchmark scores are just a small part of what made Nvidia GPUs the de facto, industry standard processors for deep learning compute tasks.
+
+Nvidia and its partners have invested heavily on software and the cloud infrastructure. I do not think AMD has the nextra $2 or $3 billion cash to spend building up the same software/infrastructure around its own deep learning GPU.
+
+Mega-cap companies like Amazon (AMZN), Microsoft (MSFT), Facebook (FB), IBM (IBM), and Procter & Gamble (PG) became buyers of Nvidia’s very expensive Deep Learning Tesla processors because Nvidia touts a complete ecosystem for it.
+
+(Source: Nvidia)
+
+Nvidia’s big lead in deep learning computers will only grow larger because it is now shipping its Volta GPU for the data center market. The first Volta-based deep learning processor, the Tesla V100 is a 12nm chip with 21.1 billion transistors. This is notably better than the older Pascal-based Tesla P100 which only has 15.3 billion transistors.
+
+My Fearless Forecast
+
+I rate NVDA as a buy. This momentum-driven stock is likely to post another 52-week high (current is $170.07) after its earnings report on August 10. It may dip a little due to profit taking, but it could breach $175 within the next 90 days. I Know First has bullish 1-month and 3-month algorithmic market trend forecasts for Nvidia’s stock.
+
+The high 0.55 predictability score for the 3-month forecast period convinced me that NVDA has a great chance to post another 52-week high within the next 90 days.
+
+I also checked the technical indicators and moving averages trends. NVDA remains a buy.
+
+(Source: investing.com)
+
+Past I Know First Forecast Success with NVDA
+
+Exactly three months ago, I Know First made an accurate prediction on NVDA. On this bullish article published on May 7th, 2017. In the article, it explains that Intel’s denial to license AMD graphic chips were going to be great news for NVDA. During the three month time period, NVDA shares increased by 62.70% in line with the I Know First algorithm’s forecast. See chart below.
+
+(Source: Yahoo! Finance: NVDA)
+
+This bullish forecast for NVDA was sent to I Know First subscribers on May 7th, 2017. To subscribe today click here.
+
+I Know First Algorithm Heatmap Explanation
+
+The sign of the signal tells in which direction the asset price is expected to go (positive = to go up = Long, negative = to drop = Short position), the signal strength is related to the magnitude of the expected return and is used for ranking purposes of the investment opportunities.
+
+Predictability is the actual fitness function being optimized every day, and can be simplified explained as the correlation based quality measure of the signal. This is a unique indicator of the I Know First algorithm. This allows users to separate and focus on the most predictable assets according to the algorithm. Ranging between -1 and 1, one should focus on predictability levels significantly above 0 in order to fill confident about/trust the signal.

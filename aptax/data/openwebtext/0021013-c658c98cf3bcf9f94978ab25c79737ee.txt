@@ -1,0 +1,23 @@
+Of course, at the time no one could get one. The hardware was unfinished, and the tools in Windows Holographic, a new component of Windows 10, which would allow developers to build holographic apps had yet to be to be released.
+
+But even then I knew that HoloLens and Windows Holographic would have a profound impact on Microsoft and the future of personal computing. Developer's adoption of the platform and manufacturer partnerships for HoloLens-like wearable computers are core to Microsoft's vision. Microsoft fellow Alex Kipman explains :
+
+…Windows has always been built with an ecosystem of partners. Throughout our history, we have brought new attributes to Windows that empower not only developers but also our device makers to unleash their creativity to the world. Windows Holographic was created from the ground up with that same heritage in mind.
+
+As partners have emulated the Surface with affordable 2-in-1s, Microsoft's goal is to foster an explosion of untethered wearable holographic computers for everyone!
+
+Bringing Holographic computing to the masses isn't as easy as a "show the world today and change the world tomorrow" strategy. The hardware, the platform and the way we think about personal computing requires a systematic, deliberate and strategic shift. This takes time.
+
+When Microsoft introduced HoloLens it seemed like a science fiction fantasy to onlookers. "Could this untethered wearable computer projecting holograms into the user's world be real?" Moreover, could it really be "uncool" Microsoft, that is presenting this artifact from the future? The answer to both questions was: Yes.
+
+"Could this untethered wearable computer be real?"
+
+HoloLens and Windows Holographic not only took the industry by surprise, but the ambition it represents as a bold new personal computing platform have many proclaiming Redmond as innovative in a way that Apple and Google are not. Apple's Tim Cook recently acknowledged the importance of augmented reality (Apple is rumored to be working on their own AR headset) and Google has made investments in the mysterious Magic Leap — are they playing catch-up?
+
+The industry is still wrapping its heads around the implications and potential of Microsoft's holographic platform. Furthermore, developers are challenging their imaginations with its boundary-crossing nature. Potential hardware partners are, no doubt, entertaining strategies that will help bring wearable holographic computers to the masses.
+
+A long road to the masses
+
+Microsoft wants to get holographic computing right. They want Windows Holographic to be the industry's platform for this new way of computing. That's one of the reasons "holographic APIs are enabled inside every Windows 10 build." Moreover, Microsoft wants hardware partners to manufacture holographic computers patterned after the $3000 aspirational HoloLens.
+
+Thus, to build an infrastructure of support, Microsoft has engaged in a tempered approach to the market. Redmond has demonstrated the efficacy of the technology first in specific industries and with specific use cases before launching haphazardly to the masses.

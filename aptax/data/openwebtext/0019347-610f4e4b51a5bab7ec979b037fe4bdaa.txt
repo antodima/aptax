@@ -1,0 +1,47 @@
+Advertisement
+
+In one giant leap for robotkind, NASA will send the world’s first humanoid robot to space later this year.
+
+The humanoid, called Robonaut 2 or R2, is set to launch on space shuttle Discovery on 1 November, 2010, and travel to the International Space Station, where it will become a permanent resident and work alongside humans as a robotic helper.
+
+The Robonaut features dexterous arms and hands that can manipulate objects and tools just like humans do. Astronauts will mount the robot on a fixed pedestal inside one of the space station labs and use it to perform tasks like flipping switches, cleaning air filters, and holding tools.
+
+The main goal is to find out how manipulation robots behave in space -- and also give crew members a second pair of hands. NASA hopes the experience will allow it to upgrade the robot in the future, so it would be able to support astronauts in more complex tasks, including repairs and scientific missions inside and outside the ISS.
+
+"It’s the first time ever in the history of the planet that we’ve decided to launch a humanoid robot into space," says Nic Radford, the Robonaut deputy project manager. "It’s been an amazing experience."
+
+The robot can perform tasks autonomously or under remote control, or a mix of both. Astronauts on the station will operate the robot using a laptop. The Robonaut can also be "joysticked" and directly controlled from Earth, though there's a delay of several seconds for commands to reach the space station.
+
+Most of the time the robot will receive instructions designating a task and carry it through autonomously. But NASA has tested a sensor suit that a human operator can wear to transmit motions to the robot. Eventually the Robonaut could become a powerful telepresence system for space exploration.
+
+And why a human-shaped robot? The advantage of a humanoid design, Radford says, is its ability to interact with the same exact technologies that the crew can.
+
+“Space shuttles and stations were made with humans in mind,” he explains. “The technology we’ve invested in over the years requires five fingers and two arms to operate. So the humanoid system with fine points of dexterity is a logical design as opposed to redesigning the shuttle interface for a non-humanoid robot.”
+
+The Robonaut, which looks a bit like Star Wars' Boba Fett, is about 150 kilograms [330 pounds]. Built primarily with aluminum with steel parts, it carries over 350 sensors and has a total of 42 degrees of freedom.
+
+Each arm is about 80 centimeters long and can hold 9 kg [20 lb] in Earth's gravity. Each hand has 12 degrees of freedom: 4 degrees of freedom in the thumb, 3 degrees of freedom each in the index and middle fingers, and 1 each in the other fingers.
+
+Behind its helmet visor are four visible light cameras: two provide stereo vision for the robot and remote operators, and two work as auxiliary cameras. A fifth infrared camera is housed in the mouth area for depth perception.
+
+Because the head is full of cameras, the robot's computer system -- 38 PowerPC processors -- are housed inside the torso. Or as NASA puts it, "R2 thinks with its stomach -- literally."
+
+This version of the robot has no legs or wheels. It's 101 cm [3 feet, 4 inches] tall from waist to head. “From the waist up he looks quite like me,” Radford jokes. “Big biceps and very muscular.”
+
+Working with GM over the past three years, NASA originally designed Robonaut 2 as a prototype to be used on Earth so engineers could understand what would be needed to eventually send a robot to space. But when mission managers saw the robot early this year, they were so impressed they decided to send it to the space station. The Robonaut team was given six months to get the robot ready.
+
+Here's an overview of the project:
+
+In a second phase of the Robonaut project, at an undecided date, NASA will be making the unit mobile using a leg-type system, giving it the ability to move around inside the ISS. The third phase will feature a robot that will perform missions outside the space station.
+
+The Robonaut is also a part of Project M, which wants to put a humanoid robot on the moon in 1,000 days -- beating Japan’s proposed goal of 2015. Even if the effort, which Radford describes as "a quick, hot burn project," is not successful, it will likely develop useful technologies.
+
+It seems the future of space exploration will surely include advanced telepresence robots with expert operators controlling them safely from Earth. But Radford sees the robots being used in cooperation with humans, not replacing them completely. “They are just another tool in a human explorer’s toolbox,” says Radford.
+
+“This is the dawning of a different era,” he concludes. “Ubiquitous robots that are in and around us, doing everything. We represent the beginning of that.”
+
+As for Robonaut, it's currently cocooned inside a foam-cushioned aluminum frame called the Structural Launch Enclosure to Effectively Protect Robonaut, or SLEEPR for short, where it's awaiting to rocket to space. Bon voyage, Robonaut!
+
+Watch Robonaut getting ready for the big trip:
+
+Images and videos: NASA

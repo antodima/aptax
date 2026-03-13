@@ -1,0 +1,63 @@
+Street Fighter V is just around the corner, and it’s one of Capcom’s biggest, if not most important, releases of 2016. As the company’s flagship title, it’s crucial that Capcom finds a way to mold Street Fighter around modern trends, and that means adopting new ways of monetizing the series.
+
+We’re no longer in the arcade-heavy days, when updates were primarily funded by route operators who put machines on location. Retail updates to console releases are also slowly becoming a relic, especially as the downloadable content philosophy roots itself deeper into the distribution channel.
+
+Going 3 Rounds with Street Fighter V Round 1: How producer Yoshinori Ono’s energy drives Street Fighter
+
+With Street Fighter V, Capcom is taking a hybrid approach to its release strategy, offering the game itself as a purchasable product but presenting all follow-up content under a freemium economy system. Players will have the choice to either purchase new characters and costumes with real money or with virtual currency earned by playing the game. This will also include any major updates to the Street Fighter V line of titles.
+
+While talking with Street Fighter series producer Yoshinori Ono (you can catch part one here), we were joined by Matt Dahlgren, the director of marketing and esports at Capcom.
+
+GamesBeat: Capcom hinted that you are moving away from the traditional content structure of previous Street Fighters. Could you go a little bit into what that means?
+
+Matt Dahlgren: We have a very exciting new strategy for Street Fighter V and a long-term content plan in place. We’re moving away from our previous model. We have a brand new model that will be a lot more player-friendly.
+
+First off, I’d like to talk about the core values of this new service-based model. All the [gameplay] adjustments will be available free of charge through the lifetime of the product. [What] we’ve found, from our previous strategy, is that every time we released a content pack, only a certain percentage of the audience would purchase that. It punished players for taking a break.
+
+[This is definitely true on my end. I had stepped away from Street Fighter IV after Super Street Fighter IV: Arcade Edition, and when I returned and found I had to drop down a chunk good chunk of cash to update, I wound up procrastinating playing the game again.]
+
+Now, even if you stop playing for a few years, you can come back and play with all the content available and the largest player base with the latest balance adjustments. This also means we’ll have a more consistent release of content, with less time players have to wait before getting new characters. Sometimes that was one or two years before [under the traditional Street Fighter model].
+
+It’s hard to keep players engaged without new content. This time around, we want to reward players who remain engaged with the product. That’s how we came up with our fight money system.
+
+One of the most important core values is that all post-launch gameplay content is going to be earnable with fight money or delivered to the player for free.
+
+Players are going to be able to earn fight money through playing single-player content that’s available. If you complete any of the character stories, you’ll earn fight money. If you complete survival mode with different characters, you’ll earn fight money. If you level up individual characters, every time you reach a new level, you’ll get some fight money.
+
+On top of that, if you just play online in a ranked battle, every time you get a win, you’ll be able to generate some fight money. If you play through all of the single-player content, or just a majority of it, you should be able to earn enough money to get the first DLC character for free, if not more money on top of that.
+
+Our in-game story will launch in March. This gives our players about a month’s time frame to play through the single-player content and earn enough fight money before content becomes available.
+
+Street Fighter V does not have any day-one DLC. No content is going to be available on day one, with fight money or zenny [Street Fighter V’s in-game currency]. Once the store opens, content will be added, and we’ll also be adding our daily challenges. [Those are] specific goals that players need to accomplish on a daily or weekly basis, which will also give them a boost of fight money. That’s coming with the in-game store because this is a model that’s there to provide long-term sustainability and a way to earn fight money in the long term.
+
+GamesBeat: There’s obviously a monetization side to this as well. People who don’t want to play as much can pay to get the unlocks. Do you have any prices worked out yet?
+
+Dahlgren: Yes. We’ll have basic pricing details when we get our season pass. General cost of a character is going to be around $6, or 600 zenny. Premium costumes will be around $4, or 400 zenny.
+
+There will be a variety of other options. Some costumes will be available to earn with just fight money. Some costumes will be available just for zenny. But anything that’s could affect the outcome of a match needs to be earnable with fight money.
+
+GamesBeat: About how much gameplay do I have to put in to earn, say, the first character?
+
+Dahlgren: In the beginning there’s definitely a large influx of fight money through all of the single-player content. It should be relatively easy for players to earn a new character in that first month.
+
+In the long term, it depends on the player’s skill, but we’re trying to make a system that’s fair and balanced to reward players of all types. We don’t want to make it too grind-heavy on top of that. That’s part of the reason we developed the daily challenges. It’s supposed to be about remaining engaged.
+
+If you log in on a daily basis, or every other day, and complete the challenges, you should be able to get the new characters as they come out.
+
+GamesBeat: Street Fighter has always had chapter updates, like a Championship Edition, which is a system that was born from arcade operators trying to entice players to spend more quarters.
+
+But that system carried over to later games and platforms as well. That seemed to be how Capcom monetized the series up until now. Did you bring anyone in to help work that out? Because this all seems very new for both Capcom and Street Fighter.
+
+Dahlgren: It is all new. I can’t speak to a specific person that we brought on board for this model.
+
+We’ve definitely done our research, though. Street Fighter is an esport, so we’ve been looking at other popular esports and how they handle their products. We’re confident in how it works, but we’re trying to roll things out in a very safe manner, because it’s brand new to Street Fighter. We want to make sure that we maintain a good sense of balance within our economy.
+
+That can be quite tricky.
+
+Ono: It’s kind of a generational gap, too, in terms of how things have been handled in the past.
+
+As you mentioned, we used to roll things out in disc updates. All we could do to communicate with fans and learn about was going on in the community was through magazines. That was a huge time lag.
+
+Now we’re in the Esports era. Things happen in real time. We have an opportunity with this new business model to really speed up that type of communication. That’s also why were giving out these balance updates for free as part of our new business model.
+
+This is a service, so you can expect new characters to be rolling out. People are going to be building up fight money and zenny to get these characters. That’s how we start having that kind of business interchange with our fans.

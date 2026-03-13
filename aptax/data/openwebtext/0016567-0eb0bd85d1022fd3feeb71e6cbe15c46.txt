@@ -1,0 +1,53 @@
+Hey there, Descenters!
+
+Vanquish enemies with drone-hunting plasma balls, select the match you want, unlock hidden treasures, and enjoy the grandeur of another user-created map, Skylab- all in earthshaking VR!
+
+Wait, what? VR? Yep - VR !!
+
+Oculus Rift and HTC Vive!
+
+
+
+NEW STUFF & Patch Notes (2045)
+
+SKYLAB - A high-tech orbital facility (based on perfectpencil's cool design) welcomes rock jocks from around the Belt!
+
+MATCH BROWSER - Clicking "Multiplayer" in the Drone Bay now shows all currently running matches as well as offering the ability to Quick Match and to Create matches. You can click on matches to join them.
+
+SMART MISSILE - A powerful rocket- on impact it emits tracking plasma blobs that home in on foes!
+
+SECURITY KEYS - Some doors now require special security keys to open! In multiplayer, these drop from destroyed ships.
+
+INVULNERABILITY ORB - Precious moments of complete invulnerability could be yours, if you find this elusive purple orb!
+
+VR ENHANCEMENTS - New VR menus and gaze pointer.
+
+Oculus SDK 1.3 - All Oculus headsets need to be updated to the latest runtime (and the DK2 can still work with this version despite warnings in the installer). Many Oculus users will need to enable "Unknown Sources" in Oculus app-> Gear menu-> Settings-> General because of default Oculus Store settings.
+
+The Shaman's tools take longer to repair friendly ships.
+
+Flares now cast more light and move a little faster.
+
+Small changes and bug stomping.
+
+Combat, Graphics, and Sound The explosion particle effect for destructibles took some much needed holiday in Rio and is currently visiting Mr. Drax. The Drone Bay has too many lights and so some people are getting poor performance while admiring their ships. Objects near the corners of the screen can experience "barrel distortion" because of the way that 3D objects are mapped to a 2D screen. Using the Field-of-View slider can help with this in some cases. Our guard bots in "Vs. Bots" mode did not pass the Drone Efficiency Recruitment Protocol and need more education. Collisions are more sticky than they are supposed to be, sometimes causing ships to catch on each other.
+
+Launching, Installing, and Platforms Installer & Launcher need to be run as administrator on Windows. Streaming software may need to run as administrator to capture video. Standalone (non-Steam) launcher not correctly self-updating on Linux and Macintosh. Uninstalling & reinstalling the launcher may not properly clear settings. Steam Overlay doesn't work on Mac and Linux. Part of the ship selection panel in the Drone Bay can get cut off on 4:3 displays. Selecting a 16:9 resolution can sometimes help with this.
+
+Input In VR, drop-down menus may not respond properly. Some menus are not interacting with the VR head-look pointer correctly. The axis configuration menu is somewhat clunky and uses too-technical language (power changes the curvature of the sensitivity curve, factor scales the sensitivity curve) Linux appears to not be detecting joysticks in many cases. Many joysticks do not yet have a default mapping and need to be configured manually. Controller customization issues are still being experienced by some users. Control customization needs a "reset to defaults" button. If you are having mouse issues, please make sure that your Mouse axes and sensitivities are NOT inverted and reversed at the same time. Multiple joysticks of the same model cannot currently be distinguished by the game.
+
+Matches Private matches can launch even if some players are marked "not ready". Auto-start timer in the match lobby doesn't yet display. Keep an eye on the status shown above for an indication as to how soon your match will start. There may be a wait for matches at times. While our all-backer player base is much larger than the beta pool, player play times can vary. In a match lobby, gamepad users sometimes cannot exit the lobby using the gamepad. All servers are currently in the U.S., other locations are planned.
+
+
+
+If you need to get the installer, CLICK HERE for instructions.This test is public and we are happy if people want to share on Twitch and YouTube. In the event that something is running poorly or breaks while you're streaming, please let your viewers know that this is an Early Access build that you are playtesting. It is NOT the final retail release.If you do plan to stream, you may need to run your streaming software as an administrator.Our game manual is a series of forum posts:If you have any questions about downloading or playing the game, that's the best place to check for a quick answer.
+
+Bug Reporting
+
+Please report bugs in our bug reporting forum with as much specificity as possible. If you can provide screenshots, that's awesome!
+
+We've also compiled a list of known issues so that you can skip those when reporting bugs.
+
+Fly safe!
+
+-Dunk

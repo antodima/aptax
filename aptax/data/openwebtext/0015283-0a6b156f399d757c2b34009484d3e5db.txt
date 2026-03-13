@@ -1,0 +1,15 @@
+Physics is a natural science concerned with the study of matter and energy applying laws that govern natural phenomena. It encompasses the study of the universe from the largest galaxies to subatomic particles, covering mechanics, radiation, heat, electricity, sound, magnetism and the structure of atoms.
+
+A good background of physics is essential in understanding our planet, our neighbouring planets, our solar system, and the universe. It offers explanations for every observed natural phenomenon. Physics is widely regarded as the most central and fundamental science and forms the basis of many other sciences including astronomy, chemistry, biology, oceanography, seismology, and zoology.
+
+Physics is an incredibly stimulating science, challenging our imagination with quantum mechanics, electrodynamics, chaos theory, and electromagnetism. It has contributed to modern society with the development of lasers, computers, homeland security, power transmission, biomedicine and drug development, cancer therapy, medical imaging, light sources, and much more.
+
+Science really prospers and advances when individuals share the results of their experiments with others in the scientific community. There is a certain logic that scientific software should therefore be released under an open source license. This article focuses on selecting the best open source software for physics and physics education. Hopefully there will be something for interest here for all budding physicists.
+
+So, let’s explore the 10 physics tools at hand. For each application we have compiled its own portal page, providing a screenshot of the software in action, a full description with an in-depth analysis of its features, together with links to relevant resources and reviews.
+
+Physics Tools CompHEP Automatic computations in High Energy Physics ROOT Solves the data analysis challenges of high-energy physics McStas Neutron ray-trace simulation application Step Interactive physics simulator Elmer Finite Element Software for Multiphysical Problems Octopus Real-space, real-time implementation of TDDFT Geant4 Toolkit for the simulation of the passage of particles through matter OpenFOAM Facilitates the numerical solution of partial differential equations Gerris Flow Solver Tool for generic numerical simulations of flows Tracker Video analysis and modeling tool designed to be used in education
+
+Return to our complete collection of Group Tests, identifying the finest free and open source Linux software.
+
+Related

@@ -1,0 +1,23 @@
+The research is young and the tech has only been used experimentally on three patients, but neurologists at Stanford say they are officially able to eavesdrop on the human brain in real-life (not just clinical) situations. What's more, they say their new method of recording brain activity opens the door to devices that can not only read but also manipulate the mind.
+
+Stanford University
+
+"This is exciting, and a little scary," Henry Greely, steering committee chair of the Stanford Center for Biomedical Ethics who observed but did not work on the study, said in a school news release. "It demonstrates, first, that we can see when someone's dealing with numbers and, second, that we may conceivably someday be able to manipulate the brain to affect how someone deals with numbers."
+
+The researchers call their novel method intracranial recording, and they tested it on three patients who experience recurring, drug-resistant epileptic seizures and were being evaluated for possible surgical treatment. Unfortunately, the method requires temporarily removing a chunk of a patient's skull to position packets of electrodes against the exposed surface of the brain to measure the brain's electrical activity. They did this for as long as a week, capturing the patients' seizures to learn the exact spot where the seizures were originating.
+
+The researchers were particularly interested in a region of the brain called the intraparietal sulcus, which is currently understood as playing a role in attention and eye and hand motion. Because previous studies have suggested that some nerve-cell clusters in this region are also involved in numerosity (i.e. math literacy) the researchers asked the patients to perform mathematical calculations and monitored the region when the patients were both performing those calculations and when they were engaging in quantitative thought in the course of daily life (concepts such as something being "more than" something else).
+
+The volunteers were asked some questions that required calculation (i.e. is it true or false that 2+4=5?) and other questions that required episodic memory (i.e. is it true or false that you had coffee this morning?). They were also asked to stare at the center of a blank screen to capture the brain's baseline resting state.
+
+Their novel brain-monitoring technique did involve volunteers being tethered to a monitoring apparatus and mostly confined to their beds, but had benefits over the other standard monitoring approach called fMRI -- where patients are stuck in a dark and intermittently noisy tubular chamber. In the journal Nature Communications on Tuesday, the researchers unveiled the first solid evidence that the pattern of brain activity is very similar when someone is performing a mathematical calculation and when they are engaging in more general quantitative thought.
+
+"We're now able to eavesdrop on the brain in real life," Josef Parvizi, senior author of the study and associate professor of neurology and neurological sciences, said in the release. With fMRI, he added, "You're not in your room, having a cup of tea and experiencing life's events spontaneously." What they wanted to know, he said, is "how does a population of nerve cells that has been shown experimentally to be important in a particular function work in real life?"
+
+While the findings may not seem like a giant step, it allowed the researchers to observe that electrical activity in a specific bundle of nerve cells spikes when a patient is engaged in a range of quantitative exercises, from actual math work to using terms such as "many" and "bigger than the other one" -- what Parvizi describes as both direct calculating and more oblique references to quantities.
+
+"These nerve cells are not firing chaotically," he said. "They're very specialized, active only when the subject starts thinking about numbers. When the subject is reminiscing, laughing or talking, they're not activated." So by listening in on the brain's electrical chatter, the scientists were able to know whether a patient was engaged in quantitative thought.
+
+While the researchers say these findings could ultimately lead to mind-reading applications -- be they of the therapeutic variety, such as helping a stroke victim communicate through passive thought, or of a more dystopian bent, such as chip implants that control one's thoughts -- they acknowledge that the research is incredibly young.
+
+"If this is a baseball game, we're not even in the first inning," Parvizi said. "We just got a ticket to enter the stadium."

@@ -1,0 +1,25 @@
+ADVERTISEMENT
+
+U.S. Navy scientists broke their own world record for the most powerful gunshot, firing a 23-pound projectile 5,500 feet in a second. (Watch video of the test below.) With the amount of power it generates, the experimental electromagnetic "railgun" can hit a target 110 miles away. What is this "sci-fi" super-cannon, how does it work, and what does it promise for the future of warfare?
+
+How does a railgun work?
+
+Instead of gunpowder or other explosives, the railgun uses an electromagnetic pulse to hurl a projectile along metal rails and on toward the target. The power comes from refrigerator-size capacitors, and it expels an aluminum shell in much the same way that a camera builds up, then sets off its flash, says railgun project manager Charles Garnett, at the Naval Surface Warfare Center in Dahlgren, Va. The bullet is designed to smash and obliterate its targets with sheer force, not blow them up.
+
+How powerful is the railgun?
+
+A single megajoule is the amount of energy in a one-ton vehicle traveling at 100 miles per hour, says Navy researcher Roger Ellis. One of the shots fired on Friday generated 33 megajoules of force out of the barrel. The previous record was 10 megajoules, set in 2008 by the same railgun. Eventually, the Navy plans to have its railguns fire at 64 megajoules, which would theoretically send a projectile 200 miles in about six minutes. Current Navy artillery can shoot about 12 miles.
+
+What's the advantage of a railgun?
+
+The extra power and range, of course, but also safety. Because the railgun doesn't require explosives, ships can safely store 10 times more of the ammunition, and there are no moving parts to break down. The extra range means that a U.S. ship will be able to fire on enemy vessels that can't fire on it, and perhaps even shoot down cruise or ballistic missiles.
+
+Is it battle-ready?
+
+No — the Navy hopes to start testing the railguns on ships by 2018, and have them ready for use in the early 2020s. In this test, it took five minutes for the gun to power up, and the electromagnetic pulse needed to fire it still can't be generated from a ship's batteries. Safety is another issue. In this test, the 23-pound bullet was reduced to a "scalded piece of squat metal," says Spencer Ackerman in Wired, and the Navy wants to make sure the gun and ship carrying it don't "get as fried as the bullet under the intense power generated."
+
+Is this powerful weapon a good thing?
+
+"Depending on your proclivities," says Frank Kobola in Digital Trends, it's "either terrifying or incredibly awesome." Right now, all the applications are military in nature, he adds, but the same technology could one day propel space ships or even power nuclear reactors.
+
+Sources: NY Daily News, Wired, Digital Trends, Mashable, Washington Post

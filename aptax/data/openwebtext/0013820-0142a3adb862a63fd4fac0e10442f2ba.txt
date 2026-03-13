@@ -1,0 +1,19 @@
+Looking for news you can trust?
+
+Subscribe to our free newsletters.
+
+“Net neutrality” is a simple thing: it mandates that ISPs (internet service providers, usually your cable or mobile phone company) provide the same level of service to all comers—from mighty Disney to modest Breitbart to tiny little startups. Without it, internet providers can sign exclusive deals with big companies so that their sites are nice and fast, while the also-rans are sluggish and unreliable.
+
+But would internet providers do this? One of the arguments against net neutrality is that it addresses a problem that might happen in the future, not a problem that actually exists. This argument doesn’t do much for me, since I think the probablility that internet providers will sign lucrative deals like this is pretty close to 100 percent. Hell, some internet providers have already come pretty close. Netflix pays Comcast for fast service on its lines. In the past, T-Mobile has “zero rated” certain sites so they don’t count against your data limit. These should be viewed as opening salvos, not full-blown non-neutrality, but they’re certainly a sign that monopoly internet providers know they have a very valuable commodity that they can auction off to the highest bidders if they’re allowed to.
+
+But what concrete evidence do we have about the future of a non-neutral internet? How about overseas, where net neutrality isn’t universal? I was thinking I should look into that, but Rep. Ro Khanna beat me to it:
+
+In Portugal, with no net neutrality, internet providers are starting to split the net into packages. pic.twitter.com/TlLYGezmv6 — Ro Khanna (@RoKhanna) October 27, 2017
+
+Britain allows similar arrangements. Michael Hiltzik picks up the story from there:
+
+Although both countries are part of the European Union, which has an explicit commitment to network neutrality, they’re allowed under provisions giving national regulators some flexibility. These regulators can open loopholes permitting “zero rating,” through which ISPs can exclude certain services from data caps….The potential for abuse is obvious: The system gives ISPs the ability to set terms for any service’s inclusion in one of these special tiers. …. In early January the FCC staff, in one of its last published reports before President Trump appointed Pai chairman of the FCC, concluded that zero-rating deals offered to broadband customers by AT&T and Verizon violate net neutrality principles. The deals “present significant risks to consumers and competition…because of network operators’ potentially unreasonable discrimination in favor of their own affiliates,” the staff reported. ….The arrangements that offended the FCC staff were AT&T’s “sponsored data” and Verizon’s “FreeBee Data 360.” AT&T, according to the FCC staff, gives content providers the ability—for a fee—to offer programming to its subscribers without its counting toward the subscribers’ monthly data usage limits. The problem is that AT&T offers this service to programmers at terms worse than those it gives DirecTV, which it owns….Verizon pulled the same stunt to favor its own go90 video service, the FCC staff found.
+
+This is just the start. At the moment, ISPs like Comcast and Verizon are being careful because they don’t want to do anything to jeopardize the elimination of net neutrality. But once they’re convinced it’s gone for good, they’ll start experimenting to see how far they can push things.
+
+Can I prove this? Of course not. But it’s obvious that in a non-neutral market, ISP’s can make a huge amount of additional money by charging content providers for fast service. So why wouldn’t they do it? It’s not as if their customers can switch to someone else, after all.

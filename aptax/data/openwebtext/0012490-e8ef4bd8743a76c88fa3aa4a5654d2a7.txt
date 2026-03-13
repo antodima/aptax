@@ -1,0 +1,27 @@
+It’s official: OS X is now macOS, and it’s being tagged as ‘Sierra.’
+
+With continuity, Apple is adding auto-unlock. Instead of having to type a password, you can use an iPhone or Apple Watch to authenticate a Mac.
+
+There is also a universal clipboard feture. Text copied on your iPhone can now be pasted on a Mac.
+
+Apple is also optimizing storage on Macs by offloading older files to iCloud when you’re running out of space on your computer. If you have files you know you won’t need, like redundant email stuff, Apple will also manage that by destroying your junk. Apple says it saw a 5x improvement in available space.
+
+Apple Pay is also coming to the Mac via the Web. When you shop online, a ‘pay with Apple Pay’ button lets you authenticate a purchase on your iPhone using Touch ID.
+
+Your messy tabs are also getting cleared up with support for third party apps, and developers don’t need to do a thing. It’ll happen automatically.
+
+If you like watching video on the Web, and videos go picture-in-picture so you can keep working across apps.
+
+Siri!
+
+And as expected, Siri is coming to the desktop. It’s the same experience you’ll find on your phone, more or less. She’s housed in the Dock as well as the Menu Bar.
+
+Of course, she’ll have some insight into your Mac, and it’s mostly the same as you’ll find in Spotlight search. So, if you ask Siri to open up a file, she can; it just saves you the step of looking things up in Spotlight.
+
+Interestingly, you can pin your recent Siri searches to the notifications bar.
+
+Siri can also search the Web — just like on the iPhone. The neat trick there is that you can drag things like pictures into a document or a app like Notes. You can also message people with voice.
+
+Developers can access macOS Sierra today, and the public beta is launching this Summer.
+
+Read next: Apple announces iOS 10, and it's jam-packed with features

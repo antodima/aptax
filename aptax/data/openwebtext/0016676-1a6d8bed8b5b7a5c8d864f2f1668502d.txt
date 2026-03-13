@@ -1,0 +1,23 @@
+FCC Blocks Law Enforcement Inquiry Into Fake Neutrality Comments
+
+The FCC is refusing to aid a law enforcement investigation into who submitted millions of fake comments in support of the FCC's planned rollback of net neutrality rules. New York Attorney General Eric Schneiderman has been conducting an investigation into the millions of fake comments (some belonging to dead people) submitted in support of the FCC's attack on net neutrality. In an open letter several weeks ago, Schneiderman's office said that despite 9 inquiries made during a six month period, the FCC refused to aid his office's inquiry in any capacity.
+
+On Monday of this week, Schneiderman's office issued a statement indicating that the FCC Inspector General's office might cooperate in the wake of public pressure.
+
+But on Thursday FCC general counsel Thomas Johnson sent a letter to Schneiderman refusing to hand over any data, server logs or API details that could help the investigation shine a light on the identity of the culprit(s).
+
+Johnson stated that "while your letter suggests that the public comment process was somehow 'corrupted' by the alleged submission of comments under false names, you offer no evidence that this activity affected the Commission’s ability to review and respond to comments in the record."
+
+Critics have charged that the FCC failed to investigate or hinder bogus comments because the fraud undermined trust in the validity of the comment process, helping to downplay and discredit the massive genuine opposition to the FCC's plan. If the fake comments were the work of an ISP-tied think tank or policy organization (such activity is certainly historically within their wheelhouse), the industry-cozy FCC also likely has a vested interest in not aiding anybody trying to document such a connection.
+
+The FCC similarly refused to do anything when I filed a formal complaint about the fact that someone used my name and the name of DSLReports.com to support killing the popular rules.
+
+Needless to say, Schneiderman's office isn't particularly impressed.
+
+"Today the FCC make[s] clear that it will continue to obstruct a law enforcement investigation," said Amy Spitalnick, a spokeswoman for Schneiderman’s office. "It’s easy for the FCC to claim that there’s no problem with the process, when they’re hiding the very information that would allow us to determine if there was a problem."
+
+FCC Commissioner Jessica Rosenworcel similarly blasted the FCC's refusal to cooperate.
+
+"This letter shows the FCC’s sheer contempt for public input and unreasonable failure to support integrity in its process," said Rosenworcel. "To put it simply, there is evidence in the FCC’s files that fraud has occurred and the FCC is telling law enforcement and victims of identity theft that it is not going to help. Moreover, the FCC refuses to look into how nearly half a million comments came from Russian sources. Failure to investigate this corrupted record undermines our process for seeking public input in the digital age."
+
+Expect the comment fraud, and the FCC's refusal to aid investigations into it, to play a starring role in the inevitable lawsuits coming in the new year.

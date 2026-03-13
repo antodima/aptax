@@ -1,0 +1,25 @@
+138 SHARES Facebook Twitter Linkedin Reddit
+
+Infinadeck, the active omnidirectional treadmill is back after it’s debut at SVVR Expo 2014. The latest prototype is on show at CES 2016 in a form that’s half the size, twice as quiet and now includes a harness to detect directional input. We took it for a spin.
+
+Having debuted at SVVR Expo back in 2014, the Infinadeck is the brainchild of George Burger and in it’s original incarnation, was not an input device for the faint of heart. Weighing in at 1000 pounds, the monstrous yet ingenious omnidirectional treadmill used a looping belt powered by two motors which could propel a user standing atop it in the opposite direction they intended to walk. The upshot is, in theory you can walk for ever in any direction whilst on the Infinadeck and never actually travel anywhere.
+
+Quite apart from the unit’s monumental proportions, the original version, built entirely by Burger, lacked the ability to detect user input, with manual control over the belts driving the user experience.
+
+At CES this year, Burger is now back with new collaborators in tow, and a new version of Infinadeck, sporting some pretty major improvements. Firstly, the weight has been halved, now a comparatively lean 500 pounds. Secondly, the noise at which the treadmill operates (i.e. the sound of those motors) has also been halved. Most importantly however, it now sports a new, frame-mounted harness, which detects force applied by the user’s body, interpreting that force as input in order to drive the direction of the belts and keep them centred on the treadmill.
+
+The latest prototype is fresh and a little raw, given the fact it had only been completed 3 days prior to being shipped to the show floor. Given that though, InfinaDeck Mark II is a surprisingly effective piece of kit.
+
+Once strapped into the velcro harness, which secures around the waist, you hold a killswitch which, once depressed, kills any belt movement to prevent you getting into trouble. Leaning forward at different angles results in the belts moving in the opposite direction at a speed corresponding to that pressure. In other words, the further you lean, the faster the treadmill will move under your feet, at speeds of up to 4MPH.
+
+My success with InfinaDeck was mixed, as it’s obviously not a device that mimics every day walking 1:1, there is learning curve here. That said, once I found my feet I was able to walk forwards, backwards and strafe left and right at varying speeds reasonably successfully. There is an element of trust required in yourself and the device, and the speed at which this trust develops will depend on the individual. I was pretty slow compared with our Executive Editor Ben Lang for example, whose experiences you can find below.
+
+Ben’s Infinadeck Impressions
+
+Having tried several other passive VR treadmills, Infinadeck provided the most natural gait. After all — the unit actually moves under foot, unlike others. This was most apparent when turning, because the friction between your foot and the ground (which allows you to turn) is actually there. That makes turning in continous wide arcs far more natural in my experience than passive VR treadmills which use low friction surfaces.
+
+In order for Infinadeck to work correctly, it needs to know which direction you’re moving so that it can counter-act your walking acceleration. I figured this would be done with some sort of optical or initerior tracking, but the creators of Infinadeck are using a more simple system that works better than I expected; a harness hanging above the platform detects against it as you begin walking. Using the direction of the pressure as a vector for your movement, the treadmill cancels out your acceleration and keeps you centred on the platform. There’s still improvements to be made so that the system accurately understands your walking (or stopping) intent, but it’s a promising and elegantly simple approach.
+
+I was able to get my bearings walking on Infinadeck quite quickly, and walking backwards worked just as well as forward. This was all without using a headset however, which meant I had a good sense of my surroundings (and what the treadmill was doing below me) which aided in my balance. Once I tried putting on a VR headset, walking became much more challenging. It’s not clear to me yet how much of this was due to inherent challenges of walking while wearing a headset versus things that can be improved with better software integration (like making sure the real-world walking direction and virtual walking direction are perfectly aligned).
+
+The Infinadeck team are under no illusions their locomotion solution will find a place in the average user’s home, at least not in its current, somewhat sizeable, form. They’re looking to industrial and military commercial applications for their somewhat unique device in the coming months as they refine the version on show at CES.

@@ -1,0 +1,47 @@
+Something strange happens on the Moon for 5 days during every lunar cycle. Its surface becomes electrically charged. Dust kicks up suddenly. It might even swirl into a light “storm” as particles electrically repel each other.
+
+These are the 5 days when the Moon’s orbit crosses Earth’s magnetotail, the vast region of the planet’s magnetosphere that gets swept back by solar wind. Within the magnetotail is a structure called the plasma sheet, a layer with a weaker magnetic field that’s relatively thick with ions.
+
+“Our new finding suggests that the Earth-Moon system coevolves not only physically but also chemically.” Now results from Japan’s Selenological and Engineering Explorer (SELENE) lunar orbiter show that during this time when the Moon passes through Earth’s plasma sheet, significant amounts of terrestrial oxygen from Earth rain down onto the Moon’s surface. This has likely been going on since oxygen became abundant in Earth’s atmosphere some 3 billion years ago.
+
+“Our new finding suggests that the Earth-Moon system coevolves not only physically but also chemically,” said Kentaro Terada, lead author on the study and planetary scientist at Osaka University in Japan. The research, published today in Nature Astronomy, hints that someday Moon dust could help scientists study Earth’s ancient atmosphere.
+
+Solar Versus Terrestrial Oxygen
+
+Solar wind, the collective stream of highly energetic particles that hurtle from the Sun, constantly batters Earth’s magnetosphere, shaping it into its characteristic teardrop form. Behind Earth, the magnetotail extends more than 600,000 kilometers.
+
+While Earth gets buffeted by solar wind, some particles—including hydrogen and oxygen ions stripped of electrons—escape along Earth’s magnetic field lines into the plasma sheet. For a brief period during every lunar orbit, the Moon passes through the plasma sheet, where it’s exposed to these ionized particles of terrestrial origin.
+
+But do these particles—in particular, oxygen ions—make it to the lunar surface, and if so, how would we know? Thus far, it’s been “an enigma,” Terada said. After all, oxygen carried on the solar wind also arrives at the Moon after it orbits out of Earth’s magnetotail.
+
+Researchers decided to look at data from SELENE, nicknamed Kaguya, to see if they could pick up signs of terrestrial oxygen in the days when the Moon passed through Earth’s magnetotail. Data from Kayuga, which stopped collecting observations in 2010, revealed that during a few hours every month the orbiter was bombarded with oxygen ions reminiscent of a terrestrial origin. These moments corresponded to when the Moon orbited through Earth’s plasma sheet.
+
+The researchers could fingerprint these ions because oxygen originating in the Sun is more often “multicharged,” meaning that more of its electrons get stripped away because of the Sun’s extreme heat, Terada said. The charge on these oxygen atoms might be +6, +7, or +8, whereas terrestrial oxygen generally loses only one electron.
+
+Assuming that what happens at Kayuga also happens on the Moon, the lunar surface also gets pelted with this terrestrial oxygen. Prior models suggest that heavier oxygen isotopes might be the ones escaping from Earth, although more research is needed to fully verify this fractionation. But this, the authors wrote, could explain why some oxygen isotopes of lunar metals sampled by the Apollo missions have relatively high abundances of heavier oxygen isotopes.
+
+The oxygen that hits Kayuga, and thus the oxygen that hits the Moon, travelled with high energy. Such high-energy particles would hit the Moon and burrow into lunar soil, worming some tens of nanometers deep into minerals, they suggested.
+
+An Archive of Biogenic Oxygen?
+
+Earth hasn’t always hosted an oxygen-rich atmosphere. In fact, oxygen didn’t appear in significant amounts until about 2 billion years ago, when tiny, aquatic creatures called cyanobacteria evolved and started converting carbon dioxide into sugar and oxygen molecules through photosynthesis.
+
+This could be “a really useful thing to be able to look at if we want to understand how the Earth and its atmosphere evolved over time.” “We can’t exactly go back and measure the Earth’s atmosphere a billion years ago,” said Jasper Halekas, a physicist at the University of Iowa in Iowa City who studies solar wind’s effects on the solar system but wasn’t involved in Terada’s research. However, an archive of Earth’s oxygen on the Moon could provide a window into that past, he explained. So this could be “a really useful thing to be able to look at if we want to understand how the Earth and its atmosphere evolved over time.”
+
+However, distinguishing old Earth oxygen, new Earth oxygen, and oxygen that arrived on the solar wind will be extremely tricky: “We have no method of dating the exact time at which the sample reached the surface,” the authors wrote.
+
+Remember: the authors expect that high-energy ions burrow into minerals in lunar soil. There’s currently no way to tell whether one ion burrowed thousands of years ago or only yesterday. And although higher abundances of heavier oxygen arrive at the Moon from Earth, Earth delivers to the Moon all isotopes, so it’s impossible right now to tell where an individual oxygen ion hailed from. So any oxygen on the Moon’s surface that originated from Earth forms an archive that scientists can’t yet read.
+
+But this currently inscrutable archive may still have secrets to reveal. “A fundamental question about the Moon and other ‘airless’ bodies is how their tenuous atmospheres work,” Halekas said. How are materials delivered to the airless body, how are they liberated from the surface, and how are they lost?
+
+“This new result is a measurement of a source of that atmosphere, so it’s another piece of that puzzle,” he explained.
+
+Analogue to Phobos
+
+These results might not just help scientists study our moon, Terada said. He suggests that this research could be applied to Mars’s moon Phobos.
+
+Recently, data from NASA’s Mars Atmosphere and Volatile Evolution (MAVEN) mission spacecraft revealed that Mars once sported a thick atmosphere like Earth’s but that it could have been stripped away by solar wind. Could Mars have delivered particles to Phobos in the same way Earth sends particles to the Moon?
+
+In 2022, the Japan Aerospace Exploration Agency (JAXA) plans to launch a spacecraft to Phobos, with hopes of collecting and returning soil samples to Earth. Perhaps Phobos, if it has a record of ancient particles from Mars preserved on its surface, could help scientists understand how Mars lost its atmosphere, Terada said. That is, of course, if the code to determining when oxygen ions burrowed into minerals and where those ions came from can be cracked.
+
+—JoAnna Wendel (@JoAnnaScience), Staff Writer; and Mohi Kumar (@scimohi), Scientific Content Editor

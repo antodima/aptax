@@ -1,0 +1,15 @@
+The legacy of that notorious underground online marketplace, Silk Road, is stronger than ever. This time New York Times journalist Nathaniel Popper gives us this front page story that reveals how the U.S. government tracked down Ross Ulbricht the alleged 29-year-old kingpin of the illegal website.
+
+To his credit, Mr. Popper mentions the word “bitcoin” only once, somewhere in the middle of the article. As we’ve written on three previous occasions, once in May 2015, once on June 1st and once on June 18th, 2015, the news media is still catching up with the technical implications. Instead, Mr. Popper tells us that the trail that led federal investigators to Ross Ulbricht was nothing more high tech than a forum post on Bitcoin Talk in which someone left behind the E-mail address [email protected] The clue was so improbable that even the investigators refused to take it seriously the first time it was presented to them.
+
+A second, even more dead obvious link was found many months before Ulbricht’s arrest when federal agents intercepted a package containing fake IDs that was addressed to Ulbricht’s home in San Francisco. When Ulbricht was questioned about the package at the time, he himself readily gave the agents the link to Silk Road without prompting, telling them that anyone could hypothetically go to the illegal marketplace to buy fake IDs. Whatever Ross’ role in Silk Road might have been, this behavior only strengthens the impression of him as a hapless fall guy, not so much the criminal mastermind behind an illegal million-dollar network.
+
+What kind of “drug lord” would order fake IDs to his home address or post his own e-mail address to an online forum? Other mundane details about Ross Ulbricht’s life also reinforce this belief: He shared an apartment with three other roommates he met via Craigslist. He caught poison oak picking up trash in the park.
+
+
+
+A “Silk Road” Culture
+
+Maybe it’s cynical to believe that the real power — the ones who were really pulling the strings have a lot more technical ability, common sense and resources than Ulbricht and are safely far away. But that theory matches the anything-goes culture of the Internet underground and the so-called “golden rule” which simply states that he who has the gold, makes the rules. Those people haven’t been caught. As far as we know, they are the same ones behind the next generation of decentralized marketplaces that are now fluorishing in Silk Road’s place. The site DeepDotWeb published a comparison chart that on December 26th, 2015 listed 20 of what it calls “established dark web markets”. There’s clearly a lack of respect, and even worse, lack of understanding between the legal system and, let’s say, those hackers on the dark web, in a growing conflict for which Silk Road has only become one of the most talked about symbols.
+
+Read “The Legacy of Silk Road and Ross Ulbricht’s Life Sentence”, “The Legacy of Silk Road Part 2: Decentralized Marketplaces” and “Is Bitcoin Anonymous: The Legacy of Silk Road, Part 3”.

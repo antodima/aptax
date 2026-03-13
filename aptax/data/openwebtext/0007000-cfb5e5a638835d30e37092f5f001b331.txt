@@ -1,0 +1,29 @@
+The government first set out its policy on the use of open source in 2004. This was restated in both 2009 and 2010. The Government ICT Strategy states that “Where appropriate, government will procure open source solutions”.
+
+To support this, action 3 of the strategy says that “To create a level playing field for the use of innovative ICT solutions, the government will publish a toolkit for procurers on best practice for evaluating the use of open source solutions.”
+
+The following set of documents make up that toolkit:
+
+All About Open Source – including FAQs
+
+ICT Advice Note - Procurement of Open Source
+
+Procurement Policy Note on Open Source
+
+OSS Options
+
+CESG Guidance on Open Source - for Government users only
+
+Publically accessible summary of the security guidance
+
+Total Cost of Ownership
+
+Total cost of ownership of open source software: a report for the UK Cabinet Office supported by OpenForum Europe
+
+OSS SI Assessment Criteria
+
+The purpose of this toolkit is to ensure that there is a level playing field for open source and proprietary software and that some of the myths associated with open source are dispelled.
+
+It is intended for those who need to consider, evaluate or procure software as well as anyone just wanting to know more about open source.
+
+Feedback on any of the toolkit documents is very welcome and should be sent to opensource@homeoffice.gsi.gov.uk.

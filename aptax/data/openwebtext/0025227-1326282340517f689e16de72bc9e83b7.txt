@@ -1,0 +1,35 @@
+Wednesday night finalized
+
+House and Senate negotiators ona controversial bill to encourage companies to share cyber-threat data with the government, adding it to a must-pass government spending bill and setting up final votes in both chambers as early as Friday.
+
+The Cybersecurity Act of 2015, which lawmakers included in the omnibus spending bill released early Wednesday morning, closely resembles the Senate’s cyber bill, known as the Cybersecurity Information Sharing Act (CISA). It establishes processes for companies to transmit cyber-threat indicators—pieces of malicious code, for example, or leftover digital signatures from an attack—to a portal run by the Department of Homeland Security. It also grants companies immunity from prosecution resulting from their sharing of said data, which could include scraps of their customers’ personal information.
+
+Supporters believe that the increased sharing of cyber-threat data will make it easier to detect and mitigate future attacks, while critics contend that information sharing would not have stopped major cyberattacks like the December 2014 Sony hack or the Office of Personnel Management data breach. Civil-liberties groups and security experts are also concerned that the process for scrubbing customer records from threat data is insufficiently robust.
+
+“Ramming through such legislation is not only bad politics, it’s bad for a representative democracy.”
+
+Leading technologists and privacy activists attacked the decision to stash the controversial cyber bill in the omnibus budget legislation. Harley Geiger, senior counsel at the civil-liberties group the Center for Democracy and Technology, described the move as “forcing bad policy through must-pass legislation.” Kevin Bankston, director of New America’s Open Technology Institute, called it “shameful.”
+
+Rep. Justin Amash (R-Mich.), one of four lawmakers who sent a letter to his colleagues urging them to oppose adding cyber legislation to the omnibus, called the legislation “unconstitutional surveillance” and “wasteful spending.” Sen. Ron Wyden (D-Ore.), the upper chamber’s leading privacy advocate, attacked the final bill as weaker than its predecessors.
+
+Internet-freedom activists and like-minded lawmakers already hated CISA and its House counterparts, but changes in the final version deepened their frustration. The Open Technology Institute posted a graphic comparing versions of the legislation that graded the changes from preliminary to final text.
+
+The group’s analysis, with which Wyden agrees, is that the final version of nearly every provision is the worst permutation. In the omnibus version, companies now get liability protection even if they are grossly negligent in their sharing of threat data. And unlike in previous versions, the president can create a data-sharing portal outside of the DHS if he deems the DHS portal to be dysfunctional.
+
+Although the NSA, the FBI, and other intelligence agencies can access the DHS portal, shared data gets “scrubbed” to remove Americans’ personal information before the DHS lets outside agencies access it. If the president created an FBI portal, the bureau could access shared data directly. If not thoroughly scrubbed, that data might include evidence of Americans’ behavior that the FBI wouldn’t otherwise have.
+
+“We’ve got to count on it to not use [threat data] or to use [it] only in limited circumstances laid out in the bill for non-cyber reasons,” said Greg Nojeim, senior counsel at the Center for Democracy and Technology.
+
+“Ramming through such legislation is not only bad politics,” wrote Mark Jaycox, legislative analyst at the Electronic Frontier Foundation, “it’s bad for a representative democracy.”
+
+Rep. Adam Schiff (D-Calif.), the top Democrat on the House Intelligence Committee, attempted to dispel these concerns, sending a letter to colleagues disputing the premise of many opposing arguments. But the letter took on only the most extreme versions of those arguments, and the fact remains that the bill did make significant changes.
+
+.@RepAdamSchiff just sent out a Dear Colleague letter attempting to dispel “inaccurate claims” about #CISA language pic.twitter.com/CnoS4o7Ggc — Dustin Volz (@dnvolz) December 16, 2015
+
+Lawmakers also eliminated a provision that would have required the DHS to assess the cybersecurity risks to critical-infrastructure sectors like manufacturing, finance, and communications. Business groups hated the provision, telling Congress that it “[ran] counter to the voluntary nature” of the legislation by requiring new incident reports.
+
+A minor turf battle erupted in the House as last-minute negotiations hinged on which of the lower chamber’s two bills to incorporate into the final product. Civil-liberties groups preferred the privacy provisions in the Homeland Security Committee’s bill, the National Cybersecurity Protection Advancement Act. But despite pushback from Homeland Security Committee Chairman Michael McCaul (R-Texas), lawmakers ultimately incorporated the Intelligence Committee’s version, the Protecting Cyber Networks Act.
+
+President Obama endorsed CISA when it passed in October. Congress will begin holding votes on the spending bill, with the latest iteration of CISA included, at the end of the week.
+
+Photo via Ben Becker/Flickr (CC BY 2.0) | Remix by Jason Reed

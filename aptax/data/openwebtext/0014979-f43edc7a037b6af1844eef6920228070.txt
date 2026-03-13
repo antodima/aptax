@@ -1,0 +1,89 @@
+How to speed up your MySQL with replication to in-memory database
+
+Vadim Popov Blocked Unblock Follow Following Mar 17, 2017
+
+Original article available at https://habrahabr.ru/company/mailru/blog/323870/
+
+I’d like to share with you an article based on my talk at Tarantool Meetup (the video is in Russian, though). It’s a short story of why Mamba, one of the biggest dating websites in the world and the largest one in Russia, started using Tarantool. Why did we decide to busy ourselves with MySQL-to-Tarantool replication?
+
+First, we had to migrate to MySQL 5.7 at some point, but this version didn’t have HandlerSocket that was being actively used on our MySQL 5.6 servers. We even contacted the Percona team — and they confirmed MySQL 5.6 is the last version to have HandlerSocket.
+
+Second, we gave Tarantool a try and were pleased with its performance. We compared it against Memcached as a key-value store and saw the speed double from 0.6 ms to 0.3 ms on the same hardware. In relative terms, Tarantool’s twice as fast as Memcached. In absolute terms, it’s not that cool, but still impressive.
+
+Third, we wanted to keep the whole existing architecture. There’s a MySQL master server and its slaves — we didn’t want to change anything in this structure. Can MySQL 5.6 slaves with HandlerSocket be replaced with something else without having to make significant architectural changes?
+
+We learned that the Mail.Ru Group team has a replicator they created for their own purposes. The idea of replicating data from MySQL to Tarantool belongs to them. We asked the team to share the source code, which they did. We had to rewrite the code, though, since it worked with MySQL 5.1 and Tarantool 1.5, not 1.7. The replicator uses libslave, an open-source solution for reading events from a MySQL master server, and is built statically without any of MySQL’s system libraries. It’s been open-sourced under the BSD license, so anyone can use it for free.
+
+Replication constraints
+
+Firstly, binary logs residing on a master must be row-based (STATEMENT and MIXED options won’t do, only ROW). Secondly, this replicator is not a Tarantool module, but a stand-alone daemon that doesn’t have anything to do with either Tarantool or MySQL. Thirdly, if you want a single master to have, say, ten slaves, you’ll have to run ten separate daemons, because one replicator can replicate data to only one Tarantool instance at a time. Lastly, the replicator won’t work with MariaDB. We tried it with versions 5.6 and 5.7, but they’re either an Oracle or a Percona build (which is what we use). MariaDB’s replication protocol has been changed.
+
+How does replication work?
+
+MySQL and Tarantool know nothing about each other. The replicator reads all the MySQL binary logs and writes the data to Tarantool.
+
+What can the replicator do?
+
+When the replicator is run, it grabs all the data from a master, based on the configuration file that specifies which databases/tables need to be replicated. That said, it takes just a Tarantool instance with empty spaces to launch the replicator — it’s very convenient.
+
+As a system administrator, you need to understand if the replication process is working, which binary log and which position value are being read at the moment. Of course, the replicator provides such functionality: there’s a separate Tarantool space that contains just three values, including the binary log name and the current position value — you may regard it as an analog to good old SHOW SLAVE STATUS.
+
+10.5.2.17:5000> box.space.ReplicationLog:select() [0, ‘db-bin.024218’, 916925355]
+
+After adopting the replicator, we deployed seven Tarantool instances running on only two servers, as a single Tarantool instance can’t use all the CPU cores of a machine at once. As a quick refresher of the Tarantool architecture, one instance is capable of using three cores or more: one core or more for network, strictly one core for transactions and strictly one core for handling write-ahead log (WAL) files.
+
+Workload
+
+After we ran the replicator, the workload on MySQL slaves with HandlerSocket dropped close to zero.
+
+Then we tried to remove seven out of eight MySQL slave servers, and the remaining one was able to withstand all the workload. We didn’t fully give up MySQL slave servers — we kept them for handling those requests that work without HandlerSocket, which means we can complete the migration to MySQL 5.7. In the end, we saved at least seven servers, a number of enterprise SSDs that power them, and some rack space, electricity and money.
+
+What about response time? We at Mamba have our own open-source product called BTP. Below are a couple of charts it generated.
+
+HandlerSocket has a very peculiar API. You need to first call connect, then open_index and, finally, execute. The chart above shows cumulative time for the three methods, which sometimes could be as high as one second.
+
+Compare it to what we got on Tarantool servers running the same database replicated from a MySQL master:
+
+The reason is quite simple: MySQL was running on SSDs, and the buffer pool size was less than that of the database. Tarantool, on the other hand, is an in-memory database, so all the data is RAM-resident. We even disabled WAL files on almost all the instances, so no disk operations are involved. However, there are several non-production instances used for snapshotting, where we kept WAL files enabled.
+
+Isn’t it reinventing the wheel?
+
+If someone else told me about all this, I’d say, “Aren’t you reinventing the wheel? You’re replicating something from MySQL to Tarantool. Sure, you’re thinking of dropping HandlerSocket in order to migrate to MySQL 5.7. But why would you do that in the first place? If your servers without HandlerSocket can’t handle the workload, just add some more servers. If you do need an in-memory database, you can create heap tables or move database files to tmpfs, create symlinks — and all the tables will be in RAM again. Bingo!”
+
+However, that’s not how it is.
+
+Here’s what so special about the replicator. Suppose the database that resides on a master and that we want to replicate contains about a hundred tables, but a slave doesn’t need all these tables — it needs only seven of them. We’d hate to spend extra resources on replicating surplus data. Luckily, MySQL allows specifying the number of tables to replicate. But what if these seven tables have 120 fields in total, whereas only 21 of them are actually used in queries handled by the slave servers? MySQL forces us to entirely replicate all the seven tables, which take up about 80 GB of RAM in our case. The replicator, on the other hand, allows specifying a subset of table fields for replication, bringing the volume down to 20 GB.
+
+What’s also great about the replicator is that all these table fields are put into one space, so you can select them with a single query, without using any joins.
+
+Results
+
+Tarantool is really fast, up to three times faster than MySQL, as attested by the charts above.
+
+The resulting implementation of Tarantool replication works faster than that in MySQL, and here’s why. When we first ran it, we couldn’t help asking ourselves if our replication is consistent. We created a simple PHP script that compares the number of monthly active users as reported by a MySQL master and a Tarantool slave. Sometimes the script grabbed even the users who registered less than a second ago. A MySQL slave didn’t have those users yet, whereas the Tarantool slave did, even though executing SHOW SLAVE STATUS on the MySQL slave always showed a zero delay. That said, the information reaches Tarantool faster, since it’s an in-memory database.
+
+Tarantool’s advantages
+
+What happens if you unplug a MySQL server power cable, then plug it back in and restart the server? At startup, the process of InnoDB recovery is launched, which consequently restores the database. But a couple of times we’ve seen the following situation: the controller starts writing some inadequate information to disk, the server throws a kernel panic due to the controller malfunction and InnoDB recovery following the restart ends with a core dump.
+
+Tarantool boasts a well-thought-out WAL mechanism: even if the controller does write some rubbish to a WAL file, which prevents you from relaunching Tarantool, you can simply delete this file. Or you could open it and delete records one by one until Tarantool is up and running again. As a side note, it’s possible to specify the number of transactions written to a WAL file at a time — it can even be a single transaction. I’d like to stress here that the MySQL example I used above involves a hardware (server) failure; normally, InnoDB recovery works like a charm.
+
+What I also like about Tarantool is that it’s very user-friendly. It’s always clear what to do and how to do it. Suppose a new MySQL version is out. You install it, but it won’t launch. After checking the error log, you discover some parameters in my.cnf are deprecated. Then you open the official documentation and see a bunch of new parameters, so you have to figure out how to create a new my.cnf file to boost the performance. Tarantool doesn’t have any of this. It’s easy to use, with an absolutely necessary minimum of parameters.
+
+Another thing we all enjoyed is the Tarantool community. There’s a Telegram chat (ping Denis Anikin for an invite), where you can ask the developers a question about Tarantool or get a quick bug fix.
+
+Tarantool’s snapshotting implementation is excellent. This mechanism works incredibly fast — 800 MB or, probably, even 1 GB per second. Everything is written consecutively to a single file. You don’t need high-end disks for that, the cheapest SATA drives are more than enough. Starting a snapshot of a 20 GB database takes under five minutes. According to my measurements, MySQL requires much more time for that.
+
+Tarantool’s disadvantages
+
+First and foremost, Tarantool indexes are case-sensitive, which is really inconvenient, especially if you come from the MySQL background.
+
+Second, working in the console isn’t that comfortable. Say, how do you know that MySQL replication is running? You execute SHOW SLAVE STATUS twice and see the numbers change. Moreover, the MySQL console will show you the output of SHOW SLAVE STATUS only once, even if you execute the command a hundred times.
+
+The Tarantool console, on the other hand, displays a separate output each time you hit Enter. As a result, it takes a lot of time to scroll back up to a place you need.
+
+Takeaway
+
+Tarantool is a really good product that you can use in your projects. It does have its drawbacks, but it’s constantly evolving. Now that it has data replication from MySQL, I hope it will grow even faster. Tarantool’s killer feature is, of course, its speed.
+
+Thank you and stay tuned!

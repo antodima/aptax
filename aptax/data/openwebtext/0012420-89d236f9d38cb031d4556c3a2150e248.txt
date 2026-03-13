@@ -1,0 +1,80 @@
+Hello there. In this article, we’ll take a look at seven articles that cover the process of data visualization for the web. The original idea was to make it helpful for as many people as possible. That’s why I tried to concentrate on different topics such as HTMl5 Canvas, CSS, SVG, JavaScript Libraries, and Gantt Charts.
+
+1. HTML5 Canvas Tutorial: An Introduction
+
+Our first one is not actually about charts or something like that. In fact, there are only three practical examples in this article: Drawing Lines, Drawing Rectangle, and Drawing Text. But what’s more important is that author gives you a possibility to learn how HTML5 Canvas works. And after that you can use this technology the way you want.
+
+So, what’s so important about HTML5 Canvas? First of all, you can use it to create almost any type of project, from Data Representation to Gaming. Talking about the technology itself, it has tons of great features. It’s interactive and can respond to your actions. Every canvas object can be animated. It’s a web standard, so there’s no reason to worry about the browsers compatibility. Check the article if you ant to get the whole picture about the canvas’ strong sides.
+
+Talking about the article, since it’s an introduction to the technology, I assume that it was written mostly for the beginners. Basic knowledge of HTML, CSS and JavaScript is everything you need to know to get the idea.
+
+Link to the article
+
+2. Making Charts with CSS
+
+Something more practical this time. This article will help you build Bar Charts, Sparklines, and Pie Charts with plain CSS. What’s good about this article is that it describes the possible pros and cons of such an approach. It’s well written, and every step is described pretty well. But since this time there’s some Sass code, it’s probably not the best choice for the rookies.
+
+Link to the article
+
+3. Creating Your Own Online Gantt Application with dhtmlxGantt
+
+Those two was pretty easy, huh? Well, here’s something new. This article will teach you how to build your own online Gantt Chart app using dhtmlxGantt. What’s so unusual about it? Well, unlike the previous two, this article describes the full process of application building. There are back-end and front-end parts that cover the following main phases: database creation, database handling, chart initialization and adding some extra features (e.g. exporting, important tasks highlighting, etc.).
+
+If you want to try it by yourself, there are some preparation that should be done before you get started. You should have a local web server with PHP and MySQL running to build this chart.
+
+Link to the article
+
+4. Visualize Data Beautifully with Chart.js Library
+
+Building a chart from the scratch may be not as easy as you’d like. But have no fear. There’s always a possibility to use a JavaScript library for that task. Chart.js is an open-source library that uses HTML5 canvas for rendering. It’s intuitive and easy to learn so that you won’t face any trouble.
+
+This article describes how you can create different types of charts such as Line Chart, Bar Chart, Radar Chart, Polar Area Chart, Pie Chart and Doughnut Chart. And, moreover, they’re animated! Check this demo page if you don’t trust me.
+
+Link to the article
+
+5. Building a Multi-Line Chart Using D3.js
+
+
+
+
+
+D3.js is the JavaScript library that was designed for data processing and visualization. It consists of little utilities that allow you handle the data and create DOM elements.
+
+This article has two parts and covers the fundamental principles of chart building. From the first part, you’ll learn how to build the axes, create a single line and a multi-line chart. The second part will teach you how to make our graph scale dynamically, add the legend to your chart, and handle the events. Great beginning guide.
+
+Link to the article: Part 1, Part 2
+
+
+
+
+
+6. Designing Flexible, Maintainable Pie Charts with CSS and SVG
+
+
+
+
+
+Guess, it’s the most detailed article I’ve seen in awhile. It will guide you through the process of pie chart creation covering the tiniest details.
+
+You’ll learn how to use CSS animation, what issues you can face during the working process, and, what’s more important, what benefits you can get choosing SVG over the pure CSS.
+
+Link to the article
+
+
+
+
+
+7. 11 Best jQuery Charting Libraries
+
+It’s not a secret that jQuery is a standard nowadays. There are dozens of famous JavaScript frameworks that were built on its basis. jQuery is the must. No doubt about it.
+
+That’s why I chose this article. Every charting library has its own strong and weak sides. There are big and advanced libraries that allow you build some exotic charts like Cytoscape.js, for example. On the other hand there’s Easy Pie Chart that does one job – renders pie charts, but it makes it good.
+
+Link to the article
+
+
+
+
+
+
+

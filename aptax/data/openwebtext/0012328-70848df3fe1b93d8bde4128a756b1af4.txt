@@ -1,0 +1,61 @@
+Can mandatory helmet laws save motorcyclists lives? That’s the question that inspired this article, but, looking at the available data, no correlation appears to exist. Crazy, right? Let’s look deeper at the data and see what fatality rates can tell us about motorcycle safety.
+
+Motorcyle Fatalities by Riding Population
+
+This map compares fatalities per riding population, by state. In the red states, motorcyclists run a .00075 percent chance of being killed in an on-road crash or higher. Yellow states are .0005 percent and above. Green states are .00025 percent and up. The three blue states are .00021 or below.
+
+The most dangerous state for motorcyclists is Hawaii that saw 37 deaths during the first nine months of 2012 (the latest date range for which we have data) and has 30,000 road-legal motorcycles registered. The safest state, New Jersey, reported only 65 motorcyclist fatalities on its roads during the first nine months of 2012, despite having over 330,000 registered motorcycles.
+
+States with Mandatory Helmet Laws
+
+This map shows the 20 states with mandatory helmet laws for all riders. Most other states require helmets only for teenage motorcyclists, while three states have no helmet requirement of any kind — Illinois, Iowa and New Hampshire. This map does not distinguish between those states and the 27 remaining, simply because the number of under-18-year old motorcyclists is statistically irrelevant.
+
+While the most dangerous state does not require helmets for adult riders and the safest state does, very little statistical correlation between helmet laws and fatality rates can otherwise be determined.
+
+Percentage of Fatalities Not Wearing Helmets
+
+Now this map shows the percentage of motorcyclist fatalities where the rider was not wearing a helmet. Red states report that helmets were not worn in 75 percent of fatal crashes. Yellow states are 50 percent and up. Green states are 11 percent and up. In blue states, that number is less than 10 percent.
+
+Perhaps most interesting is that this map doesn’t strongly correlate either with helmet laws or overall motorcyclist fatality rates. The state in which an unhelmeted motorcyclist fatality is most likely to occur is New Mexico, which has no helmet law. In Vermont, where all motorcycle fatalities did involve a helmet, there is a helmet law. Most helmet law states fall into the lower third of states where fatal crashes were likely to involve helmet use.
+
+In fact, this data could be said to indicate that helmet use more strongly correlates with fatal crashes than not wearing a helmet does. Take Vermont for instance, which has both a helmet law and reports 100 percent of fatal motorcycle crashes involved the use of one. Doesn’t make them sound terribly safe, does it?
+
+Read More On Page 2 >>>
+
+Percentage of Fatalities with 0.08% or Higher BAC
+
+This map shows what, according to the 1981 Hurt Report, is the single most common cause of motorcycle crashes — riding one while under the influence of alcohol. In this case, .08 percent BAC or greater. In red states, 34 percent or more of fatal crashes were reported to involve intoxication. In yellow states that percentage is 20 percent or greater. Green states are between 13 and 17 percent and the one blue state, ever-safe Vermont, reports only 1 percent of fatal crashes involved intoxication.
+
+Again, there’s little correlation between intoxicated fatalities and overall fatality rates. If anything, there’s a small correlation between states where fatal crashes are more likely to occur without a helmet and states where fatal crashes are more likely to involve alcohol, but it’s hardly one-to-one.
+
+So what does this teach us about motorcycle safety?
+
+Well, the lack of correlation between fatality rates and either helmet laws or even the percentage of fatal crashes involving helmets is often used by anti-helmet law advocates, seemingly to prove their point.
+
+“Mandatory helmet laws do nothing to prevent crashes,” states the American Motorcyclist Association. “Regardless of the protective equipment worn, any motorcyclist involved in a crash is at considerable risk. Mandatory helmet laws do nothing to prevent crashes that injure or kill motorcyclists.”
+
+The Alliance Of Bikers Aimed Toward Education (ABATE) states it, “believes that accident prevention and avoidance are more important to significantly reducing injuries and fatalities than any mandatory equipment laws. Mandatory helmet laws do nothing to prevent accidents.”
+
+The trouble appears to be that we’re all operating on incomplete data. “They only tell you the percentage of riders killed without a helmet on,” explains RideApart COO and resident statistics nerd Nolan Zandi. “They do not tell you the percentage of riders in general who don't wear a helmet. For example, In Alabama, 15 percent of motorcycle deaths involve no helmet. However, how many riders in general don't wear helmets? If only, one percent of riders don't wear helmets and 15 percent of deaths are from that one percent who don't wear helmets, then we can say that unhelmeted riders have a disproportionately high share of motorcycle deaths. Alternatively, if 15 percent of riders in general don't wear helmets, than we can say that in Alabama, wearing a helmet doesn't seem to affect the odds of dying in a wreck. Unless, of course, there is another factor, like helmeted riders ride more dangerously and aggressively because they feel protected by their helmet, these kinds of things are what make statistics so hard. Unfortunately, this dataset doesn't include that information, making it difficult to get insight onto the effects of wearing a helmet.”
+
+What data we do have is changes in fatality rates immediately following the repeal of mandatory helmet laws. Assuming other variables in a given state with a recently repealed helmet law remain relatively unchanged, this is the best possible indication as to the effectiveness of helmets in preventing death. For example, Michigan reported an 18 percent increase in annual motorcyclist fatalities last year, when it repealed its mandatory helmet law. The Southern Medical Journal reported that motorcycle fatality rates in Texas increased by 25 percent, per miles-travelled in the seven years following the 1997 repeal of its helmet law. In Florida, the motorcycle fatality rate increased by 21 percent following its repeal of the helmet law in 2000. All three examples include increases in fatalities large enough to rule out statistical anomaly and occur immediately following a helmet law repeal, raising the chances that other variables played little or no role.
+
+Of course, we’re missing other, major pieces of the motorcycle safety puzzle. “What are the fatality rates controlled by different helmet types?” Asks Nolan. “How do fatalities compare among people wearing sweet, $500 full-faces compared to Harley skid lids? What about other motorcycle gear? How do fatalities for ATGATT riders compare to the "Sun’s out, guns out” crowd?
+
+And then there’s motorcyclist behavior and attitudes. No study has ever been attempted to compare the accident rates of riders who pursue advanced training and practice safe riding compared to those who buy Hayabusas for first bikes. If you separate the skilled from the unskilled, what do fatality rates look like then?
+
+Don’t underestimate the importance of answering these questions. One last statistic underlines the importance of gaining a greater understanding of motorcycle safety and using that knowledge to effect change. “One trend is clear from this data,” says Nolan. “And, it’s the most disturbing. Over the last 10 years, motorcyclist injuries and fatalities, controlled for number of vehicles and miles ridden, have significantly increased while the same numbers for car drivers has decreased.” Riding a motorcycle is getting more dangerous, and we need to do something about it.
+
+Want to check out our data and see what conclusions you can draw? Here’s a spreadsheet detailing fatalities, registrations, rates, helmet use (in fatal accidents) and intoxication (in fatal accidents). I used this free map generator to make the maps. And below are our sources for this material. Help us get to the bottom of this.
+
+Sources:
+
+GHSA.org
+
+Statista.com
+
+CDC.gov
+
+NHTSA.gov
+
+WikiMedia.org

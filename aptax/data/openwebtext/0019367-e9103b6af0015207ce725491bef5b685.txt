@@ -1,0 +1,77 @@
+Image caption Collisions at the LHC in Geneva have refined a mass for the Higgs-like particle
+
+Scientists say they may be able to determine the eventual fate of the cosmos as they probe the properties of the Higgs boson.
+
+A concept known as vacuum instability could result, billions of years from now, in a new universe opening up in the present one and replacing it.
+
+It all depends on some precise numbers related to the Higgs that researchers are currently trying to pin down.
+
+A "Higgs-like" particle was first seen at the Large Hadron Collider last year.
+
+Associated with an energy field that pervades all space, the boson helps explain the existence of mass in the cosmos. In other words, it underpins the workings of all the matter we see around us.
+
+Since detecting the particle in their accelerator experiments, researchers at the Geneva lab and at related institutions around the world have begun to theorise on the Higgs' implications for physics.
+
+One idea that it throws up is the possibility of a cyclical universe, in which every so often all of space is renewed.
+
+"It turns out there's a calculation you can do in our Standard Model of particle physics, once you know the mass of the Higgs boson," explained Dr Joseph Lykken.
+
+This bubble will then expand, basically at the speed of light, and sweep everything before it Dr Joseph Lykken, Fermi National Accelerator Laboratory
+
+"If you use all the physics we know now, and you do this straightforward calculation - it's bad news.
+
+"What happens is you get just a quantum fluctuation that makes a tiny bubble of the vacuum the Universe really wants to be in. And because it's a lower-energy state, this bubble will then expand, basically at the speed of light, and sweep everything before it," the Fermi National Accelerator Laboratory theoretician told BBC News.
+
+It was not something we need worry about, he said. The Sun and the Earth will be long gone by this time.
+
+Dr Lykken was speaking here in Boston at the annual meeting of the American Association for the Advancement of Science (AAAS).
+
+He was participating in a session that had been organised to provide an update on the Higgs investigation.
+
+Two-year hiatus
+
+The boson was spotted in the wreckage resulting from proton particle collisions in the LHC's giant accelerator ring.
+
+Data gathered by two independent detectors observing this subatomic debris determined the mass of the Higgs to be about 126 gigaelectronvolts (GeV).
+
+What is an electronvolt? Image caption The LHC's experiments create showers of particles Charged particles tend to speed up in an electric field, defined as an electric potential - or voltage - spread over a distance
+
+One electron volt (eV) is the energy gained by a single electron as it accelerates through a potential of one volt
+
+It is a convenient unit of measure for particle accelerators, which speed particles up through much higher electric potentials
+
+The first accelerators only created bunches of particles with an energy of about a million eV
+
+The LHC can reach particle energies a million times higher: up to several teraelectronvolts (TeV)
+
+This is still only the energy in the motion of a flying mosquito
+
+But LHC beams include hundreds of trillions of these particles, each travelling at 99.99999999% of the speed of light
+
+Together, an LHC beam carries the same energy as a TGV high-speed train travelling at 150 km/h
+
+That was fascinating, said Prof Chris Hill of Ohio State University, because the number was right in the region where the instability problem became relevant.
+
+"Before we knew, the Higgs could have been any mass over a very wide range. And what's amazing to me is that out of all those possible masses from 114 to several hundred GeV, it's landed at 126-ish where it's right on the critical line, and now we have to measure it more precisely to find the fate of the Universe," he said.
+
+Prof Hill himself is part of the CMS (Compact Muon Solenoid) Collaboration at the LHC. This is one of the Higgs-hunting detectors, the other being Atlas.
+
+Scientists have still to review about a third of the collision data in their possession. But they will likely need much more information to close the uncertainties that remain in the measurement of the Higgs' mass and its other properties.
+
+Indeed, until they do so, they are reluctant to definitively crown the boson, preferring often to say just that they have found a "Higgs-like" particle.
+
+Frustratingly, the LHC has now been shut down to allow for a major programme of repairs and upgrades.
+
+"To be absolutely definitive, I think it's going to take a few years after the LHC starts running again, which is in 2015," conceded Dr Howard Gordon, from the Brookhaven National Laboratory and an Atlas Collaboration member.
+
+"The LHC will be down for two years to do certain repairs, fix the splices between the magnets, and to do maintenance and stuff. So, when we start running in 2015, we will be at a higher energy, which will mean we'll get more data on the Higgs and other particles to open up a larger window of opportunity for discovery. But to dot all the I's and cross all the T's, it will take a few more years."
+
+If the calculation on vacuum instability stands up, it will revive an old idea that the Big Bang Universe we observe today is just the latest version in a permanent cycle of events.
+
+"I think that idea is getting more and more traction," said Dr Lykken.
+
+"It's much easier to explain a lot of things if what we see is a cycle. If I were to bet my own money on it, I'd bet the cyclic idea is right," he told BBC News.
+
+The Standard Model and the Higgs boson • The Standard Model is the simplest set of ingredients - elementary particles - needed to make up the world we see in the heavens and in the laboratory • Quarks combine together to make, for example, the proton and neutron - which make up the nuclei of atoms today - though more exotic combinations were around in the Universe's early days • Leptons come in charged and uncharged versions; electrons - the most familiar charged lepton - together with quarks make up all the matter we can see; the uncharged leptons are neutrinos, which rarely interact with matter • The "force carriers" are particles whose movements are observed as familiar forces such as those behind electricity and light (electromagnetism) and radioactive decay (the weak nuclear force) • The Higgs boson came about because although the Standard Model holds together neatly, nothing requires the particles to have mass; for a fuller theory, the Higgs - or something else - must fill in that gap
+
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

@@ -1,0 +1,59 @@
+Has Amazon’s Echo and Google’s Google Home taken up residence in your home? If not, you're probably at least considering adding one of these digital helpers. They are supremely useful after all, providing assistance with everything from weather forecasts to smart-home control. All you need to do is ask.
+
+In order to fulfill your requests, however, both of these voice-activated digital assistants must upload your verbal commands to the cloud. Just what does that entail? The short answer is that your commands are saved to your Amazon or Google account respectively. And the more you use these devices, and the more services you link to them, the more their respective manufacturers will know about you. Those insights can range from what kinds of movies and music you like to what time you go to bed.
+
+Fortunately, there are privacy options you can manage, as well as ways to purge that collected information. We’ll show you how you can get the most out of these devices while maintaining the maximum amount of personal privacy.
+
+How these voice assistants work
+
+Google Home, Amazon Echo (and it’s cost-reduced sibling, Echo Dot) are always listening, so they can spring into action upon hearing the wake word. With Google Home, it’s “OK, Google” or “Hey, Google.” “Alexa” is the Echos’ default wake word, but you can change it to “Amazon” or “Echo” if you find those easier to remember. This “always listening” feature freaks some people out, but Amazon and Google both assure us that while their devices might be listening, it doesn’t mean every conversation is recorded in the cloud. That happens only when the wake words are detected. You can read Google’s privacy policy on this Google help page, and you’ll find Amazon’s on this Alexa support site.
+
+IDG Alexa can handle a wide variety of questions, saving them to your Amazon account for later viewing.
+
+Both devices start listening when they detect the wake word, but only record and keep your conversation if they produce a valid response. When they do keep something, Both Google and Amazon allow you to listen to what you said, so you can compare that recording to what the device transcribed.
+
+As noted from the example above from my Alexa account, you can see the details of what was asked and what Alexa said in return. You can dive in further here to take control of what both Amazon and Google know about you and how much information they saved based on your conversations.
+
+Digging into the Alexa app
+
+The main hub for your Echo content is through the Alexa app, which is available for Android, iOS, and Fire devices and on the Alexa website. You’re able to view, listen to, and even delete your past searches. The interface on the mobile apps is nearly identical to what you see on the web.
+
+The more you use Alexa, you’ll also begin to see suggested snippets of information, somewhat akin to the cards in Google Now. The first entry will show you a Voice feedback section that displays what Alexa thought it heard and will replay the voice recording. You can play back the recording and see Alexa’s response. You’re also able to remove the card, but this is not the same as deleting it.
+
+If you want to delete your recording, head to Settings > History. You’ll see a list of all your past Alexa requests.
+
+IDG Get a rundown of all your Alexa interactions from the settings.
+
+Next, touch or click on the specific recording you want to remove, and then choose Delete from the next screen.
+
+IDG You can delete specific voice recordings that you don’t want around anymore.
+
+You can also wipe all of your Alexa requests at once. Head to the Manage Your Content and Devices page. Go to Your Devices and select your Echo. Click the box next to it and select Manage Voice Recordings. You can choose any of your Echo devices and it will take you to all the recordings, no matter which Echo you used.
+
+IDG Select Manage voice recordings if you want to wipe the Echo’s slate clean.
+
+The next screen will give you a disclaimer, but this is where you can delete them all at once. This will reset your cards and information Alexa knows about you, but that’s probably what you wanted anyway.
+
+OK, Google
+
+The process is similar for the Google Assistant, although I do find it to be more straightforward and easier on the eyes than the Amazon setup. One thing to keep in mind is that all of your interactions with the Google Assistant are in the same place, whether you talked to it through a Google Home, Pixel, or Allo messaging app.
+
+Go to My Activity to manage this. There’s a link inside the Google Home app, but no matter the platform, all of this account information is accessed through the web. You’ll see a rundown of all your Google actions, such as from Chrome, Android, or—of course—Google Assistant.
+
+To get what you need, click or touch Assistant from among the services.
+
+IDG All your Google activity is saved in one place.
+
+Choose one of the recordings and you can listen to it. Select details for more information on the interaction, such as which device was used, how you triggered it, and the time you triggered it.
+
+IDG Get a rundown of all your interactions with the Google Assistant.
+
+Since this Google history includes all of your interactions, finding the Google Assistant requires some refinement. Select filter by date and product and choose Assistant. Click on any of the entries to hear it, further analyze which device you used, or delete.
+
+IDG Delete any recording that you don’t want around anymore.
+
+To sweep them all away at once, touch or click the search bar after you’ve chosen Assistant and choose Delete all.
+
+IDG Delete all your interactions with the Google Assistant at once.
+
+Such services are designed to learn about you and get more personalized over time. However, it’s worth understanding that you can wipe the slate clean, if you wish. Maybe you don’t want Google or Amazon to know you asked about which is the right gift for your 12th anniversary (it’s silk). The controls are there, you just need to take the time to learn what all the dials can do.

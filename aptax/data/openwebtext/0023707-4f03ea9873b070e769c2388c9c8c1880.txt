@@ -1,0 +1,301 @@
+
+
+
+
+Finding the Comet
+
+C/2012 S1 (ISON)
+
+Epoch 2012 Sept. 30.0 TT = JDT 2456200.5
+
+T 2013 Nov. 28.8394 TT MPC
+
+q 0.012521 (2000.0) P Q
+
+z -0.000142 Peri. 345.4975 +0.3139615 +0.5214934
+
++/-0.000006 Node 295.7567 -0.7595010 -0.3634939
+
+e 1.000002 Incl. 61.7529 -0.5697249 +0.7719565
+
+From 1418 observations 2011 Dec. 28-2013 Jan. 12, mean residual 0".4.
+
+
+
+
+
+SkyTools 3 Pro, I was able to plot the projected path. It is currently in Gemini, rising shortly before dusk. By May, it will be setting at dusk. Thereafter, it will remain below the horizon during the night time hours until it rises again before dawn in September. A 3-D diagram of the path through the solar system is shown on
+
+
+
+First Glimpse - Jan 30 Importing these into, I was able to plot the projected path. It is currently in Gemini, rising shortly before dusk. By May, it will be setting at dusk. Thereafter, it will remain below the horizon during the night time hours until it rises again before dawn in September. A 3-D diagram of the path through the solar system is shown on Wikipedia and corresponds to an orbit with inclination of about 60 degrees. This is how much its orbital plane is tipped relative to that of the Earth. You can see a more precise inclination of 61.7529 listed in the orbital elements above. Also of interest is the eccentricity of 1.000002. Since it is greater than 1.0, the orbit is hyperbolic, not elliptical. This means that, unless something changes the orbit, the comet will not be coming back for a second visit.
+
+
+
+
+
+Using SkyTools to control the mount, I centered the camera on the predicted position and took a sequence of 12 exposures, each 600 seconds long, using a 5" TMB-130SS, refractor guided on a nearby star and a QSI-540 cooled CCD camera with a luminance filter. I was not interested in color as much as in gathering the maximum amount of light with this small telescope.
+
+
+
+
+
+
+
+
+
+Observations are between 2013.01.31 01:54 UTC and 2013.01.31 03:54 UTC from my observatory in Georgetown, Texas. Try rolling your your mouse over the images to see a zoomed-in view.
+
+
+
+C/2012 S1 (ISON) at 2013-01-31 01:54 UTC C/2012 S1 (ISON) at 2013-01-31 03:54 UTC
+
+
+
+The progression of the comet is clearly visible. Due to the exposure length, there is some smearing of the comet image; it is much too faint to try to be guided on with my equipment. Comparing against other stars in the image, the comet appears to be a bit brighter than the predicted magnitude 18.
+
+
+
+I can't confirm any coma or tail yet as the amount of fuzziness is comparable with the evening's seeing conditions. As an added bonus, a faint galaxy, MCG 5-18-2, is labelled at the bottom of the image.
+
+
+
+This next, zoomed-in image is an animation of the 12 observations, representing 2 hours of elapsed time. Again, no obvious tail yet. The "tumbling" effect you may notice is an artifact of the imaging and corresponds to a different pattern of blur in each frame.
+
+
+
+Animation of C/2012 S1 (ISON) from 01:54 to 03:54 UTC This screen shot from SkyTools shows the plotted trajectory over this time period
+
+
+
+
+
+Comet Gets a Tail - Feb 7
+
+
+
+Tonight, I went back outside and imaged the comet again. It is still in the constellation Gemini, now about 1º 40' north of Tau Gem. According to a
+
+
+
+I took a different approach to imaging the comet this time. Using the same equipment as before, I gathered a sequence of 20 shorter frames in order to reduce smearing of the comet image in any given frame. I confirmed that 300 seconds was short enough that the comet head was visually round - at least to within the evening's seeing conditions and my equipment. In each frame, a consistent tail was discernible on the comet, trailing behind the path of the comet (path is left to right in the images) and angled out by about 30 degrees.
+
+
+
+This is the single full-frame image from 03:02 to 03:07 with no processing other than a dark-frame subtraction, a gamma stretch, and conversion to JPG. Zoom-in and try to find the comet near the center of the frame.
+
+
+
+
+
+In order to emphasis the details of the comet tail, I combined the 20 images in post-processing. Using MaxIm DL, I first aligned the frames on the stars and stacked using "sigma clipping" mode. I then re-aligned the frames on the centroid of the comet and stacked using "averaging" mode. Finally, I normalized the background intensity of these two images and combined them using the single frame taken around 03:05 as a reference for alignment. The combined image was then stretched and moderate noise-reduction applied to the background. This process works because the comet only changes position, not shape over the two hours I was imaging.
+
+
+
+In the image below, the comet is clearly visible and shows the beginnings of a tail. For reference and context, the brightest star, in the upper right corner, is TYC-02438-0115-1 located at RA: 07h09m38.3s, Dec: +31°47'24" and has visual magnitude 11.5.
+
+
+
+I plate-solved the image spanning 03:02 to 03:07 using MaxIm DL/PinPoint. is a numeric technique whereby the stars in the image are identified and the patterns they make in the image are correlated against a large data-based of stars in order to find a match. This allows the direction in which the telescope was pointing to be inferred very accurately Once completed, the tool was then able to read off the position of the center of the comet in that frame as RA: 07h09m49.5s, Dec: +31°46'49". For comparison, this was the position computed by SkyTools for 03:07 UTC so pretty close. I am still impressed by how accurately the orbital elements can be estimated and used to place these fast moving objects in the sky.
+
+
+
+Luminance image of C/2012 S1 (ISON) at 2013.02.08 03:05 UTC
+
+
+
+
+
+
+
+
+
+The false-color image below makes it easier to see the tail, especially on a video display which has poor differentiation of dark shades. I used the Gradient Map tool in Photoshop to accomplish this effect.
+
+
+
+False color image of C/2012 S1 (ISON) at 2013.02.08 03:05 UTC
+
+
+
+
+
+The cropped images below show the first and last observations. Sure enough, something moved! It was very gratifying to pick out something so small in the immense sky. For context, the "bright" star in these images is HD 56222 which, at visual magnitude 6.8, is still too dim to be visible to the naked eye under a typical dark sky. The comet, at magnitude 18 would be about 20,000 times dimmer!Observations are between 2013.01.31 01:54 UTC and 2013.01.31 03:54 UTC from my observatory in Georgetown, Texas. Try rolling your your mouse over the images to see a zoomed-in view.The progression of the comet is clearly visible. Due to the exposure length, there is some smearing of the comet image; it is much too faint to try to be guided on with my equipment. Comparing against other stars in the image, the comet appears to be a bit brighter than the predicted magnitude 18.I can't confirm any coma or tail yet as the amount of fuzziness is comparable with the evening's seeing conditions. As an added bonus, a faint galaxy, MCG 5-18-2, is labelled at the bottom of the image.This next, zoomed-in image is an animation of the 12 observations, representing 2 hours of elapsed time. Again, no obvious tail yet. The "tumbling" effect you may notice is an artifact of the imaging and corresponds to a different pattern of blur in each frame.Tonight, I went back outside and imaged the comet again. It is still in the constellation Gemini, now about 1º 40' north of Tau Gem. According to a Feb 5, 2013 story by NASA , the comet is just inside the orbit of Jupiter and that, as of Jan 18, it had a tail extending over 64,400 km. This website also gives a nice summary of the comet's history. I had not been able to image a tail last week on Jan 30, but this evening I clearly did. This is a new development from my point of view.I took a different approach to imaging the comet this time. Using the same equipment as before, I gathered a sequence of 20 shorter frames in order to reduce smearing of the comet image in any given frame. I confirmed that 300 seconds was short enough that the comet head was visually round - at least to within the evening's seeing conditions and my equipment. In each frame, atail was discernible on the comet, trailing behind the path of the comet (path is left to right in the images) and angled out by about 30 degrees.This is the single full-frame image from 03:02 to 03:07 with no processing other than a dark-frame subtraction, a gamma stretch, and conversion to JPG. Zoom-in and try to find the comet near the center of the frame.In order to emphasis the details of the comet tail, I combined the 20 images in post-processing. Using, I first aligned the frames on theand stacked using "sigma clipping" mode. I then re-aligned the frames on the centroid of theand stacked using "averaging" mode. Finally, I normalized the background intensity of these two images and combined them using the single frame taken around 03:05 as a reference for alignment. The combined image was then stretched and moderate noise-reduction applied to the background. This process works because the comet only changes position, not shape over the two hours I was imaging.In the image below, the comet is clearly visible and shows the beginnings of a tail. For reference and context, the brightest star, in the upper right corner, is TYC-02438-0115-1 located at RA: 07h09m38.3s, Dec: +31°47'24" and has visual magnitude 11.5.I plate-solved the image spanning 03:02 to 03:07 using Plate-solving is a numeric technique whereby the stars in the image are identified and the patterns they make in the image are correlated against a large data-based of stars in order to find a match. This allows the direction in which the telescope was pointing to be inferred very accurately Once completed, the tool was then able to read off the position of the center of the comet in that frame as RA: 07h09m49.5s, Dec: +31°46'49". For comparison, this was the position computed byfor 03:07 UTC so pretty closeI am still impressed by how accurately the orbital elements can be estimated and used to place these fast moving objects in the sky.The false-color image below makes it easier to see the tail, especially on a video display which has poor differentiation of dark shades. I used the Gradient Map tool into accomplish this effect.
+
+This screen shot from SkyTools shows the plotted trajectory over this time period
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tail is Still Visible - Feb 13
+
+C/2012 S1 (ISON)
+
+Epoch 2013 Apr. 18.0 TT = JDT 2456400.5
+
+T 2013 Nov. 28.7665 TT MPC
+
+q 0.012472 (2000.0) P Q
+
+z -0.000387 Peri. 345.5361 +0.3145590 +0.5164431
+
++/-0.000004 Node 295.6950 -0.7592155 -0.3667537
+
+e 1.000005 Incl. 62.1109 -0.5697758 +0.7738077
+
+From 1999 observations 2011 Dec. 28-2013 Feb. 11, mean residual 0".4.
+
+
+
+
+
+
+
+
+
+I used the same imaging and post-processing procedures as last week but used a total of 48 frames over a total of 6 hours. The tail is more pronounced in the resulting image that it was last week. I suspect this enlargement may have more to do with the larger amount of image data, rather than the comet itself.
+
+
+
+This first two images show the detail near the comet at 2013.02.14 03:10 UTC. The comet is still in Gemini and the center of the comet head is at RA: 07h03m44.2s, Dec: +31°46'03". The brightest star here is GSC 02438-0073 with visual magnitude 11.1. The "GSC" prefix indicates that this star is included in the Hubble Space Telescope uses to visually hold its camera position fixed while exposing long image. This MaxIm DL to plate-solve the images. The object near the left edge, slightly up from the comet is not a star but the galaxy LEDA 1963553.
+
+
+
+Luminance image of C/2012 S1 (ISON) - 2013.02.14 03:10 UTC
+
+
+
+False-color image of C/2012 S1 (ISON) - 2013.02.14 03:10 UTC
+
+
+
+
+
+
+
+This next image shows a wider field of view. You can zoom-in by hovering with your mouse.
+
+
+
+False-color image of C/2012 S1 (ISON) - 2013.02.14 03:10 UTC Why do these change? Progressively more accurate estimates of the shape of the orbit can be computed as more observations of the comet's apparent position in the sky are obtained. For example, note the slight increase in both inclination and eccentricity from before. The last line in the text above indicates the set of observations used in the computation. These elements are based on observations up to two days ago.I used the same imaging and post-processing procedures as last week but used a total of 48 frames over a total of 6 hours. The tail is more pronounced in the resulting image that it was last week. I suspect this enlargement may have more to do with the larger amount of image data, rather than the comet itself.This first two images show the detail near the comet at 2013.02.14 03:10 UTC. The comet is still in Gemini and the center of the comet head is at RA: 07h03m44.2s, Dec: +31°46'03". The brightest star here is GSC 02438-0073 with visual magnitude 11.1. The "GSC" prefix indicates that this star is included in the Hubble Guide Star Catalog , a collection of stars that theuses to visually hold its camera position fixed while exposing long image. This publicly available catalog is what I use into plate-solve the images. The object near the left edge, slightly up from the comet is not a star but the galaxy LEDA 1963553.This next image shows a wider field of view. You can zoom-in by hovering with your mouse.
+
+
+
+
+
+This screen shot from SkyTools shows the plotted trajectory over this time period
+
+
+
+
+
+
+
+
+
+
+
+
+
+SkyTools Includes the Comet - Feb 21
+
+
+
+
+
+Greg Crinklaw, author of SkyTools 3.0 Pro, sent me a note saying that
+
+"... you don't need to update the orbital elements in SkyTools by hand. Just select "Update 'current' Lists from web" on the Observing List menu of the Nightly Planner or Real Time tools. In addition to the Current Comets observing list, all of the orbital data is also updated as necessary..."
+
+Wow, how's that for proactive customer service! However, when I did the first observation in January, Comet C/2012 S1 was not yet included in the list of "Current Comets" he describes. However, I tested this again last night and it is listed now. If you are using SkyTools, this is an even easier approach to locating the comet.
+
+
+
+
+
+More Details on Bad Astronomy - April 3
+
+
+
+
+
+Phil Plait of "Bad Astronomy" has a posting on his blog about ISON in which he used my Feb 7 images. Unfortunately, I had gotten the year wrong in the image legend and have since corrected the images on this page. It has some nice charts showing the projected path of the comet through the solar system and across the stellar background as well as other interesting factoids. It also found a link to one of Phil's articles that lists his top 10 things you don't know about comets
+
+
+
+
+
+
+
+
+
+ISON Makes a Turn - April 28
+
+
+
+
+
+Tonight's image consists of 10 frames, each 300sec using TMB-130SS. Once again, the tail is visible. I would not read too much in the apparent size of the tail on any of these observations as the signal-to-noise ratio is pretty poor.
+
+
+
+
+
+The direction of the tail, however, is pretty clear and seems to have flipped direction. Specifically, the comet is now moving toward the lower left in this frame rather than toward the right. Thus, the comet now appears to be traveling with its tail in front whereas before it was to the rear. I assume this is optical illusion due to Earth's change in position over 3 months, similar to apparent retrograde motion in planets, and that most of the true motion of the comet is towards us. The comet also appears to be moving slower against the star field.
+
+
+
+
+
+False-color image of C/2012 S1 (ISON) - 2013.04.29 02:40 UTC
+
+This screen shot from SkyTools shows the plotted trajectory over this time period.
+
+
+
+
+
+The motion trace taken over a broader time-frame below indicates a change in direction of the comet against the star field during early April. It had made a prior change back in November so the observations in January and February were probably during the "retrograde" segment of the apparent motion.
+
+
+
+
+
+
+
+
+
+The comet should now proceed back through Gemini and on through the zodiac to catch up with the Sun on November 28 in the constellation of Scorpio.
+
+
+
+
+
+This is likely my last shot of ISON before it goes below the western horizon at the end of the month. By around May 10 from my location, the comet will have dropped too low in the western horizon to get a clear image by the time it is sufficiently dark.
+
+
+
+
+
+The chart below shows the altitude of ISON (red curve) at each of the new moons from now until the perihelion late November. I will start looking for the comet again in the pre-dawn hours in September.
+
+
+
+
+
+Altitude of C/2012 S1 (ISON) at each new moon - assembly of screen captures taken from SkyTools 3 Pro.
+
+
+
+
+
+This post tracks my amateur attempt at viewing comet C/2012 S1 (ISON), early in its approach, from my backyard using modest imaging equipment. It is predicted to be an impressive sight this Fall, likely even better than C/2011 L4 (PANSTARRS) which will make its appearance in early March.To start, I obtained orbital elements from the IAU Minor Planet Center . These elements will be periodically updated so go there for the latest values. The values I obtained were listed asI updated the orbital elements this evening as shown below.

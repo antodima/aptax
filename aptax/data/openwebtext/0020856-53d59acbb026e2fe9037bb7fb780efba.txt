@@ -1,0 +1,7 @@
+I am looking for a command that will accept as input multiple lines of text, each line containing a single integer, and output the sum of these integers.
+
+As a bit of background, I have a log file which includes timing measurements, so through grepping for the relevant lines, and a bit of sed reformatting I can list all of the timings in that file. I'd like to work out the total however, and my mind has gone blank as to any command I can pipe this intermediate output to in order to do the final sum. I've always used expr in the past, but unless it runs in RPN mode I don't think it's going to cope with this (and even then it would be tricky).
+
+What am I missing? Given that there are probably several ways to achieve this, I will be happy to read (and upvote ) any approach that works, even if someone else has already posted a different solution that does the job.
+
+Related question: Shortest command to calculate the sum of a column of output on Unix? (credits @Andrew)

@@ -1,0 +1,15 @@
+Apple
+
+A group of hackers has claimed a $1 million bounty for remotely hacking iOS 9.
+
+The bounty for the zero-day exploit was offered by security firm Zerodium, who launched the contest in September. The company were looking for an exploit that could be "deployed through a web page or text message to allow the installation of an app" on iPhone and iPad. If a hacker could install any app it wanted, the prize money could be claimed.
+
+Advertisement
+
+Apple's mobile OS is often considered to be the most secure choice for mainstream mobile phones and tablets -- but that doesn't mean it's uncrackable. "Don’t be fooled, secure does not mean unbreakable," said Zerodium in a statement. "It just means that iOS has currently the highest cost and complexity of vulnerability exploitation. And here’s where the Million Dollar iOS 9 Bug Bounty comes into play."
+
+The terms stated that the hack "be achievable remotely, reliably, silently, and without requiring any user interaction except visiting a web page". Two teams went head to head for the bounty, according to Zerodium founder Chaouki Bekrar, but only one was able to complete the full jailbreak. The other team made "a partial jailbreak [...] and may qualify for a partial bounty". The winning team claimed their prize this weekend.
+
+Zerodium is Bekrar's latest project, and has so far stayed under the radar -- but his last firm, Vupen, had clients including the NSA. Zerodium's clients include "major corporations in defence, technology, and finance" and "government organisations in need of specific and tailored cybersecurity capabilities".
+
+The company has said that the bug will not be shared with Apple -- even though the company is likely to sell the information on to a government agency or a corporate customer. The terms of the bounty include that the bug cannot be disclosed to Apple, nor publicly discussed. "We planned initially to not release any information about the outcome of the bounty but we’ve decided to do it to inform the community about the security of iOS which is definitely very hardened but not unbreakable," Bekrar said to WIRED US. "Those who have any doubt about that may be surprised."

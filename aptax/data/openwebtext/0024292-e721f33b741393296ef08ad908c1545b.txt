@@ -1,0 +1,17 @@
+Title: Discovery of a Thorne-Zytkow object candidate in the Small Magellanic Cloud
+
+Authors: Emily M. Levesque et al.
+
+First Author’s Institution: Center for Astrophysics & Space Astronomy, University of Colorado, Boulder, Colorado, USA
+
+Status: Accepted to MNRAS
+
+
+
+As all who study astronomy know, one of the most incredible things about the universe is the never-ending potential for wonderful discoveries that sound more like fiction than fact. With this paper, the authors are pushing the boundaries of fiction into fact with the potential discovery of a new exotic object, known as a Thorne–Żytkow object (TZO). First predicted in the 1970s by Kip Thorne and Anna Żytkow, these bodies occur when a neutron star in a binary system with a red supergiant (RSG) merges into the second star. This merger creates an unusual system where there is a neutron star surrounded by a large, diffuse envelope of material. The system still produces most of its energy at the core of the material envelope through thermonuclear energy, and a smaller amount (about 5% of the total energy) from the gravitational accretion of material onto the neutron star. Eventually, after several hundred years, the core of the envelope and the neutron star would merge, resulting in either a larger neutron star or a black hole.
+
+TZOs are fascinating objects in a special state of a binary system’s evolution, and there is a lot of new physics that can be learned from such a system, but there has been one problem with them until now: they are identical in appearance to typical red supergiants. There are a lot of normal red supergiants no matter where you look, and knowing if a RSG is a TZO is only possible when you look in detail at the stellar spectra for the over-abundance of lithium and other specific heavy metals. Finding a TZO is definitely a “find the needle in a haystack” kind of observing problem!
+
+Luckily for science, the authors successfully found the needle. They did this by conducting a survey of stars in the Milky Way and Magellanic Clouds from previous stellar surveys where effective temperature and photometry data indicated a RSG. The authors then took the stellar spectra of the 62 stars in their sample at Apache Point Observatory in New Mexico and the Magellan telescopes in Chile, and then analyzing the spectra for the ratios between elements in order to see whether there were any anomalies. In one case, for a star known as HV 2112, in the Small Magellanic Cloud, and found it had unusually high concentrations of lithium, molybdenum, and rubidium. These elements, especially in the amounts found in HV 2112, are indications the star is not a RSG at all, but rather a TZO. Some spectral features were also observed that are not predicted in TZO models, but the authors aknowledge that available TZO models are older and do not take into account some recent advances in stellar convection modeling.
+
+This TZO discovery, if confirmed from follow-up theoretical models, is exciting because HV 2112 would be the archtype of a whole new kind of system. But beyond being a scientific curiousity, a TZO can provide a new environment for answering several questions, such as a new fate of massive binary systems. Further, because this is a completely new kind of stellar interior, we are also looking at a different kind of stellar nuclear synthesis process for heavy metals than anything previously observed. It is like being handed a new laboratory in which to test astrophysical ideas, and to distinguish the fact from fiction.

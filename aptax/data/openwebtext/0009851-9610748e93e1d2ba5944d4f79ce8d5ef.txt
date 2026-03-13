@@ -1,0 +1,31 @@
+Last year, University of Pennsylvania researchers Alexander J. Stewart and Joshua B. Plotkin published a mathematical explanation for why cooperation and generosity have evolved in nature. Using the classical game theory match-up known as the Prisoner’s Dilemma, they found that generous strategies were the only ones that could persist and succeed in a multi-player, iterated version of the game over the long term.
+
+But now they’ve come out with a somewhat less rosy view of evolution. With a new analysis of the Prisoner’s Dilemma played in a large, evolving population, they found that adding more flexibility to the game can allow selfish strategies to be more successful. The work paints a dimmer but likely more realistic view of how cooperation and selfishness balance one another in nature.
+
+“It’s a somewhat depressing evolutionary outcome, but it makes intuitive sense,” said Plotkin, a professor in Penn’s Department of Biology in the School of Arts & Sciences, who coauthored the study with Stewart, a postdoctoral researcher in his lab. “We had a nice picture of how evolution can promote cooperation even amongst self-interested agents and indeed it sometimes can, but, when we allow mutations that change the nature of the game, there is a runaway evolutionary process, and suddenly defection becomes the more robust outcome.”
+
+Their study, which will appear in the Proceedings of the National Academy of Sciences, examines the outcomes of the Prisoner’s Dilemma, a scenario used in the field of game theory to understand how individuals decide whether to cooperate or not. In the dilemma, if both players cooperate, they both receive a payoff. If one cooperates and the other does not, the cooperating player receives the smallest possible payoff, and the defecting player the largest. If both players do not cooperate, they both receive a payoff, but it is less than what they would gain if both had cooperated. In other words, it pays to cooperate, but it can pay even more to be selfish.
+
+Stewart and Plotkin’s previous study examined an iterated and evolutionary version of the Prisoner’s Dilemma, in which a population of players matches up against one another repeatedly. The most successful players “reproduce” more and pass along their winning strategies to the next generation. The researchers found that, in such a scenario, cooperative and even forgiving strategies won out, in part because “cheaters” couldn’t win against themselves.
+
+In the new investigation, Stewart and Plotkin added a new twist. Now, not only could players alter their strategy — whether or not they cooperate — but they could also vary the payoffs they receive for cooperating.
+
+This, Plotkin said, may more accurately reflect the balancing of risk and reward that occurs in nature, where organisms decide not only how often they cooperate but also the extent to which they cooperate.
+
+Initially, as in their earlier study, cooperative strategies found success.
+
+“But when cooperative strategies predominate, payoffs will rise as well,” Stewart said. “With higher and higher payoffs at stake, the temptation to defect also rises. In a sense the cooperators are paving the way for their own demise.”
+
+Indeed, Stewart and Plotkin found that the population of players reached a tipping point after which defection was the predominant strategy in the population.
+
+In a second analysis, they allowed the payoffs to vary outside the order set by the Prisoner’s Dilemma. Instead of unilateral defection winning the greatest reward, for example, it could be that mutual cooperation reaped the greatest payoff, the situation described by a game known as Stag Hunt. Or, mutual defection could generate the lowest possible reward, as described by the game theory model known as the Snowdrift or Hawk-Dove game.
+
+What they found was that, again, there was an initial collapse in cooperative strategies. But, as the population continued to play and evolve, players also altered the payoffs so that they were playing a different game, either Snowdrift or Stag Hunt.
+
+“So we see complicated dynamics when we allow the full range of payoffs to evolve,” Plotkin said. “One of the interesting results is that the Prisoner’s Dilemma game itself is unstable and is replaced by other games. It is as if evolution would like to avoid the dilemma altogether.”
+
+Stewart and Plotkin say their new conception of how strategies and payoffs co-evolve in populations is ripe for testing, with the marine bacteria Vibrionaceae as a potential model. In these bacterial populations, the researchers noted, individuals cooperate by sharing a protein they extrude that allows them to metabolize iron. But the bacteria can possess mutations that alter whether they produce the protein and how much they generate, whether and how much they cooperate, as well as mutations that affect how efficiently they can take up the protein, their payoff. The Penn researchers said a “natural experiment” using these or other microbes could put their theory to the test, to see exactly when and how selfishness can pay off.
+
+“After this study, we end up with a less sunny view of the evolution of cooperation,” Stewart said. “But it rings true that it’s not the case that evolution always tends towards happily ever after.”
+
+The study received support from the Burroughs Wellcome Fund, David and Lucile Packard Foundation, U.S. Department of the Interior, U.S. Army Research Office and the Foundational Questions in Evolutionary Biology Fund

@@ -1,0 +1,57 @@
+CNET Smart Home Guide From connected light bulbs, to plant sensors, to smart locks, and beyond, smart home tech is growing and evolving rapidly. Here you'll find the latest product reviews, news, and how-tos to help you connect your surroundings to the internet in the smartest way possible. Read More
+
+I'm on a mission, and that mission is to save on my power bill. I've already done the obvious stuff, like replace lightbulbs -- especially the 500W halogens floodlights I have outdoors -- with low-power LEDs, and I'm being more careful as to how I use heating and cooling. But along with making big changes, I've also been looking at just how much power all the random stuff I have plugged in uses.
+
+A while back, I looked at how much power smartphone chargers consumed when there wasn't a smartphone attached to them. Now let's look at how much power it takes to charge a smartphone for a year.
+
+Also: Best cheap phones: $300 (or much less) buys a great iPhone
+
+Now, the proper way to do this test would be to measure the power consumption over a year. Well, I want results quicker than that, so I'd have to do shorter periods of real-world testing and extrapolate out the results, which shouldn't be a problem.
+
+So, here's what I did rather than keep detailed charging note for a year, or find how much power it took just to charge the battery from 0 percent to 100 percent, and try to fudge that into some real-world figure. I replicated what most people do and put my smartphone on to charge overnight and measured the nightly power consumption.
+
+Also: The first Android phone was an ugly thing, and I loved it CNET
+
+I chose this method for two reasons:
+
+It's a usage pattern that matches how many people use their device
+
+It is more real-world, since when the device is on charge overnight, not only is power being used to charge the battery, but also to run the device (remember, your device is doing stuff in the background like checking email), so this goes beyond just measuring the power used to charge the battery
+
+Power consumption was measured using a WattsUp? PRO power meter.
+
+My test subject was the iPhone 6 Plus, which had the biggest battery that Apple offered at the time of my test. I'm also a pretty heavy user, and this meant that going all day was sometimes tricky (the things I do for you). This means that my results are going to be at the high-end, and that more restrained smartphone users are going to have a smaller power bill.
+
+So here's what I found.
+
+Also: 17 ways to recycle or sell your smartphone TechRepublic
+
+During an overnight charge, the iPhone consumed an average of 19.2 Wh.
+
+According to figures published by the US Energy Information Administration for July 2018 (the latest figures currently avaialble), the average cost per kWh in the US was $0.13.
+
+Remember that 1 kWh equals 1,000 Wh.
+
+So, take our average of 19.2 Wh per day, multiplying that by 365 days, we get 7 kWh, which works out at $0.91 a year.
+
+So if you guess under a dollar, well done.
+
+Previous and related coverage:
+
+Want a new iPhone or Android smartphone? Here's how to sell or trade
+
+The new Samsung Galaxy Note 9 was just announced and we expect three new iPhones and two Google Pixel phones to launch soon. Now is the time to consider selling your current one before market prices drop or plan to participate in a trade-in program.
+
+10 best smartphones of 2018
+
+he major smartphone launch season is upon us and one of the first out of the gates is the Samsung Galaxy Note 9, immediately taking over the top spot in our list of best smartphones.
+
+Best Wearable Tech for 2018 CNET
+
+Our editors hand-picked these products based on our tests and reviews. If you use our links to buy, we may get a commission.
+
+The best tablets for 2018: Our top picks TechRepublic
+
+Tablet sales may be declining, but there are still plenty of viable use cases and many models to choose from. Here's our pick of the best.
+
+Related stories:

@@ -1,0 +1,29 @@
+Audiosource is a Web audio / video mixer for Youtube, Soundcloud and Jamendo.
+
+You can also create and share your music with sequencer and modular synths.
+
+Be creative in your Live sessions and Sessions you can play also songs, you can use the pads to play your jingle.
+
+You can also control all decks and mixer via midi.
+
+check for the [?] help buttons in each page to read the step by step guide.
+
+do not forget to open the mini controller on the rec bar and play...
+
+Have fun!
+
+
+
+
+
+Special Thank You
+
+Metronome & wave Icon made by Freepik from www.flaticon.com
+
+Known Bugs or Dysfunctions
+
+Browser tab can stop emit sound and must be closed if the synth exceeds some unspecified limits
+
+Synths might sound different on different browsers
+
+Each time you attach a modulator might emit a little different sound

@@ -1,0 +1,195 @@
+This article is Day #5 in a series called the 31 Days of Mango.
+
+Today, we are going to talk about a new sensor available to us, the Gyroscope. This sensor is only available in phones that were released after the Mango launch, and even then, not all phones will have a Gyroscope. However, it’s a powerful tool that we should take advantage of when its available, and this article will show you how.
+
+If you have a device that contains a gyroscope sensor, you can download the application from this article from the Windows Phone Marketplace.
+
+What is a Gyroscope?
+
+According to Wikipedia, “a gyroscope is a device for measuring or maintaining orientation.” Many of you probably have seen an example of a gyroscope before, but here’s an illustration of a physical gyroscope (courtesy of Wikipedia):
+
+As you can see, it has the ability to spin on three axes, the X, Y, and Z axis (much like the Accelerometer, which we covered in Day #11 of the 31 Days of Windows Phone). While the Accelerometer measures acceleration, the Gyroscope measures rotational velocity.
+
+Having said that, however, there is not a device in your phone that looks like the one pictured above. Instead, mobile phones use a MEMS gyroscope, which often use vibrations or resonance to determine their data.
+
+Using the Gyroscope In Your App
+
+The Gyroscope sensor is as easy to use as the Accelerometer, but we don’t yet have the benefit of the additional tools in the emulator. The data you receive measures the rotational velocity of the device in radians per second.
+
+This means that you can more accurately and smoothly measure the current orientation of the device. This will become especially handy when you build applications that perform augmented reality. In most cases, however, you’re probably not going to be accessing the Gyroscope by itself. There are a couple of reasons for this:
+
+Not all Windows Phones will have a Gyroscope. In fact, only phones that come out after the Mango release will be capable of having a Gyroscope, and it is still an optional piece of hardware.
+
+Microsoft has created a Motion class that combines the data from the Accelerometer, the Compass, and the Gyroscope into one class that we can use more effectively (we will cover this in tomorrow’s article). If you’re interested in the attitude of the device (pitch, yaw, roll), you’re going to want to focus on the Motion class.
+
+However, in the case that you do need to use the gyroscope independent of the Motion class, it should always be wrapped by a check to determine that the user’s device supports the gyroscope sensor. To do this, we need two specific pieces of code. This first is a using statement for the Microsoft.Phone.Sensors namespace. The second is an IF statement that checks the Gyroscope.IsSupported value. In this simple state, your code-behind file would look like this:
+
+using System;
+
+using Microsoft.Phone.Controls;
+
+using Microsoft.Devices.Sensors;
+
+using Microsoft.Xna.Framework; System;Microsoft.Phone.Controls;Microsoft.Devices.Sensors;Microsoft.Xna.Framework; namespace Day5_Gyroscope
+
+{
+
+public partial class MainPage : PhoneApplicationPage
+
+{
+
+public MainPage()
+
+{
+
+InitializeComponent(); if (Gyroscope.IsSupported)
+
+{
+
+// DO SOMETHING
+
+}
+
+}
+
+}
+
+}
+
+
+
+Now we just need to fill in that “DO SOMETHING” comment. In order to do this, let’s start with a user interface that will shows our Gyroscope data.
+
+In the UI above, we have three TextBoxes to show the raw data, and three lines to reflect the degree of each value. To recreate this interface, use the following XAML as your page:
+
+< Grid x : Name ="LayoutRoot" Background ="Transparent">
+
+< Grid.RowDefinitions >
+
+< RowDefinition Height ="Auto"/>
+
+< RowDefinition Height ="*"/>
+
+</ Grid.RowDefinitions > <!–TitlePanel contains the name of the application and page title–>
+
+<StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+
+<TextBlock x:Name="ApplicationTitle" Text="31 DAYS OF MANGO" Style="{StaticResource PhoneTextNormalStyle}"/>
+
+<TextBlock x:Name="PageTitle" Text="gyroscope" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+
+</StackPanel> <!–ContentPanel – place additional content here–>
+
+<Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+
+<TextBlock Height="30" HorizontalAlignment="Left" Margin="20,100,0,0" Name="xTextBlock" Text="X: 1.0" VerticalAlignment="Top" Foreground="Red" FontSize="28" FontWeight="Bold"/>
+
+<TextBlock Height="30" HorizontalAlignment="Center" Margin="0,100,0,0" Name="yTextBlock" Text="Y: 1.0" VerticalAlignment="Top" Foreground="Yellow" FontSize="28" FontWeight="Bold"/>
+
+<TextBlock Height="30" HorizontalAlignment="Right" Margin="0,100,20,0" Name="zTextBlock" Text="Z: 1.0" VerticalAlignment="Top" Foreground="Blue" FontSize="28" FontWeight="Bold"/>
+
+<Line x:Name="xLine" X1="240" Y1="350" X2="340" Y2="350" Stroke="Red" StrokeThickness="4"></Line>
+
+<Line x:Name="yLine" X1="240" Y1="350" X2="240" Y2="270" Stroke="Yellow" StrokeThickness="4"></Line>
+
+<Line x:Name="zLine" X1="240" Y1="350" X2="190" Y2="400" Stroke="Blue" StrokeThickness="4"></Line>
+
+<TextBlock Height="30" HorizontalAlignment="Center" Margin="6,571,6,0" Name="statusTextBlock" Text="" VerticalAlignment="Top" Width="444" />
+
+</Grid>
+
+</Grid>
+
+
+
+In the code example below, we create a new Gyroscope object, and after checking to make sure that the Gyroscope is supported with the Gyroscope.IsSupported boolean value, we create an event handler for CurrentValueChanged.
+
+using System;
+
+using Microsoft.Phone.Controls;
+
+using Microsoft.Devices.Sensors;
+
+using Microsoft.Xna.Framework; System;Microsoft.Phone.Controls;Microsoft.Devices.Sensors;Microsoft.Xna.Framework; namespace Day5_Gyroscope
+
+{
+
+public partial class MainPage : PhoneApplicationPage
+
+{
+
+Gyroscope g;
+
+
+
+public MainPage()
+
+{
+
+InitializeComponent(); if (Gyroscope.IsSupported)
+
+{
+
+g = new Gyroscope();
+
+g.TimeBetweenUpdates = TimeSpan.FromMilliseconds(20);
+
+g.CurrentValueChanged += new EventHandler<SensorReadingEventArgs<GyroscopeReading>>(g_CurrentValueChanged);
+
+g.Start();
+
+}
+
+else statusTextBlock.Text = "gyroscope not supported";
+
+} void g_CurrentValueChanged(object sender, SensorReadingEventArgs<GyroscopeReading> e)
+
+{
+
+Dispatcher.BeginInvoke(() => UpdateUI(e.SensorReading));
+
+} private void UpdateUI(GyroscopeReading gyroscopeReading)
+
+{
+
+statusTextBlock.Text = "getting data";
+
+Vector3 rotationReading = gyroscopeReading.RotationRate; xTextBlock.Text = "X " + rotationReading.X.ToString("0.00");
+
+yTextBlock.Text = "Y " + rotationReading.Y.ToString("0.00");
+
+zTextBlock.Text = "Z " + rotationReading.Z.ToString("0.00"); xLine.X2 = xLine.X1 + rotationReading.X * 200;
+
+yLine.Y2 = yLine.Y1 – rotationReading.Y * 200;
+
+zLine.X2 = zLine.X1 – rotationReading.Z * 100;
+
+zLine.Y2 = zLine.Y1 + rotationReading.Z * 100;
+
+}
+
+}
+
+}
+
+
+
+The Gyroscope, like the Compass, allows our event handler method to fire every time the Gyroscope detects a new value after waiting the duration that the TimeBetweenUpdates property specifies. In our example, we will get updates no faster than every 20 milliseconds.
+
+You should notice a possibly unfamiliar bit of code in our g_CurrentValueChanged method:
+
+Dispatcher.BeginInvoke(() => UpdateUI(e.SensorReading));
+
+The reason we use this is because we want to move the reading of our sensor to a separate processing thread. Without it, we would be trying to use the UI thread to access the Gyroscope, which will always throw an error. In Windows Phone, we are not allowed to lock up the UI thread, and so for many examples like this one, we will want to pitch our process to a separate thread.
+
+We still pass the entire GyroscopeReading object to our new thread-safe method, UpdateUI, which allows us to gather each of the X, Y, and Z values from the Vector3 value RotationRate. We are displaying the data values in TextBlocks, but the cool data visualization is in those Line elements we created in our XAML.
+
+If you imagine each line segment to represent a different data point (the red horizontal line is X, the yellow vertical line is Y, and the blue diagonal line is the Z axis. You could then manipulate the lengths of these lines to represent the rotational velocity of the device. Each of these calculations will extend the length of their respective lines, giving you a very illustrative example of what types of rotation your device is experiencing.
+
+Remember, the code sample covered in this article will only work on devices that have a Gyroscope available. The emulator, as well as all original Windows Phone 7 devices do not have this sensor. Here’s a quick video of what this application looks like running on a device with a gyroscope:
+
+Summary
+
+The Gyroscope is a handy little sensor. It lets us get a very accurate picture of the device’s movement in space, which is especially useful when creating applications that use augmented reality. To download the sample application that this article discussed, click the Download Code button below:
+
+Microsoft also created a new class in Windows Phone 7.5 called Motion, which combines the data from the Gyroscope, Accelerometer, and Compass to give us an amazing amount of accuracy. This Motion class is the topic of tomorrow’s article, and we will cover it in detail, including how to determine the “attitude” of a device, which includes pitch, yaw, and roll. See you then!

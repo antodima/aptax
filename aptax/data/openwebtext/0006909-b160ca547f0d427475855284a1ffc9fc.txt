@@ -1,0 +1,7 @@
+Well, you've been teased and tortured with a plethora of images and even video but now OS 10.3.0.296 has leaked. At this point, some of the stuff we've seen teased is in the OS and some of it is not, you'll just have to go through it all to find out what's there and what's not. Also of note, it's not available for all devices but if you have a BlackBerry Z10 STL100-3 then you can go ahead and give it a go and I'm sure some autoloaders will get made for other devices eventually.
+
+You're on your own for a full change log, we dunno how the battery life is and we're not entirely too sure if all your apps will work as expected or if it'll turn your device into a Decepticon and destroy your whole city. If you're not down with that then let some other folks run through it first. Eventually a thread will be created in the forums with the all the different changes this OS brings so if you're not willing to risk loading the OS, just hang tight and see how others like it. It should be noted, this is an older build than some of what has been shown off recently.
+
+Of course, standard disclaimer applies. Be sure to perform a full backup using BlackBerry Link before you install any OS and don't hold us responsible should anything go bad — though you can always reload your OS. In fact, if you load this there's a good chance you're gonna wipe it anyway and go back to something more stable.
+
+Source: ZonaBB

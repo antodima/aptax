@@ -1,0 +1,45 @@
+On October 28th the Automattic CEO Matt Mullenweg published a blog post accusing that Wix, a provider of competing services, has stolen code from the WordPress codebase. To be specific, it was about the use of a rich text editing component in the Wix mobile app:
+
+If I were being charitable, I’d say, “The app’s editor is based on the WordPress mobile app’s editor.” If I were being honest, I’d say that Wix copied WordPress without attribution, credit, or following the license. The custom icons, the class names, even the bugs. You can see the forked repositories on GitHub complete with original commits from Alex and Maxime, two developers on Automattic’s mobile team.
+
+– The Wix Mobile App, a WordPress Joint
+
+There were some claims that Wix had not respected the GPL licensing in place for the component. They may or may not be valid, but what Matt is claiming about it being a copy is just what is going on with Open Source. It is supposed to be the exact same code, warts and all…
+
+But with Matt Mullenweg being no stranger to petty litigation, it seemed like FUD driven by jealousy over use of Automattic code in a competing product. Wix CEO Avishai Abrahami soon replied, making it clear that it is the exactly the same code that is being used. And that component is available as open source on GitHub:
+
+Yes, we did use the WordPress open source library for a minor part of the application (that is the concept of open source right?), and everything we improved there or modified, we submitted back as open source, see here in this link – you should check it out, pretty cool way of using it on mobile native.
+
+– Dear Matt Mullenweg: an open letter from Wix.com’s CEO Avishai Abrahami
+
+What Avishai fails to address are some of the accusations Matt Mullenweg makes against Wix and that the whole mobile application should be made available by complying to the terms of the GPL license. This is interesting, but the saga continues.
+
+Update: It has now been confirmed that Wix will release the full source code to their mobile application:
+
+Wix to release full mobile app source code, including the GPL disputed WordPress Rich Text Editor
+
+Automattic themselves fail to comply MIT licensing
+
+From a more technical post by the lead developer of the mobile app at Wix, it seems that the component that Mullenweg and Wix are quarrelling over is itself a wrapper for another Open Source project, ZSSRichTextEditor, licensed under the MIT license:
+
+The WordPress GPL Rich Text component in question, is actually a wrapper around another Rich Text component named ZSSRichTextEditor which is licensed MIT. In retrospect it would have been easier to use it directly.
+
+– How I Found Myself Accused of Stealing Code from WordPress
+
+Now it is no longer clear whether the WordPress editor component itself has a valid license, at least when it comes to the iOS version of the Rich Text Editor. This is because on March 20th 2015, the Automattic team proceeded with removing the MIT license from ZZRichTextEditor and replacing it with a GPL one:
+
+This is a violation of the MIT license terms from Automattic. So as it stands it seems quite unclear who actually has the right to do what as the MIT license requirement is no longer respected by the Automattic editor component:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+– ZZRichTextEditor MIT license
+
+Maybe in the future it would be good not to shoot first and ask questions later. But I guess this is how they do it in Texas.
+
+The only person who has not gotten credit for work is the original creator of the ZZRichTextEditor, Nic Hubbard. If this case moves beyond throwing words on the web, only one thing is for sure: Lawyers will be making a killing off it.
+
+So for sure Open Source licensing continues to be a tricky subject, with keeping in mind that the underlying React library from Facebook has some unclear licensing itself.
+
+UPDATE: Wix has now abandoned their work on the WordPress editor and are focusing on a direct fork of the ZZRichTextEditor: Wix abandons WordPress GPL editor fork in favour of original MIT library
+
+Advertisements

@@ -1,0 +1,67 @@
+Here are my instructions for creating a FreeNAS Jail with Serviio 1.1 running inside it. This uses no FreeNAS plugins whatsoever and takes full advantage of all the power that comes with having a FreeBSD core running at the heart of FreeNAS 8.3.
+
+Install a plugin Jail as per the instructions available on the FreeNAS wiki here and start the Jail running. Create a user on your FreeNAS for yourself, e.g. MYUSER Enable SSH on your FreeNAS and SSH into your FreeNAS install using your client of choice. Execute the following commands: SU root jexec 1 csh mkdir /home adduser When prompted by adduser follow the instructions on-screen to create a user that matches the user you created in Step 2. Make sure that the Uid matches the user you created in Step 2. If you are not sure what the Uid number is then look it up in the FreeNAS control panel. Here’s the example: Username: MYUSER
+
+Full name: MYUSER
+
+Uid (Leave empty for default): 1111
+
+Login group [MYUSER]:
+
+Login group is MYUSER. Invite MYUSER into other groups? []: wheel
+
+Login class [default]:
+
+Shell (sh csh tcsh nologin) [sh]: csh
+
+Home directory [/home/MYUSER]:
+
+Home directory permissions (Leave empty for default):
+
+Use password-based authentication? [yes]:
+
+Use an empty password? (yes/no) [no]:
+
+Use a random password? (yes/no) [no]:
+
+Enter password:
+
+Enter password again:
+
+Lock out the account after creation? [no]:Username : MYUSER
+
+Password : *****
+
+Full Name : MYUSER
+
+Uid : 1111
+
+Class :
+
+Groups : MYUSER wheel
+
+Home : /home/MYUSER
+
+Home Mode :
+
+Shell : /bin/csh
+
+Locked : no
+
+OK? (yes/no): yes
+
+adduser: INFO: Successfully added (MYUSER) to the user database.
+
+Add another user? (yes/no): no
+
+Goodbye! Now we need to leave the jail and create a bridge between the FreeNAS internals and the jail. So logout of your SSH client and then turn off the jail in FreeNAS control panel. Then navigate to Services -> Plugins -> Management -> Mount Points and add a new mount point. Map a directory you can access regularly through FreeNAS as the directory /home/MYUSER within the jail. Turn the jail back on and restart your FreeNAS. SSH into your FreeNAS install using your client of choice. Execute the following commands [NB: This section will take some time to complete so set aside a couple of hours]: SU root jexec 1 csh portsnap fetch extract update Update 02 February 2013 To ensure that you have the new pkg program installed run: pkg -v If you don’t get a response of 1.0.7 or higher then run: cd /usr/ports/ports-mgmt/pkg/ && make install clean cd /usr/ports/ports-mgmt/portmaster/ && make install clean
+
+Be sure to use the appropriate options for your system. If you’re not sure, check all the boxes.
+
+echo ‘WITH_PKGNG=yes’ >> /etc/make.conf rehash pkg2ng portmaster -G editors/nano rehash cd /usr/ports/multimedia/ffmpeg1 make config Set the options so that they match the information shown in the Serviio wiki for building ffmpeg. This is complicated so follow the screenshots below: press ok cd /usr/ports/graphics/frei0r/ make config check Enable MMX CPU instructions then press ok portmaster -G multimedia/ffmpeg1 portmaster -G net/serviio nano /etc/hosts and add line [replacing Jailed with the name of your jail from the FreeNAS control panel]:
+
+127.0.0.1 Jailed nano /etc/rc.conf and add lines:
+
+serviio_enable=”YES”
+
+serviio_args=”-Dserviio.remoteHost=192.168.0.100″ service serviio start You’re done. Serviio will now start-up on every boot. Login to it remotely and set up the directories you need as necessary! I heartily recommend using ServiiDroid for Android which is available here.

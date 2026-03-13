@@ -1,0 +1,17 @@
+Iris Automation Inc. has raised $1.5 million to bring “sense and avoid” technology, and truly self-flying capabilities, to drones used for industrial tasks.
+
+Even for human pilots, identifying obstacles and deciding precisely how to maneuver a fast-flying aircraft around them poses a serious challenge. Iris’ technology analyzes and draws insights from videos captured by cameras onboard a drone in real time. “We’re designing this to work like a human pilot’s vision and decision-making process,” says Iris Automation CEO and co-founder Alexander Harmsen.
+
+Iris Automation, a Y Combinator company, is not alone in the quest to develop computer vision systems that can make unmanned aerial vehicles, and eventually other robotics and vehicles, truly autonomous. Competitors to Iris in the drone industry specifically include SRI spin-out Area 17 (also known as a17), Intel RealSense Technology, Parrot’s SLAMdunk systems and DJI’s Guidance systems.
+
+Harmsen said Iris is building its technology for original equipment manufacturers that don’t have in-house expertise to build their own collision avoidance systems. Iris’s own R&D director Alejandro Galindo holds a PhD in computer vision from INRIA Labs in France, the CEO noted, and other early employees have backgrounds in mechatronics, firmware engineering and sensor fusion.
+
+The reason the Iris team believes industrial drones need a special collision avoidance system has to do with the different ways in which they are used, versus consumer drones. Unmanned aerial systems used in industrial scenarios need to cover long distances and capture video of expansive infrastructure that doesn’t show up on a street map. Some of that infrastructure can also change on a daily if not hourly basis because of everything from construction to weather. Consumer and “prosumer” drones, by contrast, are more typically flown over a shorter distance to do things like take aerial photos or videos above events like a graduation ceremony or wedding.
+
+Investors in Iris Automation’s new round include: Bee Partners, Social Capital, GGV Capital, Liquid 2, Kevin Moore and Pau Bucheit. Bee Partners led the round. A principal with the San Francisco-based fund, Garrett Goldberg, compared Iris Automation to airbag and seatbelt makers in an earlier generation, when such life-saving technologies were new to the automotive industry.
+
+The investor said long term, Iris’ technology would also be applicable beyond drones: “It’s all situational awareness, whether it’s in cars, drones or ships. Cameras are the universal sensor, and computer vision plus machine learning will let these systems see the world the way humans do.”
+
+Iris plans to use its funding to move from a beta stage to commercialization of its software-based sense and avoid technology, its CEO said. One part of that effort is a new, early adopter program led by Iris’s Hassan W. Bhatti, head of growth and partnerships. Another part of that is just getting to fly in simulation and in the real world, as much as possible, with early adopters.
+
+Harmsen said, “It’s all about getting flight hours on the system, testing for false positives and false negatives, talking with regulators and insurance companies and working with our end-clients to launch this and become widespread.”

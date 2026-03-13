@@ -1,0 +1,65 @@
+To one watching the advance of Chinese science and technology, or to me anyway, several things stand out. First, the headlong pace. Second, the amount of it that appears aimed at making China independent of the West technologically and getting the United States off Beijing’s back. Third, the apparent calculated focus. It looks like intelligent design, as distinct from America’s competitive scrabbling for profit by special interests, the hope being that this might inadvertently benefit the country as a whole.
+
+In short, the Chinese seem to Have Something In Mind.
+
+As I have mentioned before, China came out of nowhere to become the world leader in supercomputers. Also in high-speed rail, of strategic importance in its plan to united Europe and Asia economically. Heavy investment in solar power offers to ameliorate its dependence on oil from the Persian Gulf, vulnerable to blockage by the US Navy. Then there is DF21D terminally guided ballistic missile, specifically intended as a carrier-killer in what China regards as its home waters. The list could go on at length.
+
+In much of America, the Chinese are dismissed as being “unable to innovate,” inventiveness being thought of as unique to white men. Thinner ice has perhaps never been trod.
+
+The Chinese are smart. They are certainly capable of high-grade engineering and scientific research. (Eg., Beijing Genomics Institute) The line between imaginative engineering and invention is blurry. Note that on the numbers China can potentially bring to bear five times as many engineers as America can and, while they are well short of this, twice as many would be–is?–the beginning of a new world.
+
+While Beijing works to benefit China, rapidly increasing its techno-industrial clout, Washington spends insanely on weaponry. It is trying to apply a military solution to a commercial problem. America crumbles economically, politically, culturally, but has the very best bombers.
+
+Example of non-inventiveness:
+
+Step One, From a while back, “China Activates World’s Longest Ultra Secure Quantum Communication Network..” Beijing to Shanghai.
+
+Quantum communications is based on the behavior of entangled photons. Said behavior is obviously impossible, but apparently nobody has told the photons, so they do it anyway. (Unless all the world’s physicists are smoking Drano. This possibility is worth considering. If interested, quantum entanglement. Also Quantum Key Distribution.) The point is that if anyone tries to intercept the transmission, it becomes obvious. A weakness is that you need repeaters every sixty miles, which reduces security.
+
+Unless you do it in space:
+
+Step Two: China launches world’s first quantum satellite. Having done the landline, they move to orbital experimentation.
+
+Step Three, Bingo! “China Just Took the Lead in the Quantum Space Race”
+
+This being a big deal, I clip from Asia Times:
+
+On Thursday, a team of Chinese scientists released findings from a breakthrough study that makes China the indisputable leader in the field of quantum communication, an achievement that could be of immense strategic importance.
+
+The study, led by Pan Jianwei and published in Science magazine, successfully demonstrated the ability to distribute entangled photons across unprecedented distances, from space to earth, opening the door for the practical application of cutting-edge, ultra-secure communication.
+
+The unprecedented distance was 1200 kilometers. Beijing might be regarded as trying to establish world-wide communications secure against NSA and, eventually, a whole internet proof against Fort Meade. Whether one regards this as engineering development or innovation doesn’t seem to make much difference.
+
+“Chinese Solar-Powered Plane Flies at 65,000 feet”
+
+It apparently could stay aloft for months. The stories dealing with it suggest that the purpose might be long-term surveillance of countries, meaning spying. In any event, it is a neat technological trick, especially from people who can’t innovate.
+
+Then we have, from Phys.org,
+
+“China launched its most powerful rocket ever on Thursday, state media said, as the country presses on with a program which has seen it become a major space power.”
+
+
+
+The point here is not that China is ahead of America in space–it isn’t–but that it is coming on fast. Engineering, engineering, engineering. Dismissive Americans point out that the US was on the Moon in 1969 and that China is piggybacking of American technology. True. And Irrelevant.
+
+From the National Interest: “The World’s New Leader in Super Deadly Hypersonic Weapons: China?”
+
+Chinese Quantum Radar
+
+Quantum radar is another application of entangled photons. The link gives a semi-technical overview. The important point is that in principle it allows detection of stealth aircraft.
+
+The Chinese assert that they can now detect stealth aircraft at 62 miles with enough accuracy to compute a fire-control solution. This means that radar stations with slightly overlapping fields of detection, say a hundred miles apart, could detect incoming aircraft with easily enough time to shoot them down.
+
+If this report is true, it is potentially devastating for the US Air Force. So far as I am aware, Chinese claims of technical results have heretofore been accurate.
+
+The Air Force has invested very, very heavily in stealth. In bombers, the hugely expensive B2 and the planned hugelier expensiver B21 are dead meat if detached. In fighters, the F22 and the F35 Bankruper—Lightning II, I meant to say—will lose their main selling point if detectable. The F35 in particular has made compromises in performance to make it stealthy and, if detectable, is just a so-so fighter.
+
+Next: “Enter the Nimble Dragon: China sees nuclear future in small reactors”
+
+“SMRs (small modular reactors) have capacity of less than 300 megawatts (MW) – enough to power around 200,000 homes – compared to at least 1 gigawatt (GW) for standard reactors….”
+
+“China is aiming to lift domestic nuclear capacity to 200 GW by 2030, up from 35 GW at the end of March, but its ambitions are global.”
+
+Small reactors (a bit larger than a bus) are important if you want to electrify a remote city without the overkill of a standard plant or the expense of long transmission lines. China is not the only country working on mini-nukes (or on anything else mentioned in this column), but it can now play with the big boys. Again, small reactors are an abrupt entrance into a major technical field. Note “global ambitions.” A Reuters piece describes “an ambitious plan to wrest control of the global nuclear market.” Planning and doing are not the same thing, but if I were a nuclear market, I would be uneasy.
+
+For whatever reasons, the American media do not much cover technological advance in China. Ignorance? Arrogance? Is it just the American tendency to regard the rest of the world as unimportant? Maybe a little attention would be a good idea. A steady stream of advances comes out of the Middle Kingdom. In some fields, the Chinese lead the world. In others, they are behind but not be much, and gaining. Could be important. Especially if they learn to innovate.

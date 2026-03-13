@@ -1,0 +1,39 @@
+It's the key material found in superglue and airplane wings. It once coated the Apollo 8 capsule for reentry into Earth's atmosphere. And it currently insulates the electronics in your smartphone. Thermosets are the unsung heroes of materials science.
+
+Cured thermosets are heat-resistant polymers that are often more rigid than bone and virtually impossible to break down. In your car or in your computer, an indestructible component isn't so bad. But on the manufacturing line, thermosets represent an engineer's point of no return—once you coat something in thermoset, you cannot make changes without starting over from scratch. A material that just won't melt—it decomposes long before its melting point—poses a unique problem for the recycling industry.
+
+Researchers at IBM announced the first recyclable thermoset in a paper published in Science. Their new thermoset is just as powerful and heat-resistant as its predecessors, but its Achilles heel is acid: Dip a component into an inexpensive sulfuric acid solution, and it reverts to its original, puttylike state.
+
+"This is the first example of a recyclable thermoset, to our knowledge," says Jeannette M. Garcia, research staff member at IBM Research and lead author on the paper. "Sulfuric acid is essentially free, and reworking thermosets is much more desirable than throwing them away. If IBM had this 15 years ago, it would have saved unbelievable amounts of money."
+
+Of Computers and Chemistry
+
+Garcia first stumbled across her new polymer by accident. She had been working on synthesizing a different polymer when she noticed the solution in her reaction flask unexpectedly harden. "We couldn't get it out," she says. "We had to smash the flask with a hammer, and, even then, we couldn't smash the material itself. It's one of these serendipitous discoveries."
+
+Determined to figure out what she had made, Garcia enlisted help from the brains at IBM. "What's unique about Garcia's paper is that she used all of the computational expertise of IBM to develop new materials," says Timothy Long, a professor of chemistry at Virginia Tech, who was not involved in the research.
+
+Garcia and her team used classic chemistry techniques, along with advanced computer models, to work backward from her final product and find the mechanism behind her surprise reaction. When she discovered that she had indeed synthesized a thermoset, Garcia used the IBM software to test whether there was an inexpensive, efficient way to recycle her new polymer.
+
+"We were able to actually study the chemistry through our computational models, and then evaluate the final product for its reactivity," Garcia says. "We noticed that if you take the molecule and subject it to strong acid, like sulfuric acid, you would get complete chemical reversion back to the starting materials."
+
+More Thermoset for Your Buck?
+
+Prior attempts to synthesize a recyclable thermoset produced weaker, less heat-resistant plastics, unsuitable for industrial uses. But when Garcia and her team subjected their thermoset to a battery of lab tests, its performance was either comparable or superior to current industry standards. And, according to Garcia, her thermoset could be even less expensive than those currently on the market.
+
+While the new thermoset's rigidity and cost may be above reproach, its heat resistance does pose a few problems. Up to 350 degrees Celsius, Garcia's thermoset performs just as well as any comparable polymer. But above that temperature it starts to break down. It's a problem, because thermosets often show up in extremely high-temperature environments. The redistribution layer of a computer chip, for example, which enables bonding between chips in an integrated circuit, can heat up to 425 C. For such applications, Hendrick acknowledges, a more heat-resistant thermoset or a blend of thermosets would undoubtedly be necessary.
+
+"You could get around this by blending polymers," says James Hendrick, a research staff member at IBM who oversees the materials group. "But for our pure polymer, 350 degrees Celsius is the decomposition temperature."
+
+Industrial Prejudices
+
+IBM's new thermoset is a less expensive, recyclable alternative to many of the current market favorites. Nevertheless, manufacturers may be reluctant to adopt a new polymer on the line.
+
+"Industry is always resistant to change," Long says. "Anytime new chemistry appears, we have to think about changing manufacturing operations."
+
+One advantage of this new thermoset, Long notes, is that it makes use of starting materials that are already widely accepted in the industry. "That's an important element of their discovery," Long says of Garcia's team. "They try to use existing compounds and existing synthetic methods that the industry can quickly adopt."
+
+For companies that do use Garcia's thermoset, Long notes, the advantages could be substantial. "Industries are looking for performance so, conceivably, if you're fabricating a new device and it doesn't turn out quite right, a thermoset that you can reverse would allow you to correct the problem."
+
+And for us environmentally conscious techies, of course, a recyclable thermoset is the answer to our ever-present question of how to recycle our old hardware.
+
+"We switch out laptops and iPhones every couple of years, and those thermosets are inherently not recyclable," Long says. "This thermoset will redesign our way of thinking about recycling."

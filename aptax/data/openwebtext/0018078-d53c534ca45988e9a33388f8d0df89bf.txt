@@ -1,0 +1,113 @@
+A group of temporary workers at Microsoft contractor Lionbridge has signed its first union contract, a rare feat in a technology industry typically unfriendly to organized labor. But the deal, sealed after almost two years of contentions talks, comes at a cost.
+
+A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor.
+
+But the deal, sealed after almost two years of contentious talks, comes at a cost.
+
+This month more than a third of the union’s 33 members, employed by Lionbridge Technologies in Bellevue, were laid off or agreed to leave voluntarily amid the threat of deeper cuts. Union members say they were told the reduced head count is the result of less work coming from Microsoft, the team’s only client.
+
+For Philippe Boucher, the 66-year-old French immigrant who spearheaded the creation of the independent Temporary Workers of America (TWA), the union drive is evidence that in the technology industry, long viewed as infertile ground for organized labor, temporary workers can organize and win greater benefits.
+
+“It was difficult, but not impossible,” Boucher said. “We just proved that it’s possible.”
+
+Other members of the union, reluctant to speak publicly for fear of jeopardizing future employment opportunities, deferred to Boucher as their spokesman.
+
+The contract with Lionbridge, signed earlier this month, is the latest in a series of victories for workers’ advocates in the Puget Sound area, and comes amid growing concern about income inequality nationwide.
+
+In the last two years, a $15-an-hour minimum wage floor has survived challenges in Seattle and SeaTac, Seattle became the first city in the U.S. to give drivers for Uber and other ride-hailing services the power to unionize, and, more recently, Seattle proposed a law aimed at giving retail workers more predictability in their work schedules.
+
+Margaret O’Mara, a history professor at the University of Washington who focuses on the technology industry, said concerns about the place of workers have grown along with the perception of economic instability after the financial crisis.
+
+“You have a destabilization, a lot of people going from feeling somewhat secure, to a feeling that upward mobility has stopped,” she said. “The future is not as bright as it might have seemed a couple of generations earlier.”
+
+Role of contractors
+
+The new union’s effort also casts a spotlight on the shadowy world of temporary workers and contractors that makes the technology economy tick.
+
+Dozens of contracting firms supply Microsoft, Amazon.com and other large companies with everything from developers to graphic artists, software testers and language specialists like those employed by Lionbridge.
+
+In some cases, the work is truly temporary, with employees signing on to six- or 12-month projects pegged to a specific product.
+
+In others, like the now-unionized lab of Lionbridge workers who have reviewed the content of Microsoft Windows applications since 2011, engagements can stretch for years, and take on a quasi-permanent status.
+
+A few groups in the technology contracting world are represented by unions, including the drivers of Microsoft’s Connector shuttles, bus drivers for Silicon Valley giants, and some janitorial and warehouse workers.
+
+The TWA isn’t the first union of temporary workers that formed in Microsoft’s orbit.
+
+The Washington Alliance of Technology Workers, or WashTech, organized in 1998, just as a class-action lawsuit of temporary workers seeking benefits from Microsoft was making its way through the courts.
+
+Microsoft ultimately settled the case, paying out about $97 million to the employees. WashTech, meanwhile, tried to rally Microsoft’s so-called “temps” and full-time employees for more than a decade, with limited success. The union has since shifted its attention away from Microsoft, focusing on jobs like call-center workers.
+
+The TWA’s unionization drive began in 2013 when a Lionbridge employee was laid off after she had asked management for better benefits.
+
+Over the following year, Boucher and his allies quietly gathered enough signatures to trigger the federally mandated unionization vote that chartered the union.
+
+Boucher and fellow union members, initially with legal help paid for by more established unions, started contract talks with Lionbridge, asking the company for paid time off, parental leave, and a raise.
+
+The company’s initial offers, Boucher said, didn’t contain any benefits beyond their current employment terms for the hourly workers, who earned between $17 and $25 an hour.
+
+Lionbridge, through the Seattle attorney who represented the company in bargaining talks, declined to comment.
+
+New policy
+
+Microsoft was listening to the concerns of the union and other contract employees.
+
+The Redmond company, which has long said it has no direct relationship with workers at Lionbridge and other companies it uses for contract labor, last year introduced a policy requiring its contracting firms to offer employees working on Microsoft tasks in the U.S. a minimum of 15 days of paid time off a year.
+
+The new policy drew widespread praise, even from the White House, which cited the move as an example of companies’ ability to lift working conditions without government mandates.
+
+The policy could have widespread impact: Microsoft at one point last year was using the services of about 81,000 contractors worldwide, according to a person familiar with the figure, though it’s unclear how many are in the U.S. or how many are focused exclusively on Microsoft tasks.
+
+The company has about 114,000 full-time employees, and it declined to comment on its number of contract workers.
+
+Dozens of companies have built their business, in part, on providing services to the company, from janitorial and human resources to core technology roles like hardware and software design, development and testing.
+
+Microsoft has long been Lionbridge’s biggest client, and last year it accounted for 15 percent of the Waltham, Mass., company’s sales.
+
+Landmark ruling
+
+However, Microsoft’s new paid-time-off policy didn’t spur a resolution in talks between Lionbridge and the TWA. The union voted down one proposed contract. Talks then broke down, with the union and Lionbridge both filing unfair labor practices charges.
+
+In late 2015, a landmark ruling by a national labor regulator gave Boucher leverage to try to bring Microsoft into the talks.
+
+The National Labor Relations Board (NLRB) determined that Browning-Ferris Industries, a waste-management company, was a co-employer of the contract workers staffing one of its California facilities. Because Browning-Ferris exerted enough indirect control over the contractors’ working conditions, the company had to be at the bargaining table when they tried to organize.
+
+“Large employer organizations are really fearful about the ramifications of this,” said George Gonos, a professor at Florida International University who has studied the rising use of temporary workers, and co-authored court papers in support of the joint employment finding in Browning-Ferris. “For decades, we’ve seen the spread of ‘permatemping’ in a wide range of industries,” he said. “These companies’ success rests, in some part, on the exploitation of the workers at the bottom of the pyramid.”
+
+Companies, represented by trade groups like the U.S. Chamber of Commerce and the National Association of Manufacturers, supported Browning-Ferris’ appeal of the ruling, arguing it could create chaos and destabilize the labor structure that employers have come to rely on.
+
+“What corporate America is doing is saying, this is the way we do business, and it’s not that we’re trying to avoid” labor laws and worker protections, said Roger King, a senior council of the business-backed HR Policy Association. “These are just basic operational decisions that make good business sense and, if you are a publicly traded company, make good business sense for your shareholders.”
+
+In a joint filing supporting the appeal of Browning-Ferris, Microsoft and the HR Policy Association in June argued that Microsoft’s mandate for 15 days of paid time off and other minimum standards were a good thing for workers, and they shouldn’t be used to determine that the company is a joint employer of its contract workers.
+
+Inquiry resisted
+
+Boucher asked Microsoft to join the TWA’s talks with Lionbridge, citing the precedent established in Browning-Ferris and saying Microsoft’s new paid-time-off rules didn’t go far enough.
+
+When Microsoft refused, saying Lionbridge was the TWA members’ only employer, the union asked the NLRB to investigate whether the company was a joint employer under the Browning-Ferris standard.
+
+Microsoft resisted the NLRB probe in an appeal that stretched for nine months, until a national NLRB panel ruled last month that Microsoft had to cooperate with NLRB information requests.
+
+A week later, Lionbridge approached the TWA with a renewed contract offer. Work on the Windows application project to which the group was assigned had tapered off, union members say they were told, and layoffs were imminent.
+
+Lionbridge’s new contract offer for the first time included some of the provisions the union had been seeking, Boucher said, including a raise and severance payments for those who would be laid off. The union and Lionbridge also agreed to a system tied to performance reviews that would determine which employees would be subject to the cuts.
+
+“It was like, something fell from the sky,” Boucher said of the offer. “I didn’t believe it.”
+
+As a condition of the contract, Lionbridge required the union to drop its joint-employer charge against Microsoft, as well as other pending unfair-labor-practices charges against Lionbridge.
+
+The TWA’s members ratified the agreement in a vote, 30-1.
+
+Microsoft, a company spokesman said, had no role in the talks and didn’t ask Lionbridge to get the union to drop its joint employer charge.
+
+“This was a matter between Lionbridge and its employees, and we are pleased to see they’ve reached an agreement,” he said.
+
+Boucher won’t reap the rewards of the new contract. He left Lionbridge last month after four years of commuting — on ferries, bicycle and bus — from Bainbridge Island to Redmond and Bellevue. He’s looking for a job closer to home.
+
+He plans to stay active in the union, though.
+
+“For a very small team, it’s progress,” Boucher said. “At the same time, I don’t know if it will have any impact” on how companies treat their contract workers.
+
+The technology industry’s workforce, said the UW’s O’Mara, extends far beyond the in-demand software developers who make the headlines.
+
+“We kind of forget about all the other jobs, a lot of companies that are a part of the ecosystem doing things from software testing to building iPhones,” she said. “It really becomes invisible.”

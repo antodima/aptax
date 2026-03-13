@@ -1,0 +1,43 @@
+As 2016 is coming to a close, it’s time to look back at what has become one of Microsoft’s most interesting brands this year. In the past couple of months, it seems that Microsoft’s early bet on hybrid laptops has finally started to pay off, and we’ve also seen many great hybrid devices from third-party manufacturers including Samsung, Huawei and Lenovo released to the market. This kind of healthy competition is definitely promising for the future of the 2-in-1 form factor, and we can’t wait to see new devices being revealed at CES 2017 next month.
+
+Market research company IDC also acknowledged earlier this year that Microsoft’s Surface devices and Apple’s iPad Pro were leading the “detachable tablet” revolution. It’s also worth reminding that Apple, which initially mocked touchscreen laptops and 2-in-1 devices has since launched two iPad Pro models which it advertises as “computers”. But does Microsoft still has a better understanding of what consumers wants from 2-in-1 devices? Well, Windows 10 definitely seems to have fixed many shortcomings of Windows 8 and Windows RT, and it’s safe to say that Microsoft’s latest operating system is one of the most versatile operating systems on the market today. According the company, Apple’s iPad Pro just can’t compare.
+
+Just like Apple though, Microsoft slowly iterates: the Surface Pro 3 was a massive improvement over previous Surface Pro models, but the company’s Surface Pro 4 and Surface Book really pushed the hybrid laptops to the next level. Surface may not be a blockbuster success for the company yet, but the Redmond giant seems to be doing all the right things to make it become one of its most successful brands going forward
+
+Microsoft’s latest Surface portfolio is likely its most successful ever
+
+While Microsoft doesn’t disclose how many Surface units it sells, it’s clear that the Surface Pro 4 and Surface Book enjoyed great momentum this year. Microsoft’s latest earnings report for the first quarter of fiscal year 2017 puts Surface revenue at $926 million, up a whopping 38% from $672 million last year.
+
+But as many signs points to Surface becoming the company’s next billion dollar business, Microsoft highlighted last week that November 2016 was the company’s best month ever for Surface sales. “The momentum was seen worldwide,” explained Corporate Vice President for Microsoft Devices Brian Hall, despite the fact that Microsoft did not release a Surface Pro 5 or a Surface Book 2 this fall. Moreover, the exec added that “the combination of excitement for the innovation of Surface coupled with the disappointment of the new MacBook Pro – especially among professionals – is leading more and more people to make the switch to Surface.” Take that, Apple.
+
+Some hiccups along the line
+
+We love Microsoft’s Surface brand and hardware, though it’s worth reminding that the launch of the Surface Pro 4 and Surface Book has not been completely smooth for the company. Both models were the first to ship with Intel’s Skylake processors, and those of you who purchased them at launch have probably been affected by annoying sleeping issues. Fortunately, Microsoft was pretty quick to fix it through several firmware and driver updates, though we definitely hope not to see these kind of problems with the next generation of Surface devices.
+
+On a different note, it’s not clear if Microsoft’s multi-million-dollar deal with the NFL managed to improve brand awareness for Microsoft’s 2-in-1 devices. While the company explained earlier this year that it was “very pleased” by the partnership, adding that coaches loved the hybrid devices, it seems that some of them disagree.
+
+Two months ago, New England Patriots head coach Bill Belichik explained that he was “done with the tablet” during a five-minute-long public rant, and Microsoft did its best to answer to what looked like unfair criticism. “We know change can be hard and technology adoption typically has a growth curve. We’re excited to be working with some of the best IT professionals in the industry at the NFL to help with the transition,” explained Corporate Vice President, Windows and Devices Group Yusuf Medhi.
+
+An increased focus on professionals
+
+While Redmond chose not to release a successor to the 10-inch Surface 3 this year, the unveiling of the Surface Book in October 2015 pretty much took Microsoft enthusiasts by surprise. Indeed, the “ultimate laptop” seems like one of Microsoft’s best hardware efforts yet, offering great versatility in what a familiar form factor for fans of old-school laptops. Compared to the Surface Pro 4, the bigger 13.5-inch PixelSense display, improved battery life and dedicated GPU option also make it an attractive option for professionnals. Interestingly, the Surface Book i7 with Performance Base was the only new Surface 2-in-1 to be released this year, but its $2,399 starting price probably makes it out of reach for most consumers.
+
+Moreover, let’s not forget the launch of other Surface products this year including the enterprise-focused Surface Hub and the creative-focused Surface Studio. After some delays, the Surface Hub digital whiteboard launched earlier this year and already enjoys some momentum with sales up 20% with a payback period of nine months.
+
+As for the Surface Studio, it was definitely the highlight of Microsoft’s Windows 10 October event, though it’s too early to know if the versatile all-in-one PC will become an attractive option for artists creative professionals. Still, the introduction video quickly became the most viewed video on Microsoft’s Surface YouTube channels, with more than 10 million views at the time of our writing.
+
+Last but not least, Microsoft also expanded earlier this year its Surface Enterprise Initiative with a Surface as a Service leasing program, bringing new partners to help create an ecosystem of services around the hybrid devices. Additionally, the company announced last week a Surface Hub Try And Buy program which will allow select Microsoft resellers to provide customers Hubs for 30 days before committing to purchasing a large set of devices.
+
+What to expect for 2017?
+
+Microsoft’s Surface line seems to be at crossroads at the end of 2016. The increased focus on professionals seems to have been the main theme this year, though it doesn’t seems to hurt the growth of the product line so far. Of course, Surface devices also remain popular with Microsoft enthusiasts and consumers looking for a tablet that can replace their laptop, but Microsoft could well bring some changes to its Surface portfolio next year.
+
+First of all, Microsoft announced earlier this year that it is developing a new version of Windows 10 that runs on ARM chips: this will allow partners to build new Qualcomm Snapdragon-powered Windows 10 PCs that run x86 Win32 and universal Windows apps, but we suppose that this breakthrough could well push Microsoft to release a new Surface device to showcase the new platform. Indeed, this new architecture would be perfectly suited for a Surface 4 model targeted at consumers who don’t need the more powerful and less battery-efficient Intel processors.
+
+We also guess that Microsoft has iterative updates for the Surface Pro 4 and Surface Book in the pipeline, though the company may well wait for the release of the Redstone 3 update in the second half of 2017 to release them. Last but not least, the rumored Surface phone will likely remain a topic of interest next year. A month ago, Microsoft CEO Satya Nadella explained that the company was planning the “ultimate mobile device,” which would bring true differentiation to a nearly saturated market.
+
+Overall, we hope that Microsoft will continue to surprise us next year. In just four years, Surface has become a very valuable brand for the company, pushing forward new product categories and reshaping what we expect from computers in a world where mobile devices are ubiquitous. Microsoft may well remain a productivity-focused and business-focused company, but the Surface line proves that the technology giant takes its hardware efforts very seriously, and we can’t wait to see what’s next.
+
+Share This
+
+Further reading: Microsoft

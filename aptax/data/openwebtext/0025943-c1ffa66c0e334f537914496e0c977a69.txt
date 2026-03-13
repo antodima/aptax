@@ -1,0 +1,319 @@
+SQL has many features to protect data, and domain integrity constraints are one of the most fundamental. Put simply, they restrict columns to sensible values and prevent data input errors and other problems.
+
+On the surface domain integrity is simpler than other techniques such as referential integrity. Domains usually don’t need to cross-reference values in multiple tables. However in this article we’ll see some advanced tricks to keep data squeaky clean.
+
+This guide combines pretty much all material I’ve found online about the topic, adds some of my own, and provides many practical examples.
+
+Table of Contents
+
+Type, Precision, and Units
+
+The most basic kind of domain constraint is a column’s type declaration. For example when a column is declared as text , numeric , or date it immediately rules out certain values and operations.
+
+However the built-in PostgreSQL data types can still be too broad for the needs of some applications. That’s why the SQL standard allows us to create our own types using custom domains. Domains are an alias for an underlying type, and optionally include extra restrictions and a default value.
+
+Consider gasoline. Gas stations, in their fierce competition, extend psychological pricing beyond the cent. Their prices are advertised in fractional cents. Trying to use the default money type in PostgreSQL cannot cope. For US Dollars, the money type rounds at two digits:
+
+select '$4.999' : :money ; -- => $5.00
+
+The precision of money varies per denomination of currency, which PostgreSQL chooses based on the locale string in the lc_monetary configuration variable. What’s more, the database keeps no metadata for this type. A value of “$100” can silently change to another like “£100” when the locale is changed, even though this affects the purchasing power of the money represented.
+
+To properly represent fractional-cent gas prices we have to take matters into our own hands and use the numeric type which holds fixed precision decimal values. (Never go near floating-point representation when money is involved!) For gas, numeric(6,3) should be fine, which allows three digits after the decimal, and no more than six digits total. This constrains gas prices to be no greater than $999.999, but we could use a bigger numeric if that seems restrictive. (We may have bigger problems to worry about if that becomes an issue.)
+
+We very well could use numeric(6,3) everywhere we want to store or calculate with gas prices, but it’s repetitive and hard to change uniformly. There’s where SQL allows us to define a shortcut:
+
+CREATE DOMAIN gasprice AS numeric ( 6 , 3 ); SELECT 4.999 : :gasprice ; -- => 4.999
+
+Whether they have to use fractional cents or not, many well informed people avoid the built-in money type and go straight to numeric. To get the best of both worlds, try a database extension like samv/pg-currency. It provides pretty formatting, plus meaningful cross-currency comparison and conversion.
+
+Denominations of currency are a form of unit, and measurement abounds with other types of unit. Mixing units up can have disastrous consequences.
+
+NASA lost its $125-million Mars Climate Orbiter because spacecraft engineers failed to convert from English to metric measurements when exchanging vital data before the craft was launched.
+
+Jet Propulsion Laboratory engineers mistook acceleration readings measured in English units of pound-seconds for a metric measure of force called newton-seconds. Let’s try to avoid their mistake with the postgresql-unit extension.
+
+CREATE EXTENSION unit; SELECT '100 lb s' : :unit - '100 N s' : :unit ; /* ERROR: 22000: dimension mismatch in "-" operation: "45.359237 kg*s", "100 m*kg/s" LOCATION: test_same_dimension, unit.h:89 */
+
+The type forbids arithmetic on incompatible units. Database code in development will get a swift wakeup call trying to work with the mismatch, preventing logic problems later. As in the previous example we can create a custom domain with a suggestive name:
+
+CREATE DOMAIN acceleration AS unit CHECK ( dimension ( VALUE ) = '1 m*kg/s' );
+
+This domain goes beyond our previous example in that it’s not just a synonym for an existing type, but introduces a constraint. It uses the dimension function provided by the unit extension library to check the alleged acceleration.
+
+We can use the new domain in all columns and stored procedure arguments which measure acceleration, to ensure the unit is expressed properly.
+
+-- we cannot coerce an un-annotated value SELECT 100 : :acceleration ; /* ERROR: 42846: cannot cast type integer to acceleration LINE 1: select 100::acceleration; LOCATION: transformTypeCast, parse_expr.c:2580 */ -- nor will the wrong unit work SELECT '100 lb s' : :acceleration ; /* ERROR: 23514: value for domain acceleration violates check constraint "acceleration_check" SCHEMA NAME: public DATATYPE NAME: acceleration CONSTRAINT NAME: acceleration_check LOCATION: ExecEvalCoerceToDomain, execQual.c:4087 */
+
+The pg-unit extension provides a lot more functionality too, including converting units during calculations when compatible.
+
+SELECT '2 MB/min' : :unit * '15 s' : :unit AS usage ; -- => 500 kB
+
+Geospatial types also benefit from constraints. The PostGIS geometry type can represent locations using various projections, and to calculate properly it’s important to use the expected type of geometry. For example, we can specify the World Geodetic System ’84 coordinate system, which is what GPS uses:
+
+CREATE DOMAIN wgs84 AS geometry CHECK ( -- a 2-dimensional point in our coord system st_ndims( VALUE ) = 2 AND geometrytype( VALUE ) = 'POINT' : :text AND st_srid( VALUE ) = 4326 );
+
+A sloppily-created point that does not declare its coordinate system will fail:
+
+SELECT ST_GeomFromText( 'POINT(-71.060316 48.432044)' ): :wgs84 ; /* ERROR: 23514: value for domain wgs84 violates check constraint "wgs84_check" SCHEMA NAME: public DATATYPE NAME: wgs84 CONSTRAINT NAME: wgs84_check LOCATION: ExecEvalCoerceToDomain, execQual.c:4087 */
+
+With a little extra care it will work; notice that NULL values bypass the check as well.
+
+SELECT ST_GeomFromText( 'POINT(-71.060316 48.432044)' , 4326 ): :wgs84 ; -- => 0101000020E61000003CDBA337DCC351C06D37C1374D374840 SELECT NULL: :wgs84 ; -- => ∅
+
+Common-Sense Checks
+
+Another use for domains is to look for and prevent preposterous values, or accidental column mismatches when importing data. Adding common-sense constraints will catch obvious data entry errors. It does require caution: don’t over-specify a domain or field in any way that would prevent users from entering a valid real-life domain value.
+
+There are plenty of examples of this use of preventative domain integrity. I’m sure you can think of more, but here is a start.
+
+Data about people involves natural constraints. The tallest man in medical history for whom there is irrefutable evidence is Robert Pershing who grew to 8’11.1“. Granting that there may have been taller unrecorded cases, we can confidently cap a person’s height at ten feet.
+
+Using the unit datatype from the previous section, we can make a domain to store height:
+
+CREATE DOMAIN human_height AS unit CHECK ( '0 ft' : :unit < VALUE AND VALUE < '10 ft' : :unit ); -- holds a valid height SELECT '74 in' : :human_height ; -- => 1.8796 m -- but rejects an outlandish one SELECT '12 ft' : :human_height ; /* ERROR: 23514: value for domain human_height violates check constraint "human_height_check" SCHEMA NAME: public DATATYPE NAME: human_height CONSTRAINT NAME: human_height_check LOCATION: ExecEvalCoerceToDomain, execQual.c:4087 */
+
+Unfortunately constraints apply to human lifespan as well. However enforcing them doesn’t fit single-field domain integrity very well because a lifespan relates two values, not one: a person’s first and last day alive. We might unify the concept of a lifespan into a date range field where the end date is allowed to be unbounded.
+
+CREATE DOMAIN human_lifespan AS daterange CHECK ( ( NOT lower_inf( VALUE )) AND ( upper_inf( VALUE ) OR ( upper ( VALUE ) - lower ( VALUE ) < 365 * 130 ) ) );
+
+This allows storing currently living people (an unbounded upper range):
+
+SELECT '[1/1/2000,)' : :human_lifespan ; -- => [2000-01-01,)
+
+However it protects against obviously bogus data:
+
+SELECT '[1/1/1400,1/1/1995]' : :human_lifespan ; /* ERROR: 23514: value for domain human_lifespan violates check constraint "human_lifespan_check" SCHEMA NAME: public DATATYPE NAME: human_lifespan CONSTRAINT NAME: human_lifespan_check LOCATION: ExecEvalCoerceToDomain, execQual.c:4087 */
+
+But our topic is quickly turning grim. A more pleasant limit is textual. All text fields have a common-sense size limit. Someone will always test the limit, either maliciously or by accident. For instance, a person’s given name can be long, but it’s never a gigabyte long. It’s sensible to pick an upper limit of fifty Unicode characters.
+
+Traditionally people would use the varchar(50) type to represent such a constraint. In fact, in PostgreSQL the performance between varchar and text is the same (same data structure underneath), the only difference is that varchar(n) enforces a maximum length.
+
+We could use varchar(50) , or wrap the text type in a domain. For instance:
+
+CREATE DOMAIN personal_name AS text CHECK ( -- length between 1 and 50 inclusive length ( VALUE ) <@ int4range( 1 , 50 , '[]' ) );
+
+It’s a little more typing, but does allow greater flexibility such as the enforcement of minimum length. (Names shouldn’t be empty strings.) Also all columns holding a name could be unified with the domain.
+
+Most importantly depesz identified that updating the limit in varchar takes more intensive database write-locks than updating the constraints on a domain. So if you’re thinking about modifying the length constraint (more on that in a future section), you’d do best to create a domain.
+
+Business Logic and Law
+
+“Common-sense” constraints can be a little fuzzy, but other constraints are exacting. In particular, enforcing business rules and the law. I’ll use an abbreviated style for these examples, showing the CHECK constraint for a domain and leaving the rest to your imagination.
+
+Prices are non-negative. You don’t want a prankster getting a rebate for buying something of negative price. CHECK (VALUE > 0)
+
+Paydays must be a Friday. CHECK (EXTRACT(dow FROM VALUE) = 5)
+
+Time is within business hours. CHECK ('8:00 am'::time <= VALUE AND VALUE <= '5:00 pm'::time)
+
+Customer is over age twenty-one. CHECK (now() - VALUE > '21 years'::interval)
+
+Wage greater than legal minimum.
+
+Compound Types and Syntax Checks
+
+Some text fields follow totally precise formats, and we can enforce them with regular expressions. The interesting thing is that such regularity, where each of the parts of a specially formatted string has meaning unto itself, is a sign of denormalization. There are often PostgreSQL extensions to both represent such domains and expose helper functions for extracting each meaningful part.
+
+URIs
+
+For example, consider URIs. The naive way to store them is in a text field. One step better is to add a regex to match URI syntax, and wrap the check in a custom domain as we have done so many times in this article already.
+
+The truth of the matter is that a URI is really a serialized representation of multiple data points: a protocol, host address, port, path, params, and anchors. Thinking in relational terms, it seems more like URIs should be stored across multiple columns, possibly in a reference table. However there’s a nice middle ground: a rich type provided by the pguri extension.
+
+The type is fairly permissive, it will let you cast any string as uri , but the functions provided by the extension allow us to check that certain parts of the URI exist. The following domain requires at least a protocol and server be specified.
+
+CREATE EXTENSION uri; CREATE DOMAIN http_uri AS uri CHECK ( uri_scheme( VALUE ) IS NOT NULL AND uri_scheme( VALUE ) IN ( 'http' , 'https' ) AND uri_host( VALUE ) IS NOT NULL AND uri_host( VALUE ) <> '' ); -- works great SELECT 'https://www.foo.com/bar/baz' : :http_uri ; -- forbidden SELECT 'ftp://www.foo.com/bar/baz' : :http_uri ;
+
+While we’re on the topic of the network, don’t forget the built-in inet type to represent IPv4/IPv6 addresses and optionally subnets. It includes a number of useful operators like checking if an address is contained by a CIDR block.
+
+Phone Numbers
+
+Phone numbers are in a similar situation. They are composed of parts (country code and local part). What’s more, their format isn’t even standardized. No reason to deal with them naively, use another PostgreSQL extension: libphonenumber. It is based on Google’s libphonenumber and can parse all numbers, including international ones.
+
+Because the numbers are parsed into an internal representation, the data type can identify duplicate numbers that differ only syntactically, hence the type makes UNIQUE constraints more powerful.
+
+-- Careful, this extension is in beta CREATE EXTENSION pg_libphonenumber; SELECT 'weirdly formatted number' : :phone_number ; /* ERROR: 22P02: unable to parse 'weirdly formatted number' as a phone number LINE 1: SELECT 'weirdly formatted number'::phone_number; DETAIL: String does not appear to contain a phone number LOCATION: reportParseError, error_handling.cpp:85 */ SELECT parse_phone_number( '41416375555' , 'CH' ); -- => +41 41 637 55 55 SELECT parse_phone_number( '41416375555' , 'CH' ) = parse_phone_number( '+41-41-637-5555' , 'CH' ); -- => t
+
+Semantic Versions
+
+Marching down the line of common compound types we come to semantic version numbers. Comparing two versions for recency is slightly tricky because they are typically stored as text, even though characterwise lexicographic comparison can be completely wrong:
+
+-- incorrect result SELECT '10.2.0' < '9.1.3' ; -- => t
+
+We could store versions as arrays. It works in some cases:
+
+-- correct for this case SELECT ARRAY [ 10 , 2 , 0 ] < ARRAY [ 9 , 1 , 3 ]; -- => f
+
+However arrays must contain one uniform type of element, whereas versions can mix letters and numbers like 1.2.0b1 .
+
+Once again life is easier with an extension, in this case semver. Maybe by now you’re starting to realize why PostgreSQL is sometimes called “the Emacs of databases.” It’s very extensible.
+
+CREATE EXTENSION semver; -- regular versions work SELECT '10.2.0' : :semver < '9.1.3' : :semver ; -- => f -- and so do more nuanced ones SELECT '10.2.0-3' : :semver < '10.2.0-4' : :semver ; -- => t
+
+Another advantage of this extension are the helper functions it provides for extracting major, minor, and patch versions, aggregating min/max, and validating correctness.
+
+Postal Addresses
+
+Addresses are the primordial datamonster of compound information. They aren’t really suited for representation as a custom domain. However individual parts like zip codes, or the enumeration of street types, can certainly be constrained.
+
+Check out this great article about the challenges of storing international addresses.
+
+To extract the pieces-to-be from a raw blob of address data you can use PostgreSQL extension helper functions. PostGIS provides a basic parser, and then there’s the pgsql-postal extension powered by libpostal. The latter is the big gun, but may consume large amounts of RAM during its operation.
+
+ISBN/UPC
+
+Dealing with ISBNs for books, or with UPC codes? Don’t pretend, extend! ISN has got you covered. It provides data types for product numbering standards: EAN13, UPC, ISBN (books), ISMN (music), and ISSN (serials).
+
+CREATE EXTENSION isn; SELECT isbn13( '978-0128007617' ); -- => 978-0-12-800761-7 SELECT isbn(isbn13( '978-0128007617' )); -- => 0-12-800761-3
+
+The extension also allows parsing codes whose check digits are incorrect. It marks the values as “weak,” but is useful for importing barcode data which may have been scanned incorrectly.
+
+Email Addresses
+
+Email addresses are case insensitive, so it makes sense to represent them that way. Also it’s not a concern of domain integrity per se, but Web applications often add a uniqueness constraint on user emails. That’s because it doesn’t make sense to use the same email address between multiple user accounts. The constraint ought to prevent duplicates including those of case variation. One way to do this is make a unique index on a text expression, like
+
+CREATE UNIQUE INDEX users_lower_email_key ON users ( LOWER (email));
+
+Unfortunately it’s touchy. Any queries filtering the users table by email must remember to lowercase the prospective value. It would be better if any comparison between emails was case insensitive so that nobody has to remember to explicitly lowercase the values.
+
+This situation is perfect for the citext (aka Case Insensitive Text) extension. It’s a type that stores text verbatim, but compares without regard to case.
+
+CREATE EXTENSION citext; SELECT 'HeLlO' : :citext ; -- => HeLlO SELECT 'HeLlO' : :citext = 'HELLO' : :citext ; -- => t
+
+We can use this underlying type along with a regex check for well-formed addresses to ensure correctness throughout our schema. Note that citext overrides all regex matching to be case insensitive as well.
+
+CREATE DOMAIN email AS citext CHECK ( VALUE ~ '^[a-zA-Z0-9.!#$%& '' *+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$' );
+
+Email address validity is enormously complex, and there are other regexes to choose from online. The above should be pretty accurate though.
+
+Colors
+
+Hexadecimal color codes, like email addresses, can be represented as case-insensitive strings. We can specify their formatting to be compatible with CSS rules: allowing either the full (AABBCC) or shorthand (ABC) syntax, with optional “#” prefix and optional trailing opacity byte (00-FF).
+
+-- case insensitive text, see the earlier section -- about email addresses for more information CREATE EXTENSION citext; CREATE DOMAIN color AS citext CHECK ( VALUE ~ '^#?([0-9a-f]{3}|[0-9a-f]{6})([0-9a-f]{2})?$' );
+
+Of course what these hexadecimal codes represent is a 32-bit integer with a byte each for red, green, blue and opacity. The integer type would hold this value most efficiently. Ideally there would be an extension to create a color type that is stored efficiently, and could present itself in any number of representations. Might be a good opportunity to learn more about writing extensions…
+
+UUID and MD5
+
+PostgreSQL has a special uuid type to hold up to 128-bits of data. This is perfect for storing Universally Unique Identifiers (RFC 4122), or MD5 hashes. For the former, the pgcrypto and uuid-ossp modules contain several functions to randomly generate UUIDs. For the latter, simply cast an MD5 string:
+
+SELECT md5( 'hash me' ): :uuid -- => 17b31dce-96b9-d6c6-d0a6-ba95f47796fb
+
+The result is displayed with hyphens, but stored compactly as bytes.
+
+Semi-Structured Data
+
+PostgreSQL supports JSON as a column type and provides functions to read and manipulate arrays and objects. Ordinarily if you know your data it’s better to use a normalized schema and store only simple values in each column. However JSON values are useful in situations such as storing per-user data or preferences of an unknown structure.
+
+Even though the data type is flexible, you can still constrain it. For instance, perhaps certain keys are required in the object and others are optional. Here is how to enforce the existence of a string “name” field:
+
+CREATE DOMAIN named_object AS jsonb CHECK ( VALUE ? 'name' AND jsonb_typeof(VALUE-> 'name' ) = 'string' );
+
+The check constraint requires the VALUE ? 'name' test in addition to the one involving jsonb_typeof . That’s because jsonb_typeof(NULL) is NULL, and CHECK succeeds on NULL values. The truth table for a AND b with NULLs looks like this:
+
+(AND) False True NULL False False False False True False True NULL NULL False NULL NULL
+
+Thus a false value for VALUE ? 'name' will override a NULL from the second condition.
+
+In general these constraints can use any JSON operator. We can involve more than one key as well, like CHECK ((NOT VALUE ? 'fname') OR (VALUE ? 'lname')) , which asserts that lname is present if fname is.
+
+We can also enforce the uniqueness of a key’s values, but not with a domain. It requires adding a unique index:
+
+-- first make a gin index on the column for fast key lookup CREATE INDEX my_col_idx ON my_table USING gin(my_col jsonb_path_ops); -- now enforce uniqueness by indexing an expression CREATE UNIQUE INDEX my_col_id_idx ON my_table(my_col->> 'id' );
+
+Enumerations
+
+A few RDBMSes (PostgreSQL and MySQL) have a special enum type that ensures a variable or column must be one of a certain list of values. This is also enforcible with custom domains.
+
+However the problem is technically best thought of as referential integrity rather than domain integrity, and usually best enforced with foreign keys and a reference table. Putting values in a regular reference table rather than storing them in the schema treats those values as first-class data. Modifying the set of possible values can then be performed with DML (data manipulation language) rather than DDL (data definition language) – more on that in a later section.
+
+However when the possible enumerated values are very unlikely to change, then using the enum type provides a few minor advantages.
+
+Enums values have human-readable names but internally they are simple integers. They don’t take much storage space. To compete with this efficiency using a reference table would require using an artificial integer key, rather than a natural primary key of the value description. Even then the enum does not require any foreign key validation or join query overhead. Enums and domains are enforced everywhere, even in stored procedure arguments, whereas lookup table values are not. Reference table enumerations are enforced with foreign keys, which apply only to rows in a table. The enum type defines an automatic (but customizable) order relation: CREATE TYPE log_level AS ENUM ( 'notice' , 'warning' , 'error' , 'severe' ); -- allows convenient queries like SELECT * FROM log WHERE level >= 'warning' ; This is the kind of logic you would otherwise have to implement yourself.
+
+If you do want to use the enum type, then changing its values requires some special DDL commands.
+
+-- append new value greater than the rest ALTER TYPE log_level ADD VALUE 'fatal' ; -- or add a value before another ALTER TYPE log_level ADD VALUE 'debug' BEFORE 'notice' ; -- get list of all SELECT enum_range(NULL: :log_level ); -- => {debug,notice,warning,error,severe,fatal}
+
+Unlike a restriction of values enforced by foreign key, there is no way to delete a value from an existing enum type. The only workarounds are messing with system tables or renaming the enum, recreating it with the desired values, then altering tables to use the replacement enum. Not pretty.
+
+Assistance from Stored Procedures
+
+Normally CHECK conditions in domains have limited complexity. They can’t contain subqueries, or reference other rows. However using stored procedures we can get around these restrictions.
+
+Timezones
+
+David Wheeler (aka Theory) created a clever domain to validate timezones. It uses a stored procedure to detect timezone validity.
+
+CREATE OR REPLACE FUNCTION is_timezone( tz TEXT ) RETURNS BOOLEAN as $$ BEGIN PERFORM now() AT TIME ZONE tz; RETURN TRUE ; EXCEPTION WHEN invalid_parameter_value THEN RETURN FALSE ; END ; $$ language plpgsql STABLE; CREATE DOMAIN timezone AS citext CHECK ( is_timezone( VALUE ) ); SELECT 'GMT' : :timezone ; -- => GMT
+
+Amateur Radio Frequencies
+
+Here’s an example that shows how to use a stored procedure to query a table from inside a domain CHECK condition. Our example concerns radio. Amateur – aka “Ham” – radio allows operators to transmit on certain frequency bands. Transmitting outside these bands is illegal. We can add domain integrity to make sure we don’t store an illegal frequency that might be used, for instance, in software-defined radio.
+
+-- table to hold valid frequency ranges CREATE TABLE valid_mhz ( freq numrange PRIMARY KEY ); -- the ranges for Amateur Extra licensees INSERT INTO valid_mhz (freq) VALUES ( '(1.800,2.000)' ), ( '(3.500,4.000)' ), ( '[5.332,5.332]' ), ( '[5.348,5.348]' ), ( '[5.3585,5.3585]' ), ( '[5.373,5.373]' ), ( '[5.405,5.405]' ), ( '(7.000,7.300)' ), ( '(10.100,10.150)' ), ( '(14.000,14.350)' ), ( '(18.068,18.168)' ), ( '(21.000,21.450)' ), ( '(24.890,24.990)' ), ( '(28.000,28.700)' ), ( '(50.0,54.0)' ), ( '(144.0,148.0)' ), ( '(222.00,225.00)' ), ( '(420.0,450.0)' ), ( '(902.0,928.0)' ), ( '(1240,1300)' ), ( '(2300,2310)' ), ( '(2390,2450)' ), ( '(3300,3500)' ), ( '(5650,5925)' ), ( '(10000,10500)' ), ( '(24000,24250)' ), ( '(47000,47200)' ), ( '(76000,81000)' ), ( '(122250,123000)' ), ( '(134000,141000)' ), ( '(241000,250000)' ), (numrange( 275000 , NULL , '()' )); -- add index to find whether a frequency is contained in any ranges CREATE INDEX valid_mhz_idx ON valid_mhz USING gist (freq);
+
+Next the domain that consults the frequency lookup table:
+
+-- is the argument contained in any range in valid_mhz? CREATE FUNCTION is_valid_mhz( numeric ) RETURNS boolean AS 'SELECT EXISTS(SELECT 1 FROM valid_mhz WHERE freq @> $1);' LANGUAGE SQL STABLE; -- not immutable since the FCC can change the bands -- our domain delegates to the function CREATE DOMAIN ham_extra_mhz AS numeric ( 10 , 4 ) CHECK ( is_valid_mhz( VALUE ) );
+
+The domain works as desired:
+
+-- U.S. national 2m simplex calling frequency SELECT 146.52 : :ham_extra_mhz ; -- => 146.52 -- military airport ground control SELECT 134.100 : :ham_extra_mhz ; /* ERROR: 23514: value for domain ham_extra_mhz violates check constraint "ham_extra_mhz_check" SCHEMA NAME: public DATATYPE NAME: ham_extra_mhz CONSTRAINT NAME: ham_extra_mhz_check LOCATION: ExecEvalCoerceToDomain, execQual.c:4087 */
+
+Note that using procedures in CHECK constraints to lookup data in a table can have unpleasant side effects, When restoring a database dump, CHECK constraints (unlike foreign key constraints) are restored before data is. In the example above we have introduced a requirement that valid_mhz be restored before any table with column of type ham_extra_mhz.
+
+Credit Card Validation
+
+Most credit cards use the Luhn algorithm to validate their numbers. It is a simple checksum that helps detect single digit typos and adjacent digit transposition errors. The logic of the algorithm is too complex to go directly inside a domain CHECK condition, but we can put it into a stored procedure.
+
+During validation a credit card number is best thought of as an array of integers rather than a big single number. That’s because the validation checksum operates on digits. Here’s how to validate a credit card:
+
+CREATE FUNCTION is_valid_cc( smallint []) RETURNS boolean AS $$ SELECT SUM ( CASE WHEN (pos % 2 = 0 ) THEN 2 *digit - ( CASE WHEN digit < 5 THEN 0 ELSE 9 END ) ELSE digit END ) % 10 = 0 FROM unnest( ARRAY ( -- loop over digit/position SELECT $ 1 [i] -- ... which we read backward FROM generate_subscripts($ 1 , 1 ) AS s(i) ORDER BY i DESC ) ) WITH ordinality AS t (digit, pos) $$ LANGUAGE SQL IMMUTABLE;
+
+This function can support a basic domain we can use later for specific card types.
+
+CREATE DOMAIN cc_number AS smallint [] CHECK ( is_valid_cc( VALUE ) ); /* alternately, store as text for user friendliness CREATE DOMAIN cc_number AS text CHECK ( is_valid_cc(regexp_split_to_array(VALUE, '')::smallint[]) ); */
+
+Each brand of credit card uses its own characteristic IIN values, as well as number of digits total. See this Wikipedia article for details. A Visa card has these extra constraints:
+
+CREATE DOMAIN visa AS cc_number CHECK ( VALUE [ 1 ] = 4 AND array_length( VALUE , 1 ) IN ( 13 , 16 , 19 ) );
+
+Improved Error Messages
+
+Sometimes people avoid putting domain constraints in the database and do validation in client code. Developers reason that database constraint violation errors are too cryptic for end users. That or the latency of validating on the server-side is too high compared to client-side checks.
+
+One way to improve the first concern (although not the second) is to annotate domains with friendly error messages using PostgreSQL object comments. When a check violation exception happens, we can use the comment as a more friendly error code.
+
+For instance, here’s a simple domain and friendly comment:
+
+CREATE DOMAIN positive AS numeric CHECK ( VALUE > 0 ); COMMENT ON DOMAIN positive IS 'Number must be positive' ;
+
+Server-side code would then check for exceptions when running SQL and make an error using the comment when relevant. How that would look depends on language and PostgreSQL library, but here’s a PL/pgSQL function to demonstrate the concept.
+
+CREATE FUNCTION pretty_error( cmd TEXT ) RETURNS unknown AS $$ DECLARE dom text; friendly text; retval unknown; BEGIN -- attempt to run original command EXECUTE cmd INTO retval; RETURN retval; EXCEPTION WHEN check_violation THEN -- extract the relevant data type from the exception GET STACKED DIAGNOSTICS dom = PG_DATATYPE_NAME; -- look for a user comment on that type SELECT pg_catalog.obj_description( oid ) FROM pg_catalog.pg_type WHERE typname = dom INTO friendly; IF friendly IS NULL THEN -- if there is no comment, throw original exception RAISE; ELSE -- otherwise throw a revised exception with better message RAISE check_violation USING message = friendly; END IF ; END ; $$ language plpgsql;
+
+This function will execute any command and automatically translate check_violation messages.
+
+SELECT pretty_error($$ SELECT 1 : :positive ; $$); -- => 1 SELECT pretty_error($$ SELECT (- 1 ): :positive ; $$); /* ERROR: 23514: Number must be positive CONTEXT: PL/pgSQL function pretty_error(text) line 20 at RAISE LOCATION: exec_stmt_raise, pl_exec.c:3165 */
+
+Updating Constraints
+
+PostgreSQL is pretty flexible in allowing alteration of column types and domains. If existing rows comply with the new rules then the alteration happens without a problem.
+
+CREATE TABLE shorties ( s text ); INSERT INTO shorties VALUES ( 'hello' ), ( 'world' ), ( 'short' ), ( 'stuff' ); -- converting from text to char(n) is fine ALTER TABLE shorties ALTER COLUMN s TYPE char ( 5 ); -- however it fails if existing rows are too long ALTER TABLE shorties ALTER COLUMN s TYPE char ( 3 ); /* ERROR: 22001: value too long for type character(3) LOCATION: bpchar, varchar.c:308 */
+
+Domains are even more flexible than base types. Let’s start with a very permissive domain, one that prevents only NULLs. Then we’ll add an extra constraint.
+
+CREATE DOMAIN gadsby AS text NOT NULL ; CREATE TABLE stories ( content gadsby ); INSERT INTO stories VALUES ( 'what is this?' ), ( 'fate is tricky' ); -- try to get fancy ALTER DOMAIN gadsby ADD CHECK ( VALUE NOT ILIKE '%e%' ); /* ERROR: 23514: column "content" of table "stories" contains values that violate the new constraint SCHEMA NAME: public TABLE NAME: stories COLUMN NAME: content LOCATION: validateDomainConstraint, typecmds.c:2761 */
+
+OK, so this looks no better than attempting to alter a column type. However we can alter a domain while asking for forbearance on existing rows. The new constraint will still apply to new rows:
+
+ALTER DOMAIN gadsby ADD CHECK ( VALUE NOT ILIKE '%e%' ) NOT VALID; -- give existing rows a pass -- new rule affects attempted insertion INSERT INTO stories VALUES ( 'eeek!' ); /* ERROR: 23514: value for domain gadsby violates check constraint "gadsby_check" SCHEMA NAME: public DATATYPE NAME: gadsby CONSTRAINT NAME: gadsby_check LOCATION: ExecEvalCoerceToDomain, execQual.c:4087 */ -- this insert works INSERT INTO stories VALUES ($$ If Youth, throughout all history, had had a champion to stand up for it; to show a doubting world that a child can think; and , possibly, do it practically, you wouldn 't constantly run across folks today who claim that "a child don' t know anything. " $$);
+
+This buys you time to correct data while keeping new entries under control. After fixing old rows you can try to validate.
+
+-- is everything correct? ALTER DOMAIN gadsby VALIDATE CONSTRAINT gadsby_check; /* ERROR: 23514: column "content" of table "stories" contains values that violate the new constraint SCHEMA NAME: public TABLE NAME: stories COLUMN NAME: content LOCATION: validateDomainConstraint, typecmds.c:2761 */ -- oh that's right UPDATE stories SET content = 'fat is tricky' WHERE content = 'fate is tricky' ; -- now we're good ALTER DOMAIN gadsby VALIDATE CONSTRAINT gadsby_check;
+
+Related Posts

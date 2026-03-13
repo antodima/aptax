@@ -1,0 +1,25 @@
+AP China-based hackers stole plans for Israel's Iron Dome missile defense system in 2011 and 2012, according to an investigation by a Maryland-based cyber security firm first reported by independent journalist Brian Krebs.
+
+The hackers also stole plans related to other missile interceptors, including the Arrow 3, which was designed by Boeing and other U.S.-based companies.
+
+According to Krebs, "the attacks bore all of the hallmarks of the 'Comment Crew,' a prolific and state-sponsored hacking group associated with the Chinese People's Liberation Army (PLA) and credited with stealing terabytes of data from defense contractors and U.S. corporations." The hackers gained access to the systems of three Israeli companies working on missile defense. Maryland-based Cyber Engineering Services could prove that 700 documents were stolen in the breach although it's likely that the actual number is higher.
+
+Krebs reported that some of these documents bore "markings indicating that their access and sharing is restricted by International Traffic in Arms Regulations (ITAR) — U.S. State Department controls that regulate the defense industry."
+
+The breach is reminiscent of the repeated state-sponsored Chinese cyber-attacks reported in The New York Times in February of 2013 — a sustained effort against American government targets that resulted in the federal indictment of five members of the People's Liberation Army this past May.
+
+Elements of the Chinese state are willing to gain any potential intelligence or technological advantage regardless of the possible diplomatic consequences.
+
+"The Chinese style of espionage is more like a vacuum cleaner than a closely-directed telescope," Jon Lindsay, a research scientist at the University of California's Global Institute on Conflict and Cooperation, explained to Business Insider. "They go after a lot of different kinds of targets — the leaders in any particular industry."
+
+But this breach could also indicate a particular Chinese interest in granular and difficult-to-master military technologies. As Lindsay notes, missile defense is a technological puzzle, with high-profile systems like the U.S.'s Patriot missile battery often showing disappointing results in the field, as during the first Gulf War.
+
+Israel has a highly developed domestic arms industry that seems to have mastered a difficult niche ability. With the Iron Dome's apparent success after Israel's 2012 conflict with Hamas, it must have seemed like an irresistible target to the Chinese — despite improving relations with Israel.
+
+As it turns out, Iron Dome is of limited applicability outside of an Israeli context. It was made to pick off relatively unsophisticated short and mid-range missiles of a kind that threaten almost no other developed country or military.
+
+And in the years since the apparent hack China and Israel have grown closer, with the exchange of high-level delegations and a major Chinese donation to Israel's top technological university according to a 2013 New York Times report.
+
+Still, Lindsay notes that Chinese hacking isn't always a reflection of what the country's leadership wants — for instance, China still enjoys close economic ties with the U.S. even in spite of state-sanctioned Chinese cyber-attacks on American targets. And it isn't always clear how high up the chain of command cyber-attacks go.
+
+"The party is in charge but there's a sprawling state council with several executive ministries," Lindsay explains of China's often-compartmentalized authority structure. "Everybody is looking up and very few people are looking across."

@@ -1,0 +1,25 @@
+In this file photo, piles of coal are shown at a power plant in Thompsons, Texas. The plant, which operates natural gas and coal-fired units, is one of the largest power plants in the United States.
+
+The greenhouse gas carbon dioxide emitted from power plants and other industrial activities around the world is a vast source of untapped energy, according to new research that describes a proof-of-concept technique to harvest it.
+
+Akin to harvesting energy from the wind, this combination of chemistry and mechanics would generate electricity from the carbon dioxide (CO2) already flowing out of plants. While it wouldn't destroy the CO2, it would pull far more energy from existing waste gas. It could arguably even enable plants to resist scaling up and becoming more wasteful, just to keep up with demand.
+
+"The energy is there," Bert Hamelers, a program director at Wetsus, the Center of Excellence for Sustainable Water Technology in the Netherlands, who led the research, told NBC News. "Only you need a turbine to get it."
+
+The system he and colleagues devised to get energy from CO2 involves alternately mixing water or another liquid solution with combustion gas containing a high concentration of CO2 such as that from a power plant and air with a low concentration of the gas.
+
+These liquids are pumped between specialized membranes to produce an electric current. The current comes from the concentration gradient between the combustion gas and air, Hamelers explained. The process is described in detail in the American Chemical Society journal Environmental Science and Technology Letters.
+
+Other teams are working on a similar mixing approach to exploit the chemical differences between seawater and freshwater. But, until now, no one has tried to mix a combustion gas with air, Hamelers noted.
+
+Like wringing energy from the wind, harvesting energy from CO2 does not increase greenhouse gas emissions. "For the same CO2 emissions," he said," you get more energy."
+
+The approach, he emphasized, does not get rid of the CO2. "You use the energy that is now wasted. You bring it in and get the extra energy out, but you cannot sequester it."
+
+The CO2 released from power plants and other activities around the world could produce 1,570 billion kilowatt hours, or the equivalent of about 400 times the annual electrical output of the Hoover Dam on the Colorado River between Nevada and Arizona, Hamelers and colleagues noted in their paper.
+
+For the proof-of-concept, the researchers used a well-known technique to bubble the gas and air through the liquid solution. That process uses more energy than the energy it produces, "but there are alternatives like membrane-based processes that use less energy," Hamelers said.
+
+"The objective for us was to show that, yes, there is this source of energy and, yes, you can harvest it," he added. "Of course you need a lot more technological development before this is a system that can be practiced."
+
+John Roach is a contributing writer for NBC News. To learn more about him, visit his website.

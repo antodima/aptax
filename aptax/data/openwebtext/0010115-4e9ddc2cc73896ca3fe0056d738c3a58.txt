@@ -1,0 +1,91 @@
+The title is specifically about CloudFront and Laravel, but for the most part, this will apply to most web applications behind a reverse-proxy of some sort, be it a CDN, load balancer, or some other proxy type.
+
+What we'll cover here:
+
+What changes when using a reverse-proxy on your application What your application needs to do to get around these issues How to use the TrustedProxy Laravel package to take care of the details for you in a Laravel Application
+
+Applications behind a proxy
+
+For the launch of https://course.shippingdocker.com, I put CloudFront in front of a Laravel application running inside of a Docker container.
+
+I wanted CloudFront for a few reasons:
+
+Primarily, I wanted to make use of AWS's free, auto-renewed SSL certificate. This frees me from paying for an SSL certificate and/or managing something like LetsEncrypt. Secondly, I was planning on using a t2.nano instance on AWS and wanted to save it some CPU cycles from serving static assets. These instances are tiny, and start eating away at its small number of given CPU credits when it hits just 2% of CPU usage. (Having the site be as speedy as possible for those overseas was also part of this decision).
+
+So, imagine this setup - HTTPS connections are made to course.shippingdocker.com . CloudFront receives this HTTPS request, and then forwards it to my site runnning on an EC2 instance (the "origin server"). The EC2 instance is listening on port 80 for HTTP connections.
+
+Since CloudFront won't forward to an IP address, we need to give it a hostname to use. We can use the EC2 instance's public DNS name - I used http://ec2-34-197-131-119.compute-1.amazonaws.com in the case of my server (try it out, that URL will work).
+
+What your application sees
+
+So, CloudFront is receiving an HTTPS request and decrypting it (terminating the SSL connection). It then sends the decrypted HTTP request to my server (the origin server) using the network address ec2-34-197-131-119.compute-1.amazonaws.com .
+
+Laravel only sees that 2nd request, and thus assumes:
+
+It's receiving requests over http:// instead of https:// , and thus will generate URI's with the the http:// scheme, including form submit URLs and redirect locations The domain name used and thus seen by the application is ec2-34-197-131-119.compute-1.amazonaws.com . Laravel will generate URL's with that domain by default.
+
+Proxy Configuration
+
+Most reverse-proxies (e.g. load balancers, CDNs) will add HTTP headers which can be used by your application to determine the correct information to use.
+
+The important headers are:
+
+Host header - even if the proxy reaches your site by an IP address or hostname such as ec2-34-197-131-119.compute-1.amazonaws.com , they can often still forward/set the original hostname in the Host header. In other words, we can tell CloudFront to forward the Host header, so our server sees domain course.shippingdocker.com instead of ec2-34-197-131-119.compute-1.amazonaws.com . X-Forwarded-For - set to the IP address of the original client (e.g. you, sitting in front of your computer), so the application knows the client's IP address. Otherwise it would only see the IP address of CloudFront. X-Forwarded-Proto - the scheme used by the original client ( https or http ) X-Forwarded-Port - the port used by the client to connect (80, 443 or anything else)
+
+There are more, but those are the important ones.
+
+With that information, we can move onto what we need to adjust to fix the situation.
+
+CloudFront
+
+Within CloudFront, we need to set a few things to get Laravel working properly.
+
+There are two main places to make adjustments:
+
+Cookie Whitelist Header Forwarding
+
+Cookies
+
+CloudFront and other CDNs typically strip out cookies, as cookies effect caching. They're effectively used as part of the cache key. If each persons cookie is unique (it will be!), then everyone effectively gets their own cached copy of what could be just one copy. That sucks, but it's a typical case for applications. CDNs most effectively cache static assets which don't have cookies.
+
+Most cookies are used by Javascript libraries (GA and other marketing libraries) and thus don't need to be sent to your server in order for them to function.
+
+However, Laravel needs at least 2 to function as you'd expect, but ideally 3. We need to set CloudFront to forward the following two:
+
+laravel_session (or whatever you name the sessions, as that's configurable within Laravel) - this is what Laravel needs to identifier a user, even if sessions are stored on-server or in something like Redis XSRF-TOKEN - used to protect against cross site request forgery
+
+This one is more optional but recommended:
+
+remember_* - used for the "remember me" function on login. This is typically remember_web but can be other values. Whitelisting cookie names with a wildcard is supported in CloudFront.
+
+Headers
+
+CloudFront will set the X-Forwarded-For header, but will not forward the Host header nor send along the a X-Forwarded-Proto header (to say if the request is http or https ).
+
+Furthermore, CloudFront, for some reason, won't set a X-Forwarded-Proto header, opting instead to use a custom header CloudFront-Forwarded-Proto .
+
+So, we'll have CloudFront forward those two:
+
+The Application (Laravel)
+
+Finally, we need Laravel to use these headers so it can properly generate correct URI's and send redirect responses to the right place.
+
+First and foremost, the easy part is setting the APP_URL environment variable. Set this to the URI you intend to use in the browser ( https://course.shippingdocker.com in my case).
+
+Secondly, we need to tell Laravel to listen for the headers and adjust the application as needed.
+
+The Symfony classes luckily do this for us by allowing us to set a "Trusted Proxy". If a proxy is trusted, Symfony will check for the X-Forwarded-* (and other) headers and adjust as needed.
+
+To help with that, I created the TrustedProxy package.
+
+There's basically just 3 steps with this package:
+
+In the trustedproxy.php config file, set it to trust all proxies (since we don't know the IP address the CloudFront servers forwarding requests, we need to trust all proxies) Add the HTTP Middleware that the package uses to set the trusted proxy setting. All this does is tell the underlying Symfony HTTP Request object to recognize that a proxy is used Tell the trustedproxy.php config file what headers to expect. We can use the the default ones, except for the proto header, which we know is going to use the CloudFront-Forwarded-Proto header
+
+That config file will look like this:
+
+return [ 'proxies' => '*', # Trust all proxies 'headers' => [ \Illuminate\Http\Request::HEADER_FORWARDED => 'FORWARDED', \Illuminate\Http\Request::HEADER_CLIENT_IP => 'X_FORWARDED_FOR', \Illuminate\Http\Request::HEADER_CLIENT_HOST => 'X_FORWARDED_HOST', # \Illuminate\Http\Request::HEADER_CLIENT_PROTO => 'X_FORWARDED_PROTO', \Illuminate\Http\Request::HEADER_CLIENT_PROTO => 'X_FORWARDED_PORT', # 2. Adjust to CloudFront's header \Illuminate\Http\Request::HEADER_CLIENT_PROTO => 'CLOUDFRONT_FORWARDED_PROTO', ] ];
+
+Note that we have the opportunity to set what $_SERVER['HTTP_*'] variables to use for each header-type. We'll change the PROTO header to expect the CloudFront header.
+
+After all of this, the Laravel and underlying Symfony classes will correctly generate URI's and redirect locations!

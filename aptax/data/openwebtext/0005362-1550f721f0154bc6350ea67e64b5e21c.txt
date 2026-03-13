@@ -1,0 +1,55 @@
+“Modern collectives are confronted with the challenge of creating spatial conditions that enable…the concentration of isolated entities into collective ensembles of cooperation and contemplation. This calls for a new commitment on the part of architecture.” Peter Sloterdijk, “Foam City.” 1
+
+This photo essay is about Foamspace, a temporary and mobile installation built for the 2015 IDEAS City Festival, called The Invisible City, hosted by the New Museum for Contemporary Art, the Storefront for Art and Architecture and the New York City Department of Transportation.
+
+Foamspace speculates on the relationship between decentralized infrastructure and the production of the built environment. The installation consisted entirely of a chain of factory-standard Expanded Polystyrene (EPS) geofoam blocks, serving as a visual metaphor for the Bitcoin blockchain: a decentralized and cryptographic public ledger that allows for peer-to-peer monetary settlements without a third party. Echoing philosopher Peter Sloterdijk’s call for architecture to create spatial conditions that enable collective ensembles, this installation offered festival visitors Foamspace Coins—a token of membership for the forming community that could exist on the Bitcoin blockchain as an asset.
+
+Foamspace captured and stored value generated during the festival to organize a new community of architects and mobilize this value on another site—producing the next iteration of the project, as well as a symposium and partner event at the inaugural Chicago Architecture Biennial. Mobility, in this case, defined not by any particular architectural form, but by the activity it generated.
+
+EPS Geofoam is an omnipresent yet invisible material in our everyday lives—buried beneath the surface of an increasing number of urban projects around the world, from railway and road embankments to retaining walls and amphitheater seating. Weighing approximately one percent of the weight of soil, Geofoam is typically used as a lightweight fill material. In New York, for example, it can be found beneath 1 World Trade Center, Citi Field, Chelsea Pier Park and the New Jersey Turnpike. It makes up the entire foundation of Millennium Park in Chicago.
+
+The Foamspace installation was composed of one hundred Geofoam blocks kept at the product’s standard size: 37” x 49.5” x 97.5.” Because the material was unaltered, it could be sold back to the supplier on the secondary-use market—the unaltered “building block” emphasizing the free circulation of physical matter on the emerging market for reused materials. Building on the 2013 IDEAS City Festival theme, “Untapped Capital,” proceeds were funneled back into Foamspace to fund a future project.
+
+First introduced by the cryptographic digital currency Bitcoin, the blockchain records all activity on the network in chronological order on a public ledger.. In other words, as a peer-to-peer time stamping technology, it enables cryptocurrency to offer a decentralized and mobile means to track, store and distribute information about economic value and exchange on the Bitcoin network. All transactions on the blockchain are published by and processed through a decentralized network of “miners,” who are in turn rewarded for maintaining the network through their computing power.
+
+Spatial and financial tools can be designed to connect to the Bitcoin blockchain. Any organization can issue their own currency and assets, as well as distribute equity and share profits globally to a mobilized and decentralized community.
+
+Before the installation of Foamspace, a free digital “wallet” was created. Anyone could sign up for this wallet in order to obtain a unique address and receive a Foamspace Coin, which could then be traded and tracked on the Bitcoin blockchain—serving as a token of membership in the virtual community.
+
+Because the blockchain is public, one is able to see the number of coins created, the order in which they were distributed and the amount held by each address. A project wallet was created to hold the most coins and was scripted to automatically send a single Foamspace Coin over the blockchain to new users. The wallet was also scripted to send a small amount of bitcoin to each user without their knowledge in order to cover future transaction fees without requiring users to have or understand Bitcoin to engage in the project.
+
+On the day of the festival, the blocks were delivered and installed on the Bowery in front of the New Museum within a tight two-hour deadline. Foamspace community members who helped with the installation were rewarded additional Foamspace Coins to encourage future participation. Information about the platform was disseminated throughout the festival, and the already established digital community amplified content online as it grew.
+
+The installation created multiple spaces for exchanging value and cultivating a community. Some blocks created an urban lounge.
+
+Others created a performance space, stage, workshop space and information kiosk, as well as smaller installations to support festival events.
+
+Foamspace was inspired in part by Superstudio’s Continuous Monument and the work of minimalist sculptor Tony Smith. As an homage to Smith, we replicated his sculpture, Maze—originally described as a labyrinth, not a monument—which consisted of four rectangular blocks arranged in symmetrical opposition to each other. While unseen in everyday life, the blockchain, like the Continuous Monument, is a global megastructure. Foamspace sought to confront the architectural community by displaying this megastructure and provoking conversation about the impact of blockchain technology on the architect’s instruments of service.
+
+The value of temporary architecture is that it generates a community, creates buzz and produces images that circulate like currency. And yet all good temporary architecture comes to an end—its value often slips away. The value and price of Foamspace Coin then became proportional to its salience, loaded with the realized installation and the installation yet to come. The project attracted a lot of attention, but only those truly attracted to its idea found value in their Foamspace Coin and participated in the project’s future manifestation.
+
+At the end of the festival, the blocks were loaded onto trucks. All undamaged material was sold for sixty percent of its initial price to construction projects that required the fill material, the manufacturer serving as the intermediary. While many projects in the cryptocurrency sphere might launch their work with a “Block Sale”—referring to the initial coins mined or sold on the blockchain—Foamspace, made of architectural materials and spaces, had an actual block sale.
+
+The next step of the project ran parallel to a new development in blockchain technology called Ethereum, which enables users to write “smart contracts” among parties—ranging from a conventional contract involving a mortgage to voting systems, reputation protocols, crowd funding and project management. Smart contracts, which are executed automatically and transparently, operate as a programmable world computer. Ethereum, according to Keller Easterling, “hopes to be the place for negotiating almost every kind of commercial, cultural, social, or legal exchange…[it] proposes to replace centralized finance, social networking, law, and governance with a multitude of currencies, communication channels, individual contracts, and decentralized autonomous organizations.” 2
+
+Foamspace’s lack of smart contracts demonstrated its potential and necessity to negotiate and secure agreements between engineering consultants, software developers, teammates and institutions about how the project should proceed.
+
+The social capital (of the community organized) and financial value from Foamspace was first mobilized to a rural upstate town, Callicoon, NY, in the summer of 2015. This retreat of sorts, of Foamspace members and students from the Columbia University Graduate School of Architecture, Planning and Preservation, was part of a pneumatic bubble-making workshop led by Jesse Seegers of the Organization for Spatial Practice and financed by the Foamspace fund. Eight 10’x20’x10’ pneumatic constructs were made, which served as the raw material for the next mobilization of value: an installation at the Chicago Architecture Biennale.
+
+The Chicago Architecture Biennale installation, entitled The Tropical Mining Station, set out to further explore the implications of blockchain technology and smart contracts on the practice of architecture. The installation captured surplus energy, heat and air from custom-designed Ethereum mining computers, purchased with the funds from the block sale, to create a pneumatic space. These “miners,” which secure the network by solving complex mathematical questions consume an enormous amount of electricity to run at full speed—the installation itself sought to address the spatial effects of heat produced by these computers. It spatialized the decentralized Ethereum network within a single, local space. To build on the community of Foamspace formed in New York, an all day symposium, The Art of Economy, was hosted. The day was organized into two panels: Spatial Politics of the Blockchain and Decentralized Labor Practices and Distributed Production Networks.
+
+The value generated from this event continues to be mobilized today—along with the ambition to pursue spatial conditions that enable collective ensembles—in the form of FOAM, a decentralized architecture office. The project will introduce smart contracts to the profession, functioning as a platform for self-initiating and crowd funding architecture projects, distributing shares of equity in the built environment and projecting the security and transparency of the Etherum blockchain.
+
+Ryan John King and Ekaterina Zavyalova are entrepreneurs and founding members of FOAM a decentralized architecture office (ĐAO) working to apply blockchain technology to the production of the built environment. http://foam.space/
+
+Project Credits:
+
+Foamspace by SecondMedia. Design team: Ryan John King, Ekaterina Zavyalova, Betty Fan and Nikolay Martynov.
+
+Project Documentation: Varvara Domnenko.
+
+“Pneumatic Bubble Workshop” initated by Ryan John King, Ekaterina Zavyalova and Nick Axel. Led by Jesse Seegers of O.S.P. Participants included members of the Columbia GSAPP student group A-Frame Bill Bodell, Matt Lohry, Violet Whitney, Valérie Lechêne and many more.
+
+“Tropical Mining Station” by FOAM. Design Team: Ryan John King, Ekaterina Zavyalova, Nick Axel, Kristoffer Josefsson and Varvara Domnenko Generously hosted by Ann Lui and Criag Reschke of Future Firm.
+
+“The Art of Economy” by FOAM. Hosted by Future Firm. Moderated by Nick Axel. Broadcasted and Recorded by The New Centre for Research & Practice. Special thanks for support from the Chicago Architecture Biennale.

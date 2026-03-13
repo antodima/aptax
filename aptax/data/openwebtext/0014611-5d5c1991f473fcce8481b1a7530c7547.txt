@@ -1,0 +1,75 @@
+Scala vs Java – Differences and similarities
+
+8 MINUTE READ
+
+Scala is a new generation Java virtual machine (JVM) language that is gaining popularity as a modern alternative to Java. Following its launch in 1995, Java went on to become the undisputed leader among programming languages, especially in the context of server-side development. At present, Scala is nowhere near as popular as Java, but it has been steadily gaining momentum over the past few years.
+
+When Twitter made the decision to move their platform from Ruby to Scala in 2009, it caught the attention of many in the world of web development. This knowledge within the industry had a huge impact and many other companies began to follow suit in making the transition to Scala. A large number of high-profile websites such as eBay, Netflix, LinkedIn and The Guardian now use Scala for backend development.
+
+Juliano Alves (@vonjuliano), Senior Software Engineer at uSwitch.com, was an early adopter of Scala. Speaking to Venturi’s Voice, he explained his motivations for learning the language:
+
+“I like technology, so I am always looking for a better tool to solve my problems. Scala is more modern than Java, it has more resources, is more concise and it adds the functional programming paradigm. Besides, it runs on the top of the JVM, so it can make use of all the advantages of the platform,” he said.
+
+With more and more programmers opting to learn Scala, it is important for all those who work in development to understand the major differences between Java and Scala so they can make an informed decision when choosing the most appropriate language for their next project.
+
+Size and quality of code
+
+While using Java, developers are required to write long lines of code to accomplish routine tasks. Scala enables developers to complete the same tasks with more concise lines of code. A task which requires 20 lines of code in Java may only take 6 in Scala. Condensing code in this way makes it more organised, readable and reusable. Fewer lines of code also makes it easier to identify and correct bugs.
+
+Bruno Catarino, experienced Java and Scala contractor, highlighted that concise code offers a few additional benefits when it comes to dealing with more complex expressions: “Due to the functional nature of Scala it allows for more natural use of Lambda’s and chain functions, requiring significantly less code than Lambda use in Java,” he said.
+
+Complexity of code
+
+While it can accomplish tasks with less code, Scala has a more complex structure than Java. Developers can get the job done with less lines of code, but the code they do write is complicated. Many developers point out that there is a steep learning curve which needs to be overcome when first adopting Scala. Juliano offered helpful advice for Java developers toying with the idea of learning Scala.
+
+“Although it’s possible, I would say to avoid rewriting ‘Java code in Scala’. Scala isn’t exactly a simple language, and many of the solutions and concepts from Java don’t apply. Dedicate some time studying the language and its ecosystem, but more important, learning functional programming,” he said.
+
+Explaining how he got to grips with the language, Bruno said it was very much a case of incremental improvement over time.
+
+“I started studying Scala and looking into the difference between the two languages in my own time. Eventually I got an opportunity to implement Scala on a project I was working on. I started slowly, writing code in a more object orientated way if I didn’t know how to do it in a functional way. By using the language on a project I began to pick up new tips and tricks and my code improved over time. I didn’t try to jump ahead and become an expert straight away as I had to balance my learning with the delivery of the project for the client. I have been working with Scala for 2 years and am still picking things up as I go along. For instance there are new functional libraries I would like to start working with,” he said.
+
+When it comes to using Scala’s advanced features, there is a high degree of complexity involved. This is why it has gotten a reputation as being a difficult language. However, for those who are learning to code from scratch, Scala’s more concise code may actually make a beginners life easier.
+
+Functional programming
+
+As Java was created in the 1990’s it was designed like other conventional object-oriented programming languages. However, it has since been upgraded with functional programming capability. Programmers can now use Java 8 to write functional programs. But even though Java has now introduced some functional aspects, it still strongly relies on mutable state.
+
+On the other hand, Scala was created in the early 2000’s and was designed from the outset to be a functional programming language. Unlike Java, it has better and more advanced functional programming features like immutability, high order functions and lazy evaluation.
+
+“Java 8 isn’t bad for everyday use, but there is a lot of noise in it. This is not because the new functional features aren’t good, it’s more to do with the Java type system, which is inferior to Scala’s. Besides, Scala has had this features for ages, so it had time to refine and improve it while it’s new in Java,” said Juliano.
+
+Structures
+
+Scala borrows most syntax and language features from Java. But it still has a number of structures that are not available in Java. For instance, Scala supports case classes and automatic type inference. The highly structured nature of Scala further enables programmers to convert it into domain specific language (DSL). This gives programmers the option to customise Scala’s look and feel according to the specific needs of their projects.
+
+Interoperability
+
+In theory, Java and Scala are cross-compatible with each other. Developers can call Java functions directly inside Scala code. But as Juliano noted previously, the process of writing Scala functions in Java code or Java functions in Scala code is not straightforward. Each language implements interfaces, collections, annotations and other features differently. So while the two languages are interoperable, these differences complicate matters. As a result, Java and Scala tend to be coded separately.
+
+Concurrency model
+
+With Java 8, programmers are required to use the conventional thread-based concurrency model. This technique divides a program into several concurrently running tasks at the time of execution. Conversely, Scala uses the actor model which is more modern and efficient. It allows developers to define each object as an actor with its own behaviour and mailbox. Thus, Scala simplifies thread communication and control making the entire process more efficient. However, Juliano highlighted that this doesn’t necessarily mean the process is simple.
+
+“Basically, actors are an abstraction that allow you to model your concurrent system to have entities (or actors) sending messages to each other and them performing their jobs without human input. Conversely, when you work with traditional concurrency you have to handle low level objects like threads and executors yourself. Actors allow you to model your product with high level abstractions. But this is not easy. Concurrency always gets very complicated,” he said.
+
+Performance
+
+According to a test conducted by James Roper for DZone, Scala is 20% faster than Java. However, James was quick to point out in his post that this is not the full story – micro performance benchmarks rarely are.
+
+As both languages run on JVM, their code must be compiled into bytecode in the same way before it can be run. Scala’s performance advantage derives from an optimisation technique called ‘tail call recursion’ that runs within the Scala compiler, where if the last statement in a method is a recursive call, it can get rid of that call and replace it with an iterative solution. This tail call recursion optimisation is what accounts for the performance difference found by Roper. Despite this niche optimisation, in real-terms Java and Scala have near identical performance characteristics as both languages are subject to the costs and benefits of JVM.
+
+“Unless you are implementing a real-time product, this comparison doesn’t really matter. If the application handles network traffic, http requests or connects to a database, the impact of the language performance is insignificant.” said Juliano.
+
+Availability of tools and frameworks
+
+As noted earlier, Java is older and more mature than Scala. Therefore, developers have access to a broader range of editors, frameworks and tools. This is arguably Java’s biggest advantage. It will take years to build the same sort of community and archive of tools for Scala.
+
+“Java has so many tools because it is ‘THE’ solution for the enterprise world (alongside .net). I believe most of these larger companies won’t adopt Scala because ‘it’s hard’, and there will always be greater abundance of Java developers. But the community around the Scala is already pretty big”, said Juliano.
+
+As Scala continues to grow in popularity, new tools and frameworks are now being launched regularly. Also, Scala developers have the option to utilise several existing Java development libraries and frameworks as it is also a JVM language.
+
+Conclusion
+
+On the whole, Java and Scala share many similarities and both can be used for building a wide variety of applications. But each programming language has its own unique strengths and weaknesses. For this reason, it’s important to keep in mind the specific needs of a project when deciding what language to go with. Scala remains the clear choice for big-data applications but for other projects, its complexity, and fewer number of developers may offset some of the benefits it can provide.
+
+Looking for a new tech job? Call us on 0203 137 7005 to discuss your requirements.

@@ -1,0 +1,27 @@
+On this first day of fallout from Donald Trump's unilateral decision to take military action against Syria, a particularly stunning fact stands out: Not only did Trump fail to obtain authorization from Congress for the strike, but he informed the Russians first.
+
+Donald Trump’s decision to launch airstrikes on a Syrian airfield demands answers, as lawmakers in both parties criticize Trump for failing to seek authorization from Congress for the strike, as required by the Constitution. One particularly disturbing fact to emerge in the wake of the attack is that Trump not only failed to seek authorization, but he only informed Congress after his administration had warned the Russians.
+
+From Washington Post foreign policy reporter Josh Rogin:
+
+Trump administration told Russia about its war plans before they told the U.S. Congress. — Josh Rogin (@joshrogin) April 7, 2017
+
+That is not to say that informing Russia to avoid an escalating conflict with them was necessarily a bad idea, or even that a heads up to Congress would have been sufficient, but the order of events places the administration’s priorities in stark relief.
+
+CNN also reported that Russia is “fully capable of intercepting cruise missiles if they so choose to.” Although Russia is now denouncing the strike, their actions suggest some level of complicity:
+
+Russia was warned of the attack before it took place, in accordance with deconfliction policies between the US and Russia over military activities in Syria. Nevertheless, Chance pointed out, Russia did not choose to use surface-to-air missiles systems in place in Syria that are “fully capable of intercepting cruise missiles if they so choose to.” “(This) implies a degree of tacit Russian consent to the strikes,” Chance said.
+
+Center for American Progress President Neera Tanden also pointed out that Trump’s priorities in this case may have badly hampered the effectiveness of the strikes:
+
+Of course, because Trump told the Russians who told them. And he told the Russians before Congress. https://t.co/P6hzRnRQKO — Neera Tanden🖖🏼 (@neeratanden) April 7, 2017
+
+There will be many important questions about this action in the days and weeks to come, but the most immediate is this: Who does Donald Trump believe he answers to, and to whom is he really sending a message with this strike?
+
+
+
+var axel = Math.random() + "";
+
+var a = axel * 10000000000000;
+
+document.write(' ');

@@ -1,0 +1,27 @@
+Last Friday, Capcom published a picture on Twitter which suggested that Urien was not the only character with a secret suit in Street Fighter V. Since then there have only been a couple of days, but a player managed to solve the mystery behind its tweet.
+
+In a recent publication, the user of Steam called “The Who” said that it is possible to unlock alternate costumes for other fighters, and also revealed how to perform this trick.
+
+The secret is to keep pressing and holding the buttons of LP+MP+HP+LK and hold UP after selecting their character until the battle begins. This also works between rounds that should not be activated from the start.
+
+So far, these variants have been confirmed:
+
+Chun-Li – Costume CPT without boa
+
+Chun-Li – Without skirt swimsuit
+
+Cammy – CPT without vest suit
+
+Cammy – swimsuit without equipment
+
+Necalli – Costume CPT shirtless
+
+Laura – Shirtless swimsuit shirt
+
+Karin – Swimsuit without glasses or hat
+
+Ibuki – Swimsuit without scarf
+
+R. Mika – Swimsuit without hoodie
+
+In recent news, Capcom has also released a tool to fix security risk in the recent patch of Street Fighter 5. The company has provided a rollback of the patch and also introduced a tool which will remove the corrupted file, incase you were not lucky enough to have downloaded the patch at the very first place. You will need to follow all the instructions given at this link and step by step follow the process.

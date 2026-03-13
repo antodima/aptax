@@ -1,0 +1,29 @@
+Soft spot for soft robots? Register for the 2016 Soft Robotics Competition
+
+By Adam Zewe | SEAS
+
+If you have a soft spot for robotics, this competition is right up your alley. With separate tracks for academic researchers, college students, and high school students, the 2016 Soft Robotics Competition offers anyone with an interest in robotics the chance to design and build their own soft robot using the resources available in the open-source Soft Robotics Toolkit.
+
+Now in its second year, the competition was developed by Conor Walsh, assistant professor of mechanical and biomedical engineering at the Harvard John A. Paulson School of Engineering and Applied Sciences, and Dónal Holland, visiting lecturer in engineering sciences, as a way to encourage individuals to take advantage of the resources provided in the Soft Robotics Toolkit.
+
+The toolkit, which incorporates contributions from researchers from Harvard and other institutions, provides a set of intellectual tools that one can use to design and construct a robot using soft, flexible materials. It includes resources such as step-by-step instructions on building actuators and sensors, lists of suggested materials, and how-to fabrication videos.
+
+The ultimate goal of the competition is to encourage others to find innovative applications for soft robotics technology and continue expanding interest in this relatively new field.
+
+“Last year, we were really impressed with the variety and quality of entries,” Holland said. “The participants came up with fantastic ideas that we never would have thought of, and we hope that this year we will receive even more submissions.”
+
+The inaugural contest, which drew 87 initial entries from around the world, has been expanded to include separate categories for academic researchers, college students, and high school students.
+
+Last year, some of the most unique entries were submitted by high school students, such as a wearable glove that detects and controls tremor, and a teddy bear that hugs back. Since many high school students don’t have access to 3D printers and other high-tech equipment commonly found on university campuses, organizers established a separate high school category this year, explained research fellow Max Herman.
+
+“We hope this will enable even more people to participate this year,” he said. “Our goal is to lower the barrier of entry into the area of soft robotics.”
+
+Entries in the high school and college competitions must be novel and should incorporate at least one component technology from the Soft Robotics Toolkit website. Students will document their projects using a “wiki” that includes at least four sections: background, design, fabrication, and testing.
+
+Entrants in the academic research competition must submit work that has either been published or accepted for publication in a peer-reviewed journal or conference proceeding. In addition, entrants must provide details of the research on the Soft Robotics Toolkit website before June, with a focus on replicable processes. The quality of the documentation will be a factor in the judging process.
+
+The competition opens in January and entries will be accepted through June. There is no cost to enter the competition and prizes will be awarded to the developers of the top projects in all three categories. Winning projects will also be featured on the Soft Robotics Toolkit website.
+
+Click here for detailed information about competition rules, eligibility, and entry guidelines.
+
+This video shows the Soft Wheel Robot, developed by a team at Cornell University, which won the design category of the 2015 Soft Robotics Competition.

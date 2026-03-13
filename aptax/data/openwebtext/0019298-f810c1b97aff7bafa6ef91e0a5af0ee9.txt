@@ -1,0 +1,29 @@
+Microsoft has already appealed the original ruling
+
+A ban on Microsoft selling certain versions of its flagship products Word and Office has begun.
+
+The software firm was made to change elements of the software by US courts after a patent dispute with Canadian firm i4i.
+
+Microsoft said that it had complied with the court's ruling and would now offer "revised software" in the US.
+
+The court ruling means that Microsoft must also pay i4i damages of $290m (£182m).
+
+However, the firm said on 8 January that it had filed another appeal against the injunction.
+
+The firm wants a panel of 11 judges of the United States Court of Appeals for the Federal Circuit to review the case in the hope of overturning the original judgment.
+
+Microsoft has already challenged the ruling once. But in December last year, a panel of three judges rejected its arguments and upheld the original decision of a Texas court that ruled that Microsoft had infringed a patent belonging to i4i.
+
+The disputed patent relates to how Microsoft file formats, such as .docx, use aspects of XML, a language that allows formatting of text and makes files readable across different programs.
+
+XML is used in recent versions of Microsoft's word-processor Word.
+
+Microsoft has now removed the disputed feature from all available versions of Microsoft Word and Microsoft Office on sale in the US from today.
+
+"This process will be imperceptible to the vast majority of customers," the firm said in a statement.
+
+Despite the firm's compliance, Microsoft has said it will still challenge the case.
+
+Kevin Kutz, director of public affairs at Microsoft, said the latest appeal had been filed because the firm believed the decision in December conflicted with "established precedents governing trial procedure and the determination of damages".
+
+"We are concerned that the decision weakens judges' authority to apply appropriate safeguards in future patent trials," he added.

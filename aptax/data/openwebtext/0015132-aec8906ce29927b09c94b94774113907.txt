@@ -1,0 +1,7 @@
+It was some days back when Nokia unveiled their first Android phone, the Nokia X at the MWC 2014, but the phone appeared to have a different taste of Android. Like the other Android devices, the Nokia X doesn’t use the Android distribution backed by the licensed modules from Google such as Google Play, Gmail etc., but instead used their own Microsoft cloud service. But we thought that if we flash a custom ROM onto it, root, then we can give the taste of the Android which we usually see in Android phones.
+
+However, it seems to be possible now as Nokia X developer units has rooted the Nokia X, and this means after this root developer can now add other apps to the system which includes the Google’s own closed source apps. The developer unit used the Framaroot app to root the Nokia X, which will allow to add other apps to the system.
+
+With this ability in Nokia X, this phone will a best option while purchasing a mid-ranged smartphone. So, if you are interested in purchasing the Nokia X in future, then please take a note of the Framaroot app. What do you think about Nokia X after the root? Stay tuned for more updates.
+
+SOURCE: androidcentral

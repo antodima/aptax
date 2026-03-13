@@ -1,0 +1,129 @@
+✔Award-winning Finance App
+
+★ Best of 2017 App.
+
+★ Google Top Developer.
+
+★ Editors' Choice App
+
+
+
+Money Lover makes personal finances management easy for everyone. This app will help you simply track and manage everything from cash, credit cards, bills, receipts, and saving accounts, etc in one secure place.
+
+
+
+Get Money Lover today to control your finances like a boss this simple app.
+
+
+
+
+
+KEY FEATURES
+
+
+
+✔ Money Manager: Keep track of daily expenses, incomes and put them in category. 1st Expense tracker with built-in receipt scanner function.
+
+✔ Budget Planner: Plan and budget your money to never overspend and save more by applying envelope system.
+
+✔ Reporting: Financial reports give you overview of your spending, income by date or group.
+
+✔ Security: Data encrypted by RSA-1024 bit. Support PIN code, Fingerprint to unlock.
+
+✔ Credit Wallet: Designed for managing credit card and notifying repayment.
+
+✔ Linked Wallet: Automatic bank feed. Update balance and transactions from banking accounts, e-wallet and crypto-money wallet.
+
+
+
+
+
+Note: We support 17 countries. Please go to Connect to bank and check the availability.
+
+
+
+OTHER FEATURES:
+
+
+
+1. Debt & Loan Tracker
+
+2. Home widgets & Quick add button
+
+3. Scan & Store paper receipt
+
+4. Online backup & Sync
+
+5. Currency Exchange
+
+6. Tips & Interest Calculator
+
+7. SMS detector - Automatic detect financial transactions from SMS.
+
+8. Recurring transactions
+
+9. Multi-currency supported
+
+10. Share Wallet with people in your network
+
+11. Sync between devices
+
+12. Money Saving Tracker - Goal Wallet (New)
+
+13. Events & Travel mode
+
+14. Bills reminder.
+
+15. More 130+ free icons
+
+16. Transaction tags
+
+
+
+
+
+Upgrade to PREMIUM to support us and have more power
+
+
+
+✔ Unlimited number of budgets, savings, wallets, events.
+
+✔ Export to CSV, Excel
+
+✔ Picture attachment
+
+✔ Ad-free
+
+
+
+Follow us to get updates, useful tips or gifts.
+
+
+
+Facebook: bit.ly/moneylover-fb
+
+Twitter: bit.ly/moneyloverapp
+
+Google+: bit.ly/beta-tester-android
+
+Blog: https://note.moneylover.me
+
+
+
+Need support or share feedback? Feel free to email to contact@moneylover.me or chat via in-app Help & Support.
+
+
+
+--
+
+Clarification for Access Permissions:
+
+- Network Communication (Internet Access) is for syncing data and getting money exchange rate.
+
+- Social Information (Read Contact) is for suggesting “With Who” to tag your people in your contact list.
+
+- Your Location is for identifying your location of the transaction.
+
+- Storage (modify or delete contents on your USB storage) is for creating and storing backup data to the USB storage.
+
+- Access to System tools is for adding Home screen shortcuts and widget.

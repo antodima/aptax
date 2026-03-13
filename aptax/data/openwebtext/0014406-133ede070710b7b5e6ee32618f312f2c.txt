@@ -1,0 +1,29 @@
+Who knows what evil lurks in corporations outside the IT department? Only the shadow knows.
+
+The term “shadow IT” is gaining in popularity, but the concept is not new. It refers to hardware and software used by company departments, outside of the hardware and software controlled by the company IT team. Whether departments do this because they don’t want IT to know what they’re up to, or because they find IT controls too arduous, shadow IT is becoming pervasive.
+
+According to a recent study by Frost & Sullivan, “The Hidden Truth Behind Shadow IT,” 80 percent of employees surveyed admitted that they used unapproved software-as-a-service (SaaS) applications in their jobs. And not just one or two, either. “The average company utilizes around 20 SaaS applications; of these, more than 7 are non-approved,” the study says. “That means you can expect that upwards of 35 percent of all SaaS apps in your company are purchased and used without oversight.”
+
+To a certain extent, this is all tying into the whole CMO/CIO debate we’ve been following for a while, where marketing organizations set up their own parallel IT structure because they complain that IT is not as responsive as they’d like.
+
+So what’s wrong with shadow IT, anyway? Isn’t it just a way to get around those overly paranoid control freaks in IT? In a word, no. Here are some of the problems with shadow IT:
+
+It duplicates efforts: Organizations with multiple IT structures are likely buying hardware and software they don’t need, whether it’s two half-used servers where one would do, or two licenses for software instead of one larger one that’s more economical. It also means that IT doesn’t have a clear view of the hardware and software needs of the organization, making it more difficult to plan future purchases. Not to mention, how much time does it take away from the non-techies’ work to set all this stuff up? Moreover, unauthorized software could put the company at risk for an audit, writes ComputerWeekly.
+
+It makes it harder for corporate IT to evolve: If individual departments are buying the new hardware and software instead of the IT department, it means that IT as a whole can’t evolve, and the other departments don’t get to share the value of the newer technology.
+
+That said, if harnessed properly, shadow IT can end up being used as a “skunk works” for corporate IT. The Frost & Sullivan study equates the shadow IT (which it limited to employees using “software as a service” applications) issue to that of “bring your own device” policies and how they were spawned by the number of people bringing their own smartphones and tablets to the office. (And, going back even further, the PC itself was often brought into companies on a departmental level.) A similar revolution could be in store for applications, the company writes. In fact, Gartner Inc. is suggesting that organizations look at shadow IT as an opportunity to test out new technology.
+
+It makes security more difficult: Typically, we’d like to think, the people in IT are the experts. They’re the ones who know about security issues, how to protect systems, how to apply patches, and so on. If there are additional systems in the company that these IT people don’t know about, then the systems may be more vulnerable to hacking and other issues, putting company data at risk.
+
+It makes information governance more difficult: If people are, for example, clandestinely copying company files to a cloud service so they’ll have access to them outside work—bypassing the corporate VPN, let’s say, because they find the performance unacceptable—this creates vulnerabilities and versioning problems. If you end up with multiple copies of the database, how do you know which is the right one? If you have a system for deleting all company files after a certain period of time, but it turns out there’s extra copies on a cloud somewhere, it could put the company at risk during a legal situation.
+
+Maybe It Is Your Fault After All
+
+On the other hand, sometimes shadow IT is just a matter of those overly paranoid control freaks in IT. An IT organization that sees too many people setting up shadow IT might want to take a look at its own procedures to see how they could be simplified, rather than just becoming known as the Department of No.
+
+It tells you something that, according to the Frost & Sullivan study, IT staff are more likely than non-IT staff to use unapproved applications—a case of “Don’t do what I do, do what I say.” But an organization where even the IT staff doesn’t follow the rules doesn’t have much of a leg to stand on when expecting non-IT employees to follow the rules.
+
+The one thing you can’t do? Expect shadow IT to go away just on your say-so. Instead, monitor your networks so you have a better idea of what sort of shadow IT use is going on, writes CIO. And, like parenting teenagers, pick your battles, focusing on the shadow IT uses that most put the company at risk, such as personal cloud services.
+
+In the meantime, remember: “The weed of crime bears bitter fruit. Crime does not pay… The Shadow knows!”

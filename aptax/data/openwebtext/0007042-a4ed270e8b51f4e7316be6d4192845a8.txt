@@ -1,0 +1,67 @@
+A remarkable international effort to map out the avian tree of life has revealed how birds evolved after the mass extinction that wiped out the dinosaurs into more than 10,000 species alive today. More than 200 scientists in 20 countries joined forces to create the evolutionary tree, which reveals how birds gained their colourful feathers, lost their teeth, and learned to sing songs.
+
+The project has thrown up extraordinary similarities between the brain circuits that allow humans to speak and those that give some birds song: a case of common biology being arrived at via different evolutionary routes.
+
+Some birds are shown to have unexpectedly close relationships, with falcons more closely related to parrots than eagles or vultures, and flamingoes more closely related to pigeons than pelicans. The map also suggests that the earliest common ancestor of land birds was an apex predator, which gave way to the prehistoric giant terror birds that once roamed the Americas.
+
+Facebook Twitter Pinterest Some birds are shown to have unexpectedly close relationships, with falcons more closely related to parrots than eagles or vultures, and flamingoes more closely related to pigeons than pelicans. Photograph: Alamy
+
+“This has not been done for any other organism before,” Per Ericson, an evolutionary biologist at the Swedish Museum of Natural History in Stockholm, told the journal Science. “It’s mind-blowing.”
+
+The scientists began their task by analysing fingernail-sized pieces of frozen flesh taken from 45 bird species, including eagles, woodpeckers, ostriches and parakeets, gathered by museums around the world over the past 30 years. From the thawed-out tissue, they extracted and read the birds’ whole genomes. To these they added the genomes of three previously sequenced species. It took nine supercomputers the equivalent of 400 years of processor time to compare all the genomes and arrange them into a comprehensive family tree.
+
+Members of the project, named the Avian Phylogenomics Consortium, published the family tree and their analysis on Thursday in eight main papers in the journal Science, and in more than 20 others in different scientific journals.
+
+Facebook Twitter Pinterest The loss of so many species in a mass extinction freed up vast ecological niches, giving feathered animals an unprecedented chance to diversify. Photograph: Alamy
+
+The rise of the birds began about 65m years ago. A mass extinction – probably caused by an asteroid collision – wiped out most of the larger-bodied dinosaurs, but left a few feathered creatures. The loss of so many other species freed up vast ecological niches, giving these animals an unprecedented chance to diversify.
+
+Comparisons of the birds’ genomes with those of other animals pointed researchers towards a host of genes involved with the emergence of coloured feathers. While feathers may first have emerged for warmth, colourful plumage may have played a part in mating success. Researchers at the University of South Carolina found that waterbirds had the lowest number of genes linked to feather coloration, while domesticated pets and agricultural birds had eight times as many.
+
+Further analysis of the genomes revealed that the common ancestor of all living birds lost its teeth more than 100m years ago. Mutations in at least six key genes meant that the enamel coating of teeth failed to form around 116m years ago. Tooth loss probably began at the front of the jaw and moved to the rear as the beak developed more fully.
+
+Facebook Twitter Pinterest Despite sharing many of the same genes, parrots and songbirds gained the ability to learn and copy sounds independently from hummingbirds. Photograph: Luis Acosta/AFP/Getty Images
+
+“Ever since the discovery of the fossil bird Archaeopteryx in 1861, it has been clear that living birds are descended from toothed dinosaurs. However, the history of tooth loss in the ancestry of modern birds has remained elusive for more than 150 years,” said Mark Springer at the University of California, Riverside.
+
+Birdsong has evolved more than once. Despite sharing many of the same genes, parrots and songbirds gained the ability to learn and copy sounds independently from hummingbirds. More striking is that the group of 50 or so genes that allow some birds to sing is similar to those that give humans the ability to speak. “This means that vocal learning birds and humans are more similar to each other for these genes in song and speech areas in the brain than other birds and primates are to them,” said Erich Jarvis at Duke University in North Carolina.
+
+Facebook Twitter Pinterest The scientists began their task by analysing fingernail-sized pieces of frozen flesh taken from 45 bird species, including eagles, woodpeckers, ostriches and parakeets. Photograph: Martin Harvey/Getty Images/Gallo Images
+
+The common genes are involved in making fresh connections between brain cells in the motor cortex and those that control muscles used to make sounds.
+
+Perhaps unsurprisingly, the scientists found differences in the vocal regions of the parrot brain. These birds had an area of brain for producing song that was surrounded by a secondary region, leading to what the researchers called “a song system within a song system”.
+
+David Burt at Edinburgh University’s Roslin Institute said the results, the first to be released by the consortium, were only the beginning. “We hope that giving people the tools to explore this wealth of bird gene information in one place will stimulate further research,” he said. “Ultimately, we hope the research will bring important insights to help improve the health and welfare of wild and farmed birds.”
+
+How penguins adapted to frigid conditions
+
+
+
+Penguin DNA collected for the avian family tree project has cast light on how the flightless birds endure the Antarctic’s cold hostile environment.
+
+Researchers led by Cai Li, at the Beijing Genomics Institute, analysed the genomes of Adélie and emperor penguins and found scores of genetic changes that help them adapt to the frigid conditions.
+
+
+
+Both penguins were found to have a beefed-up gene set for making proteins for feathers, ensuring a densely packed covering of the short, stiff feathers, which keeps heat in and water out.
+
+The scientists also spotted a gene, known as DSG1. In humans it causes thick skin on the hands and feet; in the penguins this adaptation, present all over the body, is beneficial.
+
+
+
+Facebook Twitter Pinterest Research suggests emperor penguins have been better able to handle the harsh environment than other penguin species. Photograph: Frans Lanting/Getty Images/Mint Images
+
+Penguins must withstand the cold and go without food for months on end, making fat storage a crucial factor in survival. The Adélie penguin were seen to have eight genes involved with metabolism of fatty lipids, though the emperor had only three.
+
+
+
+The birds lost their ability to fly but their wings became supremely adapted to underwater acrobatics. Writing in the journal GigaScience, Li’s team describes 17 genes that have driven the re-shaping of penguins’ forelimbs. Mutations in one of those genes, called EVC2, causes Ellis-van Creveld syndrome, a genetic disorder that causes short-limb dwarfism and short ribs in people.
+
+
+
+The first penguins evolved about 60m years ago, but the emperors and Adélies have markedly different histories. The Adélie penguin population grew rapidly 150,000 years ago as the climate warmed, but crashed by 40% when a cold and dry glacial period arrived 60,000 years ago.
+
+
+
+The emperor penguins fared better, their numbers hardly changing, pointing to a better ability to handle the harsh environment.

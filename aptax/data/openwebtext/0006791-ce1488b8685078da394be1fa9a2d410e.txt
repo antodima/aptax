@@ -1,0 +1,35 @@
+Those of us, who've known Linus Torvalds over the years, like yours truly, know that Linux's inventor, Mr. Penguin if you will, is a quiet gentle soul who never raises his voice when something bothers him. Ahem. I lie like a rug. While I have known Torvalds for decades, he's anything but shy and he never suffers fools gladly. So, it shouldn't come as much of a surprise that when Torvalds decided he didn't like the new version of the GNOME desktop, he didn't mince any words about it.
+
+It all started in a public Google+ posting by Dave Jones, a Red Hat engineer and one of the maintainers of Fedora Linux, where Jones announced some minor Linux kernel news for a Fedora update. As the discussion continued, Torvalds joined in and remarked, "Could you also fork gnome, and support a gnome-2 environment? I want my sane interfaces back. I have yet to meet anybody who likes the unholy mess that is gnome-3."
+
+He's not the only one. I also don't like GNOME 3 either. I much prefer the last version of GNOME 2.x: GNOME 2.32. It may be "out of date," but it's the default desktop for my current favorite desktop Linux: Mint 11.
+
+Why? Well, I'll let Mr. Torvalds tell you:
+
+it's not that I have rendering problems with gnome3 (although I do have those too), it's that the user experience of Gnome3 even without rendering problems is unacceptable. Why can't I have shortcuts on my desktop? Why can't I have the expose functionality? Wobbly windows? Why does anybody sane think that it's a good idea to have that "go to the crazy 'activities'" menu mode? I used to be upset when gnome developers decided it was "too complicated" for the user to remap some mouse buttons. In gnome3, the developers have apparently decided that it's "too complicated" to actually do real work on your desktop, and have decided to make it really annoying to do. Here's an example of "the crazy": you want a new terminal window. So you go to "activities" and press the "terminal" thing that you've made part of your normal desktop thing (but why can't I just have it on the desktop, instead of in that insane "activities" mode?). What happens? Nothing. It brings your existing terminal to the forefront. That's just crazy crap. Now I need to use Shift-Control-N in an old terminal to bring up a new one. Yeah, that's a real user experience improvement. Sure. I'm sure there are other ways, but that's just an example of the kind of "head up the arse" behavior of gnome3. Seriously. I have been asking other developers about gnome3, they all think it's crazy. I'm using Xfce [a lightweight Unix/Linux desktop). I think it's a step down from gnome2, but it's a huge step up from gnome3. Really.
+
+As you can see, Torvalds is far from shy about voicing his opinion about GNOME. He wasn't the only one. Dirk Hohndel, Intel's chief Linux and open-source technologist, said in the same thread, "Gnome 3 is just completely unusable as far as I'm concerned."
+
+Since then, Hohndel's been giving GNOME another try, but, "It's still not exactly what I'm used to, but getting closer." That said, Hohndel observed later in his discussion, after some especially trying times with a large display, "Does it worry you that I need a dozen Gnome lovers to help me just to do fairly regular things with my computer? Things that all used to work just fine with Gnome2?"
+
+It should worry them. It should worry them a lot.
+
+Long time readers of mine know that I was really unhappy when KDE, the other major Linux desktop, decided to go in a new direction with KDE 4. As KDE 4 matured, I eventually started to like it.
+
+I'm not sure that's going to happen with GNOME 3.x. With KDE 4, I saw where they wanted to go, I just didn't think it was a great idea. With GNOME... I really don't know what they're trying to do. It looks to me like change just for the sake of change, and that's pointless.
+
+Of course, it's one thing when just a technology journalist, like me, doesn't like what you're doing. But, when leading Linux developers dislike a desktop this much, and one major Linux distribution, Ubuntu, dislikes it so much that they decided to replace the GNOME 3 shell with an entirely different desktop approach, Unity, I think it's time for GNOME's developers to sit down and seriously consider whether they've should backtrack to the GNOME 2 architecture.
+
+If they don't? Well this is open source. Someone could always fork the project. If things don't start changing for the better, maybe someone should.
+
+Related Stories:
+
+Ubuntu: The desktop Linux with the cloud inside
+
+The top five Linux desktop vendors
+
+Don't Panic! It's only Linux 3.0
+
+Fedora 15's five best features
+
+Mint 11: The "Un-Unity" Ubuntu desktop Linux

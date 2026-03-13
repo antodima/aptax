@@ -1,0 +1,25 @@
+Linux's founder, Linus Torvalds wonders if "we may have to "finally lay the 'year of the Linux desktop' joke to rest." Why? Because, for the first time Chromebook outsold Macs.
+
+CNET
+
+Based on how Chromebook sales keep going up, while Mac sales keep going down, Chromebooks will probably always outsell Macs from here on out. So, with Chromebooks as now the number two "desktop" device, Windows PCs may have something to worry about too.
+
+I thought from the start that Chromebooks would prove a real challenge to Windows PCs. Unlike any other Windows alternatives, Chromebooks don't require any learning curve. If you can use a browser, you can use a Chromebook. With the transformation of desktop applications to cloud apps, lower prices, and better security, Chromebooks have always had several built-in advantages over Windows.
+
+Of course Windows had its advantages too. It's the legacy operating system that over 90 percent of people use and it has far more local applications than any other desktop OS. Well, it did anyway.
+
+I see a real challenge ahead for Windows now that, after years of development, Google is bringing the majority of its Android applications to Chrome OS. Soon, Chrome OS will have just as many applications, if not more, than Windows.
+
+Indeed, one of the other reasons people have stuck with Windows is they can't run their favorite applications on any other operating system. Microsoft, however, has also been moving away from standalone applications.
+
+It's made it possible, for example, to run Office 365 on Android. On a tablet or smartphone, that was a neat trick, but people weren't flocking to write documents and spreadsheets on their phones. On a Chromebook though... that's another matter entirely.
+
+In addition, people have also long complained that they can't play games without Windows. Well, I think we all know that there are tens-of-thousands of Android games. So, whether you use your laptop for business or games, this marriage of Android apps and the Chromebook format is going to make Chromebooks much more attractive.
+
+The only Android apps and features that won't work are those that specifically require hardware features -- such as GPS -- that Chromebooks don't include, said Kan Liu, Google's Chrome OS Director of Product Management. "We will fully support all Android apps, subject to the hardware requirements these apps have," said Liu.
+
+At first only higher-end Chromebooks with touchscreens, such as the Pixel 2, will support Android apps. But, Liu promises that Android apps will eventually run on Chromebooks without touchscreens as well.
+
+So, Chromebooks will not start displacing Windows PCs immediately. They will, however, continue to push Macs into third place and give Windows a real desktop competitor.
+
+Related Stories:

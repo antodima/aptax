@@ -1,0 +1,17 @@
+Dr. Thorsten Kramp, research staff member and co-developer of Mote Runner at IBM Research - Zurich, holds a mote programmed with Mote Runner to detect movement and light.
+
+In IBM's planned future, everything will communicate with everything. The company has now announced a new software development kit, Mote Runner, that will allow programmers to put anything from coffee makers to environmental monitoring systems on the "Internet of things."
+
+Mote Runner -- nicknamed for motes, wireless sensor nodes that gather information and refer it back to a network -- can interlink any hardware equipped with wirelessly connected sensors. The extremely lightweight software is made to run on sensor chips tiny enough to be built into almost anything. IBM Research, which built Mote Runner, aims to increase adoption of such wireless sensor networks by making them easier to program and use.
+
+Mote Runner apps can live in a tiny 64K of memory, and be written in standard languages like Java or C#. The apps can be debugged and deployed on simulated motes that run on a host computer.
+
+In theory, motes can be connected across large or remote areas like agricultural fields, multi-story buildings, rainforests or glaciers, IBM says. Eventually, using chips that can connect any gadget, you could "talk" to all your home appliances from afar.
+
+Mote Runner uses an 8-bit processor, 8 KB of RAM and a tiny 64 KB of flash memory storage. Its minimalist needs will allow it to run on small, inexpensive chips, which can be integrated into practically any device.
+
+With the right app, Mote Runner could check on the status of elderly people at home, monitor agricultural processes, check building maintenance and security, and a host of other functions, Fast Company notes.
+
+MEMSIC, a micro-electromechanical systems and sensor manufacturer, plans to offer Mote Runner on its popular IRIS sensor.
+
+[IBM Research via Fast Company]

@@ -1,0 +1,37 @@
+Games: Now Available in Gloss-Web
+
+At long last, I can announce the game interface in gloss-web. This is still a good ways off in my class, but those of you who know what you’re doing can play around with it anyway. As always, you can visit
+
+http://dac4.designacourse.com:8000
+
+If you’ve used the site before and don’t see a game button, you may need to hit the refresh button.
+
+How they work:
+
+Games are similar to simulations, except that the time-step function has one fewer parameter, and there’s an additional event handling function. So you’ll need to write the following:
+
+initial :: StdGen -> a
+
+Just as with simulations, you can pick any data type you like (and probably write your own) to represent the state of the world. You then define initial to be a function that gets a random number generator, and returns the starting state. If you need random numbers, you can store the generator in your state type. The type variable a needs to be the same as a in all the definitions that follow.
+
+event :: Event -> a -> a
+
+Here’s how you respond to events: write a function with the event and the previous state of the world, that returns a new state of the world as its result. That means anything you want to remember about the events that have happened should be part of your world type.
+
+step :: Float -> a -> a
+
+Here’s how you respond to the passage of time. Much like the step function of the simulation interface, the time parameter is the amount of time that’s elapsed since the last step. Unlike simulations, there is now ViewPort passed in. That’s because in the OpenGL implementation, simulations automatically provided controls to zoom and such… but games don’t. So you just get the elapsed time. (Of course, gloss-web doesn’t provide those automatic transformations anyway.)
+
+draw :: a -> Picture
+
+Finally, of course you need to draw the world. This is where you say what it looks like.
+
+An Example
+
+The default program is a fairly simple one that draws a ball where ever you place the mouse; not much of a game, really! Never fear, here’s something a little more involved… and actually pretty fun! My best score so far is 31. Can you do better?
+
+import Graphics.Gloss import Graphics.Gloss.Interface.Game data World = World { player :: Point, target :: Point, goal :: Point, robot :: Point, speed :: Float, score :: Integer } initial _ = World (0,0) (0,0) (200,200) (-200,-200) 40 0 event (EventMotion (x,y)) world = world { target = (x,y) } event _ world = world distance (x0, y0) (x1, y1) = sqrt ((x1 - x0)^2 + (y1 - y0)^2) moveToward (x0,y0) (x1,y1) dist = (x0 + dx, y0 + dy) where totalDist = distance (x0,y0) (x1,y1) dx | dist < totalDist = (x1 - x0) * dist / totalDist | otherwise = (x1 - x0) dy | dist < totalDist = (y1 - y0) * dist / totalDist | otherwise = (y1 - y0) collisions world | distance (player world) (goal world) < 40 = foundGoal | distance (player world) (robot world) < 40 = initial | otherwise = world where foundGoal = let (x,y) = player world in world { goal = (-x, -y), score = score world + 1 } step time world = collisions newWorld where newWorld = world { player = moveToward (player world) (target world) (time * 60), robot = moveToward (robot world) (player world) (time * speed world), speed = speed world + (0.1 * time) } draw world = pictures [ color blue (figure (player world)), color red (figure (robot world)), color green (figure (goal world)), translate (-225) (-225) (scale 0.2 0.2 (text (show (score world)))) ] figure (x,y) = translate x y (circleSolid 20)
+
+Have fun!
+
+Advertisements

@@ -1,0 +1,17 @@
+Luca Sage/Getty
+
+The first true brain-to-brain communication in people could start next year, thanks to huge recent advances.
+
+Early attempts won’t quite resemble telepathy as we often imagine it. Our brains work in unique ways, and the way each of us thinks about a concept is influenced by our experiences and memories. This results in different patterns of brain activity, but if neuroscientists can learn one individual’s patterns, they may be able to trigger certain thoughts in that person’s brain. In theory, they could then use someone else’s brain activity to trigger these thoughts.
+
+“You could detect certain thought processes and use them to influence other people’s decisions”
+
+Advertisement
+
+So far, researchers have managed to get two people, sitting in different rooms, to play a game of 20 questions on a computer. The participants transmitted “yes” or “no” answers, thanks to EEG caps that monitored brain activity, with a technique called transcranial magnetic stimulation triggering an electrical current in the other person’s brain. By pushing this further, it may be possible to detect certain thought processes, and use them to influence those of another person, including the decisions they make.
+
+Another approach is for the brain activity of several individuals to be brought together on a single electronic device. This has been done in animals already. Three monkeys with brain implants have learned to think together, cooperating to control and move a robotic arm.
+
+Similar work has been done in rats, connecting their brains in a “brainet”. The next step is to develop a human equivalent that doesn’t require invasive surgery. These might use EEG caps instead, and their first users will probably be people who are paralysed. Hooking up a brainet to a robotic suit, for example, could enable them to get help from someone else when learning to use exoskeletons to regain movement.
+
+This article appeared in print under the headline “Mind-reading fuses thoughts”

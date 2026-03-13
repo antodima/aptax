@@ -1,0 +1,21 @@
+Tesla Motors Inc (NASDAQ:TSLA) is proactive when it comes to finding the potential vulnerabilities that would affect its Model S electric vehicle. The electric car manufacturer’s CEO Elon Musk was spotted at the DEFCON, an annual security conference in Las Vegas.
+
+According to Wall Street Journal, Tesla Motors Inc (NASDAQ:TSLA) is attending the conference to find hackers who would be willing to help the company find security flaws in the software that controls its vehicles.
+
+Kristin Paget, a computer security researcher popularly known as the “hacker princess,” who is working for Tesla Motors Inc (NASDAQ:TSLA) said the electric car manufacturer is planning to hire around 20 to 30 hackers from the DEFCON.
+
+Paget also said the electric car manufacturer already resolve one security flaw in its vehicles. She described the Tesla vehicle as a “super car” connected to the internet. The company can update its software online.
+
+Previous challenge to hack Tesla cars
+
+Last month, the Sycan+ 360 conference in Beijing challenged anyone who can successfully hack the system of the Model S and offered a $10,000 reward.
+
+Elon Musk, the chief executive officer of Tesla Motors Inc (NASDAQ:TSLA) welcomed the competition, and requested participants to carryout responsible hacking. He clarified that the company has no involvement in the contest, but it is providing an environment for responsible researcher to discover any possible security flaw.
+
+At the time, Musk said Tesla Motors Inc (NASDAQ:TSLA) expected the hackers to work in good faith, and the company would conduct further analysis to any legitimate vulnerability that would be discovered. Qihoo 360 Technology found ways access the Model S remotely and controlled locks, horns and skylight while the car is running. The Chinese internet security company reported the details of the security risk and solutions to Tesla.
+
+Tesla Motors Inc (NASDAQ:TSLA) demonstrated that it is increasingly concern regarding the security of its software controlling its cars given its presence at the DEFCON. Earlier this month, Security researchers Charlie Miller and Chris Valasek released a report identifying the most hackable available in the market.
+
+Miller and Valasek said the top three mosct hackable cars are the 2014 Jeep Cherokee from Chrysler Group, the 2014 Infiniti Q50 from Nissan Motor Co Ltd (ADR) (OTCMKTS:NSANY) (TYO:7201) and the 2015 Cadillac Escalade from General Motors Company (NYSE:GM).
+
+In response to the report, Chrysler and Nissan said they are evaluating the claims of the security researchers, and will resolve the issue. The security researchers did not try to hack the vehicles, but they evaluated the remote access technologies in the cars such as WiFi and Bluetooth.

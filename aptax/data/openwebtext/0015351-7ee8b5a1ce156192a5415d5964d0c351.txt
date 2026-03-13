@@ -1,0 +1,13 @@
+One more comment on the post by Mike Treder that I addressed last time. Recall he wrote
+
+Techno-rapturists among our reading audience might be quick to respond with glib answers about miraculous nanotechnology solutions that are just around the corner …
+
+To understand Foresight’s actual point of view on this issue (which is actually a lot closer to that of CRN, which Mike co-founded, than is implied in the quote), it is necessary to understand what the power of a mature nanotechnology is really like. I fear that this often gets lost in the detailed discussions of the proto-nanotech that we see today in the labs.
+
+Here’s one simple way to say it: the accidental impact on climate of current technology is at least three orders of magnitude smaller than the intentional impact of a mature nanotechnology. If you are Really Worried about a roughly one watt per square meter influence on the Earth, I urge you to consider the Weather Machine which could interdict and/or redirect the full roughly one kilowatt /m^2 that’s available. Or, to judge by the diurnal warming and cooling rates, change the global surface temperature by 10C per day.
+
+Now frankly, this worries me a lot more than natural climate change. My worry goes as follows: people are so worried about climate that they actually build a Weather Machine. Their models of how climate work are not as good as they think they are; let’s say that they are in roughly the same state of actual to perceived knowledge that the Federal Reserve was in macroeconomics in 1929 (or 2008, for that matter). They turn it on and there’s, well, a depression. Or multiple governments build them and have wars. Nuclear weapons are trivial by comparison.
+
+Let me demonstrate. In the original Weather Machine post I claimed that a Weather Machine Mark II could “shoot down the moons of Mars.” I took a guess at the energy available, resolving power, etc and figured I was well on the safe side.
+
+Just for fun I did the math and impressed myself a little bit. At closest approach, with an active spot of 10,000 km diameter (remember the WM is a cloud of balloons in the stratosphere with optical-wavelength antennas that are synchronized to be a coherent optical phased array), using violet light for the beam, you could focus a petawatt beam on a 2.7mm spot on Phobos. A petawatt is about a quarter megaton per second. 2.7mm is about a tenth of an inch. I.e. you could blow Phobos up, write your name on it at about Sharpie handwriting size, or ablate the surface in a controlled way, creating reaction jets, and sending it scooting around in curlicues like a bumper car.

@@ -1,0 +1,11 @@
+Share
+
+The barrier to commercially operating a drone just got a little lower, but don’t expect companies like Amazon to be any closer to being able to organize drone deliveries.
+
+That, in short, seems to be the verdict of 624 pages of new FAA regulations concerning commercial unmanned aircraft systems. In laws that will take effect in August, the FAA’s big new ruling is that commercial drone operators are no longer required to be in possession of a pilot’s license for a regular airplane. Instead of having to require a pilot’s license, commercial drone operators must now demonstrate their knowledge through the award of a “remote pilot certificate,” requiring a basic knowledge test carried out at an FAA-recognized test center.
+
+“The barrier to entry is definitely lowered,” Dr. Michael Braasch, a professor of electrical engineering at Ohio University and expert on drone technologies and FAA regulations, tells Digital Trends. “You no longer have to be able to fly a full-size plane in order for pilot a drone for commercial purposes. It’s a significant change.”
+
+So why doesn’t this easing-off of FAA rules help companies like Amazon, interested in delivering packages by drones? For one thing, commercial drones may only fly a maximum of 400 feet in the air. More important, however, is the line-of-sight rule, which limits some of the more ambitious drone-based plans. “The rules require that drones cannot be flown further away than the operator can see,” Braasch continues. “Depending on the person, that visual line of sight is going to be in the vicinity of half a mile to one mile. But that’s not going to help with package delivery, since it severely limits how far the delivery drones could be flown.”
+
+Still, the new rules do show that the FAA is willing to be a bit more lenient toward commercial drones. And, hey, the organization says its new rules could help bring in upwards of $82 billion to the U.S. economy over the next decade — which is always a positive!

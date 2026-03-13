@@ -1,0 +1,227 @@
+An online portal called Newslaundry.com recently published a fact check report on Prime Minister Narendra Modi’s recent interview to Arnab Goswami. Living up to the standards of Indian media, the “fact check” report is based on old data points, subjective interpretation of PM’s statements and even author’s personal opinion passed as facts.
+
+Here is a fact check of Newslaundry’s fact check (Note – This is NOT a rating of PM’s interview; this is just a fact-check score of what he said.)
+
+On the Pradhan Mantri Jan Dhan Yojana:
+
+- Advertisement - - Article resumes -
+
+Narendra Modi:
+
+“I had said that within a given timeframe, we will open bank accounts for the poor. For something that had not been done for 60 years, setting a timeframe for it was in itself a risk.”
+
+Newslaundry:
+
+The Prime Minister’s claim that “something had not been done for 60 years”, referring to opening bank accounts for the poor, is patently false. Former finance minister Pranab Mukherjee launched a similar scheme in 2011 called Swabhimaan under the UPA government. While presenting the Union Budget for 2011-2012, the finance minister announced that under the scheme, banking services would be provided to 20,000 villages in the first year. Ultimately, the scheme ended up being merely an account-opening exercise.
+
+Modi has definitely brought renewed vigour to the scheme – along with rebranding it – but to claim that this is the first time bank accounts were opened for the poor is factually incorrect.
+
+
+
+Fact Check: While both Swabhimaan and Jan Dhan Yojna are financial inclusion schemes, there are several differences between the two pertaining to the target segments, coverage and facilities. While Swabhimaan was focused only in rural areas with population >2000, PMJDY aims for “comprehensive financial inclusion of all the households in the country” (emphasis on ‘all’). And the results speak for themselves. As on 22 June 2016, 22.18 crore Jan Dhan accounts have been opened. So Jan Dhan is, in fact, the first pan India comprehensive financial inclusion scheme. Comparing it to Swabhimaan is an apples-to-oranges comparison.
+
+(Source – http://www.pmjdy.gov.in/account)
+
+Score –
+
+PM – 0.75 (-0.25 for he could have chosen better words)
+
+Newslaundry – 0.25 (-0.75 for selective interpretation)
+
+
+
+Narendra Modi:
+
+“The bank that he was seeing from afar, now he is able to enter that bank. This brings about a psychological transformation. Looked at in another way, did you ever imagine that 40 thousand crores could be injected into the banking system by contributions from the poor?”
+
+Newslaundry:
+
+This claim is correct. Pradhan Mantri Jan Dhan Yojana deposits, as of May, 2016, stand at Rs 38,048 crore.
+
+
+
+Fact Check: Newslaundry is correct. The latest data says that the total balance in Jan Dhan accounts is Rs. 39152.86 crore as on 22 June 2016. (Source – http://www.pmjdy.gov.in/account)
+
+Score –
+
+PM – 1
+
+NL – 1
+
+
+
+On the Pradhan Mantri Mudra Yojana:
+
+Narendra Modi:
+
+“Now, like the initiative we have taken, we have started the Mudra Yojana. More than three crore people in the country comprise washermen, barbers, milkman, newspaper vendors, cart vendors. We have given them nearly 1.25 lakh crore rupees without any guarantee.
+
+Now just think, when three crore of these small businesses have got access to finance, they must have expanded their work. Now all this is not in the Labour Department’s registration. Three crore people have expanded their work.”
+
+Newslaundry:
+
+The government too has claimed that under the Pradhan Mantri Mudra Yojana (PMMY), 3.5 crore beneficiaries have availed loans worth Rs 1.22 lakh crore. However, the effect the scheme has had in boosting entrepreneurship and providing employment in the unorganised sector cannot be measured, as the Prime Minister himself suggests.
+
+Fact Check: The PM never quantified the employment generation effect of PMMY. So NL’s fact check should have been limited to verifying the loan amount and number of beneficiaries quoted by him. But NL deducted 0.5 from the score, saying that the effects of PMMY cannot be measured. I would recommend NL writers to do a course in basic economics before making such assertions. Government spending, regardless of the form of spending, always has a positive effect on employment opportunities, especially when the nature of spending is diversified (PMMY is not limited to any specific sector).
+
+Score –
+
+PM – 1
+
+NL – 0.5
+
+
+
+On the Pradhan Mantri Fasal Beema Yojana:
+
+Narendra Modi:
+
+“After Independence, for the first time, we have brought in Pradhan Mantri Fasal Beema Yojana which can cover maximum number of farmers.”
+
+Newslaundry:
+
+Crop insurance schemes have existed in India since 1985, when the Comprehensive Crop Insurance Scheme (CCIS) was launched by the Congress-led government. Since 1999, the National Agricultural Insurance Scheme (NAIS) and Modified National Agricultural Insurance Scheme (MNAIS) have been functioning. Claiming that the Pradhan Mantri Fasal Beema Yojana (PMFBY) is the first such scheme since Independence is thoroughly misleading. As for the claim that PMFBY “can cover maximum number of farmers”, it’s not possible to verify it as enrolment is still going on for the scheme.
+
+
+
+Fact Check: NL selectively chose only the first part of PM’s statement. For fact check, the statement must be considered in its entirety – After Independence, for the first time, we have brought in Pradhan Mantri Fasal Beema Yojana which can cover maximum number of farmers.” The last part of the sentence is important.
+
+CCIS was implemented only in 15 states and 2 UTs. NAIS and MNAIS, had failed to address the issues of high premium, linkage to crop loans and cap on claims. Due to the abysmal coverage they provided, most farmers were hesitant to subscribe to them. PMFBY aims to address these issues and will be a pan India scheme. So the PM is right in saying that this is the first scheme after independence which can cover maximum number of farmers.
+
+Score –
+
+PM – 0.75 (-0.25 for he could have chosen better words)
+
+NL – 0.5
+
+
+
+Narendra Modi:
+
+“The farmer will have to pay only 2%, the government will take care of the rest.”
+
+Newslaundry:
+
+Under the scheme, farmers will have to pay a premium of 1.5-2% for food grains and oilseed crops. Also for cotton or horticultural crops, the premium can be as high as 5%. In contrast, under NAIS, premium rates were 1.5-3.5% for food grains and oilseed crops. Also, under MNAIS, premium rates were 2-15% (actual premiums under MNAIS could run up to 57%).
+
+
+
+Fact check: Newslaundry’s research is correct.
+
+Score –
+
+PM – 1
+
+NL – 1
+
+
+
+On development of infrastructure:
+
+Narendra Modi:
+
+“You must have seen that the maximum electricity generation since Independence has occurred this year.”
+
+Newslaundry:
+
+The Prime Minister’s claim is true, but PM Manmohan Singh could have made the same claim in 2007, 2012 and 2013, as could Atal Bihari Vajpayee in 2002. According to this government report (which traces the growth of India’s electricity sector), installed generating capacity has increased with every five-year plan from 1947-2015.
+
+
+
+Fact check: Newslaundry tactfully shifts the goalpost to installed generation capacity from actual power generation. While all governments deserve credit for capacity addition, India has always faced power shortage, primarily due to coal shortage and mismanaged discoms. Modi govt tackled this challenge head on and as a result, for the first time in history, India will not have power deficit situation.
+
+Score –
+
+PM – 1
+
+NL – 0.25 (-0.75 for shifting the goalpost)
+
+
+
+Narendra Modi:
+
+“The maximum amount of coal mined has been in this year.”
+
+Newslaundry:
+
+According to this report from the National Statistical Organisation, production of coal and lignite has increased year-on-year between 2005 and 2014. Growth in coal production slumped between 2011 and 2012, but historically, production has yet to fall in absolute terms.
+
+
+
+Fact Check: NL again fails to read the statement in the context of what Modi govt inherited from UPA. Coal sector was plagued with scams and inefficiencies. Piyush Goyal introduced transparent practises like e-auctioning of coal blocks and removed bottlenecks. Result – Average coal stock in power plants increased by 200%, coal imports reduced, fuel costs for power plants are likely to go down and for the first time CIL is looking at commercially exporting coal to other countries.
+
+Score –
+
+PM – 0.75 (-0.25 for he could have given more details on coal reforms)
+
+NL: 0.25 (-0.75 for shifting the goalpost)
+
+
+
+Narendra Modi:
+
+“The maximum length of roads being constructed daily is happening in this year.”
+
+Newslaundry:
+
+Minister for Road Transport and Highways Nitin Gadkari too has claimed that the government is building roads at an all-time high rate of 20 kilometres per day. The data, however, says that since the NDA government came to power in 2014, the highest rate of road construction was 15.70 km/day between April 2015 and January 2016. Moreover, this rate was matched by the previous UPA government in 2012-2013.
+
+
+
+Fact Check: The construction of highways touched an all-time high of 6,029km during 2015-16. UPA had achieved maximum of 5,732 km of national highways during 2012-13. Moreover, as of June 2016, NDA govt is on course to construct 28 KM of highways per day.
+
+Score –
+
+PM – 1
+
+NL – 0.25 (-0.75 for using old data points)
+
+
+
+Narendra Modi:
+
+“The fastest loading and unloading of steamers at sea ports is happening now.”
+
+Newslaundry:
+
+Data for container traffic (unloaded/loaded) is not publicly available beyond 2013-2014, so it isn’t possible to confirm the Prime Minister’s claim. There is, however, information available about the total cargo traffic at India’s major ports for 2015. The tentative estimate for total cargo handled in 2014-2015 is 5,81,344 thousand tonnes — against 5,55,487 thousand tonnes in 2013-2014, a projected growth of 4.65%. In absolute terms, the amount of cargo moved is the highest since 1994-95.
+
+Fact Check: The average turnaround time in 2013-14 was 2.32 days, which reduced to 2.12 days in 2015-16.
+
+Source – http://www.business-standard.com/article/economy-policy/shipshape-performance-at-india-s-12-major-ports-116021501268_1.html
+
+Score –
+
+PM – 1
+
+NL – 0.25 (-0.75 for poor research)
+
+
+
+On food inflation:
+
+Narendra Modi:
+
+“You see the fast pace at which prices were rising under the previous government, today that speed has decelerated a lot. You can see the statistics, you will find it there.”
+
+Newslaundry:
+
+While the PM is correct that food inflation is not as high as it was under the previous government, inflation for the month of May, 2016 was at 7.55%, the highest it has been since August, 2014. Two years of drought have definitely pushed the inflation up, but the government also had the advantage of historically low oil prices. Moreover, inflation has also been kept under check due to the Reserve Bank of India’s (RBI) inflation policy, which involved keeping repo rates high, for which the Governor attracted criticism from the PM’s party.
+
+Fact Check: Newslaundry’s fact check on PM’s statement is not a fact check, but an opinion. While the author agrees that PM was factually correct, he tries to credit low fuel prices and RBI policies for low inflation. I fail to understand how this changes the fact that the inflation has reduced.
+
+Score –
+
+PM – 1
+
+NL – 0.25 (-0.75 for trying to pass an opinion as a fact)
+
+Overall score –
+
+Narendra Modi – 9.25/10
+
+Newslaundry – 4.5/10
+
+Perhaps Newslaundry needs a lesson or two in research and fact-checking.
+
+Share This Post and Support:

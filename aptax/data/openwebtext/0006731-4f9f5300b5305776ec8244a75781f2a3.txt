@@ -1,0 +1,109 @@
+ORLANDO — Outgoing Microsoft CEO Steve Ballmer said that the company is moving toward one Windows across multiple screens and devices and that a touch-first Office will ultimately get to the iPad when it gets to Windows.
+
+Ballmer, speaking at the Gartner Symposium ITXpo, most likely made one of his final appearances before its core enterprise customers. The CIOs in attendance were all Microsoft customers in some form.
+
+In many respects, Ballmer defended and outlined Microsoft's current approach. He didn't cover a lot of new ground, but was typically animated and had his share of quips. The big takeaway is that Microsoft is aiming to be an integrator on multiple fronts.
+
+"We grew up as a company by dividing things into smaller manageable problems. The number one thing we're hearing from customers is that we want you to put it together," said Ballmer, who said Microsoft has to be an integrator.
+
+For Ballmer, putting it all together means hardware, but the heavy lifting will be on interfaces, developer tools and creating a common Windows platform for a heterogeneous world.
+
+See also: Microsoft talks up single app store at company meeting | Microsoft developer directions: One Windows core doesn't mean one store | Microsoft: 'Metro-Style' Office not due until 2014 | Microsoft working to unify further its Windows and Windows Phone platforms
+
+Ballmer said it's realistic to have one Windows platform across multiple screens. "Sometime in the next short cycle we'll see great progress on that. What it really means common user interface, common programming interface, common security architecture and user interface adaptability and common developer model and key services," said Ballmer.
+
+He noted that a common experience will be coming sooner rather than later, but "I'm not going to give you a schedule."
+
+"We need to build a common operating system as well as a common back end based on what the device knows about you," said Ballmer.
+
+As for other platforms, Ballmer said Microsoft has made Office and terminal services to the iPad. Lync and OneNote are native. Outlook may make sense, but hard to believe Apple will let us make that available, he said. Word and Office are optimized for keyboard and mice. "iPad will be picked up when there's a touch first user interface. That's in progress for Office," said Ballmer.
+
+Here's Ballmer on other key topics:
+
+What's the new dream for Microsoft? "We're talking about a new world and enabling people to achieve what's more valuable in life," said Ballmer. Devices and services are just the "how" behind those personal and professional lives.
+
+
+
+
+
+Have we completely redone the way people conduct themselves through digital techniques? Ballmer pointed out that the Gartner analysts had notebooks and pens. Paper is failsafe and prove that Microsoft can still add value. "Think about the way we conduct everyday tasks," said Ballmer. "We see a range of activities driven by software activities...that make us stronger."
+
+
+
+
+
+Partnership strategies. Ballmer said that partnerships with OEMs have changed over the last year. "We've spent a lot of time talking with our key partners about the need to push forward," said Ballmer. "We're pushing through with hardware innovation and we're also licensing. We see a world that's heterogeneous with Windows and things that are easier if we push forward with integration."
+
+
+
+
+
+Pen systems. "I believe in the power of the pen," said Ballmer. "I think a lot of systems will have a stylus built in. We're going to go all in." Microsoft's approach will be to make the big all-in bets and then give it to the ecosystem.
+
+
+
+
+
+Design. There's software and hardware design, said Ballmer. User interface is critical and there are a number of people focused on it. On the hardware side, Nokia will bring expertise to the table. Windows does form the center of design and interaction principles. Microsoft also has a design guide that all applications follow, said Ballmer.
+
+
+
+
+
+Spread too thin? "Our most ambitions competitors are trying to compete in all the same areas that we are," said Ballmer. "We have more success in more areas than anyone else does."
+
+
+
+
+
+Enterprise customers are asking three questions: How do I manage infrastructure? What will we use for business process? What will be use to empower our workers? "We have a broad footprint," said Ballmer.
+
+
+
+
+
+Multiple devices. If you're going to be on one screen you need to be on all of them (from a software perspective)," said Ballmer. He dismissed talk that about buying a PC vendor. Ballmer did say that Microsoft is working on an 82-inch screen Windows 8 device. "It looks great on a wall, but isn't very portable," he quipped.
+
+
+
+
+
+There's no disconnect between designing for consumer and enterprise. "People are people," said Ballmer. "They are people in their work and personal personas. Consumers want to have an integrated life." The biggest consumer businesses are Google, Apple and Microsoft, noted Ballmer. There are connections everywhere. For example, Microsoft needs to make Lync and Skype more interoperable to bridge both communication tools.
+
+
+
+
+
+Licensing. "What we've learned about licensing is the best thing we can do to make it simpler is not changing it," said Ballmer. About 10 years ago, Ballmer said Microsoft changed licensing and "we made every customer mad." Licensing changes cause more upheaval than wanting to simplify. "What we're doing is looking forward as we add SaaS and cloud options that we're not making things more complicated," said Ballmer.
+
+
+
+
+
+Developers solve tech problems. Ballmer said every problem in technology is fixed by developers. Developers, however, will operate differently. Deployments will happen more quickly. "The cycle from development, test to deployment will happen much faster," said Ballmer.
+
+
+
+
+
+Who is the top competitor? Google, Apple or Amazon. "All of the above," said Ballmer. The day you say it's all about one guy the other one emerges, said Ballmer. Apple and Samsung have grown revenue and earnings more than anyone else, he noted. Ballmer said five years ago he wouldn't have projected that outcome.
+
+
+
+
+
+Future trends. Ballmer was upbeat on the potential for learning machines and 3D printing. "We need to focus on enabling 3D printing," said Ballmer.
+
+
+
+
+
+What makes a great CIO? "It takes two things. One I do believe CIOs need to understand technology and feel comfortable. On the flip side, all CIOs need to understand the culture, go-to-market processes and the business processes. A lot of CIOs feel divorced from the business of the business," he said.
+
+
+
+
+
+Best places for tech to make a difference. Ballmer said education, healthcare and communication and making the world feel smaller via real-time translation software and other tools.
+
+Related stories:

@@ -1,0 +1,17 @@
+Waymo unveils a self-driving Chrysler Pacifica minivan during the North American International Auto Show in Detroit, Michigan, U.S., January 8, 2017. REUTERS/Brendan McDermid
+
+DETROIT (Reuters) - Google (GOOGL.O) unveiled its latest self-driving system in a Chrysler Pacifica minivan during a Sunday preview ahead of the Detroit auto show, saying the technology is more reliable and affordable.
+
+The announcement came from John Krafcik, head of Google’s Waymo unit, whose search for partners to develop and install the company’s autonomous driving technology into real cars has so far yielded only an alliance with Fiat Chrysler Automobiles (FCHA.MI)(FCAU.N) and a pending deal with Honda Motor Co (7267.T).
+
+Headlining a future mobility conference during the show’s media preview, Krafcik said Waymo’s latest set of self-driving hardware and software incorporated a new array of sensors, including an enhanced vision system, improved radar and laser-based lidar, all developed and built in-house.
+
+Krafcik said Waymo had reduced the cost of a single lidar unit by 90 percent, to about $7,500. Among major outside suppliers of this technology, Velodyne Lidar Inc and Quanergy Systems Inc both have said they are developing smaller solid-state lidar units that eventually would cost $200 or less.
+
+Waymo’s existing test fleet of self-driving cars, including some specially equipped Lexus RX450s and Google’s own “Firefly” prototypes, has accumulated nearly 2.5 million miles in less than eight years, mostly on city streets.
+
+Krafcik said Waymo planned to test the first self-driving Pacificas this month on public roads in California and Arizona. He did not say when the system would be ready to install in production vehicles.
+
+Delphi Automotive Plc (DLPH.N) and Mobileye NV MBLY.N have said they are collaborating on a self-driving system that could be sold to automakers beginning in 2019.
+
+Ford Motor Co (F.N), General Motors Co (GM.N) and BMW AG (BMWG.DE) have said they intend to introduce self-driving cars in 2021.

@@ -1,0 +1,91 @@
+|<
+
+< Prev
+
+Next >
+
+>| Git
+
+Title text: If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.
+
+Explanation [ edit ]
+
+This is Git [ edit ]
+
+Git is a version control system, used to manage the code in many millions of software projects. It is very powerful, and was amongst the first widely adopted tools to use a distributed version control model (the "beautiful graph theory tree model"), meaning that there is no single central repository of code. Instead, users share code back and forth to synchronise their repositories, and it is up to each project to define processes and procedures for managing the flow of changes into a stable software product.
+
+How do we use it? [ edit ]
+
+Although very powerful, the command line of Git is notoriously difficult to learn and master. Dozens of blog posts and websites (see [1], [2]), and even books ([3], [4]) have been written to help users navigate this complexity.
+
+The difficulty of using Git in common situations is contradicted by the apparent simplicity of its use in tutorial-style situations. Committing and sharing changes is fairly straightforward, for instance, but recovering from situations such as accidental commits, pushes or bad merges is difficult without a solid understanding of the rather large and complex conceptual model. For instance, three of the top five highest voted questions on Stack Overflow are questions about how to carry out relatively simple tasks: undoing the last commit, changing the last commit message, and deleting a remote branch.
+
+This comic thus explores the difference between the idealised view of Git's architecture, and its actual typical usage. Tutorials for Git tend to use simple systems in their examples, and only deal with the most basic commands to get started, which can create the misleading impression that Git can be used effectively without extensive study.
+
+Due to this problem, compounded by the fact that Git's commands are named differently from similar commands in other version control systems, many users (including Cueball) are unable to use it beyond basic commands, and might try to avoid problems by saving their code outside Git, downloading a newer copy, and then re-applying their changes to the new copy instead of trying to understand and use the features that exist in Git to accomplish this task.
+
+Memorize these shell commands [ edit ]
+
+Cueball suggests "just memoriz[ing] these shell commands and type them to sync up". He is probably referring to a sequence of commands such as:
+
+git pull # remote changes have now been received, so work on your file git add file.txt git commit -m "Added some text" git push
+
+If you get errors... [ edit ]
+
+As long as every contributor to the project follows these principles, this may suffice for a while. But many situations may cause "errors":
+
+merge conflicts (two people editing the same part of the same file)
+
+unmerged changes (another person committed a change before you did, so you need to merge their changes first)
+
+attempting to recover from a situation such as an accidental merge, and making the situation worse.
+
+In a situation such as a merge conflict, Git will show an error message such as:
+
+CONFLICT (modify/delete): README.md deleted in HEAD and modified in branch-b. Version branch-b of README.md left in tree. # Automatic merge failed; fix conflicts and then commit the result.
+
+Save your work elsewhere... [ edit ]
+
+Although Git experts can of course deal with such situations, the remedy proposed by Cueball is "save your work elsewhere, delete the project, and download a fresh copy". That is, to copy the files out of their local repository's working directory, delete that whole structure, then clone the remote repository again (and, implicitly, copy the saved work back again):
+
+# Copy files elsewhere mkdir /tmp/myproject cp * /tmp/myproject cd .. # delete the project rm -rf myproject
+
+# Download a fresh copy git clone https://github.com/myorg/myproject cd myproject
+
+# Copy saved work cp /tmp/myproject/* .
+
+Abandoning the old project likely means losing some work, but may be faster and give a more predictable outcome than attempting to salvage the situation. Applying this method to a mere merge conflict issue may prolong the issue however, as the merge conflicts may still be present.
+
+Title text [ edit ]
+
+The title text suggests an alternative method for working around Git's complexities, which reflects common practice: knowing a "Git expert" who can help in any situation. Such experts are somewhat notorious for waxing lyrically about Git's strengths, so it may be necessary to win their favour by first letting them ramble enthusiastically about it. They will hopefully eventually give the exact commands needed. In practice, the question-and-answer site Stack Overflow is frequently used for this exact purpose.
+
+It may even be a reference to the infamous tweet "Git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space" which has been discussed here but it is inconclusive whether a meaningful interpretation exists.
+
+Putting a telephone number of someone who "understands Git" into such a file is humorous because:
+
+Software teams would more normally use electronic means of communication
+
+Explaining Git over the phone to team members should not be necessary, as there is extensive help available online, and
+
+In the situation where many team members would need phone support to avoid or fix basic Git problems, this would be extremely distracting to the person whose phone number was given in the file.
+
+In short: programmers use version control systems to track changes to code. Most of these version control systems are quite similar and easy to learn if you already know another one. Git is a version control system based on completely different principles, and most programmers find it difficult to wrap their heads around it (although Git also offers a large number of nontrivial benefits over standard version control systems, which is why it is used). Cueball is one of those programmers.
+
+Trivia [ edit ]
+
+This comic is referenced on what if 153, the page where Randall, due to a problem with git, erroneously posted a draft of his what if? piece on peptides. As of December 17th, 2016 the page reads:
+
+Whoops This article is still in progress. An early draft was unintentionally posted here thanks to Randall's troubled approach to git, and it took a little bit to get everything sorted out and rolled back. Sorry for the mixup!
+
+The comic 1296: Git Commit also features Git.
+
+Transcript [ edit ]
+
+[Cueball points to a computer on a desk while Ponytail and Hairy are standing further away behind an office chair.] Cueball: This is git. It tracks collaborative work on projects through a beautiful distributed graph theory tree model. Ponytail: Cool. How do we use it? Cueball: No idea. Just memorize these shell commands and type them to sync up. If you get errors, save your work elsewhere, delete the project, and download a fresh copy.
+
+
+
+
+
+Discussion

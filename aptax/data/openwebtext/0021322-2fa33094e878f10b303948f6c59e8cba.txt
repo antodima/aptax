@@ -1,0 +1,41 @@
+HTML5 Video at Netflix
+
+Netflix Technology Blog Blocked Unblock Follow Following Apr 14, 2013
+
+by Anthony Park and Mark Watson
+
+
+
+Today, we’re excited to talk about proposed extensions to HTML5 video that enable playback of premium video content on the web.
+
+
+
+We currently use Microsoft Silverlight to deliver streaming video to web browsers on the PC and Mac. It provides a high-quality streaming experience and lets us easily experiment with improvements to our adaptive streaming algorithms. But since Microsoft announced the end of life of Silverlight 5 in 2021, we need to find a replacement some time within the next 8 years. We’d like to share some progress we’ve made towards our goal of moving to HTML5 video.
+
+Silverlight and Browser Plugins
+
+Silverlight is a browser plugin which allows our customers to simply click “Play” on the Netflix website and watch their favorite movies or TV shows, but browser plugins have a few disadvantages. First, customers need to install the browser plugin on their computer prior to streaming video. For some customers, Netflix might be the only service they use which requires the Silverlight browser plugin. Second, some view browser plugins as a security and privacy risk and choose not to install them or use tools to disable them. Third, not all browsers support plugins (eg: Safari on iOS, Internet Explorer in Metro mode on Windows 8), so the ability to use them across a wide range of devices and browsers is becoming increasingly limited. We’re interested to solve these problems as we move to our next generation of video playback on the web.
+
+HTML5 Premium Video Extensions
+
+Over the last year, we’ve been collaborating with other industry leaders on three W3C initiatives which are positioned to solve this problem of playing premium video content directly in the browser without the need for browser plugins such as Silverlight. We call these, collectively, the “HTML5 Premium Video Extensions”:
+
+Media Source Extensions (MSE)
+
+The W3C Media Source Extensions specification “extends HTMLMediaElement to allow JavaScript to generate media streams for playback.” This makes it possible for Netflix to download audio and video content from our content delivery networks and feed it into the video tag for playback. Since we can control how to download the audio/video content in our JavaScript code, we can choose the best HTTP server to use for content delivery based on real-time information, and we can implement critical behavior like failing over to alternate servers in the event of an interruption in content delivery. In addition, this allows us to implement our industry-leading adaptive streaming algorithms (real-time selection of audio/video bitrates based on available bandwidth and other factors) in our JavaScript code. Perhaps best of all, we can iterate on and improve our content delivery and adaptive streaming algorithms in JavaScript as our business needs change and as we continue to experiment.
+
+Encrypted Media Extensions (EME)
+
+The W3C Encrypted Media Extensions specification “extends HTMLMediaElement providing APIs to control playback of protected content.” The video content we stream to customers is protected with Digital Rights Management (DRM). This is a requirement for any premium subscription video service. The Encrypted Media Extensions allow us to play protected video content in the browser by providing a standardized way for DRM systems to be used with the media element. For example, the specification identifies an encrypted stream format (Common Encryption for the ISO file format, using AES-128 counter mode) and defines how the DRM license challenge/response is handled, both in ways that are independent of any particular DRM. We need to continue to use DRM whether we use a browser plugin or the HTML5 media element, and these extensions make it possible for us to integrate with a variety of DRM systems that may be used by the browser.
+
+Web Cryptography API (WebCrypto)
+
+The W3C Web Cryptography API specification defines an API for “basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption.” This API allows Netflix to encrypt and decrypt communication between our JavaScript and the Netflix servers. This is required to protect user data from inspection and tampering, and allows us to provide our subscription video service on the web.
+
+First Implementation in Chrome OS
+
+We’ve been working with Google to implement support for the HTML5 Premium Video Extensions in the Chrome browser, and we’ve just started using this technology on the Samsung ARM-Based Chromebook. Our player on this Chromebook device uses the Media Source Extensions and Encrypted Media Extensions to adaptively stream protected content.
+
+WebCrypto hasn’t been implemented in Chrome yet, so we’re using a Netflix-developed PPAPI (Pepper Plugin API) plugin which provides these cryptographic operations for now. We will remove this last remaining browser plugin as soon as WebCrypto is available directly in the Chrome browser. At that point, we can begin testing our new HTML5 video player on Windows and OS X.
+
+We’re excited about the future of premium video playback on the web, and we look forward to the day that these Premium Video Extensions are implemented in all browsers!

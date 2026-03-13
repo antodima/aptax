@@ -1,0 +1,25 @@
+The fates of immune cells can be decided at the initial division of a cell. Researchers at St. Jude Children's Research Hospital have discovered that the production of daughter cells with different roles in the immune system is driven by the lopsided distribution of the signaling protein c-Myc. Nudging c-Myc in one direction or the other could make vaccines more effective or advance immunotherapies for cancer treatment. The research appears online in the scientific journal Nature.
+
+
+
+The fate of daughter T cells in the immune system (lower cells in image) is decided at the first cell division and influenced by the expression level of c-Myc protein (green).
+
+Credit: Katherine Verbist, Ph.D., St. Jude The fate of daughter T cells in the immune system (lower cells in image) is decided at the first cell division and influenced by the expression level of c-Myc protein (green).Credit: Katherine Verbist, Ph.D., St. Jude
+
+Asymmetric cell division generates two types of cells with distinct properties. This type of cell division is essential for producing various cell types and plays an important role in development. Rather than producing two identical daughter cells, the cells undergoing asymmetric division produce daughter cells that are fated for vastly different roles. In the case of activated T cells, researchers knew that one daughter cell became the rapidly dividing effector T cells that launch the immediate attack on infectious agents and other threats. The other daughter cell became the slowly dividing memory T cells that function like sentries to provide long-term protection against recurring threats. Until now, the mechanism underlying the process was unknown.
+
+"Our study shows that the way in which the regulatory protein c-Myc distributes during asymmetric cell division directly influences the fate and roles of activated T cells," said corresponding author Douglas Green, Ph.D., St. Jude Department of Immunology chair. "We also show how this asymmetry is established and sustained."
+
+The researchers worked with cells growing in the laboratory and in mice. Scientists showed that during asymmetric cell division of activated T cells, high levels of c-Myc accumulated in one daughter cell. There, c-Myc functioned like a shot of caffeine to launch and sustain the rapid proliferation of effector T cells, including those in mice infected with the influenza virus. In contrast, the daughter cells with low levels of c-Myc functioned like memory T cells, proliferating to mount an immune response a month later when mice were again exposed to the virus.
+
+Researchers also identified the metabolic and signaling pathways that serve as a positive feedback loop to sustain the high levels of c-Myc that effector T-cells require to maintain their identities and function. The scientists showed that disrupting certain components of the system disturbed c-Myc production, which altered the fate of T cells and caused effector T cells to operate like memory T cells.
+
+"Our work suggests that it may be possible to manipulate the immune response by nudging production of c-Myc in one direction or the other," Green said. "Potentially that could mean more effective vaccines or help to advance T-cell immune therapy for cancer treatment."
+
+c-Myc is an important transcription factor that regulates expression of a variety of genes and plays a pivotal role in cell growth, differentiation and death via apoptosis (programmed cell death). Excessive or inappropriate production of c-Myc is a hallmark of a wide variety of cancers. Previous research from Green and his colleagues showed that c-Myc also drives metabolic changes following T cell activation. The metabolic reprogramming fuels proliferation of effector T cells. "Activated T cells divide every four to six hours. There is no other cell in adults that can divide that fast, not even cancer cells," Green explained.
+
+In this study, the researchers observed several metabolic changes that arose from the way c-Myc partitioned in the cell. These metabolic changes help regulate the way the cells divide, proliferate and differentiate. In a series of experiments, researchers showed how manipulating that system could affect T cell fate following asymmetric cell division by modifying production of c-Myc. "While daughter cells of activated T cells seem to have very different fates, we showed their behavior could be altered by manipulating these metabolic and regulatory pathways to increase or decrease c-Myc levels." Green said.
+
+Asymmetric cell division is an important driver of other fundamental processes in cells, including early embryonic development and the self-renewal of stem cells.
+
+"Similar control mechanisms exist in other cells that divide asymmetrically, including stem cells in the digestive and nervous systems," he added.

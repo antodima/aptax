@@ -1,0 +1,43 @@
+PITTSBURGH (December 7, 2016) … Research at the University of Pittsburgh’s Swanson School of Engineering focused on developing a new catalyst that would lead to large-scale implementation of capture and conversion of carbon dioxide (CO 2 ) was recently published in the Royal Society of Chemistry journal Catalysis Science & Technology.
+
+
+
+Principal investigator is Karl Johnson, the William Kepler Whiteford Professor in the Swanson School's Department of Chemical & Petroleum Engineering. Postdoctoral associate Jingyun Ye is lead author. The article “Catalytic Hydrogenation of CO 2 to Methanol in a Lewis Pair Functionalized MOF” (DOI: 10.1039/C6CY01245K), is featured on the cover of Catalysis Science & Technology (vol. 6, no. 24) and builds upon Dr. Johnson’s previous research that identified the two main factors for determining the optimal catalyst for turning atmospheric CO 2 into liquid fuel. The research was conducted using computational resources at the University’s Center for Simulation and Modeling.
+
+
+
+“Capture and conversion of CO 2 to methanol has the potential to solve two problems at once – reducing net carbon dioxide emissions while generating cleaner fuels,” Dr. Johnson explained. “Currently, however, it is a complex and expensive process that is not economically feasible. Because of this, we wanted to simplify the catalytic process as much as possible to create a sustainable and cost-effective method for converting CO 2 to fuel – essentially to reduce the number of steps involved from several to one.”
+
+
+
+Johnson and Ye focused on computationally designing a catalyst capable of producing methanol from CO 2 and H 2 utilizing metal organic frameworks (MOFs), which potentially provide a pathway to a single-process unit for carbon capture and conversion. The MOFs could dramatically reduce the cost of carbon capture and conversion, bringing the potential of CO 2 as a viable feedstock for fuels closer to reality.
+
+
+
+“Methanol synthesis has been extensively studied because methanol can work in existing systems such as engines and fuel cells, and can be easily transported and stored. Methanol is also a starting point for producing many other useful chemicals,” Dr. Johnson said. “This new MOF catalyst could provide the key to close the carbon loop and generate fuel from CO 2 , analogously to how a plant converts carbon dioxide to hydrocarbons.”
+
+This work was supported by a grant from the U.S. Department of Energy (Grant No. DE-FG02-10ER16165).
+
+Image above and cover inset: Artist's conception of a catalyst (light blue and gray framework) capable of capturing CO 2 (red and gray molecules on left side) and, along with hydrogen (white molecules) converting it to methanol (red, gray and white molecules on the right).
+
+###
+
+
+
+About the Johnson Research Group
+
+The Johnson Research Group at the University of Pittsburgh uses atomistic modeling to tackle fundamental problems over a wide range of subject areas in chemical engineering, including the study of the molecular design of nanoporous sorbents for the capture of carbon dioxide, the transport of gases and liquids through carbon nanotube membranes, chemical reactions with doped carbon nanotubes, development of CO 2 -soluble polymers and CO 2 thickeners, and hydrogen storage with complex hydrides.
+
+
+
+About Dr. Johnson
+
+Karl Johnson is co-director of the Center for Simulation and Modeling at the University of Pittsburgh and a member of the Pittsburgh Quantum Institute. He received his bachelor’s and master’s of science degrees in chemical engineering from Brigham Young University. In 1992, he received his PhD in chemical engineering with a minor in computer science from Cornell University.
+
+
+
+
+
+Author: Paul Kovach, Director of Marketing and Communications, 12/7/2016
+
+Contact: Paul Kovach

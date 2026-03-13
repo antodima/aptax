@@ -1,0 +1,15 @@
+UBS, Deutsche Bank, Santander and BNY Mellon announced their “utility settlement coin,” a new digital asset they hope will become the industry standard for blockchain settlements. They expect banks will initially use the coin for post-trade settlement and clearing by early 2018, after they secure blessing from regulators and central banks.
+
+While this development signals significant market traction for an institutional use of digital assets, I have to say it’s deeply misguided. A bank-issued digital asset can only really efficiently settle between the banks who issued it. Then, two scenarios can play out.
+
+Scenario one: all banks around the world put aside competitive and geopolitical differences, adopt the same digital asset, agree on its rules, and harmoniously govern its usage. Fat chance.
+
+Scenario two (the more likely scenario): banks not in the issuing group issue their own digital assets with their own sets of rules and governance.
+
+We’re kinda seeing this already, as the FT points out, with Citi’s Citicoin and Goldman Sachs’ SETLcoin. The result would be an even more fragmented currency landscape than what we have today. If banks of different digital asset groups want to settle trades with one another, they’ll have to make markets between their unique digital assets or trade between their digital assets and a common fiat currency. What a mess!
+
+The second big problem with the “utility settlement coin” is it seems it’ll be backed by a basket of currencies. Once backed by cash, it’s no longer an asset; it’s a liability. Trading liabilities then ultimately requires moving cash across borders, re-creating today’s system but adding more friction!
+
+We strongly believe banks need an independent digital asset to enable truly efficient settlement and we believe XRP is best positioned for that role. It goes back to the fundamentals of what makes digital assets unique and special - they’re universal currencies, meaning anyone can use them as units of value anywhere in the world. That universality gives digital assets global reach and the ability to settle much faster than traditional assets.
+
+Compared head to head with other independent digital assets (like bitcoin or ether), XRP settles the most efficiently cross-border, in just seconds. In fact, we’ve run tests with global banks to prove XRP can lower liquidity costs for cross-border trades. More to come on that front.

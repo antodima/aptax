@@ -1,0 +1,23 @@
+In the Electoral College White Votes Matter More
+
+Lara Merling and Dean Baker
+
+For the second time in the last five elections we are seeing a situation where the candidate who came in second in the popular vote ends up in the White House. This is of course due to the Electoral College.
+
+
+
+As just about everyone knows, the Electoral College can lead to this result since it follows a winner take all rule (with the exception of Nebraska and Maine). A candidate gets all the electoral votes of a state whether they win it by one vote or one million. In this election, Secretary Clinton ran up huge majorities in California and New York, but her large margins meant nothing in the Electoral College.
+
+
+
+In addition to the problem of this winner take all logic, there is also the issue that people in large states are explicitly underrepresented in the Electoral College. While votes are roughly proportionately distributed, since even the smallest states are guaranteed three votes, the people in these states end up being over-represented in the Electoral College. For example, in Wyoming, there is an electoral vote for every 195,000 residents, in North Dakota there is one for every 252,000, and in Rhode Island one for every 264,000. On the other hand, in California there is an electoral vote for every 711,000 residents, in Florida one for every 699,000, and in Texas one for every 723,000.
+
+
+
+The states that are overrepresented in the Electoral College also happen to be less diverse than the country as a whole. Wyoming is 84 percent white, North Dakota is 86 percent white, and Rhode Island is 74 percent white, while in California only 38 percent of the population is white, in Florida 55 percent, and in Texas 43 percent. White people tend to live in states where their vote counts more, and minorities in places where it counts less. This means that the Electoral College not only can produce results that conflict with a majority vote, but it is biased in a way that amplifies the votes of white people and reduces the voice of minorities.
+
+The figure illustrates the gap in Electoral College representation for minority voters. Based on the weight of each vote in each state and given the fact that most minority voters reside in states where each person’s vote counts less in the Electoral College, the result is minority voters are grossly underrepresented. African American votes on average have a weight that is 95 percent as much as white votes, Hispanic votes are on average 91 percent, and Asian American votes, 93 percent as much of a white vote. In the Electoral College, white votes matter more.
+
+Addendum
+
+It is worth noting that there is a fix to this problem which does not require a constitutional amendment or even action by Congress. The organization, National Popular Vote, has been pushing states to pass legislation whereby their electoral votes will go to the winner of the national popular vote. This switch does not happen until states representing a majority of electoral votes have passed the same legislation. At that point, the winner of the popular vote will automatically be the winner of the electoral vote.

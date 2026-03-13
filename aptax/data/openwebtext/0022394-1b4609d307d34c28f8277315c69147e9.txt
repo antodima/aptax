@@ -1,0 +1,25 @@
+Quasars are supermassive black holes located at the center of distant, massive galaxies. They are the brightest objects in the universe, and display a mysterious diversity in their appearance that has puzzled astronomers for over 20 years.
+
+According to NASA, quasars exhibit a broad range of outward appearances when viewed by astronomers, reflecting the variety in the conditions of the regions close to their centers.
+
+Now, this mystery can be solved by looking at two simple features of quasars — how quickly matter is getting fed into the quasars and the direction from which the quasars are seen.
+
+The study comes from the Carnegie Observatories‘ Hubble Fellow Yue Shen – who describes himself as a “quasarologist” – and Luis Ho of the Kavli Institute for Astronomy and Astrophysics (KIAA) at Peking University. They note that:
+
+Quasars are rapidly accreting supermassive black holes at the centers of massive galaxies. They display a broad range of properties across all wavelengths, reflecting the diversity in the physical conditions of the regions close to the central engine [black hole]. These properties, however, are not random, but form well-defined trends.
+
+Using the largest and most-homogeneous sample to date of over 20,000 quasars from the Sloan Digital Sky Survey, combined with several novel statistical tests, Shen and Ho were able to demonstrate that one particular property related to the accretion of the hole, called the Eddington ratio, is the driving force behind the so-called main sequence.
+
+The Eddington ratio describes the efficiency of matter fueling the black hole, the competition between the gravitational force pulling matter inward and the luminosity driving radiation outward. This push and pull between gravity and luminosity has long been suspected to be the primary driver behind the so-called main sequence, and their work at long last confirms this hypothesis.
+
+Of additional importance, they found that the orientation of an astronomer’s line-of-sight when looking down into the black hole’s inner region plays a significant role in the observation of the fast-moving gas innermost to the hole, which produces the broad emission lines in quasar spectra.
+
+This changes scientists’ understanding of the geometry of the line-emitting region closest to the black hole, a place called the broad-line region: the gas is distributed in a flattened, pancake-like configuration. Going forward, this will help astronomers improve their measurements of black hole masses for quasars.
+
+“Our work solves a two-decade-long mystery in quasar research,” lead study author Yue Shen, an astronomer at the Carnegie Observatories in Pasadena, Calif.
+
+“Our findings have profound implications for quasar research,” Shen said in a statement. “This simple unification scheme presents a pathway to better understand how supermassive black holes accrete matter and interplay with their environments.”
+
+Shen also noted there are several ongoing quasar surveys that will provide even more data.
+
+Source: http://goo.gl/kZBu0Z

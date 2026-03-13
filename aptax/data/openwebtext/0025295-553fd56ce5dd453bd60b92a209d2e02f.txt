@@ -1,0 +1,5 @@
+
+
+
+
+Whether it is the driverless cars technology or high-end robotics , Linux is becoming the preferred platform of choice in many high-tech fields. Dronecode Project by Linux Foundation is the latest attempt at creating a new unified Linux based platform to be used in Drones of the future.The Linux Foundation announced on October 13 at LinuxCon Europe the founding of the Dronecode Project. The goal of this project is to unify existing open-source drone projects and assets under a non-profit structure. Eventually, there will be a Linux based platform for Unmanned Aerial Vehicles (UAVs).The project's founding members include 3D Robotics, Baidu, Box, DroneDeploy, jDrones, Laser Navigation, SkyWard, Squadrone System, Walkera and Yuneec. It is reported elsewhere that Qualcomm and Intel are also joining the efforts to build a truly opensource platform for UAVs.Dronecode already has more than 1,200 developers working the project. The platform is also being adopted by many of drone companies such Skycatch, DroneDeploy, HobbyKing, Horizon Ag, PrecisionHawk, Agribotics, and Walkera.[Further reading @ ZDNet.com

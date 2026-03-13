@@ -1,0 +1,55 @@
+In the latest episode of Sonic Touch, Nick and Gaz dig into the new Arturia iMini, and even compare it to a Model D Minimoog.
+
+Here’s an earlier comparison between Arturia iMini and the desktop version, Mini V.
+
+Features:
+
+Minimoog sound.
+
+3 Oscillators
+
+24db per octave filter.
+
+Simulated headphone jack/external input feedback.
+
+2 Assignable XY pads
+
+Chromatic or tuned scale keyboard modes
+
+Polyphonic mode
+
+Full featured arpeggiator
+
+Repeat
+
+HOLD and MEMORY latch modes
+
+Octave span
+
+5 note order modes
+
+Speed and sync controls
+
+Virtual Analog Chorus
+
+Virtual Analog Delay
+
+Owners of both the iMini and Mini V software apps can transfer sounds from one platform to the other via iTunes.
+
+Full user MIDI mapping of panel controls.
+
+Supports WIST sync with other iOS devices.
+
+Tabletop Ready
+
+Soundcloud seeder (via Tabletop)
+
+Render to .wav file (via Tabletop)
+
+Audiocopy to paste your audio into another iPAD application. (via Tabletop)
+
+Arturia iMini is available now for US $9.99 in the App Store.
+
+Here are the audio examples mentioned in the review:
+
+via sonicstate

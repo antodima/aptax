@@ -1,0 +1,37 @@
+The popular replacement browser Skyfire has been updated to version 3.0 for Android, which adds additional social networking support. Skyfire has enhanced Facebook Connect to allow the user to easily stream videos shared from friends, and to make it easier to share content with your friends.
+
+Skyfire 3.0 also adds Facebook’s Social Graph and Like Button to every page you visit, making it even easier to share content. If you would like to download Skyfire, you can do so from our app database.
+
+Continue after the break for the full presser.
+
+Skyfire 3.0 Browser for Android Mobile Phones layers the Facebook Social Graph over the entire mobile browsing experience
+
+Mountain View, Calif. – November 23, 2010 – Today Skyfire, maker of the award-winning browser for mobile devices, announces the launch of Skyfire 3.0 with Facebook Connect for Android 2.0 and higher devices. With this new version of the popular Android application, the company ushers in an entirely new way to experience the mobile Internet, geared to the needs of the social networking generation.
+
+The world’s smartest mobile browser is now the world’s most social browser. Skyfire brings the true power of Facebook to your Android device with easy streaming of videos shared from friends, quick news feed access, an easy way to see the most popular ‘liked’ articles on any site, and more.
+
+Skyfire for Android is one of the most popular third-party apps on the platform with almost two million users. Earlier versions of Skyfire launched the SkyBarTM, a cloud-powered toolbar that allows users to watch video, view related content, and easily share content with friends. With Skyfire 3.0, the browser takes social integration to the next level, by integrating Facebook directly into the SkyBar.
+
+Skyfire 3.0 with Facebook Connect seamlessly integrates Facebook’s Social Graph and Like Button onto every page of the Internet. With a single click, users can quickly check their Facebook Page, “Like” or share any Internet content, see the most “liked” content on any site recommended by their friends (or the general Facebook community), and seamlessly view videos and other Facebook links posted by friends.
+
+New Features in Skyfire 3.0 with Facebook Connect Include:
+
+· Popular Content – You just finished reading a story on one of your favorite web sites and want to quickly decide what to read next. Click on the Popular button on the SkybarTM and instantly see what content on the site is most popular within the 500+ million user Facebook community. Recommendations from friends are prioritized and show up at the top of the list.
+
+· FireplaceTM Feed Reader – A simple but addictive tool that provides a filtered list of your Facebook feed that only includes links to browsable web pages, images, and videos posted by your Facebook friends.
+
+· Facebook Portal Integration – With a single touch you have access to your Facebook feed, profile and fast-growing location service Places.
+
+· Facebook Like Button – Skyfire 3.0 puts the Facebook Like Button on EVERY PAGE of the Internet. No scrolling around searching for the button on the page, simply click on the SkybarTM Like Button to easily “like” or “unlike” the page you are viewing or to share the page with your friends via Facebook, Twitter, or email.
+
+· Skyfire OneTouch SearchTM – Users enter a single search term and can choose to search Google, Facebook, VideoSurf, Digg, Twitter, or Amazon with a single touch and without having to navigate to separate sites.
+
+“Skyfire 3.0 with Facebook Connect makes mobile browsing social,” said Jeff Glueck, CEO of Skyfire. “This is just the latest innovation made possible by Skyfire’s Rocket PlatformTM and illustrates why Skyfire, as the first browser ever powered by a cloud service, is a must-have for smartphone users.”
+
+Skyfire 3.0 with Facebook Connect for Android is now available for free for a limited time only in the Android Market.
+
+Note: Facebook and the Like Button are registered trademarks owned by Facebook Inc in the United States and/or other countries. Skyfire 3.0 with Facebook Connect is not affiliated with Facebook ™ but is authorized by Facebook to use the Facebook Connect trademark. Adobe and Flash are registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
+
+About Skyfire:
+
+Skyfire is dedicated to using cloud computing to improve multimedia experiences on mobile phones, and has created the first “Compression as a Service” (CAAS) offering for wireless carriers and device makers. Skyfire’s technology has been visible to consumers through the Skyfire browser app, which has enabled Skyfire to refine its technology with millions of users. The app was named the #2 App of All-Time for Android by TechCrunch, and was the top pick in a PC World September 2010 comparison of all Android browsers. Skyfire won the Best Mobile Application-People’s Voice at the 2009 Webby Awards and was named a Top App of 2009 by the New York Times’ Gadgetwise. Skyfire’s iPhone browser, launched in November 2010, quickly reached the top selling app rank on the Apple App StoreSM, as the first way for iOS users to access videos designed for the Adobe Flash PlayerTM. Skyfire is based in Mountain View, California, in the heart of Silicon Valley. For more information, visit www.skyfire.com, or follow Skyfire on Twitter at twitter.com/skyfire.

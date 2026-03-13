@@ -1,0 +1,15 @@
+MasterCard has published its roadmap for getting Americans to use chip-and-PIN cards in stores, following Visa's lead in proposing to replace swipe cards by April 2013.
+
+Over the next year, Americans will have to get used to entering a PIN when using a credit card, rather than scrawling a name (any name) as they do today. That's because MasterCard has joined Visa in pushing an April 2013 date on the implementation of chip-and-PIN terminals in US retailers.
+
+Shops will be encouraged to install chip-and-PIN kit with a combination of carrot and stick. MasterCard promises "true financial benefits for merchants as they implement EMV-compatible terminals", while NFC World reminds us that Visa is already threatening that "liability for counterfeit fraud may shift to the merchant's acquirer" if EMV isn't supported.
+
+EMV stands for Europay, MasterCard & Visa, and is the standard to which chip cards conform. When presented to a reader, the EMV chip takes part in a cryptographic exchange which makes the cards prohibitively expensive to forge. EMV chips – contact or contactless – are infinitely more secure than the basic RFID payment systems which got Forbes magazine into such a tizzy last week.
+
+But while the cards are much harder to forge, the PINs are harder to keep secret as they're used in every shop visited.
+
+The worst combination results from cash-point machines (ATMs) which haven't been upgraded to use the EMV chip, so are still dependent on the easily-copied magnetic stripe. Once such a machine has been located (just fry your own chip and then try to use different ATMs until you hit one that works), the fraudster can install a skimmer in any store, collecting the magnetic-stripe data, and then watch the customers entering their PINs.
+
+The solution is to upgrade all the cash points, but that takes time and money. Despite those issues, the introduction of chip-and-PIN has reduced fraud in Europe massively. The vast majority of fraud is now conducted over the internet through retailers who are prepared to deliver to somewhere other than the card-holder's address.
+
+So American retailers have 13 months to upgrade their terminals, and as just about every new EMV terminal now supports contactless (NFC) payments as well, it means every retailer will be able to start accepting Google Wallet payments too, just in time for the iPhone 5... ®

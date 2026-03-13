@@ -1,0 +1,37 @@
+TL;DR, Patreon got hacked. We reported a specific Remote Code Execution to them due to a public debugger before they were breached. We believe this was the attack method due to the simplicity and availability of the vulnerable endpoint. This is how you prevent this from happening to you.
+
+Yesterday Patreon, which is a funding platform for artists and creators, went out with a Security Notice about a compromise happening on the 28th of September on one of their debug versions which was publicly available. Shortly after that, data from this instance, which contained live data, was publicly posted which you can read about here and here.
+
+Their debug version of the application was running with the Werkzeug Debugger publicly available, this has also been shown in Shodan.io for at least a few weeks, this image is from the 11th of September:
+
+This domain was not accessible at this time since Shodan.io was last able to crawl it on the 5th of September.
+
+Werkzeug Debugger works in the way that, as soon as something in the code results in an exception or error, a console is opened:
+
+This is basically Remote Code Execution by design.
+
+An RCE is basically game over. You can inject code directly to the application, exposing all data on the server which the application has access to.
+
+Both the documentation of Werkzeug and Flask mentions this with large bold letters that youshould not expose this debugger online.
+
+What Shodan also exposed was that the Debugger got triggered, basically presenting the visitor with a RCE-console right away on the domain’s root URL just by visiting the domain .
+
+Now, Werkzeug requires an actual error to trigger the console, as it uses a secret key generated when the application starts, which is only exposed in the Werkzeug Debugger page. Without this secret key you cannot run any commands, that’s why you need an exception to reveal the secret. Also worth noting is that the debugger only accepts commands sent in by the GET-parameter, which will then show up in access logs on the vulnerable host, which is great for forensic analysis and investigation.
+
+Also, each line in the code responds to a frame which is also needed for the debugger to know exactly where in the code to run the command.
+
+A request is then made to:
+
+http://example.com/?__debugger__=yes&cmd=print+%221%22&frm=[FRAME]&s=[SECRET]
+
+which will return the result of the command.
+
+This has been discussed before, here’s one article by Colin Keigher on the 21st of December last year mentioning that people do actually expose these debug environments online: Remote code execution on misconfigured systems using Werkzeug.
+
+We reported this issue to Patreon on the 23rd of September when we noticed that the vulnerable host on Shodan was actually responding again. Patreon got back to us and told us that they knew about it and was currently working to mitigate it.
+
+We’ve also added into Detectify so we are checking for available Werkzeug Debuggers on the domains we’re analyzing.
+
+Unfortunately there are thousands of publicly available instances of Werkzeug Debugger out there and each and every one of them should take proper mitigation actions as if they have already been exploited.
+
+Author:

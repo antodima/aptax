@@ -1,0 +1,29 @@
+For all the fuss about Bitcoin — it is turning us all into tax-dodging, drug-taking criminals, etc., etc. — its most important impact might have nothing to do with money at all.
+
+The technology at the heart of Bitcoin is the world’s biggest and most powerful supercomputer. It could be this that has a real impact on all our futures. A network that is already as powerful as 500 supercomputers has to be taken seriously.
+
+Google, Facebook and the other internet giants spend billions of dollars on their networks of data centers. Companies switch computer processing from data centers around the world depending on off-peak electricity costs or the presence of colder temperatures to reduce cooling costs.
+
+The industry depends on tiny improvements in power or heat performance to cut prices for hosting websites or more complex computing functions.
+
+But the Bitcoin architecture of a perfectly distributed computer would allow its network to run almost any computing function.
+
+This isn’t the first such network … anyone remember SETI@home?
+
+SETI, which stands for the “search for extraterrestrial intelligence,” describes a variety of scientific efforts that have taken place over past decades to find and identify signs of intelligent life elsewhere in the universe. The SETI@home computing project, hosted by the Space Sciences Laboratory at the University of California-Berkeley, launched in May 1999. It asked ordinary internet users to download a small piece of software to help researchers search for aliens. This software used your computer downtime to check radio telescope signals for unexpected radio waves. The network of millions of machines was used to replace an actual supercomputer.
+
+Now with some three million client machines, the SETI@home network is still working and still looking for evidence of life on other planets. Various BitTorrent clients provide similar networked services.
+
+The Bitcoin network is even more sophisticated and more secure than either of these.
+
+Much has been made of how Bitcoin solves the problem of micro-payments. But what if it solved that problem in a totally different way?
+
+What if, for example, the Bitcoin network could be used to let future websites ask their users to provide computing power if they wished to access the site or services for free?
+
+“This could be a way to monetize your website,” computer security expert Mikko Hypponen told CoinDesk. “People’s computers could mine an alternative currency while they’re looking at your site or using your service. This could be better than funding sites through advertising.”
+
+But mining might just be the first iteration. You could use a network like Bitcoin’s to carry out almost any computing function currently provided by a data center.
+
+If your business can attract users — and their computers — it could use those machines to crunch numbers, send emails or handle any other processing required.
+
+Of course, online criminal types have been doing this for years with botnets. But Bitcoin might be the technology that makes the botnet mainstream, even if the currency itself does not survive. Just imagine: harnessing the Bitcoin network could give even the smallest startup access to an amazing amount of computing power.

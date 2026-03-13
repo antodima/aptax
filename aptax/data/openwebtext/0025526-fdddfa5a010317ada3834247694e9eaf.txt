@@ -1,0 +1,17 @@
+It seemed like any other job: "Java/J2EE contractors needed for a one-to-three month contract to maintain proprietary supply-chain management software." Sure, James C could have waited around to find something more interesting, but the pay was fantastic and, being such a short term contract, he figured he had little to lose. That is, until he came face to face with Codethulhu.
+
+It all started back in 2001, when a fairly-large manufacturing company decided to develop its own supply-chain management system. Being that they had no in-house development expertise, they sought help from the Great Old Consultants to build their software. And build it they did.
+
+The Great Old Consultants worked day and night to create the great system that would come to be known as Codethulhu. They used only the most diabolical of materials: a Dell SatanicEdge sever, J2EE (Java 2 Evil Edition, not to be confused with Java 2 Enterprise Edition), and the souls of a thousand orphans. Once their work was complete, the Great Old Consultants vanished, never to be seen again.
+
+Tried as they might, the company was unable to summon back the Great Old Consultants. This was particularly problematic because the Great Old Consultants took with them, the source code. With no source code available, there was simply no way to fix bugs and make changes to their custom, multi-million dollar software. That is, until one engineer had an idea: they could decompile the Java bytecode.
+
+Decompiled code is not a very pretty thing. Many of the "niceties" of Java code -- comments, variable names, differentiation between FOR and WHILE loops -- are simply non-existent. And when the original code is developed by the Great Old Consultants, it becomes much worse than "not very pretty." It becomes pure evil.
+
+The company decided against using source control to store their decompiled code. Instead, modules were decompiled on a "need-to-alter" basis, and then re-compiled and deployed once the code changes had been made. Over the years, the "code base" grew in size, in complexity, and in overall evilness. One contractor, then on the brink of insanity, said that he had decompiled/changed/recompiled the same module seven different times.
+
+No one can be certain exactly when it happened, but at some point during this cycle, Codethulhu was awoken. For every moment spent working with -- or even thinking about -- Codethulhu, one offers that much of his sanity to it. Eventually, one's mind will become permanently intertwined with the very code base of Codethulhu, joining countless others, and will be forever tormented by its endless diabolic cycle of decompilation/recompilation.
+
+Sadly, James is now one with Codethulhu and Codethulhu is one with James. By the time that James had figured all of this out, it was too late for him. His last act of sanity was to send in a partially coherent submission that warned everyone else of his fate and to be wary of that J2EE contract that looks "just like any other job."
+
+And on that note, Happy Holidays and Happy New Year, All! Today's article will be the last new one of 2006; the next week and a half will be "Best of 2006."

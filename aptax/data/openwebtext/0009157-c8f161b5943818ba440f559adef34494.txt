@@ -1,0 +1,21 @@
+Polar bear hairs are hollow to maximize insulating qualities of the animals' fur, as almost every student of the Arctic knows.
+
+But now a set of studies from China shows polar bear hairs are much more than simple tiny tubes.
+
+Detailed mathematical analysis of the hairs, published in the journal Thermal Science, finds they have complex structures that make them much better insulators than simple hollow hairs would be.
+
+Microscopic examination of polar bear hairs reveals their interior is a structure of membrane pores, researchers from several Chinese universities have found. The latest analysis finds the pore structure is arranged as a fractal, a series of repeating patterns spun off into smaller dimensions.
+
+Calculation of the pore structure finds the ratio of its dimensions to be close to a mathematical figure known as the "golden mean," the ideal dimension ratio for an infinitely spiraling fractal, says one study. The dimension ratio of the inner structure of the analyzed polar-bear hair was calculated at 1.625, close to the golden mean, which is also called Phi and is approximately 1.618; the golden mean "must reveal the possible optimal structure of polar bear hairs," the study says.
+
+Though it appears white, polar bear fur is translucent, helping it absorb environmental heat, the study points out. Without the interior pores' fractal arrangement, however, the translucent hair that absorbs light could easily send heat back out into the environment, the study says.
+
+A related study, with some of the same co-authors, calculates the equation for one-dimensional heat conduction through each "labyrinth cavity" of the hair. The authors used calculus to arrive at a differential equation showing how heat moves through the hairs.
+
+The studies -- the latest in a series on the same subject by the same group of Chinese researchers -- are not mere academic exercises.
+
+Understanding the structure and workings of polar-bear hairs "may find many potential applications in the future, especially in thermal insulation designs for extreme cases," said an earlier study by some of the same authors, published in 2011 in Thermal Science.
+
+They note in their studies that polar bears maintain body temperatures of 98.6 degrees in an environment where temperatures can dip as low as minus 76 degrees.
+
+The Chinese researchers are not alone in looking to polar-bear hair as a model for future heat-collecting and heat-holding products.

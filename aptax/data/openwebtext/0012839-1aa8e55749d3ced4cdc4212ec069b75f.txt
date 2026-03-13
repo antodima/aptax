@@ -1,0 +1,41 @@
+The planning of orthopedic surgeries is a difficult process. In a lot of ways, it's like working while wearing a blindfold; a surgeon can't see the bone that needs to be worked on until during the actual surgery, when time is most critical. Even with X-rays and CT scans, the raw data can be difficult to interpret correctly. Fortunately, open source software can (and does!) help reduce the guesswork.
+
+At the 2015 Blender Conference, Vasily Shishkin gave a very interesting talk on his research project and use of Blender and 3D printing in the planning and guiding of orthopedic surgery. (Fair warning: There are some graphic images of actual surgeries in his presentation, so please don't watch it if that kind of thing makes you uncomfortable. See the video at the end of the article.)
+
+You may find yourself thinking, "Wait a minute. Blender? The same Blender that's used for making pretty images and animations? That Blender?" Yes. That Blender.
+
+Despite the fantastically cool use case, the process Vasily uses is pretty straightforward. They take CT scans of the bones that they're doing surgery upon, as well as the corresponding healthy bones on the opposite side of the body. Those CT scans are converted into 3D mesh data and loaded into Blender. From within Blender, the mesh of the healthy bones are mirrored and serves as a template for showing the corrective action that needs to be performed on the bones that require surgery. The mesh can even be used to build precise 3D models of guides for aiding the surgical process. Those models get 3D printed and used during the actual surgery.
+
+Of course, this raises even more questions, so I managed to catch up with Vasily after the conference and sling a few of them at him.
+
+I found it interesting that you specifically chose Blender because it isn't a CAD package with a bunch of precision tools. However, you're also using 3D printing, which sometimes needs precision and accuracy. Has the lack of those tools or precision caused any problems for you?
+
+I use Blender because it's not overloaded with special engineering measurement tools for specific purposes such as determining wall thickness of an object or measuring the tension or torsion of materials that differ in density. We don't need that in clinical medicine.
+
+The human body has great adaptation mechanisms. The acceptable overall shortening of the extremities can be up to 4 cm. The body will adapt itself to changes in anatomy if they occur. But when they are severe and cause pain and discomfort to the patient, that's when surgeons come into play. If you miss a couple of millimeters during surgery on a large segment—a femur, for example—that's not a big deal. Smaller localizations obviously require more accuracy. What we need from Blender is 3D visualization to receive information about the deformity and to find a solution for correcting it. As for 3D printing, it works pretty well. We had no problems using it during our interventions.
+
+The accuracy depends mainly on the resolution of the CT data. We use the basic toolset—things like distance and angle measurement. The rest of the calculation is made according to the relative bone alignment of the healthy side.
+
+How complex are the 3D models that you're getting from the CT scans? How does Blender perform with that dense geometry?
+
+The models that we get in Blender can be really big—up to several millions of vertices—and it can be a problem. The less detailed the mesh, the less information we can get from it. Going lo-poly is not possible, as it diminishes details. So, we have to use decimation and re-meshing tools quite accurately in order to keep models informative. Overall Blender does well if you keep the vertices up to a reasonable amount of about 60,000 per model.
+
+Are there any changes that you've made to Blender or changes that you'd like to make in order to make it better suited to how you use it?
+
+I am currently working on an add-on that will allow new Blender users to work with the software straightaway. It's just a number of standard tools implemented in a panel, but I believe it could help people get acquainted with the system quite fast.
+
+How often do you use Blender to plan surgeries?
+
+In our clinic, every complex clinical case gets treated with the use of this system. It depends on many factors, but there is a problematic patient every now and then. At the moment we have such a case once a week for sure. At the moment, the total number of patients treated is more than 80.
+
+You mentioned in your conference talk that you'd like to have a custom script or tool written to better facilitate automatically aligning 3D models. Was there anyone at the conference who was able to help you with that? For the people who didn't attend the talk, could you explain why it would be so useful to you?
+
+The main advantage of this planning approach is that we use the patient's anatomy, relying on 3D CT scan data from the opposite limb as a reference or template for reconstruction. This gives a clear understanding about the amount of correction needed. We superimpose meshes of healthy and deformed bones and align the matching parts so the deviation becomes visible. This is done manually at the moment and takes time. Besides, bone anatomy can be quite complex to understand even for a doctor. Automating the alignment procedure of two similar meshes could help solve this problem.
+
+I've had some people approach me at the conference and had some emails afterwards. The proposals differ: some people are just interested while the others offer their programming skills. So if there is anyone out there who can help or give an advice on how to make automation possible that would be really great.
+
+What do other doctors think of this kind of technology?
+
+When I'm talking about this technique at medical meetings, reactions vary. Some surgeons are fascinated, while the others try to prove me that this thing is useless and there is nothing left to invent in surgery. Physicians are quite conservative, and it's hard to convince them to try something new and think outside the box. But I believe that in the future computer-assisted surgery will be a standard, just as computer-assisted design is in engineering today. After all, people will only benefit from receiving top-notch healthcare.
+
+Blender is a free and open source 3D creation suite. The Blender Conference is an annual event held in Amsterdam for developers, designers, and enthusiasts to learn more about Blender techniques, features, and tools.

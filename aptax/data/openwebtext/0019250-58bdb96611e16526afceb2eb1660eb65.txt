@@ -1,0 +1,39 @@
+The 2016 elections have seen a surge in contributions from “ghost corporations,” so-called because they are not functioning businesses or non-profits, and hence seem to exist solely to shield their owners’ identities.
+
+Ghost corporations are a particularly dangerous and alarming new twist in campaign financing in the wake of the Supreme Court’s 2010 Citizens United decision. They make a mockery of one of the central claims of that decision: that “prompt disclosure” and “transparency” would allow U.S. democracy to survive the unlimited flood of money into elections from individuals, corporations and unions.
+
+So exposing the real donors hiding behind ghost corporations is essential. And The Intercept has now determined the identity of the donor behind this cycle’s second-most generous ghost corporation, Children of Israel LLC. He is Saul Fox, a California private equity CEO.
+
+Children of Israel LLC contributed $150,000 in 2015 to Pursuing America’s Greatness, a Super PAC supporting Mike Huckabee’s presidential run; $400,000 in 2016 to Stand for Truth, a Super PAC supporting Ted Cruz; and $334,000 to the Republican National Committee.
+
+Fox’s motive in masking his identity is unknown. He did not respond to multiple requests for comment.
+
+Fox’s funding of Children of Israel LLC can be pieced together via a close examination of corporate and FEC filings, specifically a twice-amended Republican National Committee year-end filing for 2015.
+
+According to the Republican National Committee’s initial Jan. 31, 2016, filing with the FEC, Saul Fox personally gave the RNC the annual legal maximum of $334,000 on Dec. 10, 2015. (Congress recently crafted new rules that allow individuals to give $33,400 to national parties’ general accounts, and then $100,200 each to accounts for their headquarters, conventions and legal funds. There are therefore technically four separate donations.)
+
+In that original filing, Fox’s address is listed as being on a street in Cupertino in Silicon Valley. This address is the same as the home address of Shaofen Gao — a realtor in Silicon Valley who, in filings with the state of California, is listed as the registered agent for Children of Israel LLC.
+
+The RNC then amended that filing twice, most recently in May. The May filing has new information: it says for the first time that when the RNC received $334,000 on Dec. 10, 2015, the money came from Children of Israel. And the amended filing lists Fox, immediately after the Children of Israel entries — with the same transaction ID as the Children of Israel donations, with an “M” added at the end.
+
+The “M” stands for “memo,” and signifies that the entry is not a separate donation but exists to provide additional information about the Children of Israel contribution. In this case, the entry’s additional information is that the contribution from Children of Israel is attributable in full to Saul Fox.
+
+If limited liability companies like Children of Israel make political donations, and the LLC is treated as a partnership for tax purposes, federal regulations require the LLC to inform the recipients who the actual humans behind the company are. Then the recipients of the donations must disclose this in their filings with the Federal Election Commission. By May of this year, Fox and the RNC were doing that.
+
+But Children of Israel either failed to do so with its contributions to Pursuing American’s Greatness and Stand for Truth, or the two Super PACs simply chose to ignore it. According to Brendan Fisher, associate counsel of the political money watchdog group Campaign Legal Center, Fox and/or Children of Israel therefore violated prohibitions on “straw donor” contributions made in someone else’s name. (The CLC filed a complaint with the FEC against Children of Israel in March before Fox’s identity became known.)
+
+Pursuing America’s Greatness did not respond to questions. Stand for Truth’s treasurer stated that the Super PAC is “confident that its filings are accurate and comply with FEC regulations,” but would not say anything further because of “the complaint pending before the FEC.”
+
+The RNC’s amended, legally compliant filing came after the Campaign Legal Center filed its Children of Israel complaint. After a similar Campaign Legal Center complaint in 2011 about several corporate donations to Restore Our Future, the main Super PAC supporting Mitt Romney, a former Bain Capital official revealed that he had funded one of them. The RNC did not respond to requests for comment.
+
+This is not the first time Fox has been connected to donations whose true sources were obscured. During the 2012 campaign, a company called Mercury Trust gave $1 million to American Crossroads, a Super PAC co-founded by Karl Rove, and made a donation of $425,000 to Restore Our Future. Mercury Trust was later discovered to be affiliated with Fox Paine.
+
+Fox is also a prolific, longtime GOP donor under his own name. He most recently gave $100,000 to Team Ryan, a joint fundraising committee set up by Speaker of the House Paul Ryan, R-Wis., and $25,000 to Donald Trump’s joint fundraising committee.
+
+In addition to his Children of Israel contributions to their Super PACs, Fox personally gave $2,700 to Huckabee’s presidential campaign and $5,400 to Cruz’s.
+
+Fox also gave $5,400 to Marco Rubio’s campaign, as well as — surprisingly — $5,400 to campaign-finance reformer Lawrence Lessig’s abortive presidential run.
+
+The FEC took over four years to vote on whether to open an investigation into the similar Restore Our Future donations during the 2012 election cycle, and then deadlocked without taking any action. So imminent action at this point seems unlikely.
+
+The donor or donors behind Freedom Frontier, the most generous ghost corporation, remain unknown. Freedom Frontier is a Dallas 501(c)(4) nonprofit — a type of organization that can engage in political activity as long as that is not its primary focus. Freedom Frontier does not appear to have ever done anything except give $2,575,000 to various conservative Super PACs this election cycle.

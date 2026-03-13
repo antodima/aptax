@@ -1,0 +1,109 @@
+Shannon Dickson couldn’t get the words out of his mouth. On a Saturday morning, the retired engineer was at home in Sedona, Ariz., trying to talk to his wife on the phone. Dickson knew what he wanted to say, but suddenly he forgot how to speak.
+
+“I could really hear the kind of dragged-out slurry words,” he said, recalling the day in May 2014. “I thought, ‘This is not right.’”
+
+Dickson had suffered a stroke — and he was shocked. Just nine months earlier, he had undergone a novel procedure designed to prevent strokes in high-risk patients such as himself.
+
+advertisement
+
+But as Dickson’s surgeon would later tell him, the device used to seal off the left atrial appendage in his heart — where most blood clots form before traveling to the brain and causing stroke — had leaked. In fact, it had never been cleared by federal regulators for any heart procedure.
+
+Yet a STAT investigation has found that the device, called the Lariat, was widely recommended for that purpose by physicians — some with close ties to the manufacturer — and used in thousands of cardiac surgeries nationwide. Nearly all of the surgeries were performed on patients with atrial fibrillation, a common condition in which patients have an irregular heartbeat, putting them at high risk of stroke.
+
+At least six patients who had heart procedures similar to Dickson’s have died and 39 have suffered “serious adverse events,” including bleeding, lacerations, and unexpected drops in blood pressure, according to the Food and Drug Administration. Because many doctors fail to report problems to manufacturers, the number of adverse events, officials acknowledge, is likely greatly underreported.
+
+This summer, the FDA issued a public notice cautioning doctors against using the Lariat — manufactured by a California-based firm called SentreHEART — for tying off the left atrial appendage. The notice, however, has not stopped some clinicians and hospitals from continuing to tout the device as an effective tool in cardiovascular procedures. The warning also did not discourage the use of the device for its approved purpose: helping to stitch soft tissue in general.
+
+“I can see how it got slipped by. It’s a prime example of the defects in the … clearance process.” Dr. David Challoner, emeritus vice president for health affairs at the University of Florida
+
+The story of how the Lariat won FDA clearance and how quickly cardiologists began to use it to treat atrial fibrillation, despite the lack of evidence that the procedure was safe and effective, is a study in the weaknesses of the regulatory process for medical devices, according to legal experts, doctors, and even the FDA itself.
+
+The case also illustrates the difficulty the FDA faces in protecting patients. Because the agency doesn’t strictly oversee medical devices after they go to market, doctors may use them in whatever ways they think will best benefit their patients. But in the early years after a new device is cleared, doctors may disagree on what best practice means.
+
+A tiny lasso
+
+The idea behind the use of the Lariat in cases of cardiovascular procedures was straightforward. The Lariat resembles a tiny lasso. To treat patients, surgeons have used it to rope off the left atrial appendage in the heart. By sealing the appendage, the idea went, blood clots would be trapped and unable to migrate to the brain.
+
+In the case of Dickson, who suffered a rare heart condition, the procedure seemed to go well. But when his cardiologist, Dr. Andrea Natale, ordered a scan of Dickson’s heart, following the stroke, he discovered a problem: The pouch that was supposed to have been sealed by the Lariat had leaked.
+
+“The stroke was from the reopening,” said Natale, adding that the procedure had otherwise gone smoothly.
+
+Federal regulators didn’t know about Dickson’s case, but said they are worried about the rate of serious complications in people who have had the Lariat heart procedure. The FDA warning on the Lariat, which followed the release of several scientific journal studies and reviews critical of the device, is a carefully worded call for restraint: “Be aware that the safety and effectiveness of the Lariat Suture Delivery Device to close the [left atrial appendage] and prevent stroke in patients with atrial fibrillation has not been established. … consider treatment options for which safety and effectiveness have been established.”
+
+SentreHEART has defended its product. In interviews, Chief Executive Russell Seiber noted the Lariat was first approved by the FDA in 2006 to help stitch soft tissue. The company, he said, made no therapeutic claims for its use to treat atrial fibrillation, stroke, or anything else.
+
+“There was no call to action from the FDA,” Seiber said. “What it was is an awareness that the Lariat has not been studied yet for stroke.”
+
+Seiber, who co-founded SentreHEART in 2005 after stints in sales and marketing jobs at Procter & Gamble, Boston Scientific, and other firms that make medical devices, was adamant that the company has been transparent about the Lariat. And he said the number of adverse events must be considered in the context of the six-year period examined — during which, by some estimates, the Lariat has been used in 4,000 to 4,500 procedures like Dickson’s.
+
+“By anybody’s standard, that would not be considered risky,” Seiber said.
+
+The issue, federal regulators and outside experts say, comes down to how the Lariat got onto the market in the first place. At the time it was cleared by the FDA, the device appeared to resemble existing suture-closure products that had previously been cleared. And in its application to the agency, SentreHEART wrote only that the Lariat “facilitates suture placement and knot tying” for soft-tissue closures.
+
+There was no reference to the word “heart,” “stroke,” or atrial fibrillation, often called AFib.
+
+As a result, the FDA cleared the Lariat as part of a fast-track process known as the 510 (k) program, which permitted SentreHEART to avoid years of expensive clinical trials. And that, some experts say, was a problem.
+
+The company’s 510 (k) application, from the FDA files, “is almost stunning in its brevity,” said Dr. David Challoner, emeritus vice president for health affairs at the University of Florida, who oversaw a report about the FDA fast-track process for the U.S. Institute of Medicine in 2011.
+
+The report was fiercely critical of the 510 (k) program — named for the statute that gave the FDA authority to speed approval of low- and medium-risk medical devices — and recommended that it be overhauled by the agency.
+
+Challoner, who reviewed the FDA’s records on the Lariat at STAT’s request, said he doesn’t blame FDA regulators for not paying closer attention to the SentreHEART application.
+
+The FDA has to deal with thousands of 510 (k) applications a year, and where something appears to be simple and to be based upon existing device, Challoner said, “I can see how it got slipped by. It’s a prime example of the defects in the 510 (k) clearance process.”
+
+Seiber insisted that, in its application, SentreHEART never intended to seek approval of the Lariat for the treatment of patients with atrial fibrillation.
+
+Nevertheless, the company’s trademark application for the Lariat, filed in 2009 at the US Patent and Trademark Office, states the Lariat is “for treating diseases of the heart, specifically for ligating the left atrial appendage of the heart.”
+
+Seiber said the company had applied for patents for broad and narrow uses of the Lariat.
+
+‘A safe and effective way to close the appendage’
+
+Some cardiologists have also questioned how the Lariat was promoted for complex heart procedures after it was cleared only as a general suture closure device. Seiber said that SentreHEART had not promoted the Lariat for the heart procedure.
+
+“We cannot market for [stroke prevention] and we don’t,” Seiber said. “The company has never promoted the use of the product for anything beyond closure. You’ll never see anything, there has never been anything on our website with regards to stroke prevention.”
+
+Indeed, SentreHEART’s website does not mention stroke prevention. But a review of the websites of some of the company’s officers and consultants shows them promoting the Lariat for the treatment of atrial fibrillation, especially in patients who cannot or do not want to take blood thinners.
+
+On the website of The Texas Heart Institute, Dr. William E. “Billy” Cohn, a founder and current director of SentreHEART, responded to an inquiry from a prospective patient about the treatment of atrial fibrillation by recommending one of two devices, including the Lariat.
+
+“First let me be clear. I have a vested interest in SentreHEART and the Lariat, as I invented the technology and started the company,” wrote Cohn, who is a professor of surgery at Baylor College of Medicine. “Although there has not yet been a prospective randomized study looking at stroke and embolic prevention after the Lariat procedure, we are very certain that it is a safe and effective way to close the appendage.”
+
+Cohn, who is also director of minimally invasive surgical technology for the Texas Heart Institute, did not respond to repeated requests for an interview.
+
+On its website, the University of California San Francisco Medical Center touts the Lariat for atrial fibrillation as well, citing the work of Dr. Randall Lee, a UCSF professor and a SentreHEART consultant, who has an equity stake in the company.
+
+The site notes that Lee has “trained cardiologists from more than two dozen centers, coaching them as they perform the procedure for the first time.”
+
+In an interview, Lee said SentreHEART approached him to discuss the device, after Dr. Cohn invented it. Lee said he immediately saw the potential to take a surgical procedure that had been done for decades in open-heart surgery — putting a suture around the left atrial appendage — and using a medical device to carry out the procedure in a much less intrusive way.
+
+“We have a lot of patients with AFib who are at high risk for stroke,” Lee said. “Certainly the therapy of choice is anticoagulation therapy, blood thinners, but some people have bleeding problems and other problems, and can no longer take the anticoagulation therapy. Then, they are left unprotected.”
+
+Lee said he has long advocated a clinical trial for stroke prevention using the Lariat, and that he expected one to be underway soon. The FDA has already approved a separate trial, the AMAZE trial, which is to test the Lariat for treatment of atrial fibrillation — but not to determine whether doing so will prevent stroke. Meanwhile, he considers it safe.
+
+“I believe the Lariat is safe if there is proper selection of patients, operators have the necessary skill … and prior experience in working in the left atrium,” he said.
+
+The FDA is clear that it does not have sufficient evidence to establish that the Lariat is safe to use to treat atrial fibrillation. That, officials said, is why the agency issued its safety communication in July.
+
+“We wanted to make sure people were aware of the very tragic events associated with the device,” said Dr. William Maisel, a cardiologist and deputy director of FDA’s medical device office. “We wanted to make sure people were aware that the FDA had not evaluated the use of the Lariat for this specific purpose.”
+
+Seiber said he believed doctors would continue to use the device in the procedure as they saw fit. In interviews, several doctors agreed with him and said they continue to believe the device is safe and effective. Others said they would now move away from the Lariat for treatment of atrial fibrillation.
+
+Dr. William O’Neill, an interventional cardiologist who pioneered the procedure at Detroit’s Henry Ford Hospital, under the direction of Lee, said he expected the number of Lariat procedures conducted at the hospital to decline.
+
+O’Neill, medical director of the hospital’s center for structural heart disease, said doctors there will likely rely more on the Watchman, a Boston Scientific-manufactured device that underwent years of clinical trials and that was recently approved by the FDA to close the left atrial appendage of the heart.
+
+The FDA’s role
+
+Some doctors are divided on whether the FDA should have subjected the Lariat to more scrutiny or permitted it to be cleared through the 510 (k) program. For its part, the FDA said it must rely on information supplied by the applicant. In the case of the Lariat, the agency said, that information was limited.
+
+The device had been on the market for several years before drawing agency scrutiny, in 2013, when the FDA received reports of deaths associated with the procedure, according to Maisel, the agency official. When no deaths were reported in 2014, regulators decided to continue to monitor the product but not yet act. With additional deaths in 2015, and journal studies beginning to raise safety questions, the FDA revisited the issue, speaking to SentreHEART, surgeons, and researchers.
+
+Dr. Jay Giri, an assistant professor of clinical medicine at the University of Pennsylvania and co-author of a critical study published in JAMA Internal Medicine in May, said he began looking into the Lariat in 2014 because he was trying to decide if his hospital should use it for the treatment of atrial fibrillation. The first thing he and his team did was to seek out all published evidence about its effectiveness in the use of patients with atrial fibrillation. They couldn’t find any.
+
+“There were anecdotes and small studies, but no rigorous clinical trials,” Giri said.
+
+Giri went back to review the SentreHEART’s application with the FDA and was surprised to find no mention of the atrial fibrillation procedure at all.
+
+“Obviously the Lariat has been available … and it was only used for one purpose,” he said. “It’s an ingenious device, but ingenuity does not guarantee safety and efficacy.”

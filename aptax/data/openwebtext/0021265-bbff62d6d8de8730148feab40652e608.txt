@@ -1,0 +1,31 @@
+Donncha O'Cearbhaill is one of Tor's new Summer of Privacy students. We asked him about his plans for the summer.
+
+1. Why are you interested in working on Free software?
+
+I'm delighted to be able to contribute back to the Free software community which has provided me with so many of the tools and systems I use daily. It's reassuring to know that any software that I write for the Tor Project will always be available for people to use, modify, and redistribute.
+
+2. Describe your project to a lay reader--How will it work, and who will it help?
+
+Most large web services distribute the requests to their sites across multiple servers so as to better handle the load from their users. However, at present, Tor onion (hidden) services are limited to routing all their traffic via Tor running on a single server. This is becoming a bottleneck for popular hidden services and is causing difficulty in growing to more users.
+
+My project aims to implement a tool that will allow onion service operators to distribute connections to their services across multiple back-end servers. For users, I hope this will allow their favourite services to become faster and more reliable.
+
+As a bonus, the project should allow operators to further increase the security of the services by allowing private keys to be stored away from the computer hosting their actual onion service / website.
+
+3. What do you hope to get out of the Tor Summer of Privacy?
+
+I've really enjoyed my interactions with the Tor community over the past few months. Over the summer, I hope to provide something of value and give back to the community. As I don't have a formal computer science background, I'm also looking forward to working with my mentors to improve the standard of my software design and development and generally gain more experience.
+
+4. Who are your heroes--if you have any--in internet freedom software?
+
+The work of many people in the Internet freedom community inspires me. I'm particular grateful to people such as Edward Snowden, Julian Assange, and Jeremy Hammond who have made massive sacrifices to try to bring light to the expanding surveillance state.
+
+I'm inspired by the free software developers and advocates everywhere who continue trying to doing something about it.
+
+5. Where do you go to school and what are you studying?
+
+I'm just finishing my degree in Medicinal Chemistry in Trinity College, Dublin, Ireland. My exams run over the next few weeks and after that I'm looking forward to hacking on some code rather than molecules.
+
+6. Anything else you'd like to say?
+
+I'd like to thank the Tor Project for accepting me into Summer of Privacy program, and thank all in the Tor community for being so welcoming to me so far.

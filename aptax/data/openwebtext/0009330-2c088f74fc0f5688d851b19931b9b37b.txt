@@ -1,0 +1,211 @@
+Image by quimby | Some Rights Reserved
+
+I recently began taking a Harvard computer science course. As pretentious as that sounds, it’s not as bad as it seems. I am taking Harvard CS50 on-line, for free, in an attempt to push my knowledge and expand my understanding of this thing I love so much, programming.
+
+The course uses Linux and C as two of the primary learning tools/environments. While I am semi-capable using Linux, and the syntax of C is vary familiar, the mechanics of C compilation, linking, and makefiles are all new.
+
+If you are an experienced C developer, or if you have worked extensively with Make before, there is likely nothing new for you here. However, if you wanted to let me know if and when I am passing bad information, please do! This article will (hopefully) be helpful to those who are just getting started compiling C programs, and/or using the GNU Make utility.
+
+In the post, we discuss some things that are specific to the context of the course exercises. However, the concepts discussed, and the examples introduced are general enough that the post should be useful beyond the course specifics.
+
+The course makes available an “appliance” (basically, a pre-configured VM which includes all the required software and files), which I believe can be downloaded by anyone taking even the free on-line course. However, since I already know how to set up/configure a Linux box (but can always use extra practice), I figured my learning would be augmented by doing things the hard way, and doing everything the course requires manually.
+
+For better or for worse, this has forced me to learn about Make and makefiles (this is for the better, I just opened the sentence that way to sound good).
+
+Make File Examples on Github
+
+In this post we will put together a handful of example Make files. You can also find them as source at my Github repo:
+
+Compiling and Linking – The Simple
+
+This is by no means a deeply considered resource on compiling and linking source code. However, in order to understand how make works, we need to understand compiling and linking at some level.
+
+Let’s consider the canonical “Hello World!” program, written in the C programming language. Say we have the following source file, suitably named hello.c:
+
+Basic Hello World Implementation in C:
+
+#include <stdio.h> int main(void) { printf("Hello, World!
+
+"); }
+
+In the above, the first line instructs the compiler to include the C Standard IO library, by making reference to the stdio.h header file. This is followed by our application code, which impressively prints the string “Hello World!” to the terminal window.
+
+In order to run the above, we need to compile first. Since the Harvard course is using the Clang compiler, the most basic compilation command we can enter from the terminal might be:
+
+Basic Compile Command for Hello World:
+
+$ clang hello.c -o hello
+
+When we enter the above command in our terminal window, we are essentially telling the Clang compiler to compile the source file hello.c, and the -o flag tells it to name the output binary file hello.
+
+This works well enough for a simple task like compiling Hello World. Files from the C Standard Library are linked automatically, and the only compiler flag we are using is -o to name the output file (if we didn’t do this, the output file would be named a.out, the default output file name).
+
+Compiling and Linking – A Little More Complex
+
+When I say “Complex” in the header above, it’s all relative. We will expand on our simple Hello World example by adding an external library, and using some additional important compiler flags.
+
+The Harvard CS50 course staff created a cs50 library for use by students in the course. The library includes some functions to ease folks into working with C. Among other things, the staff have added a number of functions designed to retreive terminal input from the user. For example, the cs50 library defines a GetString() function which will accept user input as text from the terminal window.
+
+In addition to the GetString() function, the cs50 library also defines a string data type (which is NOT a native C data type!).
+
+We can add the cs50 library to our machine by following the instructions from the cs50 site. During the process, the library will be compiled, and the output placed in the /usr/local/lib/ directory, and the all-important header files will be added to our usr/local/include/ directory.
+
+NOTE: You don’t need to focus on using this course-specific library specifically here – this is simply an example of adding an external include to the compilation process.
+
+Once added, the various functions and types defined therein will be available to us.
+
+We might modify our simple Hello World! example as follows by referencing the cs50 library, and making use of the GetString() function and the new string type:
+
+Modified Hello World Example:
+
+// Add include for cs50 library: #include <cs50.h> #include <stdio.h> int main(void) { printf("What is your name?"); // Get text input from user: string name = GetString(); // Use user input in output striing: printf("Hello, %s
+
+", name); }
+
+Now, if we try to use the same terminal command to compile this version, we will see some issues:
+
+Run Original Compile Command:
+
+$ clang hello.c -o hello
+
+Terminal Output from Command:
+
+/tmp/hello-E2TvwD.o: In function `main': hello.c:(.text+0x22): undefined reference to `GetString' clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+From the terminal output, we can see that the compiler cannot find the GetString() method, and that there was an issue with the linker.
+
+Turns out, we can add some additional arguments to our clang command to tell Clang what files to link:
+
+$ clang hello.c -o hello -lcs50
+
+By adding the -l flag followed by the name of the library we need to include, we have told Clang to link to the cs50 library.
+
+Handling Errors and Warnings
+
+Of course, the examples of using the Clang compiler and arguments above still represent a very basic case. Generally, we might want to direct the compiler to add compiler warnings, and/or to include debugging information in the output files. a simple way to do this from the terminal, using our example above, would be as follows:
+
+Adding Additional Compiler Flags to clang Terminal Command:
+
+clang hello.c -g -Wall -o hello -lcs50
+
+Here, we have user the -g flag, which tells the compiler to include debugging information in the output files, and the -Wall flag. -Wall turns on most of the various compiler warnings in Clang (warnings do not prevent compilation and output, but warn of potential issues).
+
+A quick skimming of the Clang docs will show that there is potential for a great many compiler flags and other arguments.
+
+As we can see, though, our terminal input to compile even the still-simple hello application is becoming cumbersome. Now imagine a much larger application, with multiple source files, referencing multiple external libraries.
+
+What is Make?
+
+Since source code can be contained in multiple files, and also make reference to additional files and libraries, we need a way to tell the compiler which files to compile, which order to compile them, and how a link to external files and libraries upon which our source code depends. With the additional of various compiler options and such required to get our application running, combined with the frequency with which we are likely to use the compile/run cycle during development, it is easy to see how entering the compile commands manually could rapidly become cumbersome.
+
+Enter the Make utility.
+
+GNU Make was originally created by Richard M. Stallman (“RMS”) and Roland McGrath. From the GNU Manual:
+
+“The make utility automatically determines which pieces of a large program need to be recompiled, and issues commands to recompile them.”
+
+When we write source code in C, C++, or other compiled languages, creating the source is only the first step. The human-readable source code must be compiled into binary files in order that the machine can run the application.
+
+Essentially, the Make utility utilizes structured information contained in a makefile in order to properly compile and link a program. A Make file is named either Makefile or makefile, and is placed in the source directory for your project.
+
+An Example Makefile for Hello World
+
+Our final example using the clang command in the terminal contained a number of compiler flags, and referenced one external library. The command was still doable manually, but using make, we can make like much easier.
+
+In a simple form, a make file can be set up to essentially execute the terminal command from above. The basic structure looks like this:
+
+Basic Makefile Structure:
+
+# Compile an executable named yourProgram from yourProgram.c all: yourProgram.c <TAB>gcc -g -Wall -o yourProgram yourProgram.c
+
+In a makefile, lines preceded with a hash symbol are comments, and will be ignored by the utility. In the structure above, it is critical that the <TAB> on the third line is actually a tab character. Using Make, all actual commands must be preceded by a tab.
+
+For example, we might create a Makefile for our hello program like this:
+
+Makefile for the Hello Program:
+
+# compile the hello program with compiler warnings, # debug info, and include the cs50 library all: hello.c clang -g -Wall -o hello hello.c -lcs50
+
+This Make file, named (suitably) makefile and saved in the directory where our hello.c source file lives, will perform precisely the same as the final terminal command we examined. In order to compile our hello.c program using the makefile above, we need only type the following into our terminal:
+
+Compiling Hello Using Make:
+
+$ make
+
+Of course, we need to be in the directory in which the make file and the hello.c source file are located.
+
+A More General Template for Make Files
+
+Of course, compiling our Hello World application still represents a pretty simplistic view of the compilation process. We might want to avail ourselves of the Make utilities strengths, and cook up a more general template we can use to create make files.
+
+The Make utility allows us to structure a makefile in such a way as to separate the compilation targets (the source to be compiled) from the commands, and the compiler flags/arguments (called rules in a make file). We can even use what amount to variables to hold these values.
+
+For example, we might refine our current makefile as follows:
+
+General Purpose Makefile Template:
+
+# the compiler to use CC = clang # compiler flags: # -g adds debugging information to the executable file # -Wall turns on most, but not all, compiler warnings CFLAGS = -g -Wall #files to link: LFLAGS = -lcs50 # the name to use for both the target source file, and the output file: TARGET = hello all: $(TARGET) $(TARGET): $(TARGET).c $(CC) $(CFLAGS) -o $(TARGET) $(TARGET).c $(LFLAGS)
+
+As we can see in the above, we can make assignments to each of the capitalized variables, which are then used in forming the command (notice that once again, the actual command is preceded by a tab in the highlighted line). While this Make File is still set up for our Hello World application, we could easily change the assignment to the TARGET variable, as well as add or remove compiler flags and/or linked files for a different application.
+
+Again, we can tell make to compile our hello application by simply typing:
+
+Compile Hello.c Using the modified Makefile:
+
+$ make
+
+A Note on Tabs Vs. Spaces in Your Editor
+
+If you, like me, follow the One True Coding Convention which states:
+
+“Thou shalt use spaces, not tabs, for indentation”
+
+Then you will have a problem with creating your make file. If you have your editor set to convert tabs to spaces, Make will not recognize the all-important Tab character in front of the command, because, well, it’s not there.
+
+Fortunately, there is a work-around. If you do not have tabs in your source file, you can instead separate the compile target from the command using a semi-colon. With this fix in place, our Make file might look like this:
+
+Makefile with no Tab Characters:
+
+# Compile an executable named yourProgram from yourProgram.c all: yourProgram.c <TAB>gcc -g -Wall -o yourProgram yourProgram.c # compile the hello program with spaces instead of Tabs # the compiler to use CC = clang # compiler flags: # -g adds debugging information to the executable file # -Wall turns on most, but not all, compiler warnings CFLAGS = -g -Wall #files to link: LFLAGS = -lcs50 # require that an argument be provided at the command line for the target name: TARGET = hello all: $(TARGET) $(TARGET): $(TARGET).c ; $(CC) $(CFLAGS) -o $(TARGET) $(TARGET).c $(LFLAGS)
+
+In the above, we have inserted a semi-colon between the definition of dependencies definition of the target and the command statement structure (see highlighted line).
+
+Passing the Compilation Target Name to Make as a Command Line Argument
+
+Most of the time, when developing an application you will most likely need a application-specific Makefile for the application. At least, any substantive application which includes more than one source file, and/or external references.
+
+However, for simple futzing about, or in my case, tossing together a variety of one-off example tidbits which comprise the bulk of the problem sets for the Harvard cs50 course, it may be handy to be able to pass the name of the compile target in as a command line argument. The bulk of the Harvard examples include the cs50 library created by the program staff (at least, in the earlier exercises), but otherwise would mostly require the same sets of arguments.
+
+For example, say we had another code file, goodby.c in the same directory.
+
+We could simply pass the target name like so:
+
+Passing the Compilation Target Name as a Command Line Argument:
+
+make TARGET=goodbye.c
+
+As we can see, we assign the target name to the TARGET variable when we invoke Make. In this case, if we fail to pass a target name, by simply typing make as we have done previously, Make will compile the program hard-coded into the Makefile – in this case, hello. Despite our intention, the wrong file will be compiled.
+
+We can make one more modification to our Makefile if we want to require that a target be specified as a command line argument:
+
+Require a Command Line Argument for the Compile Target Name:
+
+# compile the hello program with spaces instead of Tabs # the compiler to use CC = clang # compiler flags: # -g adds debugging information to the executable file # -Wall turns on most, but not all, compiler warnings CFLAGS = -g -Wall #files to link: LFLAGS = -lcs50 # require that an argument be provided at the command line for the target name: TARGET = $(target) all: $(TARGET) $(TARGET): $(TARGET).c ; $(CC) $(CFLAGS) -o $(TARGET) $(TARGET).c $(LFLAGS)
+
+With that change, we can now run make on a simple, single-file program like so:
+
+Invoke Make with Required Target Name:
+
+$ make target=hello
+
+Of course, now things will go a little haywire if we forget to include the target name, or if we forget to explicitly make the assignment when invoking Make from the command line.
+
+Only the Beginning
+
+This is one of those posts that is mainly for my own reference. As I become more fluent with C, compilation, and Make, I expect my usage may change. For now, however, the above represents what I have figured out while trying to work with the examples in the on-line Harvard course.
+
+If you see me doing anything idiotic in the above, or have suggestions, I am all ears! Please do comment below, or reach out at the email described in my “About the Author” blurb at the top of this page.
+
+Additional Resources and Items of Interest
+
+John on GoogleCodeProject

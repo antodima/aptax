@@ -1,0 +1,85 @@
+By Jeremy S.
+
+U.S. Fire Arms (USFA) is best known for very high-quality single action revolvers. But the gunmaker has branched out and built a new brand: ZiPFactory. Their first new product is the ZiP .22LR pistol. USFA says ZiP is the code for The Future of Fun™ and claims that “The Future is Now™.” Well, I’ve seen the future and the future is . . . um . . . well it needs some work . . .
+
+To paraphrase Wallace, the latter day ZiP gun is like no cheese I’ve ever tasted. With the exception of some stainless bolt heads on the left side and just a glint of barrel inside the ejection port on the right, it’s got more black plastic than an obese rubber fetishist. And then there’s the design; most folks seeing it for the first time don’t even know where to begin. How to hold it? Where’s the trigger? What are all of those things on the front? Is that the front?
+
+The bolt (ZiP calls it the “recoil body”) is entirely inside of the frame. Your shooting hand goes right behind the bolt on the back of the gun. The bore axis is aligned near the top of your palm. Its position in your hand is lower than on any pistol with a standard slide-on-frame design, not a million miles away from the Chiappa Rhino. While muzzle flip is never really a problem with a .22, it’s non-existent with the ZiP.
+
+As the plastic bolt is completely internal, the ZiP has an external charging capacity. Instead of notching the frame for a bolt-mounted charging handle like you might see on a 10/22 or other semi-auto rifle, ZiPFactory decided to put two charging rods out front, right over the muzzle. Yes. Right over the muzzle.
+
+The longer of the two rods – the left one (although the user can swap them from side-to-side) – is the “ZiP LOAD” rod. You simply put your finger out there on the front of it—-right above the muzzle– and push it into the frame. That moves the bolt back behind the first round in the magazine and then feeds it into the chamber when you snap your finger off the rod.
+
+The shorter of the two rods is the “ZiP RESTRIKE” rod. Pushing it until it’s flush with the frame is supposed to reset the striker but not move the bolt back far enough to strip the next round out of the mag. This is theoretically handy if you have a bum primer or some sort of other failure to fire requiring you to reset the striker with a round in the chamber. On my gun, though, it didn’t work. My striker refused to reset until the bolt was back far enough that it always stripped the next round out and caused a double feed.
+
+Keep in mind that resetting the striker with a live round in the chamber means putting your fingers/hands right at the muzzle (hopefully it wasn’t just a hangfire!). Clearing jams requires the same digit-endangerment. There is no provision for locking the bolt back.
+
+The ZiP is actually comfortable enough to hold. The contours molded into the sides of the frame give right-handed shooters places to rest their thumbs, indexed index fingers, etc. It will work for lefties but not so much. That said, the grip angle is exactly vertical, and if you think a Block is glocky, you clearly haven’t held a ZiP yet.
+
+The little loop for your middle finger is critical for achieving a solid grip on the gun when you aren’t pulling the extremely heavy trigger. I wasn’t able to measure it, but I reckon it’s over 12 lbs. It’s ‘stagey’ but fairly smooth. The break is pretty clean and the reset can be both heard and felt.
+
+The factory sights are as basic as sights get: black plastic squares front and rear with no dots. They work just fine and accuracy with them was very good, despite the front sight being harder to find than an honest man at a gun control convention. Painting the front sight white would be a quick, cheap upgrade.
+
+Modularity and customization are areas where this gun shines. Slide the top rail off the frame and you can replace it with a handful of accessory rails from ZiPFactory, including the ZiPPIC Rail (1913 Picatinny rail), ZiPNite Rail (allows for the installation of Glock-compatible sights), and ZiPSBR Rail (allows the attachment of your ZiP to another gun, which, if it’s a rifle, turns your ZiP™ into an SBR. If it’s a pistol, it turns your pistol into an AOW — NFA rules and fees apply).
+
+And if that isn’t enough play value, there’s the BattleZiP Survival SBR Stock (a nifty full rifle stock), a threaded barrel (for a suppressor or other 1/2×28 muzzle accessory) and some future plans that cannot yet be mentioned (see “Customize This” rating for a hint).
+
+Unfortunately, the funky sci-fi looks and dangerous thrills from putting your hands in front of the business end of the ZiP gun didn’t make up for a generally poor showing at the range. Even after installing the Upgrade Kit Version 1.0.1, which was released due to some excessively tight tolerances in early guns, she just wouldn’t run reliably.
+
+The ZiP ships with two sets of recoil springs: stiff for high-test loads and light for target/bulk loads (factory-installed default). You can “tune” your action to your ammunition’s power level. Due to the low mass of the reciprocating parts, the bolt speed is extremely high and the spring rates are particularly important. The design leaves no room for bolt overtravel (which normally adds some delay to a semi-auto action).
+
+The ZiP™ was consistently plagued with failures to feed. The bolt is often moving forwards before the magazine can lift the next round up into place. Even when it does feed, the bolt would often come forward so quickly that the ejecting empty brass was caught before it could escape the gun. These failures created some unique jams with empty brass smashed up somewhere in the ejection port and a new round partially fed into the chamber.
+
+Due to the bolt speed, the ZiP only [mostly] works with the BX-1, 10-round mags. The BX-25’s don’t feed subsequent rounds quickly enough. ZiPFactory is supposed to release another Upgrade Kit for the BX-25 soon; essentially stronger springs. Most other aftermarket magazines don’t have quite the correct feed lip geometry and/or share the BX-25’s feed rate problem.
+
+After the Upgrade Kit, some polishing, some graphite lube, extremely careful assembly, a handful of ammo brands to test and some encouraging words, I had the ZiP running better. It actually made it through a couple of BX-1 10-round magazines in a row without a jam. That was, however, not the norm. I spent more time during my range session clearing jams than shooting. On average, it would jam at least once per magazine, and this was a major improvement from pre-upgrade.
+
+On the plus side, the ZiP gun’s very accurate. The 5.25” barrel does its job with all ammo brands tested. The extremely heavy trigger does the ZiP™ no favors, but my group sizes were excellent.
+
+This pistol has a lot of potential. If ZiPFactory can work out the kinks and get it to run, they’ll have a winner on their hands. The gun is unique in the extreme, accurate, fun-to-shoot (when it’s running), totally dangerous in the best of cases, extremely dangerous when it jams, modular and customizable as hell. And it’s inexpensive! Plus, it uses the Ruger 10/22 mags you already have.
+
+I’d really like to see this thing work, and I’m interested to see what other fun firearms ZiPFactory produces in the future. A little bird tells me that there’s a pistol-caliber carbine in the works.
+
+SPECIFICATIONS:
+
+Caliber: .22 Long Rifle
+
+Frame: Polymer
+
+Sights: Black plastic, no dots.
+
+Accessory options: picatinny rail, Glock sight adapter, SBR adapter, etc etc.
+
+Barrel Length: 5.25 inches
+
+Length (muzzle to back of frame): 7.75 inches
+
+Weight: 15.2 ounces unloaded, no magazine
+
+Capacity: Accepts all Ruger 10/22 magazines. Functions [mostly] with BX-1’s.
+
+MSRP: $199 with no magazine. $219 with a BX-1 included.
+
+
+
+RATINGS (Out of Five Stars):
+
+Style * * * * *
+
+Like it or hate it, you’ve never seen anything like it. Its style is its own, and it gets five stars for that.
+
+Ergonomics (firing) *
+
+Form comes before function here. While it actually fits in the hand okay, it isn’t what you’d call comfortable. The grip angle is vertical and the placement of the charging rods is downright dangerous. The trigger is heavy enough that it causes some discomfort, removing 10-round mags is difficult, and clearing jams is a bear.
+
+Reliability
+
+No, I did not forget to rate this category. Maybe it will “break in” and improve.
+
+Customize This * * * * *
+
+Well deserving of five stars here, the ZiP can be customized with all sorts of upper rail attachments, threaded barrels, SBR stocks and other doo-dads on the way that I am not at liberty to mention (suffice it to say that only the right side of the frame’s “clamshell” is serialized, and ZiPFactory has future plans for things you can do by swapping out the left side).
+
+OVERALL *
+
+As is, it just doesn’t run reliably enough to be fun; too much time’s spent dealing with difficult-to-clear jams and it only sort of runs with Ruger factory BX-1 magazines. Safety and ergo nightmare, really.

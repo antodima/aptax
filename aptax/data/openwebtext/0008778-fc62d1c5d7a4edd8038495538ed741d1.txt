@@ -1,0 +1,53 @@
+Pirates have found a new loophole that allows them to copy 4k movies and TV-shows from Netflix and Amazon. Up until recently these high quality 4K resolution rips were nonexistent, but a flurry of new releases from various groups show that something has changed.
+
+While the average consumer is generally not equipped to play 4K content on their TV or computer, many video geeks are looking forward to every new release.
+
+Thus far the physical offerings have been limited to adult content mostly, with just a handful of mainstream productions. However, with the adoption of a Blu-Ray standard for Ultra High Definition video more releases will follow soon.
+
+4K streaming releases have been available for a while already though, with Netflix and Amazon as the two key vendors in this market.
+
+These online streams were always well protected against pirates. The High-Bandwidth Digital Copy Protection (HDCP) version 2.2 or higher is still believed to be secure today, but there are signs that pirates have found a way to bypass the protection.
+
+Earlier this year the first 4K Netflix leak surfaced. After that it went quiet. However, a few days ago something changed, as many more releases started to appear online.
+
+TorrentFreak spoke to a release group insider who confirmed that this is a significant change.
+
+“Many groups started releasing 4K rips recently and they are working perfectly. I expect that 4K resolution releases will become more popular now,” TorrentFreak was told.
+
+The new 4K leaks come from both Netflix and Amazon, suggesting that there’s a general loophole that allows pirates to circumvent the copy protection on both services.
+
+Up until recently this was impossible to do. There were a handful of upscaled releases floating around with a lot of pixelation and low bitrates, but these don’t come close to real 4K.
+
+The new releases are true 4K and include Amazon’s The Man in the High Castle as well as the recent pilots Edge, Good Girls Revolt, Highston, One Mississippi
+
+and Patriot.
+
+Amazon’s 4k leaks
+
+
+
+Another series of high-profile 4K leaks that came out this week are of Netflix’s Jessica Jones. As with the other rips the file-sizes are much larger than traditional HD-releases, well over 10 gigabytes for a single episode.
+
+Netflix’ Jessica Jones 4k leaks
+
+
+
+The media info for one of the Jessica Jones leaks show that it’s 4K, at a 32.5 Mbps bitrate. Unfortunately, that doesn’t necessarily mean that the video quality is always exceptional.
+
+“For example for Marvel’s Jessica Jones new TV series from Netflix the 4K captures look bad, because the master from Netflix is probably bad,” we were told by an insider.
+
+Jessica Jones 4k (large)
+
+
+
+Downloading a 4K release from Amazon or Netflix and getting a pirated copy out is not something that’s easily done. The original rips are often well over 100 gigabytes in size. Still, many groups are jumping on the 4K bandwagon.
+
+The main question that remains is how the groups are able to circumvent the copy protection. Our source says that Amazon’s Fire TV and Roku 4K are likely sources, as they may not be as well protected as some believe.
+
+Amazon’s Fire TV uses the weaker HDCP 1.4b protection and 23.976 frames/s, which only supports Amazon 4K releases and not Netflix.
+
+Roku recently released their new streaming player with 4K support and native refresh rate switching, which can play Netflix’s 4K library. It arrived in stores early November, just before the 23.976 frames/s 4k rips started coming out.
+
+Whatever the source is, the stream of new releases is unprecedented and marks the start of a new era of high quality video releases.
+
+In recent years many people have been downloading higher quality rips already, but it will probably take a few years before 4K becomes the new standard. Overall, however, pirating video geeks will be happy with the news.

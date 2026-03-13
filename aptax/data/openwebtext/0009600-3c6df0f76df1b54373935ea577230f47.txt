@@ -1,0 +1,83 @@
+With a strong vision of who the initial audience is, we sought to design a brand, UI and UX that had some personality and uniqueness to it. We wanted it to be something that catches your eye the first time you use it. Something with consideration for the small details. Something that doesn’t come across as timid, but instead portrays enough confidence to reinvent the rules of an entire industry.
+
+The initial audience of OpenBazaar is primarily made up of tech savvy individuals, Bitcoin addicts and independent creators (artists, designers, musicians, authors, homemade food & drink producers, gamers, entertainers, hand-crafters, ex-eBayers and so on).
+
+Name
+
+One of the most common mistakes I’ve seen in regards to the OpenBazaar branding is the misspelling of the name.
+
+INCORRECT USAGE
+
+Open Bazaar (no space please) Openbazaar (the b should be capitalized) OpenBizaar (umm)
+
+CORRECT USAGE
+
+OpenBazaar (one word with a capitalized O and capitalized B)
+
+Logo & Identity
+
+The OpenBazaar logo has recently gone through some light cosmetic changes. We love the tent, but it had a few issues that we wanted to clean up.
+
+Old logo (do not use)
+
+The flag didn’t render well on light backgrounds. The flaps of the opening weren’t proportioned correctly. The colors could be simplified.
+
+So we gave it a slight overhaul to correct the problems
+
+The updated OpenBazaar logo
+
+I ask everyone to please use the new logo going forward. If you need a copy of the logo, I’ve uploaded it to Github.
+
+Martijn enjoying his brand new OpenBazaar shirt with the refreshed logo :)
+
+Colors
+
+Color 1
+
+HEX: #063753
+
+RBG: 6,55,84
+
+Color 2
+
+HEX: #215175
+
+RBG: 33,81,117
+
+Color 3
+
+HEX: #106DA3
+
+RBG: 16,109,163
+
+Color 4
+
+HEX: #327EB8
+
+RBG: 50,126,184
+
+Characteristics
+
+The branding of OpenBazaar possesses 3 main characteristics:
+
+Confidence
+
+OpenBazaar doesn’t second guess itself. It’s providing a new ability to each and every person in the world, entirely for free. With any major social movement or technical advancement, confidence plays a major role in its success, and OpenBazaar is no exception. OpenBazaar is here to make trade free for all, and it’s going to be clear and direct in its path to doing so. Intelligence
+
+Doing things that are “good enough” isn’t what OpenBazaar stands for. Every piece of content, every element within the UI and every new feature that rolls out will be crafted with thought and care for the community of users. The tools we’ve had available over the last decade to conduct trade online are not “good enough”, they’re too expensive, too limiting, difficult to configure, and they’re not delightful to use. Mysterious
+
+Playing off the name of the project and the reality of an open market, OpenBazaar embraces who it is and what it stands for by layering mysterious elements into the branding. The colors are a bit bolder, the listings are unfiltered and the UI interactions are more edgy, which is all by design to leave the audience constantly wondering what is around the corner.
+
+To summarize, OpenBazaar isn’t the kid sitting in front of the classroom raising their hand begging to be called on to earn yet another gold star. It’s the kid in the back of the classroom that understands the architectural problems of the school system and makes it a life mission to build a better platform for everyone.
+
+Thanks for reading
+
+If you have any questions about the branding of OpenBazaar or how it will evolve in the future, feel free to post a comment below.
+
+In the next OpenBazaar in Detail article, I’ll be diving deeper into “Pages”.
+
+And, if you haven’t tried OpenBazaar yet, Download today!
+
+Mike Wolf (@thee_wolf)
+
+UX / Design Lead @ OpenBazaar

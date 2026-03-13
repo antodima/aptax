@@ -1,0 +1,45 @@
+If you’re making music with Bitwig Studio, did you know it is also capable of playing microtonal music? It’s not difficult to set up – in fact Bitwig is already a shade above Ableton Live in terms of microtonal scale support. In this article I’ll discuss some possibilities and limitations for microtonal music in Bitwig Studio.
+
+Pitch bend method
+
+If you’re the kind of musician who wants to compose standard Western tuned music with the occasional microtonal melodic intonation, then the pitch bend method is an easy way to go. Bitwig essentially locks you into standard Western tuning (12-tone equal temperament) as a tonal framework, and you can specify your deviation from that tuning on a per-note basis.
+
+Yes, you heard correctly. Bitwig supports per-note pitch bend for its built-in instruments! This really lowers the barrier of entry for a basic level of microtonality.
+
+But if you want to go deep, using a microtonal scale as your tonal framework, then things start to get fiddly because you’ll be using those pitch bends on almost every single note. Copy and paste will be your friend here.
+
+Remember that per-note pitch bend does not work for VST instruments. The MIDI spec doesn’t support per-note pitch bend, so this technique only works for the Bitwig internal instruments that share Bitwig’s own unique data structure.
+
+Equal temperaments with Bitwig Note MOD
+
+You can use the Note MOD device to grab note information from any instrument track. That information can then be used to modulate other parameters within Bitwig’s instruments or effects.
+
+The Note MOD device can be set up to allow you to play in microtonal equal temperaments with the Sampler, FM-4 and Polysynth instruments. That’s because these 3 instruments have a Pitch setting that can be modulated. Use the Note MOD device with the KEY modulator to modulate the Pitch setting of your instrument. A negative value will cause the notes to become smaller than a semitone, while a positive value will cause the notes to become larger than a semitone.
+
+This gives you a world of microtonal and macrotonal equal tunings to explore. But note that this method won’t allow you to play just intonation scales or other unequal scales.
+
+VST instruments
+
+Of course, due to the fact that Bitwig supports VST instruments, you can simply load up tried-and-true VST instruments that support microtonal scales.
+
+If you have a synth that can be tuned via tuning file import, then you’ll need to know how to generate those tuning files or you could simply download a few ready-made tuning packs. And don’t forget to check your synth’s manual to find out how to import your tuning files.
+
+This method doesn’t update the look of your piano roll even if you update the tuning in your VST instrument. So you’ll be stuck in a piano roll scordatura hell, where the notes on the piano roll don’t quite match up with what you’re hearing. But don’t worry, most other DAW microtonalists are in the same ring of hell as you. Get cosy, I’ve been here for years.
+
+SysEx / MIDI Tuning Standard support?!
+
+In the past, SysEx was how MIDI devices sent and received data for their specific functions. This was a long time ago, before everything was done in the box with a GUI. Some new VST instruments and many old keyboard synths support microtuning via MIDI Tuning Standard (MTS) SysEx messages.
+
+It looks like Bitwig doesn’t support SysEx messages yet (as of Spring 2016), and we’re not sure if it ever will. So MIDI Tuning Standard based microtuning is ruled out for now, sorry. Let’s hope the developers will implement it for all us nerds in the future. Cross your fingers, say prayers, burn incense, and send the developers a feature request…
+
+If you’re using the Xen Arts plugins in Bitwig Studio under Windows or WINE then you’d better just load the .mid tuning-dumps via the UI directly on the synth itself.
+
+Bitwig modular microtuning
+
+In the core of Bitwig Studio there is a hidden modular environment that will later be opened up for musicians and tweakers to patch into. Without a doubt, Bitwig’s modular system could be used and abused to bend the notes in any which way you choose. Let’s wait for this one and see what the future holds.
+
+If Bitwig Studio’s modular system inspires the same kind of sharing culture that Max for Live does, then it’s only a matter of time before some bright spark patches a microtuner plugin or microtonal synth in Bitwig modular.
+
+If you know any other ways to squeeze a microtonal scale out of Bitwig Studio then drop a line in the comments.
+
+Further reading

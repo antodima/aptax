@@ -1,0 +1,5 @@
+Friend can suggest an interesting feature? He would not work a lot with Xposed, it would be with the root itself. In the case would merge the current database with an old backup. For example you have a conversation with someone and formats the phone and install WhatsApp again without backing up, then you again talk with the person, able to merge the new conversation with the old would be very good, and can restore already deleted conversations of a backup/old database
+
+
+
+And other, I think this would be more for the Xposed: the module save each image/audio/voice note/call each person in a folder with your number. I like to save pictures of friends who sent me (I have until 2014) and it would be very good a module that automatically organize all

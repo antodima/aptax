@@ -1,0 +1,114 @@
+We are pleased to announce the launch of E-Learning Council’s Leaders in Learning Podcast. What better way to launch a learning and development podcast than to interview Clark Quinn from Quinnovation. Clark is an E-Learning Symposium keynote speaker, a recognized leader in learning technology strategy and a sought after speaker.
+
+E-Learning Council Leaders in Learning RSS link.
+
+Transcript of Interview with Clark Quinn
+
+Sanjay Nasta: You’re listening to a Leaders in Learning podcast from E-Learning Council. The mission of E-Learning Council is to advance e-learning through a community that provides leadership, best practices and resources in a collaborative environment. I’m Sanjay Nasta. Today we are talking to a leader in learning, Clark Quinn, of Quinnovation. Clark, do you want to introduce yourself to our viewers?
+
+Clark Quinn: I’m Clark Quinn. I help organizations use technology in ways that align with how we think, work and learn. Just a long background, a PhD in applied cognitive science, playing with sort of the bleeding edge of technology, lots of scars to prove it, and work through Quinnovation. That’s my vehicle to help organizations start getting strategic about … and particularly the learning development units in organizations … to get strategic about how they assist performance as we move forward from the industrial age to the information age.
+
+Sanjay Nasta: We probably started with similar backgrounds. I’ve managed to go through all the computer age, really, then the PC age, and then the internet and now mobile, so I bet we have a similar set of backgrounds. One of the things that you’d emailed me before this was a white paper on quality e-learning, and the concept I found very interesting in there, the key concept, was the concept of effective e-learning versus efficient e-learning. Can you talk about that a little bit?
+
+Clark Quinn: Sure. When we started having internet and computer-based training, we worried a lot about the quality. Particularly after 9/11, there was a lot of pressure to stop trying to do travel, and we started doing a lot more online. Since then, the pressure has come to do it faster, do it cheaper, and in doing that we’ve gone to how quickly can we put up content on the screen with a quiz, using technology in ways that we know how to use. We’ve moved from effectiveness, because we know this sort of event-based model, the fired together, wired together, and that’s great. You have to give a break and really sleep, and then you can strengthen it some more. Trying to imagine that we can do it all in one day is just broken, and yet that’s the model we have.
+
+There’s a number of ways in which we distinguish between what we call traditional, typical e-learning, and what we know would be the type of thing that works. In fact, I banded together with several colleagues walking around an expo hall, once again saying, “We’ve been here 10 years together, meeting at these things, and what we see, there may be new, shiny objects or new buzzwords, but fundamentally underneath, the models haven’t changed.” We banded together and did what we call the Serious eLearning Manifesto. If there’s this big delta between what we could and should be doing and what we’re actually doing. I mean, we throw everything out and lose our predictability and our ability to actually do it under real-world constraints.
+
+Sanjay Nasta: You know, we developed a lot of learning, and there is a tremendous pressure on cost and time, and just as much time of development as cost from our clients. Under those constraints, it becomes hard to be creative, to create the kind of e-learning that will actually drive effectiveness. How do you see getting past that pressure? What are some of the ways that we can talk to the stakeholders to educate them on why effective e-learning is important?
+
+Clark Quinn: Yeah, and it’s a challenge. The problem is well-produced e-learning and well-designed and well-produced e-learning, the differences between them are subtle. That’s our area of expertise, and we’re supposed to know the nuances. Our consumers of our output, we shouldn’t expect them to know the difference. They should trust us, but many times they don’t, and we haven’t been good at articulating it. Too many go into instructional design that don’t have the deep background.
+
+To your point, I think there are significant inflection points, certain places in our e-learning design processes, where small changes in what we do and how we do it, informed by what we know, there’s several bottlenecks I see. The first one is working with subject matter experts. There’s this fundamental problem that, because of the way our brains work, we compile knowledge away so that it’s no longer accessible to conscious learning. Research shows that 70 percent of what experts do, they don’t have conscious access to. They literally can’t tell us what they do, and yet we need to know what they do to help learners acquire it.
+
+We need to come up with new ways to work with subject matter experts, and yet there’s a number of results or pressures that keep us from doing that. One of them is that for accreditation and compliance, sometimes we’re required to do what the subject matter expert tells us. “I’m an expert, you have to take my word for it,” and they don’t even realize they don’t have access to it. The power differential between the instructional designer and the subject matter expert, and in fact we need to balance those and say, “Look, you know your stuff, but I know my stuff. Trust me on this, or let’s negotiate a process.”
+
+There’s a number of different ways we can work with that, but there are just pressures that make it challenging. That’s one example of a leverage point throughout the design process where we could get a better starting point, and once we have that starting point, we can execute against it fairly reliably to do better. There are some other points, but that’s one of the key ones that really can make a big difference.
+
+Sanjay Nasta: Access to subject matter expert time is always a big issue for us. That’s a struggle, because they usually have day jobs, right? I mean, if they’re experts, they’re well regarded. They have a day job, they’re already busy, and this is an added-on responsibility. Do you have specific tactics that help you get better results out of subject matter experts?
+
+Clark Quinn: I do. I think there’s a couple of things that will make a difference. When you’re hiring outside experts, maybe you’re producing learning for the market, you might have to reward them for their time, and then you have a strict … actually, in many cases that’s easier, because you can have a strict relationship expectation statement that says, you know, upon this, you will get paid. It’s internal experts that tend to be harder, and yet you need your business partners who you’re developing this for to acknowledge that you can’t do it without access to them. Part of it is in setting the expectations up front in what the relationship has to be, and being very concrete about why it has to be.
+
+Another couple tricks, and this takes some knowledge on the part of instructional designers, and it’s a problem that we have accidental instructional designers. You wouldn’t have an accidental, you know, cab driver or an accidental neuroscientist, but somehow we seem to have accidental instructional designers.
+
+Sanjay Nasta: You have accidental cab drivers. It’s called Uber now.
+
+Clark Quinn: True, but there’s some requirements, I believe … and I’m willing to be wrong … and you take whatever risks are associated with that. The point being, take the initial material. Get the material beforehand, the PDFs and the PowerPoints, and don’t just slap them up on the screen but understand them enough, and use some real-world knowledge enough and talk to some triangular stakeholders, and [pre-seed 07;34] what you think is likely to be the information you need from those SME, and then have them critique it. Instead of having them generate it, have them critique it, and they’ll fix stuff that’s wrong, but you’ve done a lot of the work for them so you get the maximum input.
+
+Like I said, also triangulating, so getting it from the supervisor of the people you’re training, who aren’t necessarily the same as the subject matter experts, and find out the problems that they still exhibit even after training, and bring that back in and say, “Well, we’re going to make those alternatives.” If you can get several subject matter experts, ideally getting several and getting them to work together really helps unpack that thinking, but that’s even more of a time commitment, as you point out.
+
+There’s prethinking and giving them something to critique instead of asking them to produce it all ahead of time, and being [inaudible 08:21] with questions and having a dialogue with them to maximize their time are a couple of things that will help you get the best outputs from the least amount of time investment on their part.
+
+Sanjay Nasta: The other challenge we’ve frequently seen with subject matter experts is the same problem we used to have when we were designing web pages. The information, it’s almost an information dump. It’s almost ego-driven information instead of objective-driven information, and that is a big challenge we have to overcome and educate. For me, training goes to an objective. That’s the difference between training and just conversation. Talking to a lot of management, two essential things that you talked about, it’s the do, it’s the effectiveness. I think one of the problems we have in training is it’s sometimes tough to measure the effectiveness in an isolated way, and that’s the other challenge.
+
+I was thinking about talking to you this morning, and efficiency is one part, but the effectiveness of training is the other. How do we measure it? How do we prove it? When you can prove it, I’ve seen the budgets increase dramatically, but until you can prove it, it’s hard. In some cases it’s easy to prove, like sales training. If you can isolate it a bit and you watch sales go up, that’s a great measurement. Can you talk a little bit about your thoughts around effectiveness and what you see as effectiveness, and how you measure it?
+
+Clark Quinn: Absolutely, Sanjay, and you’re right. Even before you talk with subject matter experts, you should be determining that there’s a real need that this course you’re designing is going to achieve. What is the problem? What is the gap between what we’re observing and what we should be observing, so we have a very specific focus, and how do we know that there’s that gap? That’s where you kind of do a measurement. People come in and ask for courses, and really you need to push back and say, “Well, what is the problem we’re solving?” This gets into performance consulting, and you identify. You say, “Sales, as you point out, is easy. Are we closing at an appropriate rate? What’s our time to closure? What’s our hit rate?”
+
+All these things are concrete, but I want to suggest that most of what we should be doing should similarly be addressing a discernable problem. You know, yes, we have compliant sexual harassment training and such, and we might … you know, if we were doing that right. We’re doing it because it’s lawyer CYA instead of meeting a determined lack of performance. For most things when they come in, if it’s, you know, reducing errors in the manufacturing process, decreasing times on calls for customer service, it might not just be a course. It might be a combination of, well, we need better tools, job aids or look-up tables or decision tree tools, combined with training, to address that.
+
+That’s where wrapping good course design should be inside a broader process of performance consulting, and then when we determine the learning experience, then we talk to the subject matter experts. Then we determine what should be in the decision course, but you can’t get there just when somebody says, “Okay, let’s start talking to an expert about a course.” You need to start beforehand and say, “What is the business unit’s measure that is not up to scratch?” If they can’t give that to you, you have a problem.
+
+What’s not happening in the call center that should? Are customers unhappy? Are you not able to solve their problems, or is it taking too long to solve their problems? Let’s get specific here, and then you can design your training to address the real problem. Obviously, this is hard, but at the end of the day, that’s the strategic move that’s part of L&D has to name.
+
+Sanjay Nasta: It also requires a broader base of knowledge than just learning. Some of those things require a business background, an operational background or a marketing background, depending where you’re addressing, so you can at least speak the same language. It’s a challenge to just go in with a learning background and attack some of those business problems. We have to start speaking the language of business, which is numbers and accounting. It’s one of the challenges I’ve had with some of the training people we work with. It’s important to speak the language of the customer and the stakeholder.
+
+My other observation is we frequently … and training, you said it was going to a $105 billion industry or something in that range? It’s a large industry. We put a lot of different things under the training umbrella, and the training that you need for regulatory compliance … which frankly can be a page-turner, because the objectives are to take the training, in all honesty.
+
+Clark Quinn: You shouldn’t be designing that. I mean, that’s industry standard stuff. You should just buy whatever the best off the shelf is. You shouldn’t invest your precious resources in design and development, except for things that are proprietary to your organization. Now, if there’s some maybe process used, yes, the way you handle it, but other than that, that’s just not a good use of your resources. Save it for more essential things.
+
+Sanjay Nasta: The software industry went through the same thing, right? I mean, before QuickBooks, every business we consulted with said, “Oh, our accounting needs are unique,” and I will tell you, for most small businesses, QuickBooks and then Great Plains, then Oracle, can cover all accounting needs. It’s amazing how many times regulatory compliance training gets designed.
+
+I will also tell you that I think in the minds of stakeholders and management, training gets painted with the same brush. They don’t differentiate between regulatory and compliance training and performance training, and I think that’s some of the marketing issues we have, getting the folks who are making the decisions to buy training to understand that there is a difference. I don’t know if you agree or disagree.
+
+Clark Quinn: I couldn’t agree more. The designers in the company should be experts in the company’s business if they’re going to support it, and that’s part of the bigger picture of the strategy. There’s more to it. There’s a number of other touch points. There was some work Atul Gawande did, who wrote “The Checklist Manifesto,” where you have two checklists, one making sure you dotted the I’s and crossed the T’s, and that’s really good and most people do that, but he also had one where people synced up at the right point to make sure you’re on the page.
+
+He was syncing up brainstorming at the beginning of the learning experience with diverse inputs, so the developer and the designer together just go, “What can we do and follow some good, known processes about being creative?” Then they come up with something that then each can work on their own part of it, but those sync points are another thing.
+
+I’m suggesting there’s three major elements, processes around working with SMEs, processes that have great definition around how to make each of those elements work well, and getting the right connections, people working together at the right touch points to get the maximum benefit of creativity and quality along the way.
+
+Sanjay Nasta: That’s a very good summary. Are there industries that are doing very effective training? I’ve seen examples.
+
+Clark Quinn: Oh, sure. The military, the airline industry, places where people die if you get the answer wrong. You look at military and airline and medicine and they have either a lot of simulator practice or they have a lot of mentored practice, and that’s really the key. The rest of it’s idiosyncratic. If you happen to have an insightful, clever L&D manager who gets this and you look at what they do, they have action and reflection. That’s what learning is. We act in the world and reflect on it. To the extent that we’re good at reflection, we become more powerful learners, and one of the areas of focus could be just sort of learning to learn.
+
+Sanjay Nasta: I was reading through your “Serious eLearning Manifesto,” and I love the summary. I think I’m going to make a poster and stick it in all our IDs’ offices. The move from content-focused to perform-focused, the move from efficient for authors to meaningful learning, and attendance-driven to engagement-driven, all of those will be very powerful changes in the industry. I get in deep trouble sometimes because I challenge what our industry is doing. I challenge the quality of the work that we are doing. I can’t politely repeat that in an interview, though. How has the traction been on the “eLearning Manifesto”? Are you starting to get some traction?
+
+Clark Quinn: We’ve had traction. We got buy-in from ASTD and [inaudible 16:52] and ISPI and “Training” magazine, and we’ve had continuing people signing up, so we’ve gotten mind space. People have come up and said, “Oh, I love it,” but where I’ve seen a barrier is people having the momentum to make the change to do it. I have to give credit. That wasn’t me alone. That was with Michael Allen and Allen Interactions, who’s been decades at the, you know, ledge. Julie Dirksen, who wrote the great book “Design for How People Learn,” and Will Thalheimer, one of our great translators of research into practice.
+
+We have great partners in doing that, but we truly believe in strong evidence that, yes, those eight values that differentiate typical e-learning from serious e-learning are important, and yet we’re calling out the industry. It can be risky in a business sense, but if you care about the potential … and that was what was great about working with those people, and it’s nice to talk to you too, Sanjay. If you care about what the potential is and what technology could be doing for learning, you really can’t not try and nudge the industry in positive directions if not, all right, take a brickbat.
+
+Sanjay Nasta: We should wrap up, but there’s one question that comes out of that. I think the principles are great. The challenges to achieve the principles are partially tool-based and process-based. I think a lot of our designers are still having challenges with the process to achieve these values and the tools to achieve these values. I’ve seen it in other industries. In mobile, when we moved from web to mobile, the first thing we did was we copied the web, and the applications that got deep buy-in were designed for mobile. I think we have to have processes that allow us to design for effectiveness. We have to have marketing to solve that. I think that’s part of what’s going to drive adoption. I will tell you, from the management suite, the folks are ready for it, because it’s a challenge to them to achieve this.
+
+Clark Quinn: Well, I think it’s well past time where CFOs are going, “Can you justify the money we’re spending on this?” I use this lightly and it’s probably insensitive, but I call us a faith-based industry. We have faith that if we follow the process, it’s what’s good. We don’t test it, we don’t measure it, and the rest of our business has faith that we know what we’re doing. They know learning is important and what we do looks like schooling, so it should be good, and they forget that schooling wasn’t particularly successful in their learning experience. I don’t mean to be irreverent, but I’m trying to find an angle that says, “We’ve got to get away from just this belief and start testing ourselves, and becoming as innovative as we expect other industries and organizations to be.”
+
+Sanjay Nasta: The problem is, in this age, I can get any piece of information in a second on Google. It’s the wisdom to use that information that is of value. The era of memorizing information is over. That’s too bad. I’ve passed lots of tests by retaining information, but I think it’s closer to what I experienced in engineering school where information didn’t help you a lot. It was frequently open-book. It was the problem that you had to solve that helped you.
+
+Clark Quinn: That’s great. I love open-book. I think you’re spot on, Sanjay, in that area. The ability to recite rote information is not going to help organizations succeed. The ability to make better decisions, the right ones at the right time, is what’s going to make a difference, and that’s going to come from this deeper e-learning design. That’s what I’m trying to raise awareness of and help organizations do, so we can start lifting our businesses, our earnings, reputation and success.
+
+Sanjay Nasta: Clark, we should probably wrap up, but as usual, we talked for a bit of time. Every time we get together, we get evangelical about this. I really appreciate your time. Anything you’d like to add to close this conversation?
+
+Clark Quinn: Not really. Stuff before it appears in books and then in white papers and in presentations shows up on my blog, Quinnovation.com. I encourage your audience to go there and have a look if they need help sleeping at night, and thank you. The only other thing I wanted to say, Sanjay, is I appreciate the opportunities you’ve provided to help try and raise the industry. I appreciate your investment of time and effort, and here’s to better learning.
+
+Share this: Facebook
+
+LinkedIn
+
+Twitter
+
+Google
+
+Email
+
+More
+
+Reddit
+
+Tumblr
+
+
+
+Pinterest
+
+Pocket
+
+
+

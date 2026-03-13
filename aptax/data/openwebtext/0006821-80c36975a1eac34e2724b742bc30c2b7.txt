@@ -1,0 +1,59 @@
+By design the porn industry is often to be found at the extremes of the human race's moral compass. So recently, when one industry man began a campaign with a stated aim of bringing the cyberlocker market to its knees, one might expect things to have gotten a little dirty. Well they have - absolutely filthy - just ask Putlocker, ExtaBit, TurboBit and a growing list of others, all victims of a concerted operation to strangle their finances and put them out of business.
+
+The mainstream music and movie industries have their own preferred techniques to make life difficult for cyberlocker services. From the wholesale destruction method employed against Megaupload, to the more subtle inclusion of sites such as RapidShare in government-directed reports, there are a number of strategies employed to put sites under pressure.
+
+At times, the MPAA and RIAA are accused of using dirty tricks, but their outright denials and favorable framing of controversial issues means that the mud often fails to fully stick. But compare that to the action currently being taken by elements of the adult industry against a wide range of file-hosters, and we have a veritable mudbath in which the players not only relish the dirty tricks, but cheerfully admit to them at every turn.
+
+For the past couple of weeks, Australian-born adult industry businessman Robert King (known online as AdultKing) has been doing everything in his power to screw up the lives of what he calls the “bad players” of the cyberlocker market. The 45-year-old has no qualms about his mission, or the methods he’s employing to complete it.
+
+“What I hope to achieve is very simple. I want to tear apart the illegal file locker industry by removing its supply of funds and then ultimately removing its supply of network connectivity,” King told TorrentFreak.
+
+King’s tactics focus on sites that sell premium subscriptions in order to provide users with improved access to user-uploaded content even though, importantly, those sites have no part in providing it. Secondly, he’s aiming for sites that pay members cash for uploading content that achieves many downloads.
+
+“I decided to take this action because I was fed up with watching businesses profiting from stolen content and illegal content while doing so under the guise of ‘user uploaded’ or ‘internet freedom’,” King adds.
+
+And the Internet, King says, is something he feels strongly about. Not only does he claim to be a vocal opponent of Australia’s proposed Internet censorship laws, he says he also played a part in building it.
+
+“I was involved in the embryonic stages of the Internet in Australia having a role within APANA which provided network access when almost nobody could get it unless they were in University. Julian Assange was also one of many Australians involved in APANA and most of us ran APANA nodes which let people dial in and connect to the Internet all connected to central hubs.”
+
+But ‘internet freedom’ and what some file-hosters and their users are doing couldn’t be further apart, King insists.
+
+“In the main file lockers are simply modern-day ‘fences’ of stolen goods. Just like a thief would take a stolen television or car radio to the pub and sell it for a few dollars, there are thousands of people around the world who take copyright content, upload it to an incentivized file locker, then get a few dollars to as much as $30 for 1000 downloads of that content.”
+
+In an attempt to bring these sites down, King has been utilizing a hugely controversial approach. One by one, King has waded through a laundry list of sites, searching their indexes for files that appear to contain not only regular copyright-infringing material, but also animal and child pornography. He then reports his findings to PayPal and other payment processors.
+
+“Not content with merely hosting child porn, many file locker sites also host bestiality,” King explained at the start of his campaign. “Our friends at PayPal make money from each premium sale of this material to people who download it.”
+
+At first, King got nowhere with PayPal, but through persistence something changed recently. During the last week or so King says that PayPal has been cutting off services and freezing the funds of a wide range of file-hosting sites including Putlocker, ExtaBit, TurboBit, UptoBox, Cloudnator, RYUShare, BulletUpload, BackUpload, RGHost, NitroBits, FireGet, FileMates….and the list goes on and on.
+
+Also raising eyebrows is the impression that King appears to have detailed, presumably private, information on the nature of measures taken by PayPal against the sites in question. For example, against PutLocker, the 346th most popular site in the world.
+
+“PutLocker have had their Paypal accounts terminated. All funds have been frozen for 180 days and in that time they cannot withdraw or transfer funds. They may no longer process any payments through Paypal,” King reported today. So how is he getting information like this?
+
+“I worked hard to develop relationships with people from all sectors of the payment processing sector. Initially I had no luck reaching anyone at PayPal who could help me, however I persevered until I was placed into contact with the right person and now have ongoing dialog with them. I have also established dialog with several other credit card companies and 3rd party payment processing services,” King explains.
+
+“Unfortunately I cannot go into how information is exchanged or shared as I do not wish to give the targets of my campaign any insight into the methods or strategies we employ to remove their payment processing ability. Suffice to say, these companies do their own independent investigations and do not solely rely on our information.”
+
+But a nagging question remains, and it’s raised time and again by King’s reports on his campaign site StopFileLockers. What real proof does he have that the files he’s finding on these file-hosting sites do indeed contain the content that their titles suggest, especially when there is reference to children and animals?
+
+The answer, it seems, is none whatsoever. Nevertheless, King insists that’s irrelevant.
+
+“Personally I don’t know whether a file entitled ’12yogirlraped.avi’ actually contains a movie of a 12-year-old girl being raped or a legal adult video being named a misleading file name. It would be stupid of anyone to download it to find out unless they were involved in law enforcement in that field.
+
+“However the mere connotation that there are files named this way is, in itself, unconscionable. Where we find a systematic pattern of what appears to be child pornography based upon file names we refer the matters where possible. We are not about to download the material ourselves to find out what the file actually contains. This is a job for policing and child protection agencies,” King notes.
+
+King’s activities are causing fury among both users and the file-hosting companies themselves but none approached by TorrentFreak would comment on the record. However, some appear to be taking their own action in response. One locker, NitroBits, has threatened to sue King.
+
+“If this is how you want to destroy our legal business you are wrong,” the company told King. “We do not allow any kind of illegal material, and if you have uploaded illegal material to NitroBits, and reported it to PayPal I will make sure I will take you to the European Supreme Court!”
+
+Others are less straightforward. King says he’s been DDoS’d and has received threats against his life, but he doesn’t appear to be taking them too seriously. With the help of a team of volunteers he says he will continue and at the moment envisages a three month campaign – which he is funding – to achieve his goals.
+
+So should other file-lockers be concerned at the prospect of having their PayPal and other payment processing facilities withdrawn too? King says he’s pushing hard for all file-hosting sites to be an unacceptable use of PayPal but currently the processor isn’t going that far, instead preferring to move on a case-by-case basis.
+
+And that case-by-case basis, once PayPal have been informed that a problem even exists, raises an interesting point.
+
+King says that PayPal are doing a “fairly good” job in their response considering the millions of accounts and transactions they have to process – after all, they can’t monitor everything that goes on via their service.
+
+So, applying the same reasoning, the vast majority of file-lockers will not have anything to do with the content being uploaded and, once they are alerted to a problem, will take action as the law requires. However, rather than being given the benefit of the doubt and the same room to move as PayPal, they’re finding their finances strangled instead.
+
+For King, it sounds like a no-brainer. Why bother with a million DMCA notices when a concerted effort can cut off a company’s ability to do business in one swoop? Filth sticks, it seems, and the adult industry has that – and determination – in spades.

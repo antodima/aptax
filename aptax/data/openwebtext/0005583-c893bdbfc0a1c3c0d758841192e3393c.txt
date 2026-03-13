@@ -1,0 +1,25 @@
+×
+
+A decision to upgrade ERP cannot be made lightly. Deloitte practitioners present some practical advice for navigating the hazards.
+
+Upgrading or enhancing ERP systems can be a sensitive topic in many organizations, and for good reason. Organizations have spent significant financial and political capital to reach their current state with ERP; careers have been made (and lost) based on the outcomes. ERP comprises a sizable percentage of IT spending and has an even larger influence on business operations. A decision to make changes to ERP will likely attract intense scrutiny from business leaders and should be approached with caution.
+
+But that doesn’t mean CIOs should hold back. Vendors are getting ready to roll out the next potentially disruptive wave—one that offers transparent and competitive costs and widespread access. How can you position your organization to benefit from vendor enhancements to ERP while navigating the potential hazards?
+
+Here are some suggestions:
+
+Experiment at the edge. Explore opportunities to adopt revamped ERP engines in areas that surround your core transactional layer—in business intelligence or analytics, for example. Additionally, use the adoption of the revamped engine to introduce new disciplines that may have immediate business impact—for example, creating new capabilities around big data to improve customer sentiment or salesforce effectiveness.
+
+Experiment at the core. Explore opportunities to run core workloads more affordably and on much less gear. Similarly, performance leaps in run times offer opportunities to rethink traditional limits on batch windows, run-book sequencing, and even business cycles.
+
+Catch up with technical upgrades. If you’ve hedged against technical upgrades and are generations behind the latest versions, now’s the time to get compliant, before you're asked to support a business agenda that requires an ERP engine with more horse power.
+
+Understand vendors’ competing approaches. Today’s leading vendors are placing different bets. SAP focuses on extensibility and ubiquity, while Oracle emphasizes convergence and integration. The various cloud players seek to create disruptions on the edge that will bleed into the core. The burden is on each organization to understand vendors’ plans and articulate their own business vision in similar terms. They can then invest where the plans and visions are clearly aligned, and make intelligent bets where there is uncertainty.
+
+Evangelize. Become a change agent by asking what the business can do differently and how the organization’s mission can be better served. Understand the implications of the “what” and “how” so you don’t oversimplify the migration effort or promise too much. Vendors and partners can provide benchmarks and scenarios for use cases to help you understand the potential business impact of making foundational changes. Examples from competitors and other industries are helpful, but use cases for your own business are even better.
+
+*****
+
+While technology considerations are clearly central to pursing ERP enhancements, more important questions relate to business performance. What would you do differently if you could close your books in seven seconds instead of seven days? How would your sales strategy change if thousands of store managers could each execute daily sales forecasts? What could you learn from real-time monitoring of the social sphere around your industry? A new ERP engine can give you the tools to answer these questions and more.
+
+—by Bill Allison, principal, Deloitte Consulting LLP and Richard Kupcunas, director, Deloitte Consulting LLP

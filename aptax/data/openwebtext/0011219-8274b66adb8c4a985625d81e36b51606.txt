@@ -1,0 +1,85 @@
+There is an incredibly boring problem in the music industry for which Bitcoin offers a potentially fascinating solution. In fact, I think this might be one of the coolest and most immediately worthwhile applications of distributed ledger and payment network technologies such as Bitcoin.
+
+The problem is simply that no central database exists to keep track of information about music. Specifically, there are two types of information about a piece of music that are critically important: who made it and who owns the rights to it. Right now, this information is fiendishly difficult to track down, to the great detriment of artists, music services and consumers alike.
+
+Decentralized, open-source, global cyryptocurrencies such as Bitcoin and Ripple (full disclosure: I am an investor in Ripple Labs, which is developing this currency) offer a model for how we might address this bedeviling status quo. By applying the technical breakthroughs of these networks, we can sensibly organize data about music for the first time in human history and, more importantly, reinvent the way artists and rights-holders get paid.
+
+The Problems
+
+1. The Credits Conundrum
+
+The first category of interest is “credits.” Almost all recorded music is a collaboration between songwriters, singers, musicians, producers, recording engineers, mastering specialists, and others. Everyone knows who Adele is, but few people know that Chris Dave played drums on her bestselling album. And you won’t discover this great musician’s contribution by buying the song on iTunes or listening on Spotify or YouTube. It’s a shame.
+
+In the past, the lusciously expansive packaging and liners of Vinyl records and later CDs were the paradise of behind-the-scenes talent. Anyone buying an album could page through the notes and find out who contributed what to the music. But in our digital-first market, these personnel are orphaned into obscurity. On today’s digital services, all one can see for a song is superficial data: the main artist’s name, who wrote the song, the name of the album it’s on, and the date of its release.
+
+It’s much more difficult to get work if no one knows that you were responsible for that amazing drum performance or that brilliant mix.
+
+As Spotify’s Artist-In-Residence, I’m extremely interested in fixing this problem for the unsung heroes of recorded music. But I’ve now witnessed the challenge from the inside. It’s not that services such as Spotify and other retailers don’t want to know about the music on our platforms; it’s that we struggle to obtain it. Artists and record labels have sent us over 30 million songs. Although we ask that they package it up for us in an organized and informationally rich package, what we actually receive varies widely.
+
+Digital services rely on a number of third parties to help piece together better information about their catalogues. For example, ROVI has a massive database of credits information that it will, for a price, share with customers in a highly controlled manner. Others, such as MusicBrainz, crowdsource data and share it freely or at a small cost. A number of other corporations, unions, and nonprofits also keep a tight grip on music metadata. For instance, in the United States, the American Federation of Musicians and SAG/AFTRA are unions that represent large numbers of musicians and singers, and they attempt to keep tabs on their members’ every recorded performance. They care about this information because it allows them to ensure that their members receive union-negotiated fees (and that the unions themselves, in turn, receive their dues).
+
+In short, the information about who did what on a given record almost always exists somewhere in the world, but it is typically fragmented between a large number of databases that don’t sync with each other, and whose owners have conflicting views about what should be public and what should be private. This forces digital services such as iTunes and Spotify to invest internally in cleaning up and organizing the information they receive, a burdensome administrative necessity.
+
+Photo by Robyn Lee.
+
+2. The Riddle of Rights
+
+Though getting credit for one’s work is a big deal, getting paid for it is an even bigger deal.
+
+Let’s look at Katy Perry’s “Dark Horse,” one of the biggest songs of the past few years, as a case study. From a legal point of view, the first thing to know about a song is that it’s not one thing. It encompasses a diffuse constellation of conceptual properties, each with numerous potential owners.
+
+The biggest two buckets of rights are 1) rights in a song or composition and 2) rights in a recording of a song.
+
+“Dark Horse,” for example, was written by Perry, Max Martin, Juicy J, Dr. Luke, Cirkut, and Sarah Hudson. Each of them theoretically owns a piece of the underlying song, although they can assign their ownership to one or more third parties. Because Perry first recorded the song, she owns that recording. Whenever someone else records the song after Perry, that individual will own that recording, but the six original writers will still own the song itself.
+
+That being said, artists and songwriters often sell these rights to record companies and publishing companies. Perry, for instance, has a publishing deal with the company Warner/Chappell (a subsidiary of the Warner Music Group) and a record deal with Capitol Records (a subsidiary of the Universal Music Group). When these rights generate earnings, contracts between Perry and her partners determine how these earnings are shared.
+
+But publishing and recording rights are just the beginning. When Perry and her collaborators wrote “Dark Horse,” they also originated additional rights in the public performance of the song. These rights entitle their owners to be paid when a song is publicly exhibited—when it is, say, played on the radio, performed live, or broadcast over the speaker systems at the Staples Center or Chipotle.
+
+The slicing and dicing of rights doesn’t stop there. For example, Katy Perry might choose to sell one company the rights to her general publishing but another company the right to make sheet music for her songs. She can also assign rights to different owners in different countries.
+
+In short, if someone writes and records a song, they effectively create a basket of rights, which they can sell to all sorts of actors all over the world.
+
+How Royalties Work Today
+
+(A Journey Into Unnecessary Complexity)
+
+With that crash course in music rights complete, let’s talk about how a play of “Dark Horse” on a streaming service produces royalties for the owners of its rights:
+
+You play “Dark Horse” on Spotify in the USA. Spotify keeps track of your and others users’ plays over a period of time and then pays out a share of its royalty pool proportional to the song’s popularity on the service during that same period. One percent of plays would equal one percent of total payouts, for example. This payout actually comprises multiple separate payments to the various owners of the rights in the song. These include:
+
+The record company (Capitol) to compensate for usage of the master recording.
+
+The performing rights organizations representing the song’s writers (ASCAP and BMI in the United States).
+
+The Harry Fox Agency, which Spotify uses to administer another esoteric type of publishing royalties called “mechanicals.” These are statutorily-mandated royalties that compensate songwriters for the use of their songs within recordings that are being exploited, which is subtly different in a streaming context than in a performance. (If this is confusing, that’s because it is totally confusing.)
+
+A similarly mind-boggling array of recipients exists in every market in which Spotify operates, and so every month, for a song with multiple writers, Spotify can conceivably end up writing checks to upwards of 20 distinct parties.
+
+This situation creates an enormous administrative burden for a music service, but that’s not the big problem. The big problem is that money only makes it to artists after passing through all of these intermediaries, each with its own accounting processes, timelines, fee structures, and reporting standards. The result is that artists and songwriters suffer from a nearly complete lack of predictable, understandable income.
+
+Having survived solely on my music for years, I experienced this firsthand. Checks for widely varying amounts randomly show up in the mail each month, from all sorts of different issuers. Each comes with some fashion of itemized receipt, but since all of the receipts represent different rights categories and earnings periods, it’s extremely difficult to piece together a clear picture of one’s financial life.
+
+In public conversations about streaming music, many voices are passionately calling for “transparency.” The implication is usually that someone — a music service, record label, publisher, or rights society — is being dishonest and hiding money. This interpretation is understandable in light of the long history of artists’ being exploited for profit.
+
+But having spent three years now in the trenches with Spotify and in conversations with executives across the industry, my assessment is that fraud is not the primary impediment to transparency. Complexity, outdated IT systems, and fragmentation are. Luckily, technology can fix this.
+
+A Solution
+
+These deep infrastructural inefficiencies around credits and rights information diminish the lives of creators and impose unnecessary administrative complexities and costs upon the entire music industry.
+
+A new paradigm for music data management is sorely needed. One solution could be a decentralized, open-source global platform, owned and controlled by no single entity.
+
+The platform would have two complementary functions.
+
+It would contain accurate, real-time, global data encompassing credits and rights ownership. This would make it the universal, authoritative reservoir for these types of information, and it would be open to and accessible by anyone. It would serve as an instantaneous, frictionless payments routing infrastructure for all music usage fees and royalties.
+
+The architecture of Bitcoin provides an instructive example of how this platform might work. Bitcoin is an extraordinary intellectual and technical achievement, and it has generated an avalanche of editorial coverage and venture capital investment. But very few people understand it. Here’s what’s important to know.
+
+Bitcoin, abbreviated BTC, is the name of a digital currency, just as the U.S. Dollar is the name of the fiat currency in the United States. But more important, Bitcoin is a network. The Bitcoin network is instantiated by a bunch of separate people running the Bitcoin software on their computers. The software is open-source, meaning that anyone can check out its code, modify it and so on. Nerds love open-source applications because it means that no single company is unilaterally controlling the software’s development.
+
+Even though Bitcoin is open-source, there is always a single current version of the software that almost everyone agrees to use, and when they use it, they create a network between themselves. If a group of people chooses to use a different version of the software for long enough, they “fork” the network, creating their own, separate network.
+
+This network connects Bitcoin’s users to each other and enables them to do one thing very well: maintain a common “ledger,” or database, that keeps track of how many BTC each person on the network owns. Imagine that Mark, Jane and Sara are sitting around a table, and in the middle of the table is a book, the only purpose of which is to keep track of how much money each one of them has. This is exactly what the Bitcoin network does.
+
+The technically marvelous thing about Bitcoin, however, is that not only can it keep an accurate accounting of this ledger, it can process real-time transactions between participants.

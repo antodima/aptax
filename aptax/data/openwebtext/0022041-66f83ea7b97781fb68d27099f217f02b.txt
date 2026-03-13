@@ -1,0 +1,31 @@
+For all developers, squashing bugs is one of those unpleasant parts of development that simply cannot be avoided. There are few things more frustrating than being outwitted by a particularly nasty bug, and sometimes the only proper way to fix them is to step away for a day or two, and come back later with fresh eyes.
+
+(...) they appear as bugs in your own code, leading you in directions that will never produce fruit.
+
+Sooner or later, with enough work and time invested, any bug in our code can be squashed. But there is something more insidious that lurks out there: bugs in your tooling. In many cases they appear as bugs in your own code, leading you in directions that will never produce fruit.
+
+Godot is unfortunately no exception.
+
+Understanding the bug
+
+To lay out the bug: if you have a tool script, and call or access any method or variable of a singleton from within that script, any exported variables will fail to export properly, and won't show within the editor, preventing you from setting their value outside of the script. This bug is present for both scripts and scenes used as singletons.
+
+Like most tooling bugs, I initially suspected my own code as the source of the bug, but using the Divide and Conquer method, I narrowed the circumstances in which it occurs, down to the criteria above.
+
+Reproducing the bug
+
+The bug is very easy to reproduce, so I'll detail the steps here:
+
+When testing bugs, it's always best to start with a fresh project if the bug is easily reproducible without much supporting code. In the new project, create two scripts: SingletonScript.gd and TestScene.gd Now create two scenes: SingletonScene.tscn and TestScene.tscn In SingletonScene.tscn , create the root node SingletonObject and attach SingletonScript.gd to it. Go into Project Settings->AutoLoad and add both SingletonScene.tscn and SingletonScript.gd as singletons. Name these SingletonScene and SingletonScript respectively. In TestScene.tscn add a root node TestSceneObject and attach TestScene.gd to it. This is all the setup we require; time to write the actual code that'll trigger the bug.
+
+First we'll write the code for SingletonScript.gd as it's static and won't need to change at all during testing.
+
+# SingletonScript.gd extends Node var uselessVar = 50 var uselessVar2 = 10 func DoNothing(): # We do some useless stuff to avoid the compiler optimizing us out. # Although from what I've seen, I doubt the compiler optimizes anything at all. uselessVar += 60 uselessVar2 = uselessVar / 3.5 return true
+
+Now the last bit of code goes in TestScene.gd ; our tool script where we trigger the bug.
+
+# TestScene.gd tool extends Node # From here down, any commented code is a line that will trigger the bug. export(float) var exportedFloat = 15 # onready var _scriptTest = SingletonScript.DoNothing() # onready var _sceneTest = SingletonScene.DoNothing() # onready var _varScriptTest = SingletonScript.uselessVar # onready var _varSceneTest = SingletonScene.uselessVar func _ready(): # Also breaks when used within a method, instead of using the onready keyword. # var scriptTest = SingletonScript.DoNothing() # var sceneTest = SingletonScene.DoNothing() # var varScriptTest = SingletonScript.uselessVar # var varSceneTest = SingletonScene.uselessVar pass
+
+Uncomment any line of code in that file, and exportedFloat will fail to export properly, which will cause it to disappear from the inspector within the editor, and from then can only be accessed within the script. Commenting the line again will cause exportedFloat to export correctly and reappear.
+
+Keep in mind that Godot has a (minor) bug where the inspector doesn't update properly. To see the changes in the inspector, you need to select another object or resource, and then switch back.

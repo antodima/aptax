@@ -1,0 +1,101 @@
+Forget paid apps; there were some countries in which Android users couldn’t get any apps from the Android Market because it wasn’t yet available to them. There are now several countries – almost twice as many – that are able to go through the Android Market and find the best apps.
+
+Google recently expanded Market support to a total of 46 countries, up from the 25 nations previously supported. Among the new countries are Brazil, Israel, and Thailand, countries that have had Android phones for some time without the primary source of getting apps. Users in these nations no longer have to rely on alternative markets to get apps.
+
+In recent weeks, Google expanded paid apps support to Canadian users, and Australian carrier Optus finally opened up its market to paid apps. Surprisingly, Google still hasn’t expanded the list of countries permitted to sell apps (9) to match the number of countries able to purchase them (13).
+
+Here’s the complete list of countries that should be able to access the Android Market.
+
+Argentina
+
+Australia
+
+Austria
+
+Belgium
+
+Brazil
+
+Bulgaria
+
+Canada
+
+Croatia
+
+Czech Republic
+
+Denmark
+
+Estonia
+
+Finland
+
+France
+
+Germany
+
+Greece
+
+Hong Kong
+
+Ireland
+
+Israel
+
+Italy
+
+Japan
+
+Kazakhstan
+
+Latvia
+
+Lithuania
+
+Luxembourg
+
+Mexico
+
+Netherlands
+
+New Zealand
+
+Norway
+
+Philippines
+
+Poland
+
+Portugal
+
+Romania
+
+Russia
+
+Serbia
+
+Singapore
+
+Slovakia
+
+Slovenia
+
+South Africa
+
+South Korea
+
+Spain
+
+Sweden
+
+Switzerland
+
+Taiwan
+
+Thailand
+
+United Kingdom
+
+United States
+
+[Distimo]

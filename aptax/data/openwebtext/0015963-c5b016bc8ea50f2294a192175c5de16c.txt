@@ -1,0 +1,35 @@
+Whomever coined the classic boxing adage "Styles make fights" would have loved to watch last weekend's upset-filled MLG Dallas Starcraft II tournament. Read on for the results, an explanation of "micro" and "macro", and a lesson in swagger from the Street Fighter competitive scene.
+
+Plenty of upsets at MLG Dallas
+
+The $6,250 prize must have lured a few top players all the way out to Dallas, because out of the top eight seeded players, only one of them (Andrew "drewbie" Mosey) ended up placing in the top eight at all. Instead, both of the previous MLG champions (Chris "HuK" Loranger and Greg "IdrA" Fields) were knocked out in stunning fashion. IdrA was sent to the Loser's Bracket in a close 2-1 set against Team Liquid founder Victor "Nazgul" Goossens, where he subsequently lost to Hyung-Hyun "SeleCT" Ryoo, while HuK lost to his fellow Team Liquid players Jos "Ret" de Kroon and Dario "TheLittleOne" Wunsch.
+
+The finals match was a rather one-sided affair between MSI-sponsored Payam "FNatic.TT1" Togyan and Jonathan "LiquidJinro" Walsh, the latter winning the Protoss vs. Terran series 4-1 by shutting down TT1's relentless Colossus play with plenty of Marines, Marauders, Banshee attacks, and well-timed Raven attacks.
+
+Team Liquid takes it home
+
+Team Liquid was in full effect this weekend, demonstrating why their clan name is practically synonymous with the phrase "professional gamer" as their members took 1st (Jinro), 4th (Tyler), 5th (TheLittleOne), and 7th place (Ret). Not bad, considering this was the first time most of their members had competed in the MLG.
+
+Technical difficulties plague Grand Finals
+
+The spectacular Starcraft II play we saw this weekend was overshadowed only by some unfortunate technical issues that forced the finalists to replay the last finals match. Unlike the original Starcraft, Starcraft II: Wings of Liberty doesn't allow players to play over a LAN connection. Instead, all games have to first connect to Blizzard's Battle.net servers--which means that they're susceptible to the lag and unreliability that comes with an Internet connection.
+
+This has frustrated the hardcore gaming community since Starcraft II's launch--seeing Jinro and TT1 lag out of a game with over $6000 at stake was the pro gaming equivalent of seeing the World Series get rained out, and unlike a baseball game, Starcraft II doesn't let you save and reload a multiplayer game. Instead, the fans waited over an hour for MLG to troubleshoot and repair their Internet connection, and the game had to be restarted from the very beginning.
+
+Explaining the Game: Micro/Macro
+
+Not following the announcers when they refer to a player's "micro" or "macro" skills? We've explained the difference between the two briefly in How To Dominate Starcraft II, but it's worth a quick refresher.
+
+Micro and Macro are shorthand for "micromanagement" and "macromanagement", and they're used to refer to two different skill sets that a player needs to master.
+
+"Micromanagement" refers to a player's ability to maneuver individual units or small groups of units in battle so they can maximize the damage they deal, take and hold an advantageous position, use their individual skills, and minimize the damage they receive.
+
+With solid micro skills, you can win battles you wouldn't normally be able to win. When Nazgul beat IdrA this weekend, he was using the Protoss Stalker's teleport ability ("Blink") to warp his units onto high ground and retreat the damaged units out of combat so they could regenerate their shields.
+
+Macro, meanwhile, refers to a player's ability to build and maintain a strong army by mining resources, quickly spending those resources on units and upgrades, aggressively taking expansions, and building plenty of unit-producing structures so you can quickly replace any units you lose. No matter how well you can micromanage your units, you're probably going to lose to a player who can produce an army that's stronger and larger than yours. Macro players typically favor the later stages of a game--Taylor "PainUser" Parsons, for example, took third place with a style that favored longer, drawn-out games which gave him more time to out-produce his opponent.
+
+Starcraft II: No Swagger Allowed
+
+Despite the high sports drama of a Starcraft II match, the tournaments themselves are usually a relatively tame affair--outside of typing "GG" ("Good Game"), players rarely even make eye contact after a match.
+
+Not so in the competitive Street Fighter II scene, however. The Southern California regional championships were held this weekend, and Japanese player Tokido put on a show for the audience by mimicking his character's finishing move:

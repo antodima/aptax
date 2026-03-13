@@ -1,0 +1,33 @@
+10.0.6 brings a 3200% speed increase when rendering effects on a Final Cut Pro X timeline
+
+This week's Final Cut Pro X upgrade to 10.0.6 brought some excellent new features and some much requested old features back. But under the hood there have been more changes, one of them turbo boosting rendering on the timeline by a massive 3200%!
+
+We would say that it would be hard to find anybody in the industry that didn't think 10.0.6 was a pretty good update to FCPX. But guess what, some people were slamming it before anybody had downloaded it. It really does make us wonder why if people are so happy with other NLEs, why should they keep moaning about FCPX when they don't even use it?
+
+We won't go on about the new features within FCPX, but we will point out one HUGE improvement that has gone rather unoticed over the last couple of days.
+
+You may or may not have been aware that up until 10.0.6 there were large differences between render times of effects on the timeline and the same effects on export. This was because on export, the Mac used all the resources it could to get that movie out and that included the GPU or Graphics Processing Unit. Rendering on the timeline was a different matter and that was done by the CPUs in the background. In the 10.0.6 update, the GPU is now used for rendering on the timeline which has led to a massive improvement in rendering times.
+
+So why should we be interested in this? The majority of effects, generators, titles and transitions are written using Motion which is a heavy user of the GPU. Some of the effects within FCPX are coded, they are the ones that you cannot open when right clicked.
+
+So we thought that we would do a little test.
+
+We took the office iMac which is under a year old and did a like for like comparison of render times of an effect before and after the move from 10.0.5 to 10.0.6. So same machine, latest OSX, same project, same effect.
+
+We decided to use a plugin called Box Roll from the XEffects 3D Transitions pack and turn all the 3D features like distance blur and reflections up to the max. The project was 1080p 25fps ProRes 422 and the effect we put at a duration of 5 Seconds.
+
+We were amazed by the results.
+
+10.0.5
+
+Ouch! And here is 10.0.6
+
+That is a huge 3200% improvement in timeline rendering times! It will also mean less dropped frames on playback as the GPU will have a go at playing complex effects.
+
+This is a great improvement for all FCPX users and will definately speed up the editing process and allow the use of GPU intensive effects to be able to be played without stuttering. We also noticed that the thumbnail previews in the transitions browser were much more responsive.
+
+If anybody else has figures on other effetcs showing the stunning improvement then we would love to post them as an update.
+
+Just to clear one point up, we forced the effect render from a menu command, not just leaving background rendering to finish it. Will be interetsting if background rendering is as quick.
+
+Nice one Apple, 3200 thank yous!

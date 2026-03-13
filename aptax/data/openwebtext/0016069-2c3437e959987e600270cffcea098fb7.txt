@@ -1,0 +1,11 @@
+Demonoid, once one of the most popular BitTorrent trackers, has reappeared again, this time hosted in Ukraine. The website is still down but the trackers are now fully operational again, perhaps a sign that Demonoid is crawling back up to speed?
+
+In June 2007 Demonoid was pressured to leave their host in the Netherlands, mainly because of legal threats from the Dutch anti-piracy outfit, BREIN. The site then relocated to Canada, but after threats from the CRIA, it decided to shut down there as well.
+
+A month ago we reported on the brief resurrection of the Demonoid tracker in Malaysia. At the time we hinted at the possibility that the site could perhaps be planning a comeback. Unfortunately the tracker went offline again after a few days. With no official response from the Demonoid team, it remains a mystery what the reason behind the resurrection was.
+
+Now, a month later, the Demonoid tracker is again responding. Just over a week ago, Demonoid torrents began to work again, this time being tracked from Ukraine.
+
+The new host of inferno.demonoid.com is the Ukrainian ISP Cocall Ltd, while the frontend of the site still remains in the US. Again, there is no official explanation for the return of the tracker, although many hope that it’s a sign that the site will be fully up and running soon.
+
+Last December, Demonoid’s founder Deimos spoke about the future of the site: “Money is an issue, but the real problem at the moment is finding a suitable place to host the website. There has been no luck there.” Perhaps he now found his safe harbor in Ukraine?

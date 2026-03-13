@@ -1,0 +1,67 @@
+Apple CEO Tim Cook. Justin Sullivan/Getty Images Apple reached a settlement with the FTC today regarding in-app purchases in its App Store for iPhones and iPads. It will refund $32.5 million to customers.
+
+The settlement comes because the FTC found it was easy for younger users to make in-app purchases without their parents' permission.
+
+In a leaked memo to Apple employees, Apple CEO Tim Cook says it was easy for some younger users to get their parents' devices and make purchases if their parents entered their iTunes passwords within 15 minutes.
+
+The 15 minute window has always been a part of the App Store as a way to make it less of a hassle to enter your password every time you want to buy an app.
+
+The FTC will also require Apple to change its App Store billing practices to make it clear when users are about to be charged for an in-app purchase, meaning it will have to tell users about that 15-minute window.
+
+Cook writes that Apple refunded in-app purchases to customers it believed were affected by this method. It emailed 28 million customers and ended up refunding the 37,000 claims it received.
+
+Here's Cook's letter, which was obtained by 9to5Mac:
+
+Team,
+
+I want to let you know that Apple has entered into a consent decree with the U.S. Federal Trade Commission. We have been negotiating with the FTC for several months over disclosures about the in-app purchase feature of the App Store, because younger customers have sometimes been able to make purchases without their parents' consent. I know this announcement will come as a surprise to many of you since Apple has led the industry by making the App Store a safe place for customers of all ages.
+
+From the very beginning, protecting children has been a top priority for the App Store team and everyone at Apple. The store is thoughtfully curated, and we hold app developers to Apple's own high standards of security, privacy, usefulness and decency, among others. The parental controls in iOS are strong, intuitive and customizable, and we've continued to add ways for parents to protect their children. These controls go far beyond the features of other mobile device and OS makers, most of whom don't even review the apps they sell to children.
+
+When we introduced in-app purchases in 2009, we proactively offered parents a way to disable the function with a single switch. When in-app purchases were enabled and a password was entered to download an app, the App Store allowed purchases for 15 minutes without requiring a password. The 15-minute window had been there since the launch of the App Store in 2008 and was aimed at making the App Store easy to use, but some younger customers discovered that it also allowed them to make in-app purchases without a parent's approval.
+
+We heard from some customers with children that it was too easy to make in-app purchases, so we moved quickly to make improvements. We even created additional steps in the purchasing process, because these steps are so helpful to parents.
+
+Last year, we set out to refund any in-app purchase which may have been made without a parent's permission. We wanted to reach every customer who might have been affected, so we sent emails to 28 million App Store customers - anyone who had made an in-app purchase in a game designed for kids. When some emails bounced, we mailed the parents postcards. In all, we received 37,000 claims and we will be reimbursing each one as promised.
+
+A federal judge agreed with our actions as a full settlement and we felt we had made things right for everyone. Then, the FTC got involved and we faced the prospect of a second lawsuit over the very same issue.
+
+It doesn't feel right for the FTC to sue over a case that had already been settled. To us, it smacked of double jeopardy. However, the consent decree the FTC proposed does not require us to do anything we weren't already going to do, so we decided to accept it rather than take on a long and distracting legal fight.
+
+The App Store is one of Apple's most important innovations, and it's wildly popular with our customers around the world because they know they can trust Apple. You and your coworkers have helped Apple earn that trust, which we value and respect above all else.
+
+Apple is a company full of disruptive ideas and innovative people, who are also committed to upholding the highest moral, legal and ethical standards in everything we do. As I've said before, we believe technology can serve humankind's deepest values and highest aspirations. As Apple continues to grow, there will inevitably be scrutiny and criticism along our journey. We don't shy away from these kinds of questions, because we are confident in the integrity of our company and our coworkers.
+
+Thank you for the hard work you do to delight our customers, and for showing them at every turn that Apple is worthy of their trust.
+
+Tim
+
+Here's the full announcement of the settlement from the FTC:
+
+Apple Inc. has agreed to provide full refunds to consumers, paying a minimum of $32.5 million, to settle a Federal Trade Commission complaint that the company billed consumers for millions of dollars of charges incurred by children in kids' mobile apps without their parents' consent.
+
+Under the terms of the settlement with the FTC, Apple also will be required to change its billing practices to ensure that it has obtained express, informed consent from consumers before charging them for items sold in mobile apps.
+
+"This settlement is a victory for consumers harmed by Apple's unfair billing, and a signal to the business community: whether you're doing business in the mobile arena or the mall down the street, fundamental consumer protections apply," said FTC Chairwoman Edith Ramirez. "You cannot charge consumers for purchases they did not authorize."
+
+The FTC's complaint alleges that Apple violated the FTC Act by failing to tell parents that by entering a password they were approving a single in-app purchase and also 15 minutes of additional unlimited purchases their children could make without further action by the parent.
+
+Apple offers many kids' apps in its App Store that allow users to incur charges within the apps. Many of these charges are for virtual items or currency used in playing a game. These charges generally range from 99 cents to $99.99 per in-app charge.
+
+The complaint alleges that Apple does not inform account holders that entering their password will open a 15-minute window in which children can incur unlimited charges with no further action from the account holder. In addition, according to the complaint, Apple has often presented a screen with a prompt for a parent to enter his or her password in a kids' app without explaining to the account holder that password entry would finalize any purchase at all.
+
+The rapidly expanding mobile arena has been a focus of the Commission's consumer protection efforts. In addition to its consumer protection enforcement activity in the mobile sphere, last year, the FTC issued staff reports addressing mobile payments and providing recommendations for the mobile industry on how to protect consumers as new and innovative payment systems come into use, advocating improved privacy disclosures in the mobile environment, and addressing advertising disclosures in the context of mobile devices.
+
+In its complaint, the FTC notes that Apple received at least tens of thousands of complaints about unauthorized in-app purchases by children. One consumer reported that her daughter had spent $2,600 in the app "Tap Pet Hotel," and other consumers reported unauthorized purchases by children totaling more than $500 in the apps "Dragon Story" and "Tiny Zoo Friends." According to the complaint, consumers have reported millions of dollars in unauthorized charges to Apple.
+
+The settlement requires Apple to modify its billing practices to ensure that Apple obtains consumers' express, informed consent prior to billing them for in-app charges, and that if the company gets consumers' consent for future charges, consumers must have the option to withdraw their consent at any time. Apple must make these changes no later than March 31, 2014.
+
+Under the settlement, Apple will be required to provide full refunds, totaling a minimum of $32.5 million, to consumers who were billed for in-app charges that were incurred by children and were either accidental or not authorized by the consumer. Apple must make these refunds promptly, upon request from an account holder. Apple is required to give notice of the availability of refunds to all consumers charged for in-app charges with instructions on how to obtain a refund for unauthorized purchases by kids. Should Apple issue less than $32.5 million in refunds to consumers within the 12 months after the settlement becomes final, the company must remit the balance to the Commission.
+
+The Commission vote to accept the consent agreement package containing the proposed consent order for public comment was 3-1, with Commissioner Wright voting no. Chairwoman Ramirez and Commissioner Brill issued a joint statement, and Commissioner Ohlhausen issued a separate statement. Commissioner Wright issued a dissenting statement.
+
+The FTC will publish a description of the consent agreement package in the Federal Register shortly. The agreement will be subject to public comment for 30 days, beginning today and continuing through Feb. 14, 2014, after which the Commission will decide whether to make the proposed consent order final. Interested parties can submit written comments electronically or in paper form by following the instructions in the "Invitation To Comment" part of the "Supplementary Information" section. Comments in electronic form should be submitted online by following the instructions on the web-based form. Comments in paper form should be mailed or delivered to: Federal Trade Commission, Office of the Secretary, Room H-113, 600 Pennsylvania Avenue, N.W., Washington, DC 20580. The FTC is requesting that any comment filed in paper form near the end of the public comment period be sent by courier or overnight service, if possible, because U.S. postal mail in the Washington area and at the Commission is subject to delay due to heightened security precautions.
+
+NOTE: The Commission issues an administrative complaint when it has "reason to believe" that the law has been or is being violated, and it appears to the Commission that a proceeding is in the public interest. When the Commission issues a consent order on a final basis, it carries the force of law with respect to future actions. Each violation of such an order may result in a civil penalty of up to $16,000.
+
+The Federal Trade Commission works for consumers to prevent fraudulent, deceptive, and unfair business practices and to provide information to help spot, stop, and avoid them. To file a complaint in English or Spanish, visit the FTC's online Complaint Assistant or call 1-877-FTC-HELP (1-877-382-4357). The FTC enters complaints into Consumer Sentinel, a secure, online database available to more than 2,000 civil and criminal law enforcement agencies in the U.S. and abroad. The FTC's website provides free information on a variety of consumer topics. Like the FTC on Facebook, follow us on Twitter, and subscribe to press releases for the latest FTC news and resources.

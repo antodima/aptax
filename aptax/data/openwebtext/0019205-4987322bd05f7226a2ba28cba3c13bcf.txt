@@ -1,0 +1,25 @@
+Jerusalem, February 22, 2011 -- The portion of the brain responsible for visual reading doesn't require vision at all, according to a new study by researchers from the Hebrew University of Jerusalem and France.
+
+Brain imaging studies of blind people as they read words in Braille show activity in precisely the same part of the brain that lights up when sighted readers read. The findings challenge the textbook notion that the brain is divided up into regions that are specialized for processing information coming in via one sense or another, the researchers say.
+
+"The brain is not a sensory machine, although it often looks like one; it is a task machine," said Dr. Amir Amedi of the Hebrew University of Jerusalem, head of the team of researchers whose work on the topic is reported in the latest issue of Current Biology.
+
+"A particular area fulfills a unique function, in this case reading, regardless of sensory input modality," he said. Amedi is affiliated with the Institute for Medical Research Israel-Canada and the Edmond and Lily Safra Center for Brain Sciences at the Hebrew University.
+
+Unlike other tasks that the brain performs, reading is a recent invention, about 5,400 years old. Braille has been in use for less than 200 years. "That's not enough time for evolution to have shaped a brain-module dedicated to reading," Amedi explained.
+
+Nevertheless, brain scans have shown that a very specific part of the brain, known as the Visual Word Form Area or VWFA for short (first discovered in sighted people by Dr. Laurent Cohen of Paris, a co-author of the current article), has been co-opted for this purpose. But no one knew what might happen in the brains of blind people who learn to read despite the fact that they've had no visual experience at all.
+
+In the new study, Amedi's team, which included his doctoral student Lior Reich, used functional magnetic resonance imaging (fMRI) to measure the neural activity in eight people who had been blind since birth while they read Braille words or nonsense Braille. If the brain were organized around processing sensory information, one might expect that Braille reading would depend on regions dedicated to processing tactile information, Amedi explained. If instead the brain is task-oriented, you'd expect to find the peak of activity across the entire brain in the VWFA, right where it occurs in sighted readers, and that is exactly what the researchers saw.
+
+Further comparison of brain activity in the blind and sighted readers showed that the patterns in the VWFA were indistinguishable between the two.
+
+"The main functional properties of the VWFA as identified in sighted are present as well in the blind, and are thus independent of the sensory-modality of reading, and even more surprisingly do not require any visual experience," the researchers wrote. "To the best of our judgment, this provides the strongest support so far for the metamodal theory of brain function," which suggests that brain regions are defined by the computations they perform. "Hence, the VWFA should also be referred to as the tangible word-form area, or more generally as the (metamodal) word-form area."
+
+The researchers suggest that the VWFA is a multisensory integration area that binds simple features into more elaborate shape descriptions, making it ideal for the relatively new task of reading.
+
+"Its specific anatomical location and strong connectivity to language areas enable it to bridge a high-level perceptual word representation and language-related components of reading," they said. "It is therefore the most suitable region to be taken over during reading acquisition, even when reading is acquired via touch without prior visual experience."
+
+Amedi said he and his research associates plan to examine brain activity as people learn to read Braille for the first time in order to find out how rapidly this takeover happens. "What we want to find out is: how does the brain change to process information in words and is it instantaneous?"
+
+###

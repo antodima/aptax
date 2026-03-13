@@ -1,0 +1,21 @@
+[PSA] Removed Games Cards Becoming "Not Marketable"
+
+Community items for "banned" games are now unmarketable (self.Steam)
+
+submitted 22 hours ago by Tasty_Salamanders
+
+
+
+About 2 days ago community items (trading cards, emoticons, backgrounds) for games removed from Steam by Valve, for things such as fake reviews, were made unmarketable. All listed items on the market were cancelled and returned to the inventories to their owners, the market pages for the items still exist but they are now useless.
+
+
+
+The items still remain tradable.
+
+
+
+Games removed by the devs themselves are uneffected. i.e. Football Manager 2013 items are still marketable while something like Lemurzin items are not.
+
+[steam-tracker.com]
+
+Looks like Valve is finally cracking down on the profit loophole for some games. Games that have been removed from Steam are now seeing their cards, emoticons, boosters, and backgrounds labeled as "Not Marketable".According to official postings on r/Steam , only games removed from the store due to violations will be affected.The following games's items have been confirmed to be delisted from the Steam Community Market. While not marketable, items associated with these games remain tradable.

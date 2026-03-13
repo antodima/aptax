@@ -1,0 +1,69 @@
+Amid all the noise about new satellites and maiden launches, there is something interesting quietly taking place at the Indian Space Research Organization. It is building and nurturing the private industrial capabilities in the country to support its activities. Other than making some big announcements like outsourcing manufacture of an NAVIC satellite to the private sector or privatization of PSLV operations by 2020, ISRO is also making focused efforts to consolidate and enhance participation of Indian industries for production of hardware required for satellites and launch vehicles, such as rocket engines, propellant tanks etc.
+
+Only recently ISRO chief A.S. Kiran Kumar had pointed out that India’s space capacity of 34 working commercial communications satellites is capable of serving barely half of India’s current needs. He said the space agency is severely constrained to meet the ever-increasing demands from over 60 central departments, 29 states, and thousands of private sector companies, while urging the domestic industry to come forward and help augment the manufacture and launch of satellites.
+
+ISRO chief A.S. Kiran Kumar has urged the domestic industry to come forward and help ISRO augment the manufacture and launch of satellites.
+
+“Our current strength is around 16,000 people, which is not enough to achieve the throughput we have aimed at,” Kumar said. “We need the help of industry players to achieve our goals. We are open to startups and smaller companies that meet our requirements. An example would be Bellatrix.”
+
+Around 80% of the development work on launch vehicles had been outsourced, with ISRO doing just the supervision work. Even Chandrayaan II, scheduled to be launched in early 2018, had many sub-systems developed by private players.
+
+“ISRO is encouraging a lot of private industry to come up, as we believe in indigenizing technology and its transfer,” Uday Raj, General Manager RRSC – South and Associate Program Director, Space applications, ISRO, told Geospatial World on the sidelines of a seminar on location based services, organized in New Delhi by Ficci. “We are allowing private players to join hands with us to develop some product and services. For instance, as part of collaboration, MapMyIndia is sharing its huge geospatial database on our Bhuvan platform.”
+
+Private NAVIC satellites
+
+In April this year, ISRO announced that for the first time ever it has partnered with a private player for manufacturing two of its satellites. A consortium led by Bangalore-based Alpha Design Technologies is building two backup satellites for its satnav system. NAVIC has seven satellites in orbit, and the ISRO wants the two additional ones to be launch-ready in case any of these malfunctions.
+
+The move to outsource was taken to expedite the various missions ISRO is working and it was finding too taxing the efforts to make everything in-house. “There is a gap between what we are capable of doing now versus what we are supposed to make. That gap we want to fill up with support from the industry… 16 to 17 satellites we have to make every year. So it is a really-really quantum jump and to fill that gap…, we thought the industry could come in,” M. Annadurai, Director of ISRO Satellite Centre in Bengaluru, had said.
+
+READ: ISRO’s Top 5 Upcoming Innovative Programs
+
+Privatization of PSLV operations
+
+Last year the ISRO chief said the agency was in discussions with the government as well the private sector towards formulating a plan and strategy to enhance the capacity and capability of managing the Polar Satellite Launch Vehicle (PSLV) program on an end-to-end basis. The integration and launch of the rocket will be handled by an industrial consortium through Antrix Corporation, the commercial arm of ISRO. The tentative date of implementation is 2020.
+
+PSLV-C37 goes up carrying a record 104 satellites from Sriharikota on February 15.
+
+Dr Jitendra Singh, Union Minister of State (Independent Charge) Development of North-Eastern Region (DoNER), MoS PMO, Personnel, Public Grievances & Pensions, Atomic Energy and Space, had said in a written reply in Parliament that ISRO is in the process of exploring the possibility of involving Indian industry in a greater role to meet the increased national requirements and possible commercial demand for launch services.
+
+The main advantage of privatizing the PSLV operations is to increase the rate of launches from 12 to 18 per year.
+
+Private satellites for Digital India
+
+Meanwhile, the Telecom Regulatory Authority of India (TRAI), has also suggested that ISRO ropes in the private sector to launch satellites in low and medium orbits to expand broadband penetration in the country to further the government’s vision of Digital India.
+
+India had about 31% Internet connectivity and it was estimated that only 450 million of India’s of 1.25 billion people would have internet connectivity by June, a report from the Internet and Mobile Association of India and market research firm IMRB International had said in March. It added that there are potential approximately 750 million users still in rural India who are yet to become Internet users. But currently this is not possible given the status of data penetration in the country, especially the Northeastern parts where laying optic fibre cables is difficult given the rough terrain.
+
+One must mention here that there exists a provision for private players to operate communication satellites on their own in India through an established mechanism called Committee for Authorising the establishment and operations of Indian Satellite Systems (CAISS). Under a policy approved by the Government of India in 2000, only Indian registered companies with FDI not more than 74% may be allowed to establish and operate such a satellite system.
+
+Why this is necessary?
+
+First and foremost, ISRO’s frugal budget. ISRO’s this year’s annual budget stands at around $1.4 billion even after a substantial hike, which are peanuts when compared to NASA’s 19.1 billion. Earlier in the year, the Indian Parliamentary Standing Committee on Science and Technology, Environment and Forests had asked for a 50% hike, while ISRO chairman stressed on the need for “for manpower for producing various satellites and also bolster the R&D set up to develop new generation satellite and launch vehicles”.
+
+There was two pressing reasons for an increase in ISRO’s budget. With the Indian government’s aggressive focus on geo-enabling of various sectors, there is pressure on ISRO’s downstream services, which again translates into newer satellites and launch vehicles. Additionally, the tremendous success of the Polar Satellite Launch Vehicle (PSLV) globally, especially after the record 104-satellite launch, has led to further launch demands.
+
+A written reply by the Department of Space to Parliament acknowledges this: “Considering the enhanced national requirements for launching satellites for earth observation, communication & navigation, the present capacity of launches is a constraint.” In order to step up the launch capacity within the country, ISRO is in the process of exploring the possibility of involving Indian industry in a greater role towards producing integrated systems/subsystems, including assembly and testing by vendor as per ISRO’s design, the statement adds.
+
+Secondly, the move to commercialize is also keeping up with the global trends. There is a concerted move to open up the space sector across the world. While NASA has for long supported private players, under the Trump administration it has taken bold steps towards further commercialization of the sector through legislations like the NASA Transition Act and the recently introduced American Space Commerce Free Enterprise Act of 2017. The European Space Agency (ESA) has also been a great proponent of public-private collaboration in space, which according to it is capable of bringing diverse advantages. Under a ‘Space 4.0’ policy, which fosters the transition of ESA from a government-run laboratory in orbit to a commercially driven human and robotic spaceflight economy, a step-wise approach is nurturing new commercial services led by European private companies that strengthens the competitiveness of the space and non-space industrial base, stimulates R&D, and integrates innovative solutions into ESA space exploration missions.
+
+Even in countries such as Canada or Japan, there has been move towards commercialization of the sector. Among the big space powers, perhaps only China can be compared to India in terms government controls and monopoly of the state agency.
+
+The last but not the least is global technology innovation. The launch costs aboard a PSLV is currently the lowest, at a paltry $15 million. In comparison, it currently costs SpaceX about $60 million to send each rocket into space. NASA’s launches cost more than $100 million. Those by the European Space Agency’s (ESA) Ariane-5, Japan’s H-IIA, and the Chinese Long March also cost about the same. A Russian Proton costs $68 million to launch.
+
+However, the PSLV can launch only up to a weight of 1,800 kg. ISRO’s recently launched GSLV MK- III (Geosynchronous Satellite Launch Vehicle Mark III) put a satellite weighing 3,136 kg in the orbit on June 6. But for anything heavier ISRO doesn’t have a solution yet. SpaceX claims its Falcon Heavy, scheduled for launch later this year, is capable of launching 54,000 kg in space, more than twice the payload of the next closest operational vehicle, the Delta IV Heavy, at one-third the cost. Delta IV Heavy, manufactured by United Launch Alliance, is the world’s highest capacity rocket (25,000 kg) currently in operation and costs $435 million per launch (calculated from an Air Force contract of $1.74 billion for 4 launches).
+
+Also, where SpaceX is miles ahead of ISRO (and any other competitor at this moment) is how it has perfected the reusable rocket technology, which allows for a soft-landing of its rocket’s first stage after a launch, which enables re-use of a rocket the second (and possibly third or fourth or nth time) time as it recently proved on March 30. Once the company perfects this technology, the cost for launching a SpaceX Falcon 9 rocket would come down to $612,000, or lower. With Jeff Bezos’s Blue Origin close on the heels, the day is not far when ISRO could find it difficult to maintain its current USP — low launch costs.
+
+And this is just launch costs. If we add innovation in satellite technologies, hardware costs etc, it would be not only more cost efficient for ISRO to outsource, but also get things faster, better and on time.
+
+The road ahead
+
+Privatizing PSLV operations and outsourcing hardware manufacturing will not just free up ISRO to focus on more nation-building missions, but also create a vibrant Indian space market.
+
+This is very much in keeping with the global trend. Premier national space agencies such as NASA or ESA or JAXA do not engage in commercial manufacture of communications satellites or leasing transponders. They instead focus on building next generation R&D capabilities and possibilities, leaving the private sector to take care of commercialization.
+
+ALSO READ
+
+GSLV Mk III, once under US embargo, up for launch
+
+ISRO’s disaster management platform gets more user friendly

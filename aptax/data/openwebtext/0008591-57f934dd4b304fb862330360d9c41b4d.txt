@@ -1,0 +1,87 @@
+About
+
+Thrill seekers, horror enthusiasts, and technology lovers, here is an experience you won't want to miss.
+
+The VRcade Nightmare Machine is the world's first full-motion virtual reality haunted house attraction, and it's exclusive to Seattle.
+
+Put on the custom 3D VRcade headset and headphones, and wirelessly move, duck, hide, and panic in wireless, unconstrained space for 5 intense minutes with no controller to fumble with; just your natural movement, your wits, and a world of infinite terror.
+
+Unlike a horror movie, you get to actually interact with the experience in ways never before possible. Are the footsteps real or just your imagination? What happens when the floor collapses beneath you? Will your flashlight be enough to ward off bats, spiders, demons, and zombies? Absolutely not.
+
+What cannot exist in the real world is very much possible in The Nightmare Machine. You cannot imagine the terrors that await when the impossible is staring you in the face.
+
+The Nightmare Machine is our twist on a haunted house. For the entire month of October, Seattle will be the first city in the world to experience VRcade's platform as it powers this intense horror experience, hosted at the iconic EMP Museum.
+
+See our local news coverage below for a more in-depth look at the teaser experience.
+
+VRcade is the world’s first virtual reality services facility, located in Seattle Washington. Our aim is to create a virtual reality experience that cannot yet be obtained in the home without spending 100’s or even 1000’s of dollars. We have created our own platform, which is a combination of custom and 3rd-party hardware and software, which when combined, deliver the exact experience we wanted to achieve. The result of our years of hard work allow us to deliver a level of intuitive interaction, fidelity, range, and flexibility, exceeding what users are currently used to in the home. We then take all of this technology and let you enjoy it! There are no longer any barriers to a quality VR experience.
+
+While we strive to cater to all markets, our main focus remains on architectural visualization, which allows brokers, architects, interior designers, and their clients to see, hear and interact with their space in ways that were previously impossible. Underneath the professional services, we still remain connected to our gaming and entertainment roots. In fact, The Nightmare Machine is not our first successful immersive experience. In December of last year, we contributed our own ‘fan art’ to EMP's Doctor Who 50th Anniversary Celebration. We measured our success by the fact that we had the longest line at around 3 hours! Needless to say, it was wildly successful for us. So we've improved the system, we've expanded our standard formula, and we are back with The Nightmare Machine.
+
+There are several technologies and concepts that make the VRcade platform unique and immersive. For instance, the system uses optical motion capture cameras for tracking both props and users, including any and all parts, down to the fingers. We take this tracking and apply it to how the user sees, hears, and interacts with the simulation using a custom HMD (Head-Mounted Display), binaural audio, pumped through high-quality headphones, and their own natural movements. This creates an intuitive way to experience and control a virtual world, that suddenly seems less virtual and more 'reality'. Because of this combination of technology and software, we do not need to rely on other forms of input and interaction, such as a joystick or omni-directional treadmill.
+
+On top of that, we deliver the whole experience to up to 4 users wirelessly, removing the need for a pesky tether of cables that can disconnect a user from the immersion we are trying to maintain. The end result is so immersive, that your mammal brain knows it couldn't possibly be real, but your reptilian brain responds as though it is. This experience delivers the first steps to the promise of VR we all remember from the 90's, and it's only going to get better from here.
+
+We will be using Faceshifts markerless motion capture technology to scan the heads of select backers to be featured in The Nightmare Machine. With accurate color representation and 3D geometry, the results are spooky. As the heads sit on the shelves of the Doctor's twisted laboratory, each pair of eyes will dart between the current victims participating in the experience.
+
+Head Scan Technology:
+
+At VRcade, we use faceshift technology to accomplish 2 goals. One, we provide a means for you to get your head scanned and placed into The Nightmare Machine as part of the horror attraction. As you can see, your friends will be able to easily recognize a familiar face once inside.
+
+The other way we use faceshift is to record the animations of all of our actors to provide the most convincing and immersive performances. We can even control characters like Dr. Virago live, breaking the barrier between what is real and what is just a virtual world.
+
+One of the most rewarding things about building a new platform is getting developers involved and building their own unique projects that use it. So we are inviting any and all developers to collaborate with us on this exciting and unique opportunity. It doesn’t matter if you are local or remote, we will facilitate the collaborative effort in whatever way we can. We are looking to build relationships with all developers who want to explore or create in VR. We feel this is a great way to foster that relationship, so throughout this campaign, we will be hosting Nightmare Machine game jams at our VRcade HQ, allowing you to create short, intelligently terrifying experiences which will debut in October at the EMP. We will work side by side with our developers, giving them access to our facilities (including all of our hardware and software), guidelines for creating an experience, and of course credit for their contribution to a historical moment in virtual reality.
+
+So if you are an artist, musician, code-monkey (or code-ninja), game designer, narrative designer, hardware specialist, visit our humble little developer portal and get in touch!
+
+By backing this event you will receive one or more of the following rewards based on your backer tier:
+
+To make it easier to understand where all the money is going, we've divided this zombie into easy-to-visualize parts:
+
+As you can see, the majority of the money raised in this campaign will go towards building hardware. A chunk gets set aside for Kickstarter, a small portion goes to indie developers who win the game-jam competitions, and then the last major piece will go towards paying for additional staffing and decorations for the event. We want to make sure you have the best end-to-end experience, and this means making everything look and feel like a traditional haunted house and make sure there is plenty of assistance to make the whole process run smoothly and make sure nobody gets hurt.
+
+You will notice that no initial percentage goes towards Experience Development. That is because we are going to be doing this one way or another. We're hoping the horror development community will help in a big way, but we're also dedicated to making this a success. That being said, any extra funds raised from the campaign that exceed the target goal will go towards additional experience development on our end. That is just like it sounds: the more money we raise, the better and more terrifying the experience for you! So tell everyone you know, get your head scanned and come to the party. Most of all, let's have a lot of fun with this!
+
+Thanks to our friends at OCVR, we have unknowingly completed our first game jam for The Nightmare Machine. We have scheduled the remaining game jams for August and are well on our way to completing the software framework that brings the entire experience together. We also recently hosted our first two play-test sessions, provided some decent scares, and have received some good feedback to make the experience even scarier for the rest of you.
+
+Each weekend during the campaign we will be holding a game jam to get us closer to our first live test at EMP museum on September 15, 2014.
+
+Nightmare Machine
+
+Children under 7 may not be admitted into The Nightmare Machine.
+
+If you are pregnant, elderly, have a heart condition, or you have a history of seizures, it is not recommended that you use The Nightmare Machine.
+
+All participants must sign and agree to a waiver of liability for injury or other personal damage.
+
+Anyone with a condition which is worsened by fear, anxiety, 3D visuals, or intense images and sounds should not attend The Nightmare Machine.
+
+Intoxicated individuals may be asked to leave the line or The Nightmare Machine at any time.
+
+Tickets and Scheduling
+
+ALL Kickstarter backers must schedule their time to attend The Nightmare Machine through the VRcade approved scheduling system.
+
+Tickets are valid only after ticket holder has scheduled time in the VRcade approved scheduling system. Tickets are valid only on the dates assigned through the scheduling system. No refunds on unused tickets, rainchecks, or replacements. Tickets may only be used during normal operating hours. There is no guarantee of make-up time if a scheduled time is missed by ticket holder.
+
+General EMP terms of use apply (http://www.empmuseum.org/about-emp/terms-of-use.aspx).
+
+Tickets are not valid if reproduced in any manner. Tickets will be scanned before entry.
+
+Due to maintenance and other unseen circumstances, Nightmare Machine entry may be temporarily suspended.
+
+Head Scan
+
+Backers must be present IN SEATTLE on designated days to have their head scanned.
+
+Certain unforeseen conditions may prevent a perfect head scan.
+
+Experience
+
+Contact lenses are preferred over glasses for maximum comfort in the VRcade head mounted display. Very few people have ever reported discomfort while wearing the VRcade HMD.
+
+If you feel sick, dizzy, or nauseous, simply close your eyes and ask for help in removing your head mounted display.
+
+Users must adhere to VRcade rules and regulations while in the experience to avoid personal injury to themselves or others.
+
+VRcade, Inc cannot be held responsible for any Acts of God that may result in personal discomfort or unforeseen technical conditions.

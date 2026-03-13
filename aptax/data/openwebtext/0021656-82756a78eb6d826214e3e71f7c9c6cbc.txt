@@ -1,0 +1,43 @@
+We are pleased to announce the release of Qt Creator 4.2
+
+Qt SCXML Editor
+
+
+
+Qt SCXML is a new module in Qt that allows you to create state machines from State Chart XML and embed them into Qt C++ and Qt Quick applications (Overview). It was released as Technical Preview in Qt 5.7 and will be released fully supported with Qt 5.8.
+
+Qt Creator 4.2 now supplements the Qt SCXML module by offering a graphical editor for SCXML (experimental). It features editing states and sub-states, transitions, events, and all kinds of properties. The editor is experimental and the plugin is not loaded by default. Turn it on in Help > About Plugins (Qt Creator > About Plugins on macOS) to try it.
+
+Projects Mode
+
+We reworked how you select the project and its diverse settings in Projects mode. Instead of nested tabs, you now select the project from a dropdown. The settings form a tree that shows all available kits and other categories, making for a much cleaner UI. Enabling use of a kit for a project is now easily done by clicking the entry in the tree. Please provide feedback on any remaining issues through our bug tracker.
+
+Qt Quick Designer
+
+
+
+Qt Quick Designer has received many smaller features in this release. In the connections editor, there is a new section for managing the imports and property definitions that are necessary for using C++ backend objects (documentation). Also, support for padding (Qt Quick 2.6) was added, and you can now edit the when condition of states, and the diverse font properties of text items.
+
+CMake support
+
+Several fixes and improvements were implemented, like: Improvement of performance when opening CMake projects, and support for predefined options for properties. In addition, Tobias contributed the server-mode to CMake in preparation for a much more complete CMake support in the next Qt Creator release.
+
+QML Profiler
+
+When profiling your QML code you now have the option to show memory usage and allocations as flame graphs as well. You can now position orientation lines.
+
+
+
+Other Additions and Improvements
+
+We added Tools > Diff > Diff Current File and Diff Open Files for showing a local diff of the modifications of files in Qt Creator with respect to their versions on disk.
+
+There were many more changes, which are described in more detail in our change log.
+
+Get Qt Creator 4.2
+
+Head over to the Qt Account Portal or to the download page, get and install Qt Creator 4.2. As usual, the bug tracker will accept bug reports. You also find us on IRC on #qt-creator on chat.freenode.net, and on the Qt Creator mailing list.
+
+
+
+Do you like this? Share it

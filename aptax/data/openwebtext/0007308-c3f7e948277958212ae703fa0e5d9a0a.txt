@@ -1,0 +1,109 @@
+News Release 15-138
+
+Establishing a brain trust for data science
+
+Awards for Big Data Regional Innovation Hubs create consortia to catalyze multi-sector partnerships
+
+
+
+Storm surge visualization of Hurricane Joaquin. Several BD Hubs will focus on natural hazards.
+
+
+
+November 2, 2015
+
+
+
+This material is available primarily for archival purposes. Telephone numbers or other contact information may be out of date; please see current contact information at media contacts.
+
+The ability to access, analyze and draw insights from massive amounts of data already drives innovation in areas ranging from medicine to manufacturing, leading to greater efficiency and a higher quality of life.
+
+To accelerate this emerging field, the National Science Foundation (NSF) today announced four awards totaling more than $5 million to establish regional hubs for data science innovation.
+
+The consortia are coordinated by top data scientists at Columbia University (Northeast Hub), Georgia Institute of Technology and the University of North Carolina (South Hub), the University of Illinois at Urbana-Champaign (Midwest Hub) and the University of California, San Diego, the University of California, Berkeley, and the University of Washington (West Hub).
+
+Covering all 50 states, they include commitments from more than 250 organizations--from universities and cities to foundations and Fortune 500 corporations--with the ability to expand further over time.
+
+"This program represents a unique approach to improving the impact of data science by establishing partnerships among likeminded stakeholders," said Jim Kurose, NSF's assistant director for Computer and Information Science and Engineering, which funds the program. "In doing so, it enables teams of data science researchers to come together with domain experts, with cities and municipalities, and with anchor institutions to establish and grow collaborations that will accelerate progress in a wide range of science and education domains with the potential for great societal benefit."
+
+Building upon the National Big Data Research and Development Initiative announced in 2012, the awards are made through the Big Data Regional Innovation Hubs (BD Hubs) program, which creates a new framework for multi-sector collaborations among academia, industry and government.
+
+The "big data brain trust" assembled by the hubs will conceive, plan and support regional big data partnerships and activities to address regional challenges.
+
+Among the benefits of the program are greater ease in initiating partnerships by reducing coordination costs; creating opportunities for sharing ideas, resources, and best practices; and bringing top talent to address important issues.
+
+Issues the BD Hubs have identified as priorities include:
+
+new technologies for big data and data-driven discovery, including in healthcare and local health disparities;
+
+management of natural resources and impacts on habitat planning and hazards;
+
+precision agriculture and the food, energy and water nexus;
+
+education and smart and connected communities;
+
+precision medicine;
+
+energy, materials and manufacturing; and
+
+finance.
+
+The BD Hubs will be sites for transitioning research into practice. They will also educate and train the next-generation workforce in data science.
+
+The projects from this first phase of the program will help establish the governance structure of the BD Hub consortia, support the recruitment of executive directors and administrative staff for each BD Hub and begin developing approaches for inter­BD Hub collaborations.
+
+In addition, the Computing Community Consortium will sponsor a program for the BD Hubs to bring together academic and industry researchers, including those early in their careers, to facilitate long-term partnerships to promote the goals of each BD Hub.
+
+Support for projects at each BD Hub will come from a variety of sources in addition to NSF's investments.
+
+Big Data Spokes
+
+NSF anticipates awarding $10 million in grants for the next phase of the BD Hubs, called the Big Data Spokes (BD Spokes), contingent upon the availability of funds. The BD Spokes program solicitation aims to help initiate research in specific priority areas identified by the BD Hubs.
+
+Each BD Spoke will focus on a specific BD Hub priority area and address one or more of three key issues: improving access to data, automating the data lifecycle and applying data science techniques to solve domain science problems or demonstrate societal impact.
+
+"The BD Spokes aims to advance the goals and regional priorities of each BD Hub, fusing the strengths of the individual institutions and investigators and applying them to problems that affect communities, populations and groups within the region," Kurose said.
+
+(For more information regarding due dates and eligibility requirements, please see the solicitation.)
+
+BD Hubs leadership meeting
+
+The announcement of the BD Hubs awards and BD Spokes solicitation comes days before the first national stakeholders meeting of the BD Hubs, to be held Nov. 3-5 in Arlington, Virginia.
+
+This meeting will allow leaders and researchers representing each BD Hub to discuss governance and sustainability models, coordinate ideas for BD Spokes and identify next steps.
+
+The last day of the meeting, Nov. 5, will include two public webinars.
+
+At the first webinar, BD Hubs representatives will discuss their plans, as well as mechanisms for governance and coordination among BD Hubs stakeholders.
+
+The second webinar will be held in conjunction with the National Data Science Organizer's Workshop. It will discuss the role of BD Hubs in engaging with grassroots data science organizations, such as Meetup groups and non-profits--as well as other data science consortia--as they help the U.S. make the most of the opportunities afforded by big data.
+
+-NSF-
+
+Media Contacts
+
+Aaron Dubrow, NSF, 703-292-4489, email: adubrow@nsf.gov
+
+
+
+Program Contacts
+
+Fen Zhao, NSF, 703-292-7344, email: fzhao@nsf.gov
+
+
+
+The National Science Foundation (NSF) is an independent federal agency that supports fundamental research and education across all fields of science and engineering. In fiscal year (FY) 2019, its budget is $8.1 billion. NSF funds reach all 50 states through grants to nearly 2,000 colleges, universities and other institutions. Each year, NSF receives more than 50,000 competitive proposals for funding and makes about 12,000 new funding awards.
+
+Get News Updates by Email
+
+Useful NSF Web Sites:
+
+NSF Home Page: https://www.nsf.gov
+
+NSF News: https://www.nsf.gov/news/
+
+For the News Media: https://www.nsf.gov/news/newsroom.jsp
+
+Science and Engineering Statistics: https://www.nsf.gov/statistics/
+
+Awards Searches: https://www.nsf.gov/awardsearch/

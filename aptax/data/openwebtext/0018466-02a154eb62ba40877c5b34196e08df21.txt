@@ -1,0 +1,83 @@
+A recurring irony in the empirical study of politically biased misunderstandings of science is how often people misconstrue empirical evidence of this very phenomenon as a result of politically biased reasoning.
+
+
+
+It’s funny.
+
+It’s painful.
+
+And it’s depressing—indeed, the 50th time you see it, it is mainly just depressing
+
+So I wasn’t “surprised”—much less “stunned”—when I observed descriptions of the data I presented on the correlation between science comprehension and identification with the tea party being warped by this same dynamic.
+
+The 14 billion regular readers of this blog (exactly 2,503,232 of whom identity with the tea party) know that I believe that there is no convincing empirical evidence that the science communication problem—the failure of compelling, widely accessible scientific evidence to dispel culturally fractious disputes over societal risks and other policy-relevant facts—can be attributed to any supposed correlation between a “conservative” political outlook & a deficit in science literacy, critical reasoning skills, or commitment to science’s signature methods for discovery of truth.
+
+On the contrary, I believe that the popularity of this claim reflects the vulnerability of those who harbor a “nonconservative” (“liberal,” “egalitarian,” or
+
+whatever one chooses to style it) outlook to accept invalid or ill-supported empirical assertions that affirm their cultural outlooks.
+
+That vulnerability, I believe, is perfectly “symmetrical” with respect to the right-left political spectrum (and the two-dimensional space defined by the cultural continua of “hierarchy-egalitarianism” and “individualism-communitarianism”).
+
+I believe that, in part, because of a study I conducted in which I found evidence that there was an ideologically uniform tendency—one equal in strength, among both “conservatives” and “liberals”—to credit or dismiss empirical evidence supporting the validity of an “open-mindedness” test depending on whether study subjects were told that the test showed that those who share their ideology were more or less open-minded than those subscribing to the opposing one.
+
+Not only do I think the “asymmetry thesis” (AT)—the view that this pernicious deficiency in reasoning is disproportionately associated with conservativism—is wrong.
+
+I think the contempt typically evinced (typically but not invariably; it's possible to investigate such hypotheses without ridiculing people) toward "conservatives" by AT proponents strengthens the dynamics that account for this reason-effacing, deliberation-distorting form of motivated cognition.
+
+I want reasoning people to understand this. I want them to understand it so that they won’t be lulled into behaving in a way that undermines the prospects for enlightened democracy. I want them to understand it so that they can, instead, apply their reason to the project of ridding the science communication environment of the toxic partisan entanglement of facts with cultural meanings that is the source of this pathology.
+
+The “tea party science comprehension” post was written in that spirit. It presented evidence that a particular science comprehension measure I am working on (in an effort to help social scientists, educators, and others improve existing measures, all of which are very crude) has no meaningful correlation with political outlooks.
+
+Actually, the measure did correlate negatively—“r = - 0.05, p < 0.05”—with a scale assessing one’s disposition to identify one’s ideology as “conservative” and one’s party affiliation as “Republican.”
+
+I noted that, and pointed out that this association was far too trivial to be afforded any practical significance whatsoever, much less to be regarded as the source of the fierce conflicts in our society over climate change and other issues turning on decision-relevant science.
+
+But anticipating that politically motivated reasoning would likely induce some readers who identify as “liberal” and “Democratic” to seize on this pitifully small correlation as evidence that of course politically biased reasoning explains why those who identify as "conservative" & "Republican" disagree with them, I advised any such readers to consider the correlation between science comprehension and identifying with the tea-party: r = 0.05, p = 0.05.
+
+Anyone who might be tempted to beat his or her chest in a triumphal tribal howl over the practically meaningless correlation between right-left political outlooks & science comprehension could thus expect to find him- or herself fatally impaled the very next instant on the sharp spear tip of simple, unassailable logic.
+
+I figured this warning would be clear enough even for "liberals” (it's sad that our contemporary political discourse has so compacted the meaning of this word) at the higher end of the “science comprehension” scale (ones lower in science comprehension would be even less likely to draw politically biased inferences from the data), and thus deter them from engaging in such an embarrassing display of partisan unreason.
+
+I also owned that I myself had expected that likely I’d find a modest negative correlation between tea-party membership and science comprehension.
+
+I did that for a couple reasons. The first was that I really did expect that's what I'd see. I surmised, for one thing, that there was likely a correlation between religiosity and tea-party membership (there is: r = 0.16, p < 0.01), and I know religion correlates negatively with “cognitive reflection” and “science literacy” measures—in ways that empirical evidence shows make no meaningful contribution to disputes over climate change etc.
+
+Second, I thought it would be instructive and constructive for me to show how goddam virulent the politically motivated reasoning bias is. Knowing about it is certainly no defense. The only protection is regular infusions of valid empirical evidence administered under conditions that reveal the terrifying prospect that one will in fact display symptoms of true idiocy if one succombs to it.
+
+But despite all this, many many many tea-party partisans succumbed to politically biased reasoning in their assessment of the evidence in my post.
+
+Characterizing a blog post on exploratory probing of a new science comprehension measure as a “study” (indeed, a “Yale study”; I guess I was “misled” again by the “liberal media” about whether the tea party treats Ivy League universities as credible sources of information) , scores of commentators (in blogs, political opinion columns, in comments on my blog, etc) gleefully crowed that the data showed tea party members were "more science literate,” "better at understanding science" etc. than non-members.
+
+My observation that the size of the effect was “trivial,” and my statement that the “statistical” significance level was practically meaningless and as likely to disappear as reappear in any future survey (where one observes a “p-value” very close to 0.05, then one should expect half of the attempted replications to have a p-value above 0.05 and half below that) was conveniently ignored (indeed, writers tried to add force to the reported result by using meaningless terms like “solid” etc. to the describe it).
+
+Also ignored, of course, was that liberals scored higher than conservatives on the same measure and in the same dataset.
+
+Did these zealots feel the sting of 50,000 logic arrows burrowing into their chests moments after they got done beating on them? Doubt it.
+
+So, what to say? I dunno, but here are four observations.
+
+1. Tea party members are like everyone else, as far as I can tell, when it comes to science comprehension.
+
+Is this something to be proud of? I don’t think so. It means that if we were to select a tea-party member at random, there would be a 50% chance he or she would say that “antibiotics kill viruses as well as bacteria” and less than a 40% chance that he or she would be able to correctly interpret data from a simple experiment involving a new skin-rash treatment.
+
+2. Because tea-party members are “just like everyone else,” they too have among their number some individuals who combine a high degree of scientific knowledge with an impressively developed capacity for engaging in critical reasoning.
+
+But because they are like everyone else, these high "science comprehending" tea-party members will be more likely to display politically biased misinterpretations of empirical data than people who display a lower "science comprehension" apptitude. The greater their capacity to engage in analytical thinking, the more systematically they will use that capacity to ferret out evidence congenial to their predispositions and block out and rationalize away everything else.
+
+Moreover, because others who share their values very sensibly rely on them when trying to keep up with what’s known to science, these high science-comprehending tea-party members -- just like high science-comprehending "Democrats" and "Republicans'" and "libertarians" and "socialists" et al.-- will play a principal role in transmitting the reason-effacing pathogens that pervade our polluted science communication environment.
+
+3. Also like everyone else, tea-party members can be expected, as a result of living in a contaminated science communication environment, to behave in a manner that evinces not only an embarrassing deficiency in self-awareness but also an exceedingly ugly form of contempt for others , thereby amplifying the dynamics that are depriving them along with all the other culturally diverse citizens in the Liberal Republic of Science of the full benefit that this magnificent political regime uniquely confers on reasoning, free individuals.
+
+4. Finally, because they are like everyone else, some of the individuals who have used their reason and freedom to join with others in a project they call the “tea-party” movement realize that they have exactly the same stake in repulsing this repulsive pathology as those individuals who’ve used their reason and their freedom to form associations like the “Democratic Party,” the “Republic Party,” the “Libertarian Party,” the “Socialist Party” etc.
+
+They know the only remedy for this insult to our common capacity to reason is to use our common capacity to reason to fashion a new political science, one cognizant of the distinctive challenge that pluralistic democracies face in enabling their citizens to recognize the significance of the unprecedented volume of scientific knowledge that their free institutions have made it possible for them to acquire.
+
+They are resolved to try to make all of this clear to those who share their values—and to reach out to those who don’t to make common cause with them in protecting the science communication environment that enlightened self-government depends on.
+
+The best available evidence doesn’t tell anyone what policy is best. That depends on judgments of value, which will vary—inevitably and appropriately—among free and reasoning people.
+
+Mine differ profoundly from those held by individuals who identify as tea party members. We will have plenty to disagree about in the democratic process even when we agree about the facts.
+
+But without a reliable apprehension of the best available evidence, neither I nor they nor anyone else will be able to confidently identify which policies can be expected to advance our respective values.
+
+In the polluted science communication environment we inhabit, none of us can be as confident as we have a right to be that we truly know what has come to be collectively known through science.

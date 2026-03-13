@@ -1,0 +1,23 @@
+We've been hearing a lot about Volantis lately, but what about the other supposed Nexus device - Shamu? Since we originally broke the story back in July (with the Information affirming Shamu's existence soon after) things have been relatively quiet, with only a benchmark test here or there popping up with alleged specs that seemed to point to a smaller device.
+
+Today, however, 9to5Google has divulged specs and details about the device in which the outlet seems fairly confident. 9to5 says it can corroborate the 5.9" screen size, and notes that "the device we've learned about" actually carries the following specs, some of which clash with earlier reports:
+
+5.92" QHD display (498PPI)
+
+3200mAh battery
+
+13MP camera and 2MP front shooter
+
+Snapdragon 805 processor
+
+3GB RAM
+
+Worth noting is that 9to5's information aligns almost perfectly with information we received earlier this year, but they also sound very close to a device we've seen under the name Quark, which may in fact be the basis for Shamu.
+
+We can also fill in some of the gaps in 9to5's information. For instance, Shamu (as we noted in our original coverage) is expected to carry a fingerprint sensor on its back, replacing Moto's signature dimple/logo décor. Additionally, 9to5 notes that Shamu doesn't appear to be running a 64 bit version of Android, and indeed the information we saw earlier this year indicated that the device would launch on a 32 bit version of Android L (while Volantis will carry a 64 bit version). Our information at the time also suggested that Shamu would have wireless charging capabilities (and compatibility with Moto's new Turbo Charger), but as with any pre-release information, we can't be totally certain just yet.
+
+9to5 also notes that the form factor has only been slightly modified from the Moto X as far as they can tell - the volume rocker and power button are said to be positioned more toward the center of the device to allow for easier access.
+
+Finally, 9to5 doesn't rule out the possibility of multiple Nexus phones. While we can't corroborate the existence of a smaller Nexus phone, there has certainly been evidence floating around to suggest a 5.2" device. Shamu, according to 9to5's information is still aiming for a November release, with an announcement at some point in October. Hit the link below for the full story, and 9to5's own mockup of the device.
+
+Source: 9to5Google

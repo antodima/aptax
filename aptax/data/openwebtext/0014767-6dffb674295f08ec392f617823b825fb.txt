@@ -1,0 +1,21 @@
+There are not many repaints of Carenado’s Cessna Centurion for X-Plane so it’s time to take action.
+
+Out there, there are a lot of good repainters and if you’re one of them, then this is your chance.
+
+If you want to get your shot, the rules are pretty simple:
+
+Repaint the Cessna Centurion by Carenado Upload your livery to X-Plane.org Tweet your livery to @simcodersdotcom including the #realityexpansionpack hashtag
+
+On September 1st, X-Plane’s users will be able to choose the livery they like more and we’ll reward it with a free copy of the Reality Expansion Pack for the Cessna T210M Centurion.
+
+Few rules of thumb for a good repaint
+
+A repaint:
+
+Should be based upon an existing livery (take a look at http://www.airliners.net) Must be as detailed as possible Should use the mipmaps correctly May contain more versions of the livery (for example, one with and one without the registration number) Must be free
+
+Where to get the blank livery
+
+To get the blank livery you must already own the Cessna Centurion by Carenado. Their zip contains the original blank livery from which you should start from.
+
+So come on folks! It’s time to repaint!

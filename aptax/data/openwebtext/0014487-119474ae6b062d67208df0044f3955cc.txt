@@ -1,0 +1,141 @@
+This is a like a long lasting drama. Some guys wanted to make a handheld and started making promises without having a prototype. It showed and they had to back down after a first disaster Kickstarter campaign. In the meantime, they secured some cash from investors, managed to be at the GamesCom 2016 with a prototype, and they have just relaunched their Kickstarter campaign with success – at the time of writing they already achieved their funding goal of 250k Euros, well ahead of the deadline. Not everyone gets second chances but I think they have learned from their mistakes and have come back with something to show that is more tangible than before.
+
+The specs have now been fixed and you will get the following (based on their Kickstarter page):
+
+CPU: AMD Merlin Falcon RX-421BD (12-15w) SoC at 2.1 GHz
+
+Cores: 4/4
+
+iGPU: Radeon R7 at 800 MHz
+
+RAM: 4GB (SMACH Z) || 8GB (SMACH Z PRO) DDR4 2133 MHz
+
+HD: 64GB (SMACH Z) || 128GB (SMACH Z PRO)
+
+Screen: 6” FULL HD (1920×1080). Capacitive touch-screen.
+
+Battery: 5 hours of gaming.
+
+MicroSD Card Slot.
+
+USB 3.0 type C.
+
+HDMI video output connection.
+
+Wi-Fi connectivity 5.0 Ghz. 4G LTE mobile network connectivity (PRO model only)
+
+Bluetooth connectivity.
+
+Front-camera 1.3-megapixels (PRO model only)
+
+I think it is smart that they decided to go with AMD instead of Intel. Intel has recently announced that they will slowly discontinue their x86 line of SoCs for tablets and smartphones (the Atom line) making it very unlikely in the future to have such portable gaming devices using Intel with the x86 architecture (the folks behind the GPD Win mentioned this issue as well).
+
+Us Linux gamers know that AMD has a pretty weak reputation when it comes to performance, but things are improving and we have seen that their Vulkan driver seems to be already ahead of their OpenGL one for the games that support both APIs. By 2017 we can only hope this will improve further. And as said earlier, there’s simply no choice from now on for mobile gaming, it’s AMD or nothing. Nvidia does not have any x86 SoC (their Tegra is only for ARM).
+
+OK, but will it really be powerful enough to play most demanding games?
+
+A Question of Performance
+
+Looking at the AMD Merlin SoC, you can find from their specs sheet that:
+
+The integration of AMD Radeon™ graphics via the third-generation Graphics Core Next (GCN) architecture enables the AMD Embedded R-Series SOC to deliver up to 58% more graphics performance than the Intel Core i7-5650U based on the 3DMark® 11 (Performance) benchmark, and 22% moregraphics performance than the previous generation AMD Embedded R-Series RX-427BB processor based on the 3DMark 11 (Performance) benchmark.
+
+Note that the benchmark they refer to is not purely apple to apple, since they used DDR3-2133 for their AMD chip while the Intel reference only used DDR3-1600. Not completely fair, but hey, even specs sheets can almost be considered as PR piece these days.
+
+Anyway, let’s assume we trust this, what kind of gaming performance can we realistically expect then ? Looking at what a Intel Core i7-5650U can do can give us some indication. Based on what the MacBook Air 13 inches delivers, we can see the following in 1366×768 resolution:
+
+Tomb Raider 2013 : 34 fps on average (medium details)
+
+: 34 fps on average (medium details) Bioshock Infinite : 26 fps on average (medium details)
+
+: 26 fps on average (medium details) Alien Isolation: 26 fps on average (medium details)
+
+Not too bad, but let’s keep in mind that the Smach Z has to drive a Full HD screen, which is substantially way more pixels (192% more than 1366*768) so even if the processor is indeed 158% faster than the Intel mentioned above, it should result in a loss of framerate compared to the results shown on the MacBook. Anyway, that means that the most demanding games of 2013 to 2014 will be running at around 20 fps in medium details in FullHD.
+
+It is therefore not very surprising that they tend to show their benchmarks in their Kickstarter campaign in 720p more often than not – note that these figures are for Windows10, so you should probably expect lower performance for most of these games on Linux (as we know not all ports are on parity with Windows):
+
+Metro: Last Light Redux ( 720p . High settings) ~ 35 FPS (also available on Linux)
+
+. High settings) ~ 35 FPS (also available on Linux) Company of Heroes 2 ( 720p . Medium settings) ~ 25 FPS (also available on Linux)
+
+. Medium settings) ~ 25 FPS (also available on Linux) Jotun (1080p) ~ 45 FPS
+
+Skyrim ( 720p . High setting) ~ 25 FPS
+
+. High setting) ~ 25 FPS Just Cause 2 ( 720p . Medium settings) ~ 35 FPS
+
+. Medium settings) ~ 35 FPS Spiral Knights (1080p) ~ 50 FPS
+
+Overwatch ( 720p . Medium) ~ 30 FPS
+
+. Medium) ~ 30 FPS Torchlight II (1080p. Very high settings) ~ 35 FPS (also available on Linux)
+
+Xcom: Enemy Unknown ( 720 p. High settings) ~30 FPS (also available on Linux)
+
+p. High settings) ~30 FPS (also available on Linux) Civilization 5 (1080p. High settings) ~ 28 FPS (also available on Linux)
+
+Tomb Raider: Survivor ( 720p . Medium settings) ~ 40 FPS
+
+. Medium settings) ~ 40 FPS Alien: Isolation (720p. Ultra settings) ~ 35 FPS (also available on Linux)
+
+That’s all good and well, but when the Smach Z comes out in 2017, it’s unlikely that it will run any of the latest AAA games from 2016 or early 2017 very well at all. So it’s a matter of expectation settings. This being said, it will probably still run indie games just fine. As well as Rocket League! I have to admit that have a machine on the go to play Rocket League is a very alluring proposition!! I can also imagine there’s a bunch of gamers out there who would not mind having XCom or Civilization on the go.
+
+The choice of a 1080p is a little disappointing to be honest. They basically caved in to fan pressure, but it’s going to cause some major issues:
+
+Running games at 1080p will lead to disappointing framerates more often than not
+
+Running games made for desktop PC at 1080p on a 6 inches screen will make text very tiny and hardly readable.
+
+Running games in 720p on a 1080p will result in upscaling artefacts. Not nice at all on LCD screens.
+
+A 1080p screen will consume more power than a 720p screen, so less gaming time in the end.
+
+So what to make of it ? It will be a good portable system for low-medium details gaming, but you won’t get the “PC Experience” in such a format (as in, you will not get the steady 60 fps you get from your fast GPU nor the high detailed textures and effects). Is that still better than what’s available out there ? Right now, yes, but by the end of 2017, who knows, there may be a lot of alternatives (including the Nintendo Switch, I guess?).
+
+Incidentally, the Switch and the Smach Z have about identical dimensions:
+
+The Switch has been rumored to be 23 cm wide with a 6.5 inches screen
+
+The Smach Z will be 25 cm wide with a 6 inches screen
+
+Of course the comparison is a little absurd in absolute terms. You will only be able to play Nintendo games on the Switch, while the Steam catalog is supposed to be much broader from Day 1 on the Smach Z. But they still fit in the same category of “portable gaming consoles”.
+
+So, what about Linux ?
+
+While Smach Z was in the first place made for SteamOS (in the first place Smach was an acronym for Steam Machine!), they have now switched gears to support Windows 10 as well as a custom Linux distro – Windows 10 was a request from many supporters of the previous campaign, and they have probably felt the pressure to support Windows as other competitors like the GPD Win support it anyway by default.
+
+There are very few details regarding what they call Smach Z OS (their custom Linux distro):
+
+Linux (SMACH Z OS): We’re able to modify and adapt the OS to SMACH Z creating a better interface and experience. We recommend choosing Linux for better performance. More and more games are becoming compatible with Linux with time; now are about 2,500.
+
+Better performance? That remains to be seen. Better look overall (boot directly in Steam Big Picture Mode, more customization, etc) I am willing to believe. Another interesting aspect is going to be battery life on Linux vs Windows. For most laptops it is very hard to get remotely the same battery life on Linux vs Windows, we will see if they can address this on their hardware.
+
+Design: The Good and The Bad
+
+They now have a working prototype so it does not feel like vaporware anymore, while they expect the final version to be slightly more compact.
+
+They claim to get 5 hours of gaming, but that seems highly unrealistic since the SoC will already claim 15 W or even more in turbo mode, which will lead to high power consumption in no time if you are gaming with it on and on. They could include a large battery, but this is going to be a trade-off in the end between how compact and how heavy the final device aims to be. They seem to target 400 grams for the device as a whole, well I am afraid it will be very challenging to get 5 hours of gaming with so little weight. We will see.
+
+Control-wise, the choice to copy the Steam Controller is not bad per se, but it makes the device really long and it certainly will not fit in any regular pocket anymore. 25 centimeters! Your regular pocket is rather 12 to 15 centimeters. The lack of a D-pad is also a potential drawback for certain games, even though they still plan to provide the option to buy some plastic plugs to go on the haptic pads to simulate an actual Dpad or specific buttons. This may be a good idea but I would really like to see how it feels in practice. Then, there is the lack of keyboard. For many Steam games this is not an issue, but there are a lot of Steam games that require some kind of keyboard controls, and this will likely be a drawback of the current design vs the GPD Win.
+
+Now for the storage. 64Gb by default will not get you very far – you can already assume several gigs will be gone because of the OS and potential swap partition, and whatever is left is going to be consumed very fast if you install several AAA games, especially the ones they have listed. AAA games these days can easily take 20 to 30 Gb and this number keeps inflating year after year. So one of the issue of such a flash-memory based console is that it will be pretty difficult to have many AAA games on it at the same time (sure, you can purchase another 32Gb MicroSD card, but that won’t fundamentally change the fact that it would be much more comfortable to have 256 or 512 Gb).
+
+Then the price may be something of a show-stopper for many. The Basic version of the Smach Z is going at 299 Euros on Kickstarter, but they mention the retail price will be much higher. I am not sure how much more it is going to be, but maybe 400 Euros ? For a dedicated gaming machine, it may be a little expensive, but who knows? The PC gaming crowd may not be as budget-sensitive. And in a way, it’s cheaper than a console since you don’t have to buy your games again – whatever is in your Steam Library can be played for not additional fee.
+
+Now for the good. It will only have passive cooling, which should be a major advantage versus the GPD Win (with its ridiculous fan). At least it will behave like a portable machine in that regard.
+
+Then there is the upgradability bit. It’s still fuzzy at this stage because it’s very much at the bottom of their Kickstarter page, but in short:
+
+With Clickarm the performance of your SMACH Z can be improved even after its purchase. You will be able to purchase more modules of RAM, HDD or even a new SoC and install it easily yourself or send it to us.
+
+It sounds very similar to what is planned for the DragonBox Pyra (which will have a separate SoC board that can be exchanged for a better one later on), and that certainly increases the appeal of this device for me, if it can behave like a mini-PC in that sense.
+
+Finally, the fact that it is going to be an Open device that you can fiddle with is a massive win. On Linux I am assuming you will also be able to use it as a full-fledged computer with the HDMI connection you could imagine using it as a laptop replacement provided you have a Bluetooth or USB keyboard with you. You will also be able to install emulators and that should open up the possibility of PS2 and Gamecube/Wii emulation on the go. That sounds really great.
+
+My Final Thoughts
+
+There is still a non-negligible chance that such a project tanks along the way, or fails to deliver on the hype, so I will never recommend anyone to crowdfund such a project unless they are well aware of the risks. For my part, if they manage to deliver this device at this price range and if nothing else beats it to market by end of 2017, I will certainly consider it for purchase, because there is virtually nothing out there like it at the moment.
+
+The best thing we can hope is that this project gives some ideas to other manufacturers to do something similar. Having more x86 handheld, gaming-capable PCs is not a bad thing, especially if they support Linux.
+
+At BoilingSteam, we strongly dislike ads and that is why you won't find any during your visit. If you like what we do, please consider signing up to our newsletter (No Spam!). Register to our RSS feed also works. We are on Mastodon and on IRC too (Freenode, channel #boilingsteam). You can reach us anytime via the contact form for feedback, ideas and news tips. We are always looking for more editors/contributors - feel free to candidate!

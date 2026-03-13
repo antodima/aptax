@@ -1,0 +1,17 @@
+Google Drive received a substantial bump to version 2.0 today, bring it up from version 1.3.222.29 to 2.0.222.39. The new app doesn't seem to have many user-facing changes outside a single big one we noticed, in the form of a brand-new UI in the file details view. Take a look below.
+
+What's new?
+
+This new interface is substantially more modern, completely ditching the top bar in favor of a blown-up document preview and a grid of buttons that make performing tasks with your files much easier. Sharing, sharing a link, starring, moving, sending, downloading, and renaming are all now directly at your fingertips. Hit the overflow, and options for deleting or printing are also in there. Under the access menu, you can directly toggle link sharing on and off (with a nifty animation, to boot), and add new people to the access list.
+
+There's also a new header for tracking activity on a document, which is definitely a nice thing to have. Basically, this was just a rather stale part of the Drive UI, and it's getting a big cleanup today. Perhaps related to the 2.0 jump, we also saw some announcements regarding the now parsed-out Docs, Sheets, and [new] Slides apps at the I/O keynote.
+
+Download
+
+The APK is signed by Google and upgrades your existing app. The cryptographic signature guarantees that the file is safe to install and was not tampered with in any way. Rather than wait for Google to push this download to your devices, which can take days, download and install it just like any other APK.
+
+File name: com.google.android.apps.docs-2.0.222.39
+
+Version: 2.0.222.39 (Android ?+)
+
+MD5: 2a7c7b042da7d8bea4111453c6d2e85e

@@ -1,0 +1,41 @@
+Microsoft's Windows Strategy Gets Muddy
+
+Microsoft reportedly doubles down on its own platforms while also taking a hard look at Android.
+
+
+
+7 Mistakes Microsoft Made In 2013 (Click image for larger view and slideshow.)
+
+Indications of Microsoft's push to update its Windows 8.1 and Windows Phone 8 operating systems continue to mount. Expected new features include a long-awaited notification center for Windows Phone and tweaks to make Windows 8.1's touch-oriented Modern UI more palatable to mouse-and-keyboard users.
+
+However, a new leak suggests Microsoft is barreling toward one of its new platforms' most anticipated milestones: the merging of the Windows Phone and Windows app stores. Paradoxically, reports also say Microsoft is considering opening Windows to Android apps -- a move that could undermine the appeal of a combined app store.
+
+A unified app store hasn't shown up in leaked Windows update builds, but Twitter user @AngelWZR, a known leaker of pre-release Windows information, posted images that indicate Microsoft is hard at work on one. The images, allegedly taken from a Microsoft presentation for developers, promise not only a single app store but also a version of Visual Studio that will allow developers to target both Windows and Windows Phone without having to write separate apps for each.
+
+[Details emerge on Microsoft's latest Windows update. Read Microsoft Windows 8.1 Update Takes Shape.]
+
+Windows and Windows Phone updates will reportedly debut around April, when Microsoft will hold its Build conference for developers. It's not clear whether the unified app store will launch that soon. The roadmap reportedly already includes rough plans to launch Windows 9 in early 2015.
+
+As for Android, The Verge, citing unnamed sources, reported that Microsoft is "seriously considering" opening Windows and Windows Phone to Google's app ecosystem. ZDnet subsequently published a corroborating report, which also cited unnamed sources familiar with Microsoft's plans.
+
+
+
+(Source: A purported Microsoft presentation slide promises a unified Windows Phone-Windows app store and development pipeline.(Source: @AngelWZR
+
+The Verge said Microsoft insiders are divided on the idea; some dissenters contend it could doom the Windows platform. There has been substantial speculation that Nokia, whose device business Microsoft is acquiring, could release an Android phone soon. Those alleged plans have provoked mild debate, but if Microsoft took the more radical step of welcoming Android into Windows, the ensuing controversy could be fierce.
+
+The company's app ecosystem lags far behind Apple and Google offerings, and a unified app store could help address this deficit. But what incentive would developers have to focus on native Windows apps if Microsoft embraced Android, as well? This question was raised last month when Intel announced at CES that it had developed a "dual OS" chip that could run both Windows and Android natively, enabling users to switch between the two quickly with the click of a button.
+
+"I think [dual OS] won't be necessary if Microsoft gets its act together," Carolina Milanesi, who specialized in mobile devices as an analyst at Gartner and now is director of insight at Kantar Worldpanel, told us at that time.
+
+Milanesi said a dual OS reinforces the perception that Windows is useful only for legacy software. "What good does that do? How is that helping Microsoft stay relevant?" Rather than stacking up quasi-solutions to fundamental problems, Microsoft needs to find a foundation that convinces people to "actually choose to spend time" with Windows.
+
+Moreover, earlier experiments with Windows and Androids haven't exactly set the world on fire. AMD and BlueStacks partnered last year to allow Android apps to run on Windows 8 devices, but if any would-be customers cared, the sentiment hasn't translated into meaningful gains in marketshare.
+
+With Satya Nadella taking over as CEO, it's possible Microsoft is simply putting all options on the table. The company is in strong shape overall, but its Windows strategy clearly isn't working, due to problems with the product itself and external disruptions such as Google's recent pact with VMware to run virtualized Windows desktops on Chromebooks. Time will tell which path Microsoft takes, but with new leaks and speculation from well-placed sources emerging almost daily, Nadella will undoubtedly face formidable expectations when he finally addresses developers in April.
+
+Engage with Oracle president Mark Hurd, Box founder Aaron Levie, UPMC CIO Dan Drawbaugh, GE Power CIO Jim Fowler, former Netflix cloud architect Adrian Cockcroft, and other leaders of the Digital Business movement at the InformationWeek Conference and Elite 100 Awards Ceremony, to be held in conjunction with Interop in Las Vegas, March 31 to April 1, 2014. See the full agenda here.
+
+Michael Endler joined InformationWeek as an associate editor in 2012. He previously worked in talent representation in the entertainment industry, as a freelance copywriter and photojournalist, and as a teacher. Michael earned a BA in English from Stanford University in 2005 ... View Full Bio
+
+We welcome your comments on this topic on our social media channels, or [contact us directly] with questions about the site.

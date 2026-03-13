@@ -1,0 +1,63 @@
+January 9, 2011 — Mario Gleichmann
+
+Welcome back to another episode of Functional Scala!
+
+First of all, a happy new year to all of you – this year will bring a bunch of new episodes about ‘Functional Scala’ to you, so i hope we’ll grasp a better and better understanding over time on how Scala enables us to write functional code. Again, we’ve only scratched the surface so far – there are far more basic functional concepts (like curried functions, algebraic datatypes, pattern matching, …) to come, before we dig down into some more advanced topis like catamorphisms (sounds cool, eh? But trust me, the idea behind is really simple – you even saw already some examples of it using folds) or type classes and some of their instances (i.e. Functors, Applicatives and even – drum roll – those ubiquitous mentioned ‘warm fuzzy things’ , ehm i mean Monads).
+
+For this episode, we’ll get back into the act really slowly by repeating some stuff of past episodes. We’ll focus on a rather technical aspect of how Scala treats methods when it comes to mix those into the functional game. Let’s repeat some of the core chracteristics for functions: we’ve said that functions are first class values, coming with its own type:
+
+val isEven : Int => Boolean = ( x :Int ) => x % 2 == 0 ... val evenNums = filter( isEven, List( 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ) )
+
+C’mon – this is boring. We already knew that. Yeah, i know! But the one thing i want to re-emphasize is the fact, that every concrete function always boils down to a value of a certain function type (in this case Int => Boolean). And since a function is a value, it can be assigned to a name (in this case isEven) and passed to another function just as all other ordinary values like Lists or integer values (in this case function isEven is passed to function filter, which qualifies filter to be a so called Higher Order Function).
+
+Now – in contrast – take a look at the following method, which looks quite similar to our function isEven:
+
+object SomeFilters { ... def isPositive( x :Int ) : Boolean = x > 0 }
+
+You may say that method isPositive looks pretty like a normal function: there’s an argument value of type Int which goes in and another value of type Boolean which is returned by the method (similarly, the last expression within the methods body is also the return value of the method). So far for the similarities! But what may be the type of that method? Uhm, while a method is always a member of a certain type (a singleton object in our case), a method itself doesn’t feature its own type at all! Of course you can say that a method features a certain signature (in this case ( Int ) Boolean ) which almost looks like a function type (like Int => Boolean), but you may remember that this is only syntactic sugar for a Function Trait, e.g. Function1[Int,Boolean]. So in Scala, a function is always a value, represented as an object during runtime which implements a certain Function Trait (while a method isn’t represented as an object in its own right at runtime. It’s rather a member of an object).
+
+So a method can’t be seen as an autonomous value like a function – but it virtually looks like a Function, if we compare its signature with the type of a function, right? So the enthralling question is, what happens if we try to pass the above mentioned method isPositive to a higher order function, which expects a function of a similar type:
+
+val filter = ( predicate :Int => Boolean, xs :List[Int] ) => { for( x <- xs; if predicate( x ) ) yield x } ... val positiveNums = filter( SomeFilters.isPositive, List( 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ) )
+
+What have we done? We just called a higher order function filter, which expects a function of type Int => Boolean and instead of passing a function, we just referred to a method isPositive whose signature ( Int ) Boolean looks quite similar!
+
+Now guess what’s going to happen if we try to compile and run that piece of code. The compiler will … not complain! Further on, that piece of code will run smoothly and produce an appropriate, compatible result as if we had passed a function instead of a method. But how can that be? We’ve just elaborated lenghty on the fact, that a method is not a function, yet filter clearly expects a function as its first argument! Something really magical must go on behind the scenes … (please act now and imagine some strange melody as in the Thrillers of Edgar Wallace) .
+
+Well, what’s going to happen behind the scene isn’t that magic at all. In fact it’s so easy that you could do it easily all by yourself. Since we already got all ingredients which we are going to need, let’s think a moment how we could achieve to use that method isPositive for doing all the heavy work (in deciding which integer value may be a positive one). Since all problems in computer science can be solved by addding another level of indirection, what about writing a wrapper function, which in turn delegates to our method?
+
+val wrapperFunc : Int => Boolean = ( x :Int ) => SomeFilters.isPositive( x ) ... val positiveNums = filter( wrapperFunc, List( 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ) )
+
+See, this one will work as we explicitly wrap that function around … and isn’t that difficult! Of course, we also could leave that syntactic sugar behind and define the wrapper function by directly implementing the appropriate Function Trait:
+
+val wrapperFunc : Int => Boolean = new Function1[Int,Boolean]{ def apply( x :Int ) = SomeFilters.isPositive( x ) }
+
+Coming from an object oriented background, you now may got a better feeling, since it simply looks like calling the method of an object from inside the method of another object (and in fact, it is!). And this one should be pretty business as usual for all of us. Well, this trick we’ve done (if you’re a fan of design patterns, we could call it the Bridge pattern for bridging some incompatible interfaces) for coercing a method into something where a function is expected, is so easy that even the compiler can detect and do it. In fact, this automatic coercion got an own name – it’s called Eta expansion. As you’ve seen, you could do it by yourself, but since it’s just some boilerplate code, the compiler will take that boring work away from you.
+
+Of course, the context in which eta expansion takes place has to be unambitious, so the compiler can confidently coerce a method into a function. Let’s take a look at a admittedly somehow contrived example …
+
+def sum = 1 + 2 ... def sum( x :Int, y :Int ) : Int = x + y ... val sumAsFunction = sum
+
+What we have here is an overloaded method sum. The first one takes no argument and calculates the sum of two fixed integer values, whenever the method gets called. The second one takes two integer values and returns the sum of both. Now take a closer look at sumAsFunction. Since we didn’t annotate any type, type inference kicks in. The compiler tries to resolve the whole expression and infers the type by the resolved value. Unfortunately the compiler ignores our wish to refer to the second method and coerce it into a Function, since this dull compiler simply ignores our name (…AsFunction) where we clearly stated our intention. Instead the compiler asumes by default that it’s simply a call to the first method (while there is no assisting information), hence sumAsFunction refers to a value of 3 which is of type Int.
+
+Ok – so far so good. But what if we really want to coerce the second method into a function? Well, in this case we have to pitch in for the compiler. There we have two options. The first one is to give an explicit type annotation, so the compiler knows that coercion have to take place:
+
+... val sumAsFunction : ( Int, Int ) => Int = sum
+
+Ahhh, now we force the compiler to do eta expansion, since the simple call of the first method would result in a value of type Int which is clearly in conflict with the stated type for sumAsFunction! So there’s only one chance for the compiler to get out of trouble – that is to coerce the second one into the intended function type.
+
+Since we’ve already introduced the magical underscore as a jack-of-all-trades while discovering some shortcuts within function definition, he’s again on board if we want to initiate eta expansion more explicitly. So the second option to force the compiler to coerce the second method into a function is to explicitly refering to the methods so called method value, simply by quoting some underscore behind the method name (instead of the methods arguments). Since the method is overloaded, we have to give the compiler some more hints, so the compiler can be absolutely sure we like to refer to the second method. That’s done by quoting an underscore for each unapplied argument (accompanied by the arguments type) :
+
+... val sumAsFunction = sum ( _ :Int, _ :Int )
+
+Again, since we explicitly refer to the method value (you can think of getting a reference to the method itself, instead of the result value of a method), eta expansion kicks in and leaves a function of type ( Int, Int ) => Int, which the compiler derives from the method signature. Hence sumAsFunction is of our intended function type – hooray!
+
+Summary
+
+In this episode, we discovered on how to mix methods into the functional game. We’ve seen two options for mostly automatically coercing methods into functions. The first one is to refer to a method by simply stating the methods name without its argument list (which would be a simple method call) wherever a function is expected. In this case the compiler will implicitly performing eta expansion. A more explicit form is represented by the second option, where we apply the underscore after the methods name (instead of the methods argument list). In this case we explicitly refer to the so called method value.
+
+Either way, you have to be prepared for some pitfalls. Since methods belong to objects, and objects typically offer some state which may be refered or manipulated by the objects methods, you may coerce methods into impure functions!
+
+Either way, with eta expansion you now have another cool word within your glossary, with which you can impress your team mates … Fun aside – with eta expansion absorbed into your mental model, you now are able to expand the space of possible function candidates at your hands. As we will see in a further episode, methods are the only way to come close to what is called polymorphic functions (together with eta expansion).
+
+Either way, it’s an easy way to use methods and functions interchangeably whenever functions are needed (and may be one of the main factors why so many people confuse functions with methods, e.g. refering to methods as functions).

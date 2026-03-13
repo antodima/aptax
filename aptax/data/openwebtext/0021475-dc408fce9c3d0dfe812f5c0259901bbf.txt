@@ -1,0 +1,38 @@
+All the preparation and practice was over. The qualifiers had been held and the wheat sorted from the chaff. Now it was time to see who had what it takes to be the champion – the builder of possibly the fastest robots on the planet…
+
+For my part, the pressure was off and I could relax. For all the remaining competitors, it was to be a tense and exciting day. Three major events are run on the Sunday in the All Japan Micromouse contest. These are the Robotracers (line-following robots); half-size micromouse (absurdly small maze-solving robots) and micromouse classic (full-size maze solving robots).
+
+The line following event is, on the face of it, simple enough. You have 3 minutes to have your robot run up to three minutes around a long course constructed from a white line on a black floor. It does not take long to realise that things are far from simple.
+
+The first problem is that the course is around 40m long. It is also complex, with cunningly designed sequences of turns to goad the unwary mouse into running just a bit fast. Next, you have to start and stop within a small area. Then there is the judges tendency to start the clock as soon as you get up to run.
+
+With the course being so long, a minute or more might be lost while your mouse makes its first, tentative run, feeling out the turns and, hopefully, remembering them so that it can do the whole thing faster for the next two runs. Add in the time needed to prepare the sensors and for wheel cleaning and restarting and it is not surprising that many contestant only manage one or two runs and may use up all their time before being able to complete a third run.
+
+This year’s course was pretty tough and the competition brutal. With attrition so high, it looked like there would not be many fast runners. In the end though, half a dozen runners managed to get times under 30 seconds with the eventual winner running the course in 21.838 seconds. I make that an average speed of about 2m/s. Pretty impressive.
+
+As soon as the line-follower battles had been fought out, it was time for the half-size micromouse contest. The half-size micromouse is a recent innovation. With the maze dimensions exactly half those of the classic event, for a while mouse builders struggled to fit everything in. Now, we see mice weighing under ten grams, mice with tiny stepper motors and even half-sized six wheel mice with four of the wheels used for steering.
+
+With half-sized squares, the contest organisers are able to put out much more complex mazes.
+
+Japanese honour was assured by a startling performance from Kojima-san with his mouse Kojimouse 7. He managed a time of 4.991 seconds, securely pushing Ng Beng Kiat into second place and Khiew Tzong Yong into third.
+
+Kojimouse is notable in many ways. It weighs less than 10 grams – the equivalent of two 10 yen coins. However, to refer to it as the 20 yen mouse would be unfair. It is a remarkable piece of work. For example, Kojima-san uses an accelerometer as a human input devices to adjust the settings. It is a little odd to see him flicking him mouse from side to side to adjust some parameter or other but the accelerometer takes up less space than a button and is much more flexible in its application.
+
+The main event for most of us however, is the classic micromouse contest. Here, full size is still pretty small with a typical competitive entry being around 100g and so low to the ground as to be all but invisible unless you are looking down from a good vantage point.
+
+Last year, Kato-san regained the title for Japan after many years of Singaporean dominance. His mouse, Tetra, was of huge interest because it was one of the first to use four driven wheels. This configuration is harder to turn but easier to keep going in a straight line. Many wondered how it could be done but Kato-san proved it was more than possible – it was highly successful.
+
+A review of the field of runners this year – exactly two years after Kato-san first ran a four wheel mouse – shows that imitation really is the sincerest of flattery. One estimate had it that 80% of the finalists were using four wheel mice. Many of the rest had one in production.
+
+The normal system for the finals is to run the entries in reverse order of their qualification time. In this way, the tension generally builds. Previous winners of regional contests, including Kato-san are seeded into the running order by some process that remains a mystery to me. Today, it meant that Kato-san ran about half way up the running order. He posted a remarkable time of 4.116 seconds. This was a full 0.8 seconds faster than the current leader at that time. As the field of entries quickly shrank, the closest anyone could get to him was 4.770 seconds.
+
+In the end, there was only one mouse left to run with Kato-san looking comfortably ahead of the field. However, that last runner was Ng Beng Kiat. Many times previous winner now armed with his own four-wheel mouse. Min7 did its thing finding the middle and then managed a speed run of 4.313 seconds. So close and it was only the first of four fast runs. Min 7 soon overtook Tetra and then, to the great pleasure of the crowd, achieved a final run time of 3.921 seconds to take the title. Kato-san can only take consolation in the fact that his fastest run was on dirty tyres and, had he remembered to clean them, things might have been different. It was not to be however, and the title returns once more to Singapore in the hands of Ng Beng Kiat.
+
+Several excellent videos of the runs were taken by Juing-Huei Su – organiser of the Taiwan micromouse contest. Enjoy for yourself some of the excitement of the day.
+
+2011 All Japan micromouse contest: Kato Fast RUN
+
+
+
+2011 All Japan micromouse contest: Ng BengKiat 4th Fast RUN
+

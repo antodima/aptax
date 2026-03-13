@@ -1,0 +1,41 @@
+The Breakdown explains what's behind Southern California business and economic news. It describes the effects the headlines have on you: whether you're an investor, a business owner, an employee, homeowner, consumer or just someone who wants to know how to save a buck.
+
+Some thoughts from Fred Wilson's blog:
+
+So it seems to me and my colleagues...that an alternative currency with roots in peer to peer networks and based on an algorithm that is transparent to everyone is an idea whose time has come. The question remains if the Bitcoin algorithm or some other algorithm (possibly a derivative of the Bitcoin algorithm that deals with some of Bitcoin's weaknesses?) will ultimately win out. That's an important issue that has a lot to do with when this space becomes investable. But Bitcoin or something else, I'm confident we'll see the emergence of currencies that are not controlled by nation states in my lifetime. Whether that is a good thing or not remains to be seen. I think it is, but there are significant ramifications that will result from the decoupling of currencies from governments. And one of them is an interesting investment opportunity that we hope to participate in.
+
+This idea is extremely attractive to folks in the tech realm. I had a long argument with a smart, tech-y person at about the time that Bitcoin was at its peak, insisting that it would be impossible to control a crypto- or cybercurrency in terms of inflation. I may have been right in the global sense but exactly wrong in the details, as Bitcoin appears to provoke more worry due to its potential for deflationary illiquidity.
+
+That sounds impenetrable and ultra-wonky, I know. Basically it means that at some point nobody wants the currency because they can't figure out what it's worth, nor predict when massive amounts of it will be introduced and taken out of a market. It loses its utility as a storehouse of value, as Tim Worstall explain here in Forbes.
+
+Currency trading will make your head hurt in a hurry, but essentially what this implies is that if you "buy" a certain number of bitcoins, you could easily lose your ability to exchange those bitcoins for another medium exchange, like dollars, in the future.
+
+Completely. Your bitcoins will become digital scrip, worth exactly nothing.
+
+Part of this may now have something to do with bitcoin's immaturity. To me, it functions — or functioned — more like a dollar derivative that "traded" off the conventional books. And then just like the derivatives that became worthless during the financial crisis, when the underlying subprime mortgage assets were shown to be toxic collateral, it's value, which was largely speculative, collapsed.
+
+The issue for Fred really seems to be potentially investing in a currency that isn't nationally controlled and that tends toward absolute transparency. You don't need a government to back the medium of exchange.
+
+But this is really more political than financial. I don't know, it could come to pass. In fact, it might, if algorithmic maturation in the crypto-currency space happens. But then again, some of these problems could be technologically daunting. Bitcoin's flaws aren't so much technical as they are philosophical. The basic question is, "Can we keep bitcoin liquid?"
+
+And liquidity is the toughest thing in finance to nail down. It's just so esoteric. In fact, it could be the only thing in finance that's of the state of nature — so based in the chaos of human behavior that it just kind of happens. Something is liquid because it's...liquid.
+
+Or else it's purely a meta-concept, something that doesn't exist but stands for a phenomenon that does, like "exchange," with value coming from the movement of goods and services among participants in a market.
+
+I'll admit that liquidity is the one concept in finance that I really struggle to understand. I thought I was just missing some profound chunk of brain matter on this one and figured that I needed to grow extra synapses or something.
+
+But then I read Emanuel Derman's book "Models. Behaving. Badly," the most thought-provoking account of the financial crisis I've yet seen — and a book that I've had a tough time getting out of my head. Derman, in something of an offhand way, confirms that liquidity is a real conundrum:
+
+[T]he shattering risks to firms and systems come from illiquidity and contagion. No one quite knows what liquidity really is, and so there’s no good model of it. (Liquidity is a metaphor based on fluids. People define it by its proxies – bid-ask, average daily volume, market impact etc, which are features of but aren’t actually liquidity itself.)
+
+Derman is a physicist who spent many years at Goldman Sachs, doing "quant" work and applying complex mathematical models to financial products and services. If he says that nobody knows what liquidity is, then I believe him.
+
+When I read Fred's Bitcoin post, I immediately thought of the liquidity question, per Derman. All currencies are sort of combinations of features, but in Bitcoin's case, it's the notion that crypto-currency is somehow controlled in a distributed rather than centralized manner that seems to make up most of its appeal.
+
+In this way, I think it's illiquidity waiting to happen. And of course illiquidity did doom Bitcoin 1.0.
+
+Any future version that actually works would have to solve this problem. Probably by striking a compromise between distributed and centrally managed value.
+
+But anyway, thanks to Fred for making me think about this. Again.
+
+Follow Matthew DeBord and the DeBord Report on Twitter.

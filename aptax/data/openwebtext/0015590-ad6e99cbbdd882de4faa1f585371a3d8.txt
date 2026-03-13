@@ -1,0 +1,41 @@
+Equifax’s former chief executive Richard Smith repeatedly deflected questions from a Senate panel Wednesday about a $7 million IRS contract the company recently received to help prevent fraud and whether the company could profit from the hack that exposed sensitive data of 145 million people.
+
+“Can you explain to the American people, not just as consumers who have been exposed and breached here, but as taxpayers, why in the world should you get a no-bid contract right now?” asked Sen. Ben Sasse (R-Neb.). Smith responded that he didn’t know the specifics of the contract but that he thought it was for work the company was already doing and that the contract was just being renewed.
+
+“You realize to many Americans right now that it looks like we’re giving Lindsay Lohan the keys to the mini bar,” said Sen. John Neely Kennedy (R-La.). Smith stared at Kennedy for a few seconds then said he understood the appearance.
+
+Under the $7.25 million contract, Equifax is to verify taxpayer identities and help prevent fraud for the Internal Revenue Service.
+
+Smith endured the barrage of tough questions as he faced the second of four congressional committees he is set to visit this week as lawmakers probe the company’s massive data breach and its bungled response. After 12 years at the helm of the company, Smith stepped down as CEO last week, and is the only company representative slated to appear before lawmakers. Behind him sat former senator Saxby Chambliss (R-Ga.) who occasionally stood up to whisper in Smith’s ear. Farther back, but within camera shot, was an apparent critic mocking Smith in a black top hat, white mustache and a monocle that resembled a character in the Monopoly board game.
+
+The hard-charging former CEO helped transform Equifax from simply a credit-rating company to a massive data manager that employs artificial intelligence and machine learning to help companies determine whom to lend money to. Smith was heralded on Wall Street for his aggressive expansion of the company, including starting to collect employment data, such as consumers’ salaries. But that business model came under repeated attack Wednesday by the Senate Banking Committee.
+
+Equifax could actually profit from the breach, warned Sen. Elizabeth Warren (D-Mass.). The company, for example, is providing consumers free fraud alerts for one year, she said. But if victims want to extend that coverage after a year, they will have to pay Equifax.
+
+Warren quoted a speech Smith had given touting that fraud was a huge opportunity for the company. “This breach has created more business opportunities” for Equifax, she said. Equifax “did a terrible job of protecting our data because they didn’t have a reason to protect our data.”
+
+In an interview outside the hearing room, Warren called for a host of reforms to the credit reporting industry as well as new rules on data security. Consumers should own their own data and control who has access to it, she said.
+
+“This is a whole industry right now where the incentives are in the wrong place,” she said. “The incentives are to collect as much data about people as possible and then pump it out for sale.”
+
+Smith repeatedly apologized for the breach, acknowledging the company struggled to respond quickly to consumers’ concerns. Equifax’s call centers initially had only 500 employees and grew to 3,000 in two weeks, he said. “I apologize to this committee and all Americans for this breach,” Smith said. “I am in no way skirting the issue of this horrific breach, and it was a horrific breach.”
+
+Separately Smith repeatedly defended three Equifax senior executives who sold nearly $2 million in stock after the company learned of the breach but before it was disclosed publicly. The executives did not know about the breach when they sold their stock and the sales were approved by the company’s general counsel, he said. “These are three men I have known for a long time. These are honorable men who followed the protocol,” Smith said.
+
+That defense was met with skepticism by several lawmakers. The company wants the public to believe the executives were “the three luckiest investors” who managed to sell their stock before the company’s stock price fell by more than 30 percent, said Sen. Tim Scott (R-S.C.). “I find that hard to believe,” Scott said. There may have been no intention to commit insider trading, said Sen. Jon Tester (D-Mont.), but “this really stinks. I mean it really smells really bad. And I guess smelling bad isn’t a crime.”
+
+In testimony this week, Smith revealed that Equifax missed an opportunity to prevent the breach. In early March, the Department of Homeland Security alerted Equifax about a critical vulnerability in its software. The company sent out an internal email requesting that the problem be fixed, but that was not done, Smith told lawmakers. By May, hackers found the software vulnerability and used it to gain information to millions of consumers’ sensitive information. It was not until late July that the company detected the breach.
+
+The company then struggled to respond to the backlash. For several days, the company’s Twitter account directed consumers in search of help to a fake site pretending to be Equifax. It initially required consumers to agree not to join a class-action lawsuit to get some form of help before dropping that demand.
+
+“In the rollout of our remediation program, mistakes were made, for which again, I am deeply apologetic,” Smith said. “I regret the frustration that many Americans felt when our websites and call centers were overwhelmed in the early weeks. It’s no excuse, but it certainly did not help that two of our larger call centers were shut down for days by Hurricane Irma.”
+
+Hamza Shaban contributed to this report.
+
+Read more:
+
+Before the breach, Equifax sought to limit exposure to lawsuits
+
+Equifax suffered another breach in March
+
+Equifax asks consumers for personal info, even after massive data breach

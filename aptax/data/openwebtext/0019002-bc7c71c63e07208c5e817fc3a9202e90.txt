@@ -1,0 +1,81 @@
+[Reading Time: 9 minutes]
+
+Interview with Megan Burton, founder and CEO of CoinX
+
+Early last month, at a Bitcoin pitch contest organized by Ultra Light Startups, the winner, Atlanta-based CoinX, beat the competition by a landslide. To be precise, the show-stealer was actually Megan Burton, its founder and CEO. John Frankel, partner of venture-capital firm ff Venture Capital, one of the three expert judges in the panel, said to me: “It was a strong presentation. She came across as someone who has done her homework and her strategy seems sound.”
+
+Megan, whom I was delighted to meet in person last week at the Inside Bitcoins conference in New York City, has graciously agreed to an interview. Enjoy!
+
+Juan: Please tell us about your background and how you got involved with Bitcoin.
+
+Megan: My background is in internet and payments security. I first came across Bitcoin in the spring of 2012, when reading an article on the BBC website about a foreign currency exchange that had been shut down as a result of a security breach. Nothing out of the ordinary, except that this breach had been due to an encryption vulnerability in a digital currency called Bitcoin, which of course I’d never heard of before. I looked it up online and started reading the wiki and articles about. It immediately grabbed my attention. I opened up an account and played around for a while, and was immediately hooked. What fascinated me were the myriad product ideas it triggered in my mind and the fact that its adoption was in its infancy. I spent the majority of my time researching and analyzing the digital currency marketplace and quickly found out that there wasn’t a platform in place to support mass-adoption – for consumers and merchants. I assembled a team and we spent every waking moment developing what we think will set the industry standard going forward for digital currency.
+
+Juan: What was the Eureka! moment, the spark that eventually led you to found CoinX?
+
+Megan: I was very curious about the uses that could be given to this virtual currency. I started brainstorming with myself and others about who might use Bitcoin, why would they, in what circumstances, for what, etc., etc. Then I decided to give it a try in the real world. I proposed to a vendor in South Africa if he would accept taking the payment of a large invoice in virtual currency. He agreed. We both opened accounts with Mt.Gox. I purchased BTC with US dollars, sent the BTC to his wallet, and then he converted the BTC to rands. The eureka moment for me was finding out that we ended up paying less than 2% for the entire transfer. Together! So I wrote a business plan around September, and at the end of my maternity leave put together a team, and here we are.
+
+“The eureka moment was finding out that we ended up paying less than 2% for the entire transfer.”
+
+Juan: Last month you won the Ultra Light Startups competition without even giving a demo or many details about your platform. Instead, you focused on compliance. What prompted you to lead with compliance, rather than product?
+
+Megan: The format of the contest is two minutes for the pitch, three minutes for Q&A and three minutes for the feedback by the judges. We really didn’t have time for a demo or a detailed slide deck, so I had to be very concise and articulate. We were actually given a sample template, and I focused on following it to a tee. I divided up my two minutes into thirteen points, which I tried to cover as clearly and fast as possible.
+
+Juan: Can you please make the pitch one more time for us?
+
+Megan: Mmmm. I didn’t actually write it out (laughs). I only had a few bullet points jotted down. Let’s see. I said something like this: “My name is Megan Burton, and I’m a serial entrepreneur. There are thirteen virtual currency exchanges in the US and, if the industry is to survive, we all need to focus on four key aspects: legitimacy, compliance, liquidity and security. CoinX’s product advantages are in the speed and mechanisms to get in and out. We are hosted on the New York Stock Exchange, so that takes care of speed, and we offer eight ways to get money in, and seven ways to get money out. Our revenue model is based on sell-side transaction fees. Our most important advantage, however, is our focus on regulatory compliance. We believe that the industry needs legitimacy, and compliance equals legitimacy. In order for a virtual currency to survive, whether the Bitcoin of today or any future evolution, it needs to be legitimate for the market it serves. Embracing compliance will create the legitimacy we need.”
+
+Juan: Well said! I can now at least begin to understand what the impact of those words must have been.
+
+Megan: Thanks. I truly believe that compliance is foundational. Without solid compliance, and for us the strategy is obtaining our own state licenses, banking relationships will not be possible, and without banks we cannot take our product to market.
+
+“The virtual currencies industry needs legitimacy, and compliance equals legitimacy.”
+
+Juan: That’s a good segway to the next topic –banks. The so-called ‘unbanking’ problem –the denial of banking services to MSBs– is a harsh reality that traditional MSBs have lived with for decades, and virtual currency providers are now just beginning to experience first-hand. What does it take to convince traditional financial institutions to partner with Coinx?
+
+Megan: I agree the issue is real. We first attempted to open an account with Silicon Valley Bank, but they put a cap to their virtual currency portfolio, so we were left out. Today, I’m happy to announce that after a three-month onboarding process, a top 10 bank listed in SNL Financials Annual Top 50 Banks (ranked by thrifts and assets) has accepted us as their client. This bank also has a cap on new accounts, but we were able to get in because of a seven-year preexisting relationship in which we demonstrated who we were and built trust. Today there are thirteen to fifteen MSB-friendly banks that I know of in the U.S., and all of them have very strict due diligence processes. Based on the SNL Financial ratings, CoinX is now a client of 3 of the top 10 banks on the list, and in the near future we’ll continue to add additional banks. I must point out that in no way am I complaining about banks being strict. You have to see the world from their vantage point too. Banks are legitimately wary of illicit funds flowing through them, and they too are subject to oversight by their own regulators.
+
+Juan: Congratulations on obtaining the new account! What advice would you give others to earn their banks’ trust? What are a bank’s biggest concerns?
+
+Megan: The first thing everyone should understand is that going through a retail branch does not work. You have to get in, at a minimum, at the VP or similar senior level, and form a relationship with the Compliance Officer. It is fundamental to engage and educate banks about the industry, the technology, the product. A bank’s primary concern is that the funds come from a legitimate source. Where does the money come from on either end of the trade? How do you know that you’re not transmitting illegal money? There are a lot of ‘what-ifs’. They don’t want us to take money from illicit operations. That is a legitimate concern of banks and it must be our concern too. None of us would like that to happen.
+
+Juan: Clearly you consider compliance as a cornerstone of your venture. As a startup founder, do you have a philosophy or approach to doing compliance?
+
+Megan: I do, actually. My philosophy is simple: execution is more important than policy. Having an AML policy is one thing, and a relatively easy one. Executing it is what really matters. Trust is crucial, but equally important is implementing the controls stated in your policy.
+
+Juan: I’m glad to hear that. I’ve been advocating for substance over form for a long time. Many companies have 75-page manuals, but when the time comes to demonstrate the procedure that implements the policy, and the control put in place to ensure that the procedure was executed, they can’t. Policies need procedures, and procedures need controls.
+
+Megan: I agree. You need to build strong customer and source of funds verification procedures. If you have a layered verification system, for instance, where IP addresses are matched, can you demonstrate that the addresses match? It’s all about the ‘procedurization’ of the policy.
+
+“If I cannot get CoinX to market myself I probably don’t deserve to take outside funding.”
+
+Juan: How about insourcing versus outsourcing?
+
+Megan: It all depends on what you’re good at. You have to evaluate your skills and focus on your strengths. For example, I have a strong procedural background, I have ample experience in PCI (Payment Card Industry) compliance, which is all about security procedures, and that’s what I exploit. I am well-versed in security and procedure, so I leverage that. We take a hybrid approach: we take care of what we’re good at internally, and then partner with outside experts in what we’re not that good at. Outside assistance helps you keep fresh. They’re supposed to stay abreast of the cutting edge in their particular areas of expertise, and that’s great. They have the luxury of seeing multiple environments, so there’s value in leveraging that.
+
+Juan: What other things keep you awake? What are your top priorities today?
+
+Megan: My priority today is putting everything together and executing. There are so many moving parts, and all are interconnected… I literally sometimes wake up at 2 am in the morning making sure I sent that file here or delivered that piece there. I would say that’s the top priority. Then, of course, I keep working with regulators, trying to ensure that the state applications are moving. We need to get those finalized as soon as possible.
+
+Juan: Do you see any other ways to leverage for the business as a whole the infrastructure, the systems and controls that you’re building for compliance?
+
+Megan: Over the past few months, the whole regulatory compliance situation has been a learning, sobering, experience. Not only for me, but for the entire industry. I think that everything that we’re doing is going to help legitimize us. I confess that the whole thing has given me pause. Entrepreneurs usually go on stealth mode, even after launch. This has put scrutiny on me before the launch in ways I never imagined would be possible. It’s all being a balance test.
+
+Juan: I was actually wondering if you think it’s possible to leverage, for instance, the intensive data analysis that has to happen for money laundering prevention and compliance, to inform business or marketing decisions, but I won’t strike out your answer.
+
+Megan: Oh, yes, absolutely. I agree, and we’re actively working on that.
+
+“If we cannot overcome the compliance hurdle, digital currencies won’t survive.”
+
+Juan: Going to back to this whole thing given you pause and being a test…
+
+Megan: Yes, I’m constantly asking myself: “Am I serving the customer right, but doing this?” What I mean by a test is that the focus today on back-office compliance, rather than product enhancement, is an opportunity to prove that I can execute. We’re not ready for outside investment now. It would be disingenuous to use external funds to build the regulatory infrastructure. I have to build the minimum viable product first, which in this case requires a solid compliance foundation. If I cannot get CoinX to market myself, I probably don’t deserve to take outside funding. I have to earn it and then use it for what it should only be used: product enhancement and growth.
+
+Juan: Any final thoughts?
+
+Megan: It all has been a challenge but not only for us, for the entire industry. This has made us all aware that if we cannot overcome the compliance hurdle, the digital currency won’t survive. Virtual currencies already have a strong enough grass-roots adoption, which suggests the probability of massive adoption is high. It may not be this iteration of Bitcoin; it may be Bitcoin 2.0, but everything points to a high likelihood of success. That’s why our digital currency platform is being built from the ground up to account for all iterations of digital currencies, so we can grow as the market grows. This is too important to not help succeed as an industry. We should all go on and help legitimize the industry.
+
+Smart, mature and wise, Megan embodies much of the overarching message I am trying to convey with my blog –that a venture needs solid foundations, that, being inevitable, regulation must be addressed with an engineering mindset and built into a company’s DNA. For all that, she has earned my deepest respect and I hope she earns yours too.
+
+40.783434 -73.966250
+
+Advertisements

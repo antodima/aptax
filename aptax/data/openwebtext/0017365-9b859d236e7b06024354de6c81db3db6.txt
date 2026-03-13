@@ -1,0 +1,43 @@
+Handling traffic peaks with CloudFlare CDN for free
+
+Every once in a while you're lucky and end up with a positive problem - your website content is suddenly very popular. You might scramble and start turning up your servers and tuning up your caches or maybe someone's de-facto solution is to install HHVM to run your WordPress faster. While this is all worth while if you plan for this to happen in the future as well, for and occasional hit piece of content it might not be worth it.
+
+I've ran a dormant news site, metropolitan.fi, on Bolt since June 2013 for fun. On an average day it barely registers on any meters, averaging maybe 10-20 visitors a day. I run the site on a Virtual Server with multiple other sites on it (including this one).
+
+The publication is by no means a triumph of journalism, it's more of an experiment. And while I don't normally even think about the service I have twice hit a niche and spark discussions by translating some news from Finland that have been noteworthy Globally:
+
+While it's fun to attract some readers, it's not something I want to loose sleep over. The server runs other services and I'd rather not have them be affected by the traffic. The server would probably have managed this just fine without any tweaks, but as a life insurance I set up CloudFlare caching on it back in June 2013.
+
+Promise of the CloudFlare Free Plan is:
+
+Peace of mind about running your website so you can get back to what you love
+
+CloudFlare offers a number of services, but the key take away for me is the advanced Content Delivery Network (CDN). This let's me easily scale up for load peaks when I need - actually even when I know don't need since the service is always-on.
+
+The CDN platform delivers content with speed and closest to where the users is - with low latency. This results in lower load on my server and a better experience for a global audience. In addition to delivery, CloudFlare also offers other optimizations (resource minification, etc.). I've ran with default settings and it works just fine for such a simple content driven site.
+
+So in the title your read that it's free. So what's the catch? Well, you'll run out of the free plan features at some point and then you'll want more. That's when you start paying. Just like with Slack and many other SaaS platforms. It's "freemium" and it works for my use.
+
+I access the CloudFlare service very randomly, but as a marketing method the freemium model can be very effective. Each time I've had to actively use CloudFlare - it's been just perfect. I dabble in the field of web development and based on my experiences I would recommend the premium tiers to other people. So it's really a win-win.
+
+Not to give a purely rosy picture about CloudFlare there is a price for the ease of use: You need to let CloudFlare handle your DNS. For larger corporations and more exotic setups this might make the service more trouble than it's worth.
+
+CloudFlare works very well for delivering static content (along with dynamic commenting from Disqus). A complex eCommerce site, might not be such a no-brainer to deploy - there are plenty of options in the control panel.
+
+With CloudFlare I can run a high-performance global news service on a shoestring budget. That's pretty amazing.
+
+P.S. This site is not on CloudFlare, because it is an experiment on serving PHP with HHVM and H2O over HTTP/2
+
+P.S.S. There are plenty of similar services out there, just Bing it!
+
+P.S.S A commenter on Reddit wished for some statistics. See Sample Traffic Reports from CloudFlare Admin Panel
+
+Written by Jani Tarvainen on Monday July 13, 2015
+
+Permalink - Tags: performance, cdn, php, bolt, cloudflare, web, symfony
+
+Leave a comment
+
+Please enable JavaScript to view the comments powered by Disqus.
+
+Disqus

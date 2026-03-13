@@ -1,0 +1,68 @@
+It seems we’re hearing a lot about 8-Core streaming devices lately. Idroidnation was nice enough to send us a sample of their brand new Android TV box for review: The Idroidnation I-Box.
+
+The last time we reviewed an Octa-Core streaming device was the Tronsmart Draco. It started off well, but quickly fizzled out because Tronsmart was non-existent with their support of the box. Any time that a new design comes out, you’re buying into the hope that the device will perform better and better as it ages. I’m talking about everything, not just Android boxes.
+
+Will the Idroidnation I-Box age better than the Draco? How does it perform now?
+
+Let’s find out.
+
+Idroidnation I-Box: Specs
+
+The Idroidnation I-Box is built off the Cortex A53 which is an 8-core, 64-bit version of the Cortex A7. This essentially allows the A53 to be smaller than it’s predecessor and give higher performance using less power. Like the Draco, this device also uses ARM’s big.LITTLE technology which enables the CPU to turn on cores when it needs more processing power and turn them off at idle times.
+
+There is also 2GB of RAM and 8GB of storage. The storage is split over two partitions, which I found to be disappointing. Manufacturers started doing this as a cost benefit, but with memory prices so low, I’m not sure why they still feel the need to split storage like this.
+
+It’s also worth pointing out that this is one of the few TV boxes running Android 5.1.1 Lollipop. We’ll see this more in the future, but it’s great to see Lollipop finally making it’s way on to streaming devices.
+
+Here are the official specs from Idroidnation’s website:
+
+Operating System Android 5.1 CPU RK3368 – 64-bit Octa-Core Cortex A53 GPU Power VR6110 Supported Formats OpenGL ES3.1, OpenCL 1.2 and DirectX 9.3 4K*2K H.264/H.265 real-time Video playback HDMI2.0,4K*2K@60fps display RAM DDR3 2GB Storage Onboard eMMC Flash 8GB Connectivity Bluetooth BT 4.0, Ethernet 100 Mb LAN Wi-Fi Wireless 802.11a/b/g/n Expandable Memory Micro SD Card (Maximum support 64GB) Antenna Built-in antenna for Wi-Fi UHD 4K×2K Yes Full HD 1080P Yes HEVC H.265/H.264 Yes Video/Picture Decoding Supports *.mkv,*.wmv,*.mpg, *.mpeg, *.dat, *.avi, *.mov, *.iso, *.mp4, *.rm and *.jpg file formats Audio format Support MP3, AAC, WMA, RM, FLAC, OGG Ports USB 2.0 x 3, Micro USB with OTG x 1, HDMI 2.0 x 1, SPDIF x 1, Micro SD card slot Adapter 5V 2A Features Miracast/DLNA Support
+
+What’s in the box
+
+Android TV box manufacturers have gotten a lot better with their packaging since they first popped on the scene a few years ago. The first devices were simply thrown into a box and included a simple one-sheet of instructions which, if you were lucky, were written in English.
+
+By contrast, the Idroidnation I-Box is packaged well. The box is mono-chromatic on plain brown cardboard, and gives it a kind-of “eco-friendly” vibe. Still, it looks like something you’d pick up at any big-box retailer like Best Buy or Target. Once you open the box, the I-Box is there, along with a brief description of the package contents.
+
+Underneath, you’ll find an AC power adapter, USB to micro-USB OTG adapter and an HDMI cable so you don’t have to buy your own.
+
+There’s also a one-sheet setup guide that looks like something that could be produced by Hewlett-Packard. That’s a good thing, by the way. I’ve often said that they have some of the best set-up material in the tech industry for new users. The iDroidnation’s setup page explains not only how to plug in the box, but also how to perform basic Android functions like opening and closing apps. On the back, there’s a walkthrough on how to change language settings and connect to the Internet.
+
+Benchmarks
+
+Since the Tronsmart Draco was the only other Octa-Core device I’ve tested so far, my initial though was to use it as a baseline for the Idroidnation I-Box performance. The Draco scored a pretty respectable 34672 in AnTuTu X. If you remember, there was some controversy with the Draco’s AnTuTu 6 score, so I’m going to be erring on the side of caution here.
+
+The Idroidnation I-Box scored better on the AnTuTu benchmarks than the Draco, getting a verified score of 36022 on its first run. I ran this test several more times and achieved an average of 35496 over ten attempts. This puts it in line with what CNXSoft found with the RK3368 devices they tested. Overall, pretty solid performance, and a slightly higher score than the MINIX NEO X8-H Plus which scored a 32275.
+
+The AnTuTu Video Tester didn’t fare as well, unfortunately. Although the 4K portion of the test worked flawlessly, there were some issues with older formats which you can see in the pictures below. Overall, I’m not too concerned with this as long as Idroidnation updates the firmware down the road. If not, this could be an issue.
+
+I also ran 3DMark’s Ice Storm and PC Mark Android benchmarks for the I-Box. The results weren’t what I expected, but not in a bad way.
+
+The scores for Ice Storm were a pretty respectable 5148. This was less than the NEO X8-H Plus’ score of 5657. Even though the framerates were almost identical, the MINIX box did score higher in the overall graphics tests.
+
+The interesting test was in the PC Mark Android benchmark. Here the Idroidnation I-Box really dominated. It handily beat the MINIX in overall score, 4225 to 3004. Even better, it almost doubled the MINIX’s score in video playback: 4915 to 2456.
+
+Clearly there’s some power underneath the hood in this set top box.
+
+Kodi
+
+Almost everyone who buys a streaming device that’s not made by Roku, Amazon or Google does it to run Kodi.
+
+Idroidnation included Kodi 15 with this TV box and it works great. There was a custom skin already installed, but that can be easily changed.
+
+I’m disappointed that they chose to include a lot of add-ons that aren’t officially endorsed by Team Kodi. Generally when manufacturers do this they are doing it to promote illegal content. This didn’t appear to be the case with Idroidnation, however, which is good.
+
+Including Kodi 15 rather than version 14, or even one of the old XBMC versions is another good sign. I’m always worried when a brand new device comes out with old software. Thankfully, that’s not the case here.
+
+The Verdict
+
+The Idroidnation I-Box surprised me a little bit, which is getting pretty tough to do. It gives good performance that was rock-solid as far as stability during my stress tests. It may not blow away the competition yet, but you need to remember that this is a brand new box with lots of room to grow. Video playback was good, and didn’t show any signs of stuttering at all.
+
+One disappointment was the lack of a custom launcher with this box. One of the great things about Android TV boxes is that we can customize them however we want. That doesn’t mean that it’s easy for newbies, or even casual users to navigate. Especially if you don’t have some sort of air mouse or upgraded controller. There were a couple of minor issues with video formats not being supported, but I expect that those will be fixed in the first firmware upgrade.
+
+All in all, I’m pretty impressed with the Idroidnation I-Box. But what do you think?
+
+Leave us a comment below, and don’t forget about our contest to win our review sample!!!
+
+a Rafflecopter giveaway
+

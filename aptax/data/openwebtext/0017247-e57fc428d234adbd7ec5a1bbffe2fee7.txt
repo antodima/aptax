@@ -1,0 +1,41 @@
+Introduction
+
+Common Lisp Quick Reference is a free booklet with short descriptions of the thousand or so symbols defined in the ANSI standard. It comes with a comprehensive index.
+
+This rather humble effort is by no means meant to rival the Common Lisp HyperSpec or any of the great introductory web resources and books. Its purpose is to give those who like a piece of dead tree in their hands a quick overview on things they know already, or some clue on what to look up elsewhere.
+
+It is written in LaTeX and formatted for printing on both A4 and letter paper. After folding the sheets lengthwise, they can easily be turned into a handy booklet.
+
+Please report any errors to trebbu@googlemail.com. Nitpickers welcome!
+
+Latest Changes
+
+2018-10-10 14:08:44 +0200
+
+Fix bugs reported by Fengjing Xiao
+
+- define-compiler-macro is a macro, not a function. - symbol-name and symbol-package aren't setfable.
+
+2018-02-05 12:00:32 +0100
+
+Initarg names don't need to be keywords
+
+Fix definitions of defstruct, define-condition, signal, warn, error, cerror, and assert. Thanks to Fengjing Xiao for the bug report.
+
+2018-02-05 11:55:28 +0100
+
+Fix argument list of scale-float
+
+Thanks to Fengjing Xiao for the bug report.
+
+2018-01-23 12:36:42 +0100
+
+CLOS-related initargs don't need to be keywords
+
+Thanks to Fengjing Xiao for the hint.
+
+2018-01-15 15:24:54 +0100
+
+Remove a bit-rotten LaTeX dependency
+
+Minor layout modifications.

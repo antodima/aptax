@@ -1,0 +1,15 @@
+Cybersecurity researcher Charlie Miller and his fellow researcher Collin Mulliner plan to present research on a huge iPhone security hole Thursday at the Black Hat cybersecurity conference in Las Vegas. Not an iPhone virus, but rather an SMS hack, the issue can allow a hacker complete control over an iPhone.
+
+According to the researchers, they will demonstrate how to send a series of mostly invisible SMS "bursts" that can give a hacker complete control of the iPhone. That control will include dialing the phone, visiting Web sites, turning on the device's camera and microphone, and more. The hacker will also be able to send more text messages to facilitate spreading the iPhone SMS hack to other iPhones.
+
+To an end user, the evidence that someone is trying to use the iPhone's SMS hack on your device will be a text message on your iPhone containing only a single square character. The only way to avoid being hacked would be to quickly turn off the device. In terms of the amount of control, this hack sounds, quite honestly, very similar to how certain Trojans can turn a PC into a bot, and similarly control it remotely.
+
+Charlie Miller told Forbes:
+
+"This is serious. The only thing you can do to prevent it is turn off your phone. Someone could pretty quickly take over every iPhone in the world with this."
+
+That's a bit of hyperbole, as first a hacker would have to know the appropriate phone numbers to use to hack an iPhone (and there are plenty of phone numbers assigned to other devices). It is obviously very serious, and despite the researchers sharing their results with Apple over a month ago, there has been no movement on a fix as of yet.
+
+Interestingly, the researchers also found a similar "remote control" texting bug in Windows Mobile, and other bugs in Android and the iPhone that can let hackers boot the phones off the network. The Android bug has been closed, but the second iPhone bug has not.
+
+Miller and Mulliner also found a hole in the iPhone's Safari browser way back in 2007 when it was first launched.

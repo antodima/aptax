@@ -1,0 +1,31 @@
+The Year Waste-Heat
+
+Got Hot
+
+Matt Scullin Blocked Unblock Follow Following Jan 22, 2015
+
+According to a U.S. Department of Energy report, 20 to 50 percent of industrial energy input is wasted as heat that could be converted into electricity. Is this a massive resource that both countries and industries can tap into to provide an additional pillar of renewable energy innovation? Or is that still a pipe dream?
+
+Having focused on waste-heat recovery innovations for over ten years, on the sides of both industry and academia, I see 2014 as a watershed year for this important and still nascent field.
+
+In December 2014, the World Economic Forum released its Global Energy Architecture Performance Index Report 2015 (EAPI), which benchmarks the current performance of national energy systems and explores how the most successful countries manage the “energy triangle” (energy security, energy affordability, and environmental sustainability) and achieve balance through energy diversity. While ongoing policy is critical to helping countries achieve energy diversity, so is a commitment to energy innovation.
+
+Similar to national energy systems, energy-intensive industries — including oil and gas, mining, materials manufacturing (e.g., steel, glass, cement), and automotive — also strive to balance the “energy triangle” within their businesses, regularly exploring ways to reduce fuel consumption, operating costs, and carbon emissions. As energy-intensive industries search for energy innovations to diversify the mix, waste-heat recovery emerged as a real solution in 2014.
+
+Of the solutions to the waste-heat question, thermoelectric materials provide a simple, compelling platform to transform wasted heat into electricity.
+
+Dating back to 1821, thermoelectrics have a long history of providing simple, reliable power generation but lacked mass awareness and adoption due to their high cost. Within the past decade, nanotechnology advancements catalyzed a new era of rapid advances in thermoelectric materials. I saw this first-hand while working in research and development at the U.S. Department of Energy. It was also clear to me that costs were poised to come down significantly, and that thermoelectrics offered a unique value proposition to customers, as they were solid-state and therefore very simple. Now, with a return-on-investment of one to five years, depending on the application, commercially available, thermoelectric-based waste-heat recovery solutions are seeing early-stage adoption by the most energy-intensive industries.
+
+For example, a thermoelectric generator can attach to the exhaust of a diesel- or natural gas-powered generator (genset) — tens of thousands of which are present as off-grid power plants for remote power generation in oil and gas and mining operations — and convert the exhaust waste-heat directly into electricity. One thermoelectric generator attached to a diesel-fueled genset can today generate up to 25 kWe per 1,000 kWe genset, saving 52,500 liters of diesel fuel per year, per genset — and this is likely to reach 100 kWe in the coming years. When scaled to address a multiple of hundreds or thousands of assets in a typical oil, gas or mining setting, thermoelectric-based waste-heat recovery translates into a significant reduction in fuel consumption, operating costs, and carbon emissions.
+
+In the energy-intensive business of materials manufacturing, hundreds of thousands of furnaces consume quadrillions of BTUs of energy annually and emit billions of metric tons of carbon dioxide. By incorporating thermoelectric-based waste-heat recovery modules into industrial furnace design, there’s an opportunity to capture a significant portion of the waste-heat and improve energy efficiency from ten to 50 percent (U.S. Department of Energy report).
+
+A recent report from Frost & Sullivan, “Innovations in Industrial Waste Heat Management,” also predicts that thermoelectric generators will be the “most sought after waste heat recovery technique in the future.”
+
+As for the automotive industry, according to the Lawrence Livermore National Laboratory (LLNL), the transportation sector is the single biggest U.S. consumer of energy and wastes a full 75 percent of energy consumed. This is fast becoming an issue in the developing world as well. Approximately two-thirds of the energy used in cars and trucks is wasted as heat. Applying a miniature thermoelectric-based waste-heat recovery module to the tailpipe of a car or truck can capture the waste-heat, convert it into electricity, and improve the fuel efficiency of the vehicle. Fuel efficiency is just one piece of the puzzle solved by thermoelectric-based waste-heat recovery in the automotive industry; the technology also has tremendous potential to help power the connected car. According to a McKinsey Quarterly report, the connected cars of the future will “become less like metal boxes and more like integrators of multiple technologies, productive data centers.” The report also states that “today’s average high-end car has roughly seven times more code than a Boeing 787.8.” Powering the demands of the connected car will continue to draw on early-stage innovation, and thermoelectric-based waste-heat recovery modules are viable solutions.
+
+Whether from generators on an oil rig or in a remote mining plant, to furnaces in a steel factory, to the tailpipe of an automobile, waste-heat is abundant. While there is no panacea for maintaining balance in the “energy triangle,” in 2014, thermoelectric-based waste-heat recovery proved to be a valuable component of any energy diversity strategy.
+
+Dr. Matthew L. Scullin is the founder and CEO at Alphabet Energy, the global leader in thermoelectrics for waste-heat recovery and 2014 World Economic Forum Technology Pioneer.
+
+The World Economic Forum’s Annual Meeting 2015 will take place from 21–24 January in Davos-Klosters, Switzerland, under the theme “The New Global Context.” You can find out more about the meeting here.

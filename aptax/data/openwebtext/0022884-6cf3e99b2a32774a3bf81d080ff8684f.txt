@@ -1,0 +1,49 @@
+It’s been a bad year to be Ben May. The second-year MLB umpire has the worst record of getting his calls overturned when subject to in-game replay review. 92% of May’s calls, 12 out of 13, were overturned in the 2015 MLB regular season.
+
+The Denver Post looked at the percentage of calls overturned of the MLB’s 99 umpires in 2015. Of the more than 1,300 plays reviewed this year, 643 (49.2%) were overturned.
+
+Of the 75 umpires who had ten or more calls reviewed, 43 umpires (57.3%) had worse-than-average overturn rates.
+
+Of the 43 umpires with worse-than-average overturn rates, ten are umpiring on the field so far in the 2015 MLB playoffs – that’s ten out of a total of 36 umpires assigned post-season duty for the wild card and the division series rounds. The post-season umpires with worse-than-average records are highlighted in red.
+
+Raw data provided by Major League Baseball.
+
+On mobile? View the interactive chart here.
+
+Click a table column to sort by that column.
+
+https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.23.5/js/jquery.tablesorter.js
+
+$(document).ready(function()
+
+{
+
+$(“.tablesorter”).tablesorter();
+
+}
+
+);
+
+table.data
+
+{
+
+font-family: Georgia, sans-serif!important;
+
+}
+
+table.data tbody tr:first-child td:nth-child(n+2):after
+
+{
+
+content: ”;
+
+}
+
+table.data tr.postseason { background-color: rgb(255,200,200)!important; }
+
+footer div { max-width: 95%; }
+
+Umpire Overturned Plays Reviewed % Overturned Ben May 12 13 92.31 Phil Cuzzi 13 17 76.47 D.J. Reyburn 13 19 68.42 Jeff Kellogg 11 17 64.71 Bill Miller 9 14 64.29 Paul Nauert 7 11 63.64 Tim Welke 12 19 63.16 Lance Barrett 10 16 62.5 Scott Barry 8 13 61.54 Dan Iassogna 8 13 61.54 Tony Randazzo 8 13 61.54 Ed Hickox 9 15 60 Gabe Morales 9 15 60 Joe West 10 17 58.82 Ted Barrett 7 12 58.33 Jordan Baker 11 19 57.89 Andy Fletcher 12 21 57.14 Bill Welke 9 16 56.25 Bob Davidson 9 16 56.25 John Hirschbeck 11 20 55 Dale Scott 6 11 54.55 Quinn Wolcott 6 11 54.55 Jim Wolf 6 11 54.55 Chad Fairchild 7 13 53.85 Mike Muchlinski 7 13 53.85 Dan Bellino 8 15 53.33 Eric Cooper 8 15 53.33 Doug Eddings 8 15 53.33 Adrian Johnson 9 17 52.94 Cory Blaser 9 17 52.94 Gerry Davis 9 17 52.94 Tripp Gibson 9 17 52.94 Mike Winters 9 17 52.94 Jerry Meals 10 19 52.63 Jim Reynolds 10 19 52.63 Toby Basner 11 21 52.38 Larry Vanover 11 21 52.38 Mike Estabrook 6 12 50 Tom Hallion 7 14 50 Paul Schrieber 8 16 50 Greg Gibson 9 18 50 CB Bucknor 11 22 50 Ron Kulpa 10 21 47.62 Bruce Dreckman 7 15 46.67 James Hoye 7 15 46.67 Mike Everitt 5 11 45.45 Mark Ripperger 5 11 45.45 Hunter Wendelstedt 5 11 45.45 Chris Segal 9 20 45 Chris Conroy 8 18 44.44 Mark Wegner 7 16 43.75 Brian O’Nora 10 23 43.48 Laz Diaz 6 14 42.86 Todd Tichenor 6 14 42.86 Jeff Nelson 7 17 41.18 Clint Fagan 9 22 40.91 Marvin Hudson 4 10 40 Jim Joyce 4 10 40 Brian Knight 4 10 40 Dana DeMuth 6 15 40 Sam Holbrook 6 15 40 John Tumpane 9 23 39.13 Angel Hernandez 7 18 38.89 Tim Timmons 7 18 38.89 Fieldin Culbreth 5 13 38.46 Kerwin Danley 7 19 36.84 Marty Foster 7 19 36.84 Chris Guccione 7 20 35 Paul Emmel 4 12 33.33 Vic Carapazza 5 15 33.33 Lance Barksdale 4 13 30.77 Gary Cederstrom 4 13 30.77 Manny Gonzalez 7 23 30.43 Mark Carlson 6 21 28.57 Adam Hamari 4 17 23.53
+
+On mobile? View the interactive chart here.

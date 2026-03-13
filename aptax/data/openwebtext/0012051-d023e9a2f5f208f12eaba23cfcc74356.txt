@@ -1,0 +1,57 @@
+Angular component, $watch and $destroy without $scope — exploring lifecycle hooks
+
+Dvid Silva Blocked Unblock Follow Following Apr 2, 2016
+
+Angular 1.5.3 introduced something new to the directive controllers that I’m liking a lot, I have seen very little about it online, so I decided to share.
+
+I started using the component method recently, very excited about it, I had been writing component directives before, using controllerAs and avoiding $scope as much as possible, so it felt kinda dirty having to inject $scope in order to use $watch and $destroy.
+
+Angular 2 introduced lifecycle hooks, https://angular.io/docs/ts/latest/guide/lifecycle-hooks.html
+
+A Component has a lifecycle managed by Angular itself. Angular creates it, renders it, creates and renders its children, checks it when its data-bound properties change, and destroys it before removing it from the DOM.
+
+Angular offers component lifecycle hooks that give us visibility into these key moments and the ability to act when they occur.
+
+They were recently introudced in Angular 1.5.3, the way to use them is the following.
+
+In your controller function inside the component, you can add a function to each one of them, the function will be called from the compiler when is relevant if the function exists.
+
+var vm = this;
+
+vm.$onInit = function () {
+
+$log.log('initializing controllers, setting default values');
+
+vm.hello = "hello world!";
+
+};
+
+vm.$onChanges = function (changes) {
+
+$log.log(changes);
+
+};
+
+vm.$onDestroy = function () {
+
+$log.log('destroying controller');
+
+};
+
+vm.$postLink = function () {
+
+$log.log('$postlink, ready to add dom event listeners');
+
+}
+
+The docs explain them quite better than me, https://docs.angularjs.org/api/ng/service/$compile
+
+$onInit() — Called on each controller after all the controllers on an element have been constructed and had their bindings initialized (and before the pre & post linking functions for the directives on this element). This is a good place to put initialization code for your controller.
+
+$onChanges(changesObj) — Called whenever one-way (<) or interpolation (@) bindings are updated. The changesObj is a hash whose keys are the names of the bound properties that have changed, and the values are an object of the form{ currentValue, previousValue, isFirstChange() }. Use this hook to trigger updates within a component such as cloning the bound value to prevent accidental mutation of the outer value.
+
+$onDestroy() — Called on a controller when its containing scope is destroyed. Use this hook for releasing external resources, watches and event handlers. Note that components have their $onDestroy() hooks called in the same order as the$scope.$broadcast events are triggered, which is top down. This means that parent components will have their $onDestroy()hook called before child components.
+
+$postLink() — Called after this controller’s element and its children have been linked. Similar to the post-link function this hook can be used to set up DOM event handlers and do direct DOM manipulation. Note that child elements that contain templateUrldirectives will not have been compiled and linked since they are waiting for their template to load asynchronously and their own compilation and linking has been suspended until that occurs.
+
+I made a working example so you can see them in action and see when different events are happening: http://codepen.io/anon/pen/eZGJNg , missing $onDestroy, but you get the idea.

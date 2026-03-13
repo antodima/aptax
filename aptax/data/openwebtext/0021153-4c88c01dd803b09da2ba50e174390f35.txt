@@ -1,0 +1,51 @@
+Lawyers have already been contacted
+
+When I start looking into a story that I know will go much longer than my average Destructoid news post, I like to get as hands-on as possible. I don't just want to read a bunch of other articles about the subject in question; I want to talk to people involved with the story, and (if possible) get my hands a little dirty.
+
+In this particular case, there's a lot of dirt on my hands. I may have accidentally committed some...light theft.
+
+Earlier this month, Destructoid received a tip from a source [who we will refer to as 'Tim'] claiming they had unknowingly purchased a stolen PlayStation Network account via G2A.com. For those unaware, G2A is a Hong Kong-based site that primarily sells third-party keys and even accounts. (Some of you may remember G2A from this story about stolen Far Cry 4 keys.) Although G2A is itself a third-party seller, it also acts as a platform for individual sellers and buyers to conduct transactions. One such transaction resulted in the sale of an account belonging to a man [who we will refer to as 'Eric'].
+
+When an account sale is on the up-and-up, the account will be nigh-barren, apart from the advertised game. There's some mojo you can perform that will allow you to play this game on your console via your main account (which I won't recount here, because it kinda makes sense and I don't want any of you thinking this is a good idea). Of course, there are examples of people just selling their stacked account in the hopes of making some extra cash; buy a bunch of popular games on sale, flip the account for more than the games are worth. Or, hey, you've just sold your PS4 in a fit of rage, why not sell that account full of platinum Trophies too while you're at it? There are too many hypotheticals in play. When you buy an account, there's a 50% chance you've just committed a crime.
+
+Unless you sign in and find a bunch of credit cards and a still-active PlayStation Plus membership. This was Tim's red flag, and he immediately contacted the seller (who refunded the transaction without a word) and Eric, who took back control of his account.
+
+"I got this account, expecting some garbled random email address and password, but the email address was just some dude's name. I kind of raised an eyebrow at that, but thinking the email address might belong to the person who bought the code to sell, I tried it out, and... it was genuinely just some guy's account," Tim said in an email to Destructoid.
+
+This is exactly what happened to me. I wanted to get a feel for the account-buying process, so I went looking for popular big-budget video games (reasoning that more people would be selling those as opposed to an account made specifically for Race the Sun or whatever) before eventually settling on a listing for Metal Gear Solid V: The Phantom Pain. I received an account that was as generic as they come. No name, no credit cards, no friends, no Trophies...and a copy of Ground Zeroes.
+
+Initially, I thought I had found a legit seller that had just made a mistake. That was ostensibly the end of my little experiment, so I went to the seller looking to get a refund. The seller was very insistent that I take a new key instead...which eschewed the generic email and password for a significantly less generic one. Again, much like Tim, I raised an eyebrow at this. But I logged in anyway, reasoning that I would either return the account and save a person from identity theft -- or, if this was an honest transaction, end up with an account that I could just gift to a friend.
+
+This account was very much someone else's, which is where the "light theft" part comes in.
+
+Nate Martin (his real name!) is the CEO of Puzzle Break, an Escape the Room venue located in Seattle. I know his address and the last four digits of two of his credit cards, thanks to the purchase I made through G2A. Again, luckily for Nate, I had zero intent of holding onto another person's account, so that information remains safe with me. But there's no telling what could've happened if Nate's account ended up in the wrong hands. And he has zero idea how his password ended up in my hands.
+
+"I couldn't begin to guess how it happened. I'm guessing it was that mass hack a while back I vaguely remember hearing about. No other accounts of mine (that I'm aware of) seem to be compromised," Nate told us. "I have not much in the way of free time. I'm not super interested in throwing myself against a byzantine [interactive voice response; the telephone robots that ask you if you meant 'billing' when you said 'operator'] that I'm sure Sony has in exchange for a gift card."
+
+
+
+Eric, the man whose account sparked this whole investigation, said it took "over an hour" to prove his identity to Sony. "I would say Friday I went to my PS4 and was unable to do anything with the system. About two minutes after that, I received three emails from Sony stating that my PayPal had been removed and my passwords had changed, along with my first and last name being changed as well." Sony did not respond to request for comment.
+
+It appears the modus operandi changes between scammers. According to Nate, the hacker didn't change his password. I was going to make sure the account belonged to him before I gave him what I assumed was a new password set by the seller, but it turns out Nate knew it off the top of his head.
+
+So how does the law work in this particular case? For the purposes of this article, we'll be working with California penal codes -- code 496 in particular. Obviously, a person who knowingly receives stolen property (with the intent of withholding it from the owner), will be charged with either a felony or misdemeanor. In the case of both Tim and myself, returning the account means we're off the hook, and the person who stole the account in the hopes of selling it is definitely 100% a criminal.
+
+I was curious if PSN accounts having no basis in the physical world meant something regarding the legality of this transaction. For this story, I talked to New York City-based lawyer Harvey Lippman about selling accounts that don't belong to you, on the off chance there was some crazy loophole that made all of this legal. According to Harvey, that is absolutely not the case.
+
+"From what I've read, a lot of this stuff is evolving. There are some newer laws being written," Harvey said in a phone interview. From a lawyer's perspective, he likened it to the theft of a movie ticket. "You don't own the film, but that ticket gives you the right to watch it." That license constitutes "property," and is thus subject to stolen property laws.
+
+The next question we have to ask is the placement of G2A in this whole situation. Unless G2A knew for sure that something was up, Harvey says the site is not liable. "Absent some kind of negligence of knowledge, the site is not liable -- unless there is a statute saying they have a duty."
+
+Well, the site's Terms of Service states that "G2A.COM is neither a party to the agreement between the User and the Seller, nor between the Selling User and the User, nor between Sellers -- it merely provides specific assistance and administration services to the Sellers and the Users." The site claims it is the thirdest of parties, but let's dig into that claim a little bit.
+
+Going back to penal code 496, in the case of "every swap meet vendor and every person whose principal business is dealing in, or collecting, merchandise or personal property, and every agent, employee, or representative of that person," third-party sellers have a duty to make sure the product is not stolen. So, in this particular case, based on G2A's Terms of Service, the site defines the seller as a second third-party; G2A is more like the person who owns the parking lot where the illegal swap meet happened.
+
+As if that wasn't enough, the site that sold me the stolen account also claims to be a third-party, having purchased the code from a seller on Taobao -- a Chinese e-commerce site owned by Alibaba. Yes, that Alibaba. Last we saw, the company was working on a credit system with the Chinese government. Somebody buy me a corkboard, some red yarn, and some thumbtacks.
+
+According to a source inside G2A, the company is currently investigating both my case and Tim's. "Sellers of PSN accounts (or any other digital product present on our marketplace) are under supervision of our Customer Experience specialists. Our specialists react every time when there is even a shadow of doubt as to any credibility and trustworthiness. In such cases of an invalid product, sellers are banned and the customers refunded promptly," our source said in an email to Destructoid.
+
+Researching this story was like trying to escape from Alcatraz with only a nail file. The deeper I got, the more I hoped to find some measure of closure -- a feeling that never came. I only had to stop reporting on this because at some point, you just have to publish what you've got. We're still waiting on emails from G2A, the organization that sold me the stolen account, and (hopefully) Sony. Taobao was a dead end, because I don't speak a lick of Chinese, and even then I doubt the seller in question would confess to a reporter. At best, I would get another deflection.
+
+I can't promise you an ending, at least one that provides a sense of finality. I don't know who stole either account, and nobody's owning up to the deed. All I can tell you is that I've left this experience less trusting of my fellow man. Keep your information safe, gang.
+
+You are logged out. Login | Sign up

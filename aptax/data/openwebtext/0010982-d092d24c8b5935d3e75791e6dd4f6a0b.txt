@@ -1,0 +1,47 @@
+Politics aside, most energy experts agree that cheap, clean, renewable wind energy holds great potential to help the world satisfy energy needs while reducing harmful greenhouse gases. Wind farms placed offshore could play a large role in meeting such challenges, and yet no offshore wind farms exist today in the United States.
+
+In a study just published in Geophysical Research Letters, a team of engineers at Stanford has harnessed a sophisticated weather model to recommend optimal placement of four interconnected wind farms off the coast of the Eastern United States, a region that accounts for 34 percent of the nation's electrical demand and 35 percent of carbon dioxide emissions.
+
+"It is the first time anyone has used high-resolution meteorological data to plan the placement of offshore wind grid," said senior author Mark Z. Jacobson, a professor of civil and environmental engineering. "And this sophistication has provided a deeper level of understanding to the grid plan."
+
+Beginning with 12 energetic potential locations, the engineers winnowed down the sites to four optimal sites. Total maximum capacity of the interconnected grid is 2000 megawatts, roughly equivalent to the yearly capacity of one-and-a-half conventional coal-fired power plants. Each farm would have approximately 100 turbines, delivering an individual maximum capacity of 500 megawatts.
+
+"Two thousand megawatts and four farms are somewhat arbitrary figures. The sizes and locations could be adjusted for economic, environmental, and policy considerations," said Jacobson.
+
+"An offshore grid as an extension of the onshore grid in this region will improve reliability, while reducing congestion and energy price differences between areas," said Mike Dvorak, the lead author of the study and a recent PhD graduate in civil and environmental engineering at Stanford.
+
+Optimizing the grid
+
+The optimized grid was located in the waters from Long Island, New York to Georges Bank, a shallows about a hundred miles to the east of Cape Cod. The nearshore locations take advantage of consistent sea breezes that occur naturally due to the daily difference in temperature between land and sea. The offshore farms experience stronger, though less regular, frontal storm activity. The four farms would be interconnected to help balance output across the grid.
+
+"Until recently, large scale wind resource assessments have neglected the aspect of time. We matched peak productivity with peak demand at specific times of day and year," said Dvorak. "Our analysis matches production to demand."
+
+Wind farms on land, for instance, tend to see daily peak output at night, when demand is lower. Seasonally speaking, demand usually spikes in the late afternoons of summer when air conditioning needs are high, but this time of year is also known for a dearth of storms and a meteorological phenomenon known as the Bermuda High, a high-pressure center that affects winds along the entire coast.
+
+"In some areas, like Massachusetts, the Bermuda High boosts sea breezes," said Dvorak. "But south of Long Island, NY, where one offshore grid has been proposed, the Bermuda High has the opposite effect and often hinders sea breezes."
+
+Balance of power
+
+Beyond matching production and demand cycles, the researchers had to balance several technical challenges in their models.
+
+"The farms had to be in waters less than 50 meters deep to allow use of bottom-mounted turbines and near urban load centers like Boston and New York," said Jacobson. "And, we wanted to smooth power output, ease hourly ramp rates and reduce hours of zero power."
+
+The engineers took a novel approach, choosing to interconnect the offshore farms. Offshore wind farms in other parts of the world today are connected individually to the onshore grids.
+
+"The goal is to even out the peaks and valleys in production," said Dvorak. "In our model, expensive no-power events - moments when individual winds farms are producing zero electricity - were reduced by more than half from nine percent to four by connecting the farms together."
+
+In the final analysis, the interconnected grid was able to yield a year-long capacity factor of over 48 percent, meaning that the grid could reliably produce close to 1000 megawatts on average over the course of a year.
+
+"Generally, with wind farms, anything over 35 percent average capacity is considered excellent," said Jacobson.
+
+Location. Location. Location.
+
+Among its findings, the Stanford model recommended a farm in Nantucket Sound, precisely where the controversial Cape Wind farm has been proposed. The Cape Wind site is contentious because, opponents say, the tall turbines would diminish Nantucket's considerable visual appeal.
+
+By that same token, the meteorological model puts two sites on Georges Bank, a shallows located a hundred miles offshore, far from view in an area once better known for its prodigious quantities of cod. The fourth site is off central Long Island.
+
+The researchers last looked at the economics of installing their offshore grid, which they said would have the advantage of sharing costs across several states, potentially increasing political support for the plan.
+
+"This paper should be seen as a tool for energy planners to better inform their renewable energy decisions across a densely populated area," said Jacobson. "It is an opportunity to collaborate on a shared system that reduces costs while benefitting a large and important center of electrical demand in the U.S."
+
+Source: http://soe.stanford.edu/

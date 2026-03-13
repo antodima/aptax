@@ -1,0 +1,47 @@
+Reading Dimitri’s piece on the Sedin twins made me think about the most under-appreciated aspect of a hockey player’s existence.
+
+Henrik Sedin’s key value as a hockey player isn’t that he’s a moderately good possession centreman after you correct for zone starts or that he’s a scoring champion. His key value is that he was the only forward to play 82 games each season between both the 2005 and 2012 lockouts. He last missed a game on March 16, 2004, a 4-3 loss to the Chicago Blackhawks (to any Chicago readers, yes, the Blackhawks did exist before 2010).
+
+A great player who only plays 60 games can be downgraded to being a good player. Since so few players get on ironman streaks that last seasons in a row, being a good player for all of these games elevates a player to being great. From Sedin, to Brendan Morrison to Andrew Cassels, it’s been about a decade since the Canucks had to hold their top centreman out of the lineup.
+
+Here’s something Mike Gillis said:
+
+We’re trying to define fatigue levels in those circumstances and as you know, a player usually gets hit twice when he gets hit once. He gets hit by the player and then hits the boards. How you can attribute that to success and how you attribute that to fatigue levels is instrumental in finding out when a player in the third period makes a mistake. And something happens and I think that as we’ve found, in a dynamic, competitive contact sport that fatigue levels are really a lot of the determining factor in success or failure.
+
+It doesn’t deviate too far from the conclusions found by Eric T. at NHL Numbers about older players playing a lot of games. I think the players who make it to 36, 37 years old in the NHL have bodies developed enough to continuously handle the grind of a season. You can think of a few players (the most prominent being Kyle Wellwood, but I made an argument for Cody Hodgson last season) who are fairly effective until they hit a certain minute threshold and they fall off the wagon.
+
+Wellwood, for instance, is a first-line player when he plays below 14:10 per game. He’s a moderate second line player when he climbs above 15:34:
+
+Avg. TOI Goals/82 Points/82 Above 15:34 17:16 18.5 42.3 Above 14:10 14:56 15.9 50.9 14:10 and Below 12:39 21.7 54.1
+
+(The Goals/82 and Points/82 are based on 14:46 of ice time per game)
+
+Henrik Sedin played just two games under Wellwood’s “maximum” threshold of 15:34 (he recorded eight points in those games, giving him a per 82 average of 212 points in those games) but the real value of what Henrik provides in those games over 15:34, or what certain centremen can’t play, or just aren’t good enough to play.
+
+If a player has excellent hands and shot, it doesn’t mean anything if they can’t wield that for more than 16 minutes regularly.
+
+This can also apply to goaltenders.
+
+Two goaltenders, both alike in dignity, talent and statistics. We can call these hypothetical goalies “Cory Schneider” and “Roberto Luongo”. Somebody pointed out to me on Twitter that they were looking over this page on statistics and noticed Schneider had a higher quality start rate and a higher save percentage, even at even strength.
+
+There’s this:
+
+EV SV% Luongo 0.929 Schneider 0.931
+
+That’s just even strength save percentage. On the surface, it appears that Schneider is the better goaltender. It just isn’t the case when you tally up the player’s value over the course of a long season. Over a full season, that 2-point difference in save percentage is worth a little under two goals against in value, which is close enough to be affected by randomness when you have in excess of 1500 attempted shots flying at you.
+
+The top 30 goaltenders in goalie starts this season combined for an EV SV% of .923. The next 30 in starts combined for .916. The rest, the “replacements” combined for .913. When you celebrate a goaltender’s save percentage, you need to look at it in terms of marginal value versus a replacement.
+
+You also need to figure out how many shots a goaltender stopped compared to said replacement, presumably the guy you can just find on the farm. The list includes players like Jeff Deslauriers, Brad Thiessen, Curtis McElhinny and Jussi Rynnas. Some guys fared well in their few NHL appearances. Some fared worse, and, on average, they all fared just marginally worse than backups. Those numbers add up:
+
+EV SV% Replacement Shots Faced SAR Luongo 0.929 0.913 1288 21.4 Schneider 0.931 0.913 750 13.4
+
+The SAR stands for Save Above Replacement. I used to calculate this against the average goaltender, but even average players have some value. By facing more shots and playing more games, to use a poker analogy, Luongo had his chips on the table more often than Schneider. He showed, for a longer period of time that he was elite, and he was eight goals better than Schneider over the course of a season.
+
+Statistics comparing a player to a replacement aren’t rate statistics: They’re cumulative. Luongo helped the Canucks win about four games versus a replacement goaltender and Schneider was about 2.5 over the course of the season.
+
+Schneider was pretty great this past year. His SAR was 18th in the NHL, good enough to be a starter, despite having just 28 games under his belt. That was better than starting goalies like Ryan Miller, Craig Anderson, Cam Ward and Carey Price. As far as everyday performance, he wasn’t as good as Luongo, who performed at a similar level, but did it longer.
+
+Luongo has started 50 games, a good benchmark for an everyday goalie since the 2000-01 season. The most concerning statistic about Luongo is that he’s dipped in starts from 67 to 60 to 54 over the course of three seasons. He’s managed to be near the top of the league in save percentage throughout. Go through year-to-year and you’ll find that consistency is a tough thing to gauge among goaltenders. Mike Smith and Brian Elliott had very strong years this past season (helped along by coaching) but haven’t been great beforehand, so it’s easier to write off their good performances from last year.
+
+I think the general idea is that you’d rather have a good player for very long than a flash-in-the-pan great player. That Henrik Sedin guy is very good. That Luongo guy is pretty good too. It’s been no coincidence that the Canucks have had some very good years since those two became the Canucks’ go-to guys.

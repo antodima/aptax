@@ -1,0 +1,5 @@
+The official Instagram app for Windows 10 Mobile has received yet another update. The new app version of the popular image and video social network has some improvements that include working Continuum support.
+
+As usual, the update does not come with a current change log, but a report from Aggiornamentilumia.it reported that video playback now works in the app and that it also has some improvements in keyboard suggestions. We've been able to verify that video playback does function correctly now in the app, and comes with the ability to mute videos with a tap. Instagram also definitely seems faster on a Lumia 950 XL, reducing the delay when you initially open the app.
+
+We also tested out the app on Continuum on a large screen and confirmed that it does work, albeit without any semblance of landscape viewing optimization. Still, seeing Instagram working on Continuum is an encouraging development. Does this mean Instagram could be making its way across to Windows 10 PCs eventually? We'll have to wait and see.

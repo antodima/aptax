@@ -35,7 +35,7 @@ def load_stories(eot_token="<|endoftext|>", max_stories=1000):
     """Efficiently load stories from a text file.
     Each story ends with <|endoftext|>.
     """
-    file_path=Path("aptax/data/TinyStories-1000.txt")
+    file_path=Path("aptax/data/tinystories/TinyStories-1000.txt")
     if not file_path.exists():
         raise FileNotFoundError(f"Data file not found: {file_path}")
 

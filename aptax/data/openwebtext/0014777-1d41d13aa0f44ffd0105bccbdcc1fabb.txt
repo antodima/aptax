@@ -1,0 +1,15 @@
+I saw an argument posited online recently saying there is no chance Donald Trump can win the Republican nomination because he is drawing only a fraction of Republicans in current polls.
+
+Ignoring the fact that (at least for now) he is drawing a higher fraction of Republicans than the other candidates, the argument went on to say that because only “a handful” of states are allocating delegates “winner-take-all” this time around, no delegates will vote for him who are not required to, therefore somehow launching some other candidate to the nomination.
+
+This may well be true, but I wanted to test it using what we know about the nomination process.
+
+What we know:
+
+For the GOP, states will allocate delegates in proportion to the popular vote for all states through March 31. States voting/caucusing starting April 1 will allocate delegates winner-take-all. We know the number of delegates per state (assuming no penalties are levied) and we know the schedule (with a few exceptions).
+
+Now, this could all change soon as at least some people think Trump is starting to slide in the polls. But, as of today, averaging Trump’s numbers across the major polls, he is reported to be the top choice of about 24% of Republican voters.
+
+How this works:
+
+Enter Trump’s poll number below. Using what we know right now about the primary schedule and the number of delegates per state, the form below will spit out the number of delegates The Donald will bring to the GOP convention. For proportional primaries, he will be awarded the percentage of delegates that match his poll number (rounded down, just to be conservative about it.) For winner-take-all states, he will be awarded all of the delegates for that state under the assumption that no other candidate is polling higher.

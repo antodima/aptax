@@ -1,0 +1,33 @@
+When you walk into the laboratory that houses NIST’s newest coordinate measuring machine (CMM), you might be puzzled at first about how engineers got it into the room.
+
+At about 11 feet cubed (3.3 x 3.3 x 3.4 meters) and almost 20,000 pounds (about 9,000 kilograms), the device – a model called the Xenos – takes up roughly half the volume of the laboratory space. With less than 100 mm (not quite 4 inches) overhead clearance, it nearly scrapes the ceiling.
+
+Getting the instrument into the underground lab on NIST’s Gaithersburg, Md., campus took “some creativity and a lot of patience,” says Vincent Lee of NIST’s Physical Measurement Laboratory (PML). He and his colleagues knew it was too big for the route they normally use to install heavy equipment. “So we had to improvise and lower it down the ventilation shaft in the building,” Lee says. They also had to knock a wall out of the room and bridge a half-meter gap between the outside and inside floors.
+
+The new device came to NIST to help scientists make a measurement of “big G,” the universal constant of gravitation that has eluded precise measurement for centuries. When that experiment is complete, however, the researchers hope to incorporate the instrument into their growing fleet of CMMs, capable of making some of the most precise dimensional measurements in the world.
+
+Coordinate measuring machines like this one use touch probes to measure the distances between points on an object in three dimensions, with billionths of a meter sensitivity for the most accurate machines. Customers who rely on NIST for this kind of measurement include manufacturers of ultra-precision parts, such as bearings for aircraft engines, test artifacts for other classes of measurement machines, and parts or structures for high-accuracy systems. Other customers come from the automotive and electronics industries, and from laboratories that perform calibrations for their own clientele.
+
+With the addition of the Xenos, NIST’s dimensional metrology group now possesses four CMMs in the ultra high-accuracy class.*
+
+This newest machine also has the potential to expand NIST’s measurement capability since its work volume (the area accessible to the probe) is more than twice that of NIST’s other CMM systems – 1.5 x 0.9 x 0.7 meters, about the size of a washer and dryer side by side. Also, it has a probe head that can move in all three dimensions, meaning that, unlike CMMs with a moving table, sensitive parts like those for the big G experiment are less likely to be disturbed during measurement.**
+
+NIST’s Vincent Lee with the new coordinate measuring machine.
+
+So far, tests of the system’s performance are “promising,” Lee says, “but there are a lot of other things we need to learn before we design and perform measurements for the big G experiment.”
+
+One current challenge is controlling the CMM’s environment. Pockets of hot or cool air in the room can warp the machine or even the part being measured. To ensure that the temperature is evenly distributed, the laboratory uses a system that pushes air from the ceiling down through vented floor tiles. But the new CMM is so big that, like a pebble stuck in a garden hose, it restricts this flow, preventing the air from circulating optimally. Lee is currently exploring several solutions to ameliorate the problem.
+
+The big G experiment will start this spring and should be complete within two years. “After that, we plan to start pressing the Xenos machine into service for calibrations,” Lee says.
+
+Meanwhile, he and PML staff will continue to gain a greater understanding of the instrument in order to be able to realize its fullest potential.
+
+The team says that it will take years and years of learning the machine’s quirks, making careful comparisons to its CMMs and other length measurement machines, and performing carefully executed experiments in order to be able to assess the capabilities of this new machine. “It was really a big effort to get it to where it is right now,” Lee says. “And I’m not surprised it will take the same, or even more, to really understand the CMM’s potential.”
+
+-- Reported and written by Jennifer Lauren Lee
+
+* For information about the other three CMMs, see “Meet Bob, PML's Second "Primary" Coordinate Measuring Machine.”
+
+** The big G experiment uses a torsion balance, designed to gauge the twisting of a set of masses suspended by a thin strip of metal. Any table movement would cause the suspended masses to swing, so it was necessary to use a CMM with a stationary table.
+
+NOTE: Any mention or depiction of commercial products within NIST web pages is for information only; it does not imply recommendation or endorsement by NIST.

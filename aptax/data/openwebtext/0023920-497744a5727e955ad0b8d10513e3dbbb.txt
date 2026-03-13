@@ -1,0 +1,69 @@
+What's the future of Perl? Let's look ahead five years to the possibilities.
+
+(Note: once upon a time I believed that "Perl" referred to a language family, but I've changed my mind. When I use the word "Perl", I refer to the language that has versions 1 - 5. The thing called "Perl 6" should change its name.
+
+Who Uses What
+
+No one uses anything Perlish for new projects.
+
+Some people use Perl and some people use Perl 6.
+
+Most people use Perl and almost no one uses Perl 6.
+
+Most people use Perl 6.
+
+What do they use it for?
+
+New development.
+
+Maintenance of existing projects.
+
+Porting from other languages.
+
+What's the relationship of Perl to Perl 6?
+
+One has subsumed the other.
+
+One has failed and the other has survived.
+
+Perl is becoming Perl 6 as much as possible.
+
+Perl 6 allows you to use Perl in process.
+
+What New Features Does Perl Have?
+
+A foreign function interface
+
+A real object system with syntax and everything
+
+An improved exception system
+
+An improved concurrency system
+
+Function signatures
+
+Grammars
+
+Junctions
+
+Strictures by default
+
+None of these
+
+All of these
+
+Do You Still Use Perl?
+
+Yes
+
+No
+
+Is Perl Healthier Then Than Now?
+
+Yes
+
+No
+
+With all of your answers, you have a decision to make. Do you like this future? If so, great!
+
+If not (and here I admit to some concern myself), how can we make the future more appealing?

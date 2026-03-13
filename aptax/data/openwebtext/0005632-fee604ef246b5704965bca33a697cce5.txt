@@ -1,0 +1,21 @@
+Malware dubbed Mayhem is spreading through Linux and FreeBSD web servers, researchers say. The software nasty uses a grab bag of plugins to cause mischief, and infects systems that are not up to date with security patches.
+
+Andrej Kovalev, Konstantin Ostrashkevich and Evgeny Sidorov, who work at Russian internet portal Yandex, discovered the malware targeting *nix servers. They traced transmissions from compromised computers to two command and control (C&C) servers. So far they have found 1,400 machines that have fallen to the code, with potentially thousands more to come.
+
+"In the *nix world, autoupdate technologies aren't widely used, especially in comparison with desktops and smartphones. The vast majority of web masters and system administrators have to update their software manually and test that their infrastructure works correctly," the trio wrote in a technical report for Virus Bulletin.
+
+"For ordinary websites, serious maintenance is quite expensive and often webmasters don't have an opportunity to do it. This means it is easy for hackers to find vulnerable web servers and to use such servers in their botnets."
+
+Mayhem spreads by finding servers hosting websites with a remote file inclusion (RFI) vulnerability – it even uses Google's /humans.txt to test for this. If the ad giant rewrote this file, specifically changing the words "we can shake", Mayhem infections would be slowed – until its rfiscan.so plugin is updated.
+
+Once the malware exploits an RFI, or some other weakness, to run a PHP script on a victim, it drops a shared object called libworker.so onto the infected system and pings its C&C servers.
+
+It then creates a hidden file system, usually called sd0, and downloads eight plugins, none of which were picked up by the VirusTotal malware scanning tool.
+
+These include a couple of brute-force password crackers targeting FTP, Wordpress and Joomla accounts – presumably to spread the malware further – and information-gathering web crawlers, one of which hunts for other sites with RFI holes.
+
+Some of the vulnerable web applications Mayhem scans for ... click for slightly larger version (Credit: Kovalev, Otrashkevich, Sidorov)
+
+The Yandex trio warn there may be other plugins in circulation, based on data found on the two cracked C&C servers. These include a tool specifically to exploit systems that haven't patched the Heartbleed vulnerability in OpenSSL.
+
+The team notes that the Mayhem code does bear several similarities to the Trololo_mod and Effusion families of malware, which target Apache and Nginx servers respectively. They recommend system administrators check their servers to make sure Mayhem's spread is limited. ®

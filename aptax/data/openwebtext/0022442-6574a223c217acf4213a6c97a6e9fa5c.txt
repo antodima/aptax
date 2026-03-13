@@ -1,0 +1,19 @@
+A federal judge ruled Monday that a controversial National Security Agency metadata collection program is likely unconstitutional, violating the Fourth Amendment’s prohibition against unreasonable search and seizure.
+
+“The government, in its understandable zeal to protect our homeland, has crafted a counterterrorism program with respect to telephone metadata that strikes the balance based in large part on a thirty-four year old Supreme Court precedent,” Judge Richard Leon wrote, “the relevance of which has been eclipsed by technological advances and a cell-phone centric lifestyle heretofore inconceivable.”
+
+Citing the “almost-Orwellian” technology available to the government, Leon wrote that “records that once would have revealed a few scattered tiles of information about a person now reveal an entire mosaic–a vibrant and constantly updating picture of a person’s life.” The lawsuit was filed by conservative activist Larry Klayman.
+
+Leon, who was appointed to the bench by President George W. Bush, granted Klayman and his fellow plaintiff Charles Strange’s request for an injunction that would bar the government for collecting their communications records and to destroy any information that the government has already collected through the program. However, Leon also stayed his own order – which means that the government won’t have to comply unless it also loses its appeal.
+
+In his ruling, Leon expressed skepticism that the NSA’s metadata collection program is effective.
+
+“The government does not cite a single instance in which analysis of the NSA’s bulk metadata collection actually stopped an imminent attack, or otherwise aided the government in achieving any objective that was time-sensitive in nature,” he wrote in his opinion. “I have serious doubts about the efficacy of the metadata collection program as a means of conducting time-sensitive investigations in cases involving imminent threats of terrorism.”
+
+The ruling is the first big victory for opponents of the NSA’s metadata collection program since former NSA contractor Edward Snowden leaked documents revealing the extent of the agency’s data gathering. In a statement to the New York Times, Snowden said “Today, a secret program authorized by a secret court was, when exposed to the light of day, found to violate Americans’ rights. It is the first of many.”
+
+Klayman, who is founder of the activist group Judicial Watch, is known for having what you might call eccentric views towards Democratic presidents. He has compared protesting the Obama administration to protesting the apartheid-era government in South Africa, demanded Obama’s “overthrow,” once hoping that the American people would tell the president to “put the Quran down, get up off your knees and come out with your hands up!” A World Net Daily columnist, Klayman warned last year that conservatives would “soon become the “new ni**ers,” relegated to the back of the bus.”
+
+Klayman is not the only one challenging the constitutionality of NSA surveillance however. Other lawsuits seeking to limit the government’s spying powers have been filed by civil liberties groups. Jameel Jaffer of the ACLU, one of the groups challenging the program, issued a statement Monday afternoon praising Judge Leon’s ruling.
+
+“This is a strongly worded and carefully reasoned decision that ultimately concludes, absolutely correctly, that the NSA’s call-tracking program can’t be squared with the Constitution,” Jaffer said.

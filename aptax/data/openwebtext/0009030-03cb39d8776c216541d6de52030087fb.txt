@@ -1,0 +1,153 @@
+Canada’s future depends on its ability to compete on the world stage. As business leaders and tech entrepreneurs, we hope to play an important role in that future.
+
+Many of us were among the more than 150 business leaders who wrote to the previous government to articulate our concerns about Bill C-51. The diverse signatories were affiliated with companies worth billions of dollars, including several start-ups that are planning IPOs, Canada’s largest software company, and one of Canada’s largest institutional investors.
+
+We were buoyed by your government’s promise to introduce much-needed parliamentary oversight of security services, but are deeply troubled that the initial concerns with Bill C-51 from the business community remain largely unaddressed. We appreciate the opportunity for stakeholders to weigh in regarding your public consultation on Bill C-51 but the process to date has raised additional concerns.
+
+In particular we find the following elements from the national security consultation extremely concerning:
+
+Far from mitigating the above concerns, the language from your government’s National Security Consultation further undermines international trust in Canada’s technology and other sectors. In fact, many of the proposals set out in your consultation will further undermine Canada's reputation and change our business climate for the worse.
+
+1. It appears to favour the undermining or breaking of the encryption that many of our businesses and workers rely on.
+
+2. It floats and positively frames mandatory interception powers to access our sensitive business and customer data.
+
+3. It suggests that mandatory access to subscriber data such as an IP address without a warrant is akin to looking up a number in a phone book. This is an appalling and incorrect analogy for a piece of data that can unlock the highly intimate details of the lives of law-abiding Canadians.
+
+4. It raises the idea of forced customer data retention and suggests practices such as purging user data as problematic when such practices actually strengthen data security and customer privacy.
+
+Frankly, it comes as an unwelcome surprise to us to see your government float proposals that, far from addressing the serious problems with Bill C-51, will in fact dramatically exacerbate those problems. We hope you will not proceed with any of these dangerous ideas.
+
+All of the above points relate to data security and we’d like to reiterate a key part of the letter that many of us signed onto last year:
+
+“The data disclosures on innocent Canadians and those traveling to Canada for business or recreation could make our clients leave us for European shores, where privacy is valued. Duplicated data flowing between multiple unsecured federal government and foreign government databases leaves Canadians and Canadian businesses even more open to being victimized by data breaches, cyber criminals and identity theft.
+
+“Even without the increasingly permissive data disclosure practices enabled by C-51, federal government agencies have seen over 3000 breaches of the highly sensitive private information of an estimated 750,000 innocent Canadians in recent years. More than 200 Canadians have come forward in recent months to say their personal or professional lives have been ruined, due to information disclosures, despite never having broken the law. As it is we have a privacy deficit in Canada that erodes trust in both commerce and trade. Bill C-51 deepens that deficit.”
+
+We agree with the hundreds of thousands of Canadians who have called on the government to fully scrap this reckless, dangerous and ineffective legislation through OpenMedia and the many other groups working on this issue. We hope your government will listen to Canadians, the business community and experts by starting over with new legislation that respects our collective desire for security overall. Privacy and data integrity safeguards represent security in its most clear and basic sense. Let’s start with this understanding and work from there.
+
+We have attached an appendix that includes more detailed answers to some of the high-level questions put to Canadians in the government’s online consultation on this matter. We hope you find our answers instructive.
+
+We hope for a quick response that addresses these serious economic and data security concerns. We are hopeful that common sense will prevail on this file.
+
+Sincerely,
+
+Laura Tribe, Executive Director, OpenMedia
+
+Julia Fournier, President & CEO, HCMWorks
+
+Wyle Baoween, CEO, HRx Technology
+
+Sara Blenkhorn, Director of collaboration, Leverage Lab
+
+Tim Bray, co-founder, Open Text Corporation
+
+Mark Buell, Director, Internet Society (ISOC), North American Bureau
+
+Matt Buie, Financial Planning Advisor, Assante Capital Management
+
+Graeme Bunton, Manager, Public Policy, Tucows
+
+Jason Collinge, VP Technology, Payfirma
+
+Jennifer Cutbill, Executive Director, Vancouver Design Week
+
+Mo Dhaliwal, Director of Strategy, Skyrocket
+
+Phillip Djwa, President/CEO, Agentic Communications, Inc.
+
+Ryan Dochuk, Co-founder, TunnelBear Inc.
+
+Kat Dodds, Founder/Director, Hello Cool World Media
+
+Bryce Evans, Founder, The One Project
+
+Rachel Forbes, Principal & Legal Eagle, Sharp Six Services
+
+Benjamin Fox, Founder, Tapstream
+
+Martha Fusca, President,The Storyz Network
+
+Mehrdad Gharib, President, FEED Engineering Inc
+
+Frederick Ghahramani, Founder/CEO, airG
+
+Mike Gifford, President, OpenConcept Consulting Inc.
+
+John F. Gray, Co-founder, Mentionmapp
+
+Michael Goodman, Chairman, Tri City Group of Companies
+
+Mack Hardy, President, Affinity Bridge Consulting Ltd.
+
+Daryl Hatton, CEO, ConnectionPoint
+
+Kelsey Heikoop, Owner, Adion Systems
+
+Raynard von Hahn, Lawyer, Genesis Law Corporation
+
+Peter Henry, CEO, GrowthLogic Inc.
+
+Keith Ippel, CEO, Spring Activator Inc.
+
+Gary Isberg, President, AGI by Design
+
+Andrew Jung, Information Architect, Skipping Rock Communication Arts
+
+Alex Krohn, CEO, Gossamer Threads Inc.
+
+Christopher Larsen, Owner, DeadRatGames Inc.
+
+Jordan Lewin, CEO, Digital Sparks Media
+
+Urszula Lipsztajn CEO and founder, WorkBrite
+
+Campbell Macdonald, CEO, Proxxi
+
+Monika Marcovici, Director, Board of Change
+
+Tara Mahoney, Founder/Creative Director, GenWhy Media
+
+Susan McLennan, President, Reimagine PR
+
+Frank Michlick, Founder, DomainCocoon Inc.
+
+Adam Millard, Chair, 3Fold Partners
+
+Chris Nissen, President, Nissen Fasteners
+
+Philip Neves, President/CEO, Neves Software Inc.
+
+Ken Nickerson, CEO, iBinary LLC
+
+Sandra Nomoto, President, Conscious Public Relations Inc.
+
+Andrei Odeski, CEO & Founder, Fortify Communications Inc
+
+Meredith J Powell, Advisor, Finn.ai
+
+Shamus Reid, Co-Founder/COO, New/Mode Inc.
+
+Vanessa Richards, Director, Creative Together
+
+Michael Richardson, Chief Scientist, Sandelman Software Works
+
+Steve Rio, CEO, Briteweb
+
+Thomas Savundra, CEO, Sync.com
+
+Joel Solomon, Chairman, Renewal Funds
+
+Josh Stuart, President, cStreet Campaigns Inc.
+
+Marten Sims, European operations lead, Happy City
+
+Steven Tannock, Founder & CTO, Codegnostic
+
+Michael Tippett, CEO, Wantoo
+
+Matt Toner, President, Zeros 2 Heroes
+
+Andrew Wyllie, Founder and CTO, NU Frontier Communications
+
+Zaid Zawaideh, COO, Sandglaz

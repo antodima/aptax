@@ -1,0 +1,9 @@
+
+
+By Andrew Liszewski
+
+If it wasn’t bad enough that stores were already tracking the purchase decisions and buying patterns of their customers, it now seems that Philips is developing a way for stores to track the interests of people who haven’t even come inside. Using a set of video cameras and eye tracking software the system will be able to tell what someone looking at a window display has been staring at the longest, and will then provide more detailed information about the product via a passive or even interactive video display in hopes it will push them towards making a purchase decision.
+
+The system is also useful for keeping track of gazing trends for large groups of people. The data can help a store determine what type of layout or window display design is most effective for selling a given product. If you’re looking for a way to make your Monday even duller than it already is, you can read the full patent application for the gaze tracking system on the World Intellectual Property Organization website.
+
+[ Gaze Interaction For Information Display Of Gazed Items ] VIA [ New Scientist Invention Blog ]

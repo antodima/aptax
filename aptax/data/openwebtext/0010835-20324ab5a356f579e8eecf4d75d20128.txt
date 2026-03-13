@@ -1,0 +1,75 @@
+GTA V Benchmarked Florian Glaser , ✓ Tanja Hinum , Better late than never. Barely 1.5 years after the Last-Gen edition, GTA V is finally released for the PC. We tested it on multiple notebooks, to see if the wait was worth it.
+
+Working For Notebookcheck Are you a techie who knows how to write? Then join our Team! Currently wanted:
+
+German-English-Translator - Details here
+
+
+
+Reviews , News , CPU , GPU , Articles , Columns , Other "or" search relation. Accessory , AMD , Android , Apple , ARM , Audio , Bay Trail , Business , Cannon Lake , Charts , Chinese Tech , Chromebook , Coffee Lake , Console , Convertible / 2-in-1 , Cryptocurrency , Cyberlaw , Deal , Desktop , Fail , Gadget , Galaxy Note , Galaxy S , Gamecheck , Gaming , Geforce , Google Nexus / Pixel , How To , Ice Lake , Internet of Things (IoT) , iOS , iPad Pro , iPhone , Kaby Lake , Lakefield , Laptop , Linux / Unix , MacBook , Monitor , MSI , OnePlus Two , Phablet , Review Snippet , Rumor , Ryzen (Zen) , Security , Smart Home , Smartphone , Smartwatch , Software , Storage , Tablet , Thunderbolt , Touchscreen , Ultrabook , Virtual Reality (VR) / Augmented Reality (AR) , Wearable , Whiskey Lake , Windows , Workstation , XPS Ticker Engine, Benchmarks, and Results For the original German article, see here. GTA V is based on the RAGE engine (not to be confused with the Ego shooter from id Software), which has been tweaked with additional engines like Euphoria (character animation) and Bullet (physics simulation). The end result is a spectacular PC experience which offers convincing textures, shadows, lighting and vegetation at high to max settings. Although now and then objects may appear unclear during fast rides (cars, planes, etc.), this problem of rendering shadows and quality settings exists in almost every Open World game. In a direct comparison to Watch Dogs, GTA V performs better. The lighting is more realistic despite lower hardware requirements.
+
+If you were expecting the PC port of GTA V to be a huge disaster, you can rest easy now. During our benchmarks we almost never encountered serious bugs or crashes. However, we did encounter some issues starting the game on Nvidia laptops. Although the latest GeForce driver, the ForceWare 350.12, was installed, the systems, equipped with Optimus, did not want to start up the Rockstar Social Club, preventing the game from launching. Google contained the answer: open the device manager, disable the Nvidia adapter for a little while, start GTA V and as soon as the Social Club starts, turn on the graphics card. In general, our experience with the game was not smooth. At around 60 GB (~3 hours download with VDSL 50; the shop version includes 7 DVDs!), GTA V sets a new record (negative) for loading times (game start, save games, etc.) and the integrated benchmark only works if both Intro missions have been absolved.
+
+At this path, the user will find a folder named "Benchmarks," which contains recorded measurements. We do not understand why the files have no overall score and "only" note the minimum, average and maximum frames possible in each of the five scenes. We chose to use the results of the last sequence (pass 4). Due to the short runtime, the first four tests (pass 0-3 = panorama shots with day/night change) are not very reliable. The 2-minute final scene with the fighter jet and car chase is more reliable due to it being closer to actual gameplay. We still would not consider the benchmark perfect as the minimum frames fluctuate heavily in pass 4, which is probably due to bugs. Furthermore, the average fps can fluctuate during each test due to the randomly simulated traffic (difference of a few fps).
+
+Reviews , News , CPU , GPU , Articles , Columns , Other "or" search relation. Accessory , AMD , Android , Apple , ARM , Audio , Bay Trail , Business , Cannon Lake , Charts , Chinese Tech , Chromebook , Coffee Lake , Console , Convertible / 2-in-1 , Cryptocurrency , Cyberlaw , Deal , Desktop , Fail , Gadget , Galaxy Note , Galaxy S , Gamecheck , Gaming , Geforce , Google Nexus / Pixel , How To , Ice Lake , Internet of Things (IoT) , iOS , iPad Pro , iPhone , Kaby Lake , Lakefield , Laptop , Linux / Unix , MacBook , Monitor , MSI , OnePlus Two , Phablet , Review Snippet , Rumor , Ryzen (Zen) , Security , Smart Home , Smartphone , Smartwatch , Software , Storage , Tablet , Thunderbolt , Touchscreen , Ultrabook , Virtual Reality (VR) / Augmented Reality (AR) , Wearable , Whiskey Lake , Windows , Workstation , XPS Ticker If you disregard the somewhat awkward control with a mouse and a keyboard, the PC version of GTA V is technically okay. In no way is it like the stutter disaster which is GTA IV. The hardware requirements are appropriate, with the exception of a few settings. The same cannot be said of many other games, like Assassin's Creed Unity. Most systems will have some graphical errors (for example, the Radeon R9 280X @Ultra) and sadly the graphics menu does not offer descriptions for the options, which we hope will be remedied. Low Settings Medium Settings High Settings Ultra Settings
+
+Back to the benchmark: according to our benchmarks, the game requires at least an Iris Pro 5200 at low settings and a resolution of 1024x768 pixels. Weaker Intel chips, like the successful Core i models, the HD Graphics 3000, 4000 and 4600 are not appropriate to run GTA V (the benchmarks should run at above 40 fps). Middle-class GPUs, starting at the GeForce GT 740M, are suited for normal settings and a resolution of 1366x768 pixels. If you want to run the game at the FHD resolution with high details and 2x MSAA, then you need a high-end graphics card, like the GeForce GTX 960M. Sadly, no notebook GPU can run the game fluidly with max settings and all options turned on. In the Ultra test, even the GeForce GTX 980M suffered at a mere 36 fps. For such high settings, you require cutting-edge desktop hardware (GTX 980 @45 fps). Tip: Asus will provide us with a 4K display shortly, which will help us add some more information to our gaming benchmarks. How interested are you in 4K? Please write to us in the forum below.
+
+Independent journalism is made possible by advertising. We show the least amount of ads whenever possible but we intentionally show more ads when an adblocker is used. Please, switch off ad blockers and support us!
+
+GTA V 3840x2160 High/On (Advanced Graphics Off) AA:FX AF:8x 1920x1080 Highest Settings possible AA:4xMSAA + FX AF:16x 1920x1080 High/On (Advanced Graphics Off) AA:2xMSAA + FX AF:8x 1366x768 Normal/Off AF:4x 1024x768 Lowest Settings possible NVIDIA GeForce GTX 980, 3770K
+
+Desktop-PC 59.4 (min: 16) fps ∼24% 45.4 (min: 18) fps ∼23% 99.3 (min: 18) fps ∼40% 131.8 (min: 14) fps ∼46% 139.7 (min: 9) fps ∼44% AMD Radeon R9 290X, 4790K
+
+Sapphire Radeon R9 290X Tri-X OC 51.8 (min: 22) fps ∼21% 41 (min: 20) fps ∼21% 93 (min: 37) fps ∼38% 149 (min: 6) fps ∼52% 155 (min: 4) fps ∼49% NVIDIA GeForce GTX 980M, 4700MQ
+
+Schenker W504 41.4 (min: 15) fps ∼17% 35.6 (min: 13) fps ∼18% 80.8 (min: 18) fps ∼33% 115.4 (min: 18) fps ∼40% 135 (min: 48) fps ∼43% AMD Radeon R9 280X, 3770K
+
+Desktop-PC 31.9 (min: 8) fps ∼16% 76.3 (min: 22) fps ∼31% 121.9 (min: 46) fps ∼43% 129.5 (min: 21) fps ∼41% NVIDIA GeForce GTX 970M, 4700MQ
+
+Schenker W504 32.4 (min: 12) fps ∼13% 28 (min: 12) fps ∼14% 70.6 (min: 17) fps ∼29% 122.6 (min: 11) fps ∼43% 135.1 (min: 18) fps ∼43% NVIDIA GeForce GTX 880M, 4700MQ
+
+Schenker W504 26.8 (min: 13) fps ∼14% 62.7 (min: 18) fps ∼25% 122.3 (min: 38) fps ∼43% 132.1 (min: 10) fps ∼42% NVIDIA GeForce GTX 870M, 4700MQ
+
+Schenker W504 21.1 (min: 11) fps ∼11% 50.7 (min: 18) fps ∼21% 107.6 (min: 25) fps ∼38% 133.7 (min: 8) fps ∼42% NVIDIA GeForce GTX 960M, 4720HQ
+
+Schenker XMG A505 20.4 (min: 8) fps ∼8% 18.1 (min: 4) fps ∼9% 44.1 (min: 14) fps ∼18% 114.4 (min: 26) fps ∼40% 126.1 (min: 25) fps ∼40% NVIDIA GeForce GTX 860M, 4700MQ
+
+Schenker W504 14.6 (min: 8) fps ∼7% 36.4 (min: 14) fps ∼15% 124.8 (min: 18) fps ∼44% 117.1 (min: 19) fps ∼37% NVIDIA GeForce GTX 850M, 4340M
+
+Schenker M504 10.9 (min: 4) fps ∼6% 29 (min: 10) fps ∼12% 65.9 (min: 19) fps ∼23% 72.8 (min: 15) fps ∼23% NVIDIA GeForce GT 750M, 4702MQ
+
+Schenker M503 7.3 (min: 1) fps ∼4% 17 (min: 11) fps ∼7% 73.3 (min: 28) fps ∼26% 79.8 (min: 21) fps ∼25% AMD Radeon R7 512 Cores (Kaveri Desktop), A10-7850K
+
+A10-7850K Asus A88-XM-PLUS 5.3 (min: 2) fps ∼3% 13 (min: 6) fps ∼5% 47.6 (min: 22) fps ∼17% 54.4 (min: 28) fps ∼17% NVIDIA GeForce GT 640M, 2637M
+
+Acer Aspire M3-581TG 3 fps ∼2% 12 (min: 2) fps ∼5% 44.6 (min: 15) fps ∼16% 52.8 (min: 12) fps ∼17% NVIDIA GeForce GT 740M, 4200M
+
+HP Envy 15-j011sg 3.9 (min: 3) fps ∼2% 10.5 (min: 7) fps ∼4% 44.4 (min: 7) fps ∼16% 58.4 (min: 20) fps ∼19% NVIDIA GeForce GT 630M, 3720QM
+
+Asus N56VM 8.4 (min: 4) fps ∼3% 35.9 (min: 5) fps ∼13% 52.3 (min: 13) fps ∼17% Intel Iris Pro Graphics 5200, 4750HQ
+
+Schenker S413 0 fps ∼0% 7.2 (min: 2) fps ∼3% 38.4 (min: 14) fps ∼13% 46.5 (min: 17) fps ∼15% NVIDIA GeForce GT 720M, 4200M
+
+MSI CX61-i572M 4.1 fps ∼2% 8.4 fps ∼3% 39.4 fps ∼14% 49 fps ∼16% Intel HD Graphics 4600, 4700MQ
+
+Schenker W504 5.7 (min: 1) fps ∼2% 29.4 (min: 10) fps ∼10% 33.3 (min: 10) fps ∼11% Intel HD Graphics 3000, 2637M
+
+Acer Aspire M3-581TG 7.5 (min: 4) fps ∼2%
+
+Four of our test models are provided by Schenker Technologies (mysn.de): W504 (Core i7-4700MQ, 8 GB DDR3, GeForce GTX 860M, GTX 870M, GTX 880M, GTX 970M, GTX 980M, Win 7)
+
+(Core i7-4700MQ, 8 GB DDR3, GeForce GTX 860M, GTX 870M, GTX 880M, GTX 970M, GTX 980M, Win 7) A505 (Core i7-4720HQ, 8 GB DDR3, GeForce GTX 960M, Win 8.1)
+
+(Core i7-4720HQ, 8 GB DDR3, GeForce GTX 960M, Win 8.1) M504 (Core i5-4340M, 8 GB DDR3, GeForce GTX 850M, Win 7)
+
+(Core i5-4340M, 8 GB DDR3, GeForce GTX 850M, Win 7) M503 (Core i7-4702MQ, 8 GB DDR3, GeForce GT 750M, Win 7) Three of our test models came from Nvidia: HP Envy 15-j011sg (Core i5-4200M, 12 GB DDR3, GeForce GT 740M)
+
+(Core i5-4200M, 12 GB DDR3, GeForce GT 740M) MSI CX61-i572M281BW7 (Core i5-4200M, 8 GB DDR3, GeForce GT 720M)
+
+(Core i5-4200M, 8 GB DDR3, GeForce GT 720M) Acer Aspire Timeline Ultra M3-581TG (Core i7-2637M, 4GB DDR3, GeForce GT 640M) Intel added: Schenker S413 (Core i7-4750HQ, 8 GB DDR3, Iris Pro Graphics 5200) The desktop PCs contain CPUs/APUs from Intel and AMD, SSDs from Micron, Intel and Samsung, motherboards from Intel and Asus and graphics cards from Nvidia and AMD. GPU drivers used: Nvidia 350.12, AMD 15.4 Beta, Intel 10.18.10.14.4156
+
+Overview
+
+The first mission of GTA 5 running on a Acer Aspire M3-581TG (Core i7-2637M Dual-Core, GeForce GT 640M) in medium settings. Two slowdowns with laggy input reduced the gaming experience a bit

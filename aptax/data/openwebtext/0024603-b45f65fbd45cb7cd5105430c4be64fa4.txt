@@ -1,0 +1,179 @@
+Event Japanese/English
+
+Introduction
+
+Play Alright, let's go! I'm the Ayanami-class destroyer, Amagiri! Take care of me, Admiral!
+
+さあ～いってみよう!綾波型駆逐艦、天霧だ！今日もよろしく、提督！
+
+Library
+
+Play I'm the 5th ship of the Ayanami-class destroyer, Amagiri! Yeah! A heavily armed special-type destroyer! ...What? I'm slightly an older type? Don't be stupid! I was able to survive many missions including the Solomon mission!? That's right, I even raised a handsome man, who soon became the President! Fate sure is interesting![1]
+
+綾波型駆逐艦、五番艦の天霧だ！そう！重武装の特型駆逐艦だぜ！ ・・・微妙に旧式だって？馬鹿言うな！各作戦や、ソロモンの夜を駆け抜けたあたしだよ！？ そうさ～大統領になる男を見ずもう滴るいい男にしてやったこともある！出会いってのは面白いな！
+
+Secretary 1
+
+Play Wanna go? Alright!
+
+行くかい？いいよ！
+
+Secretary 2
+
+Play Nice~ I need to do better too~
+
+やるね～あたしも負けてらんないな～
+
+Secretary 3
+
+Play President? Oh, it's just the admiral. What's wrong, you bored? Sure, you want me to be your opponent?... Alright, here I come.[2]
+
+大統領かい？ハア～何だ提督か。どうした、暇なんか？いいよ～あたしが相手をしてやろうか？そうかい・・・じゃ、いくぜ？
+
+Secretary Idle
+
+Play Ohh~ that guy! Yeah, I didn't think he would get that big~. Fate really is interesting! Well, I like cheering on a person who tries hard! I love that kind of spirit! I'm cheering you on too, Admiral!
+
+ああ～あいつか！まさかそんな大きな奴になるとはな～。出会いってやつは本当に面白い！でも、あたしは頑張るやつは応援したいね！そういうの好きなんだ！提督も応援してるぜ！
+
+Secretary (Married)
+
+Play What's wrong? What's with that face?...Are you tired? Something not going well?...I see...well, it happens ya'know! You'll be fine, you can do it! I'll be supporting you! That means you can do it! I believe you.
+
+どうした？そんな顔して？・・・疲れたのか？上手くいかないのか？・・・そうか・・・まあ、そんなこともあるさ！大丈夫、あんたはやれる！あたしは応援してる！だからやれるさ！信じてる。
+
+Wedding
+
+Play Yeah~ We don't know where fate leads us...that's why it's unique~...hm...this is? Wait!? For me!? Eh, eh...admiral, you're fine with this? Alright...well, I'll gladly accept this! I'm not going to give it back! Alright? hehe~
+
+そうだな～出会いってやつはどこにあるか分からない・・・だから面白いのかもな～・・・ん・・・これは？は！？あたしにこれを！？え、えっ・・・提督、いいのか？そっか・・・よし、じゃあ貰っとくぜ！返さないから！いいな？へへ～
+
+Player's Score
+
+Play Intelligence? It's important~ Alright, gimme a sec!
+
+情報かい？大事さ～よし、待ってな！
+
+Joining the Fleet
+
+Play 11th Destroyer Division heading off! Don't dawdle, Sagiri! Sortie!
+
+出るぞ、第十一駆逐隊！狭霧、グズグズするな！出撃！
+
+Joining the Fleet
+
+Play 11th Destroyer Division heading off! Don't be late, Yuu-nee ! Sortieing![3]
+
+出るぞ、第十一駆逐隊！夕姉遅れるな！出撃する！
+
+Equipment 1
+
+Play Oh! Thanks for this~
+
+お！こりゃあ～ありがたいね～
+
+Equipment 2
+
+Play Nice~! With this, I can become stronger!
+
+いいね～！これであたしはますます強くなる！
+
+Equipment 3[4]
+
+Play Yeah! You can do it! I'll be cheering you on!
+
+ああ！あんたならやれる！あたしは応援するさ！
+
+Supply
+
+Play Ha~ that helps. Thanks.
+
+はあ～助かる。ありがとな。
+
+Docking (Minor Damage)
+
+Play Ahh~, it's no big deal, but I guess I should repair it now.
+
+ああ～、たいしたことはねえが、まあ～早めに直しておこう。
+
+Docking (Major Damage)
+
+Play I'll be taking a long bath. It's alright with you right? Wheeew, baths are amazing!
+
+ちょっと長風呂するぜ？いいだろう？ハア～、風呂はいいね～風呂は！
+
+Construction
+
+Play Hmm~ a newcomer~. That's good!
+
+ふうん～新入りか～。いいね！
+
+Returning from Sortie
+
+Play We're back~ I wanna take a bath~
+
+帰って来たぜ～ひとっ風呂浴びたいね～
+
+Starting a Sortie
+
+Play Special-type destroyer Amagiri, set sail! I feel like we'll have some great encounters!
+
+特型駆逐艦天霧、抜錨する！いい出会いがありそうだ！
+
+Starting a Battle
+
+Play Enemies! Let's charge! Crush them!
+
+敵だ！突撃する！踏み潰せ！
+
+Starting a Battle
+
+Play Enemies! Let's charge! Utterly crush them!
+
+敵だ！突撃する！ガッチリ踏み潰せ！
+
+Attack
+
+Play Nice~ I'm getting fired up!
+
+いいね～燃える展開だ！
+
+Night Battle Attack
+
+Play Assaulting is our only option!
+
+突撃一択だ！
+
+Night Battle
+
+Play It's going to be a good night~. Everyone follow me! Let's go!
+
+いい夜になりそうだ～皆あたしに続け！いくぞ！
+
+MVP
+
+Play Oh! Your going to praise me again? My bad~, but I don't really need it, Admiral. Well, I guess I'll accept it this time... Thanks!
+
+お！また褒めてくれるのかい？悪いな～あたし、別にそんなのいらないぜ、提督。でも、貰っとくか・・・ありがとな！
+
+Minor Damage 1
+
+Play Gah! Tch, this is nothing!
+
+ぐあ！ちっ、この程度！
+
+Minor Damage 2
+
+Play Uwa! They got me!
+
+うあ！やってくれる！
+
+Major Damage
+
+Play It's not like a mine, I won't sink! I can still move!
+
+機雷とかじゃねぇんだ、沈みはしない！まだ走れるさ！
+
+Sunk
+
+Play Ugh...This is...it, I did all I could...Sagiri, Yuugiri...I'll see you all later...

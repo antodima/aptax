@@ -1,0 +1,29 @@
+Do the Latest GDP and Profit Data Justify Tax Cuts for ‘Job Creators’?
+
+This week’s second estimate of US GDP shows a disappointing Q2 growth rate of 1.7 percent, just slightly faster than the 1.5 percent of the advance estimate released a month ago (see chart). These latest data ensure that weak GDP growth and what to do about it will remain major issues in the presidential election campaign.
+
+On the GOP side, the leading proposal for getting growth back on track is to cut taxes for ‘job creators,’ to use the favored code word for top income earners. The idea has a certain logic to it. We know that growth comes from investment. We know that profits motivate investment and profits taxes reduce that motivation. It stands to reason, then, that weak profits and high taxes would be likely culprits for slow growth–except for one awkward fact.
+
+The awkward fact is that corporate profits, both before and after taxes, are running at or close to record levels. As the next chart shows, before- and after-tax corporate profits, with inventory valuation and capital consumption adjustments, hit 30-year highs in the last quarter of 2012 and have stayed above year-earlier levels ever since. In fact, in the past three quarters, corporate profits after taxes, as a percentage of GDP, are higher than they have ever been in the 65 years since the government began reporting the series. Furthermore, when those corporate profits are passed along to individuals in the form of dividends or capital gains, they are taxed at rates much lower than at many periods in the past.
+
+What conclusions should we draw from these data? One, certainly, would be that the ‘job creators’ have pocketed their incentive pay without creating many jobs in return. There is supposed to be a quid pro quo here, but so far all we have seen is the quid, and not much of the quo.
+
+If there is no simple proportionality between profits and growth, or profits taxes and growth, then why not change the policy? A number of possible growth-enhancing reforms come to mind, some of which I have discussed in earlier posts.
+
+One such reform would be to close the loopholes in the corporate tax system that make the burden of corporate taxes wildly different from one firm to another. Because of preferential treatment of foreign source income, accelerated depreciation, and other provisions of the tax code, some of the largest U.S. corporations (including General Electric, Boeing, Verizon, and Mattel, according to one report) pay no profits taxes at all, while others bear the maximum 35 percent rate. There are so many loopholes that the United States, with the highest corporate tax rates in the world, collects less profit tax revenue as a share of GDP than do many countries with lower marginal rates.
+
+Currently, the U.S. corporate tax accounts for only 9 percent of federal tax revenues, compared with a post-World War II high of 30 percent. Eric Toder of the Tax Policy Center estimates that eliminating corporate tax preferences could potentially save $506 billion over five years and make it possible to reduce the top corporate tax rate from 35 percent to 23 percent without loss of revenue.
+
+Another reform that would be even more effective would be to tax dividends and capital gains as ordinary income. That would make it possible to reduce the corporate tax rates even further. Ideally, reforms would end the double taxation of corporate profits altogether.
+
+And finally as I have argued elsewhere, the current system of taxing capital gains and dividends at lower rates than other forms of income does not encourage investment in general so much as it encourages structuring investment decisions in ways that avoid taxes, even if they are less efficient. Neither is a separate regime for capital gains taxes necessary to compensate for the effect of inflation on effective tax rates. When we consider corporate income taxes and capital gains taxes jointly, a strong case emerges for revenue-neutral reform that taxes capital gains and dividends as ordinary income while lowering or eliminating corporate profit taxes.
+
+What is blocking these reforms? Politics. Every preference and loophole in the tax code is defended by an army of lawyers and lobbyists paid for by the firms that benefit from it. Campaign contributions and super-PACs (corruption American style) reinforce the effect. The only firms and individuals left paying the full statutory tax rates are the politically powerless. Yet office seekers, with complete shamelessness, try to bring them on board, too, by flattering them as ‘job creators’ and promising them unspecified and unaffordable across-the-board rate cuts.
+
+The data don’t support the notion that across-the-board cuts on profits and property income promote growth, but for politicians, there is always the hope that no one will notice the data.
+
+Related posts
+
+Controversy over Romney’s Taxes Underlines the Need for Broad Reform (Discusses in detail the economics of preferential tax treatment for capital income.)
+
+What Happened to Corporate Tax Reform? (Discusses the economics of corporate tax incidence and double taxation.)

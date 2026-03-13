@@ -1,0 +1,39 @@
+The incredible speed and volatility of cryptocurrency was on full display over the past few days with IOTA. At the start of November, IOTA was a relatively obscure coin that was trading at around $0.38. Today, its value is closing in on $5.
+
+While there’s nothing unusual about minor cryptocurrencies experiencing huge spikes in their valuation, IOTA is exploding in a way that could only really be compared to Ethereum. IOTA has just leapfrogged veterans Litecoin and Dash to become the fifth largest cryptocurrency by market cap. And there’s no indication that it’s stopping there.
+
+Why is IOTA going supernova?
+
+IOTA is a revolutionary platform that solves the main issues which have affected other cryptocurrencies – fees, scaling limitations, and centralization.
+
+Fees and scaling limitations are by far the biggest barrier to Bitcoin ever becoming the digital currency it was originally envisioned as. As the blockchain ledger recording Bitcoin transactions grows ever larger, speed decreases as each Bitcoin transaction requires total verification of the entire blockchain.
+
+The verification process for Bitcoin is conducted by miners who require a fee each time a transaction is processed. Bitcoin users are able to specify the fee they are willing to pay when making a transaction, which creates a bidding war when the network is congested. Miners obviously opt to verify the highest-paying transactions first, so the more popular Bitcoin becomes, the less likely it is that Bitcoin can ever be used for everyday purchases.
+
+For Bitcoin, the problem of fees and scaling limitations are completely entangled. Other cryptocurrencies have scaling limitations of their own, with Ethereum’s transaction fees slowing down considerably thanks to the viral success of the kitten-breeding game CryptoKitties.
+
+Centralization is happening inadvertently with Bitcoin, with power becoming concentrated in powerful mining firms who essentially control whether transactions get verified. Centralization is one of the central criticisms of other emerging cryptocurrencies like Neo, which operate a small number of nodes that could conceivably be taken out by any manner of digital or real-world catastrophes.
+
+The first reason for IOTA’s sudden success is that it’s seemingly solved all these issues with the Tangle. The Tangle moves beyond blockchain to execute all transactions peer-to-peer, without any transaction fees. Instead of miners validating transactions on the ledger as with Bitcoin, verification is built into the ledger itself. The more popular IOTA becomes, the more widespread the transaction-verifying Tangle. Where scaling and network congestion hamstrings Bitcoin and Ethereum, IOTA actually becomes faster the more people use it.
+
+The second reason is that the Tangle has got some major tech players very excited. It’s no coincidence that IOTA’s explosion in value followed an announcement of a partnership with Microsoft. Microsoft are very proactive in the cryptocurrency space. They recently launched a development contest with Neo and they are one of the main players in the Ethereum Enterprise Alliance. The company responsible for making PCs user-friendly fared poorly in the smartphone space, with Windows Phone never coming close to rivalling Android or iPhone’s market share. Microsoft are keen to be at the front of the pack when it comes to the rapidly-evolving world of blockchain and cryptocurrency.
+
+The third reason is speculation at its wildest. The cryptocurrency market is a hyper-charged version of the stock market where a slight bearish trend can become hysteria within hours. All-time highs generate headlines which generate speculation which generates more headlines, and the price starts increasing exponentially purely because the price is increasing exponentially.
+
+How far can IOTA climb?
+
+Speculation is still at the heart of all cryptocurrency investments and we may still be years from seeing the technology behind IOTA being used to its full potential. However, if it fulfils even a fraction of that potential, there’s almost no limit to how big IOTA can get.
+
+While Bitcoin is increasingly referred to as digital gold, IOTA is positioning itself as the crypto equivalent of a major energy conglomerate. Central to IOTA’s potential is the idea that data is the oil of the digital economy. To take this metaphor to its logical conclusion, IOTA may have just invented the internal combustion engine.
+
+IOTA’s combination of secure data transfer and zero transaction fees enable the sharing and monetization of data on a grand scale. IOTA’s vision is of a near-future in which data is freely and instantly amalgamated from smart devices connected to the Internet of Things.
+
+We are already living in the early years of the data age, with an incredible amount of information on all of us existing on the internet and in the databases of the myriad companies we interact with every day. As IOTA points out on its website, 99% of the data that is currently generated is lost due to there being no real way to sync-up the data generated by every internet-connected device. The Tangle makes it easy for companies to automate the sharing and selling of this data.
+
+Before Microsoft got on board, IOTA had already announced partnerships with Cisco Systems, Samsung, and Volkswagen. Its easy to see why the Tangle’s game-changing utilization of data would be incredibly interesting to major companies like this.
+
+The suddenness of IOTA is surprising even by cryptocurrency’s crazy standards. The majority of trading volume is currently being conducted through Bitfinex and Binance. Korea’s largest exchange, Bithumb, will be adding IOTA soon, which could cause the value to rise even higher.
+
+Cryptocurrency is so new, and IOTA is so different to every other player in the space, that there really is no guide by which to predict its future. The spikes and dips that have marked Bitcoin’s ascension can be plotted against trends experienced by other markets and technologies, allowing somewhat-educated guesses to be made about its future direction. But when something moves as suddenly as IOTA, all bets are off. The price could continue to sky-rocket or it could collapse tomorrow. The more speculation mounts, the more unpredictable things become.
+
+But IOTA is undoubtedly an incredibly interesting project with almost unlimited potential.

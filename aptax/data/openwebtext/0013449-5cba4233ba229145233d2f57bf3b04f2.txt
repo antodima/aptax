@@ -1,0 +1,339 @@
+Summer season introduces new items, critical gameplay changes and a new roamer who will have a major impact on hero compositions & draft strategy. Let’s dig in …
+
+LYRA ABILITIES & BREAKDOWN
+
+Lyra uses healing and protective magic to turn enemy positions into powerful zones for her allies. Utility and defense items improve her role as a healer, while crystal items provide a devastating-but-fragile mage path.
+
+QUICK START:
+
+Learn Imperial Sigil (Ability A) first. Upgrade and overdrive it first.
+
+Upgrade and overdrive it first. Take Bright Bulwark (Ability B) at level 2 but upgrade it last. Only overdrive situationally.
+
+but upgrade it last. Only overdrive situationally. Learn and upgrade Arcane Passage (Ultimate) whenever possible.
+
+Principle Arcanum (Heroic Perk)
+
+Lyra’s attacks are arcane missiles, dealing crystal damage. If she holds her ground after releasing an attack, she automatically channels and releases a much stronger arcane missile that deals additional crystal damage and briefly slows its target. Each channeled missile consumes energy, but Lyra can continue using these even if she runs out of energy.
+
+HEROIC PERK BREAKDOWN:
+
+Once the first missile has locked on, the second is guaranteed to land as well, provided Lyra finishes channeling.
+
+For basic-attack (on-hit) effects and weapon items, both the first and second arcane missiles are considered basic attacks.
+
+Attack speed affects the channeling time, in addition to the time between shots.
+
+While the second missile is much stronger, it also puts Lyra’s next attack onto a slightly longer cooldown.
+
+The projectile speed on the first missile increases with attack speed.
+
+Imperial Sigil (A)
+
+Lyra forms a sigil at the target location, revealing surrounding enemies. While this sigil remains active, it heals nearby allied heroes and damages nearby enemy heroes. Lyra can reactivate this ability at any time to detonate the sigil, dealing heavy damage to surrounding enemies while providing a burst of healing and a moderate move speed boost to nearby allies.
+
+IMPERIAL SIGIL BREAKDOWN:
+
+Lyra’s healing is increased with her bonus health from items.
+
+The cooldown won’t begin until the detonation occurs, either manually or after running out.
+
+Because heroes consume the sigil, you can reduce the healing from an enemy Lyra by getting near her sigil and draining some damage.
+
+Detonate Imperial Sigil beneath allies while moving around the map.
+
+Imperial Sigil can be used for vision, but the tradeoff is that it won’t start its cooldown until it’s detonated (manually or after timing out).
+
+Bright Bulwark (B)
+
+After a brief delay, Lyra releases a pulse of magical energy, damaging and applying a decaying slow to surrounding enemies. The affected area then becomes a walled zone of protection that deals the same damage and slow to enemies attempting to cross its borders. Enemies inside the zone are snared, allowing them to move normally but preventing them from using movement abilities.
+
+BRIGHT BULWARK BREAKDOWN:
+
+This stops “dash” abilities, including jumps like Joule’s leap.
+
+However, it does not stop movement-speed increases like Catherine’s Mercilless Pursuit. The slow is strong enough to noticeably reduce those abilities, though.
+
+When an ally pulls/pushes an enemy into the wall, the enemy will stop at the wall rather than go their full distance.
+
+You can Reflex Block while snared to buy enough time to dash. Lance can use Gythian Wall on overdrive to do this as well.
+
+The slow and damage have a short internal cooldown (1.8 seconds). Don’t stand on top of the wall if you want to avoid getting hit again.
+
+Bright Bulwark is incredibly powerful against dash-dependent heroes such as Glaive. In some situations, this can allow you to stand and fight when you would otherwise need to retreat.
+
+If it’s not effective enough, consider learning the overdrive.
+
+Arcane Passage (C)
+
+Lyra blinks to the target location, leaving portals at both the beginning and the end of the blink. Portals last for a few seconds, allowing allied and enemy heroes to move freely between them in both directions. Heroes must wait several seconds before they can re-enter a portal. This cooldown is also applied to enemies when Lyra hits them with the initial pulse of Bright Bulwark.
+
+ARCANE PASSAGE BREAKDOWN:
+
+Portals are globally visible for both teams.
+
+Heroes gain a small boost of speed when exiting portals.
+
+Heroes currently dashing or being affected by pulls or knockbacks will not enter a portal.
+
+Heroes standing directly on top of a portal when they spawn will not be pulled through until they move off the portal and re-enter. (This is a snipe protection for Adagio and other heroes who have no means of avoiding the effect.)
+
+Enemies cannot use portals until 1 second after they’ve formed, but Lyra and her allies can enter immediately.
+
+USING LYRA’S PORTALS:
+
+Both teams can use portals with no negative effects. Just walk onto them.
+
+Portals are typically better for strategic map movement than going directly into an enemy team, unless you have a specific plan or comp for it. If you form a portal far away from enemies and then make the destination portal away from enemies, you can prevent enemies from easily accessing portals. This can make for effective flanks, especially in combination with Bright Bulwark.
+
+The initial pulse of Bright Bulwark puts affected enemies on the full portal cooldown. If you need to get away from enemies, use Bright Bulwark first, then immediately portal away. If you need to create a beachhead for your team, you can portal near enemies and use Bright Bulwark, allowing your allies to join you while preventing enemies from escaping.
+
+
+
+PLAYING AS LYRA
+
+Lyra is a powerful healer with a roam primary path.
+
+with a roam primary path. Pair her with ranged heroes such as Celeste who like to be on the edge of fights. Lyra’s protective zones will keep them safe on the back line.
+
+who like to be on the edge of fights. Lyra’s protective zones will keep them safe on the back line. Or, form comps with slower heroes such as SAW, Phinn & Krul since Lyra can teleport them into the fight from a distance.
+
+such as SAW, Phinn & Krul since Lyra can teleport them into the fight from a distance. Lyra’s secondary path is as a crystal mage. If you’d like to try this, she has excellent synergy with Alternating Current because her perk fires two arcane missiles in a row. The perk trades her positioning for power, which can be a dangerous gambit. However, it’s incredibly powerful against fleeing enemies.
+
+If you’d like to try this, she has excellent synergy with because her perk fires two arcane missiles in a row. The perk trades her positioning for power, which can be a dangerous gambit. However, it’s powerful against fleeing enemies. When you’re last-hitting, consider staying at maximum attack range. The light and heavy attack will hit at nearly the same time, making it much easier to successfully last-hit.
+
+PLAYING VS LYRA
+
+Lyra is extremely fragile even with health items due to unusually low armor and shield.
+
+even with health items due to unusually low armor and shield. Focus her and burst her down. Build items accordingly.
+
+Build items accordingly. Select any heroes who can get to her quickly and take her out. Taka is a great example. Even though he seems susceptible to Bright Bulwark, a sneaky Taka can often get to Lyra faster than the bulwark can go down — especially with X-Retsu.
+
+SUMMER GAMEPLAY CHANGES
+
+Starting in Summer season, you’ll have much more build freedom and diversity. Let’s look at why …
+
+AMBIENT GOLD
+
+Ironguard Contract no longer provides a gold bonus. Instead, this is replaced with an always-on mechanic affecting all heroes.
+
+Ambient Gold: Whenever anyone kills a minion or monster, a nearby ally within 14 meters earns 75% of the bounty as bonus gold. If two allies are nearby, whichever hero has lower net worth earns the Ambient Gold.
+
+In short, roam players are no longer required to buy an Ironguard Contract at the start of every single match, which opens them up to many more itemization choices. There is no requirement to eventually turn that Ironguard Contract into a Warhorn or Contraption, so many more possibilities unfold.
+
+This change also means that roamers taking last hits will no longer have a large negative impact on a team’s gold net worth. Instead, they’ll still generate the same amount of gold since there will always be a 100%/75% split to two team members near each other.
+
+Additionally, we expect to see many more strategies become viable from the way gold is distributed among team members. Teams may now more strategically decide where to funnel gold when they have multiple heroes reaching item breakpoints.
+
+EXPERIENCE & GOLD RANGE
+
+Experience and gold range are both set to 14 meters. It is still possible to hyper-level a hero … but your team will be giving up far more to do so.
+
+Following closely behind Ambient Gold is the change to experience range. Prior to 1.19, the range where a hero could acquire experience from a kill in the jungle was 5.6, whereas the range where Ironguard Contract granted gold was 14. In addition to being a fairly invisible mechanic, this created a zone where a player could get Ironguard Contract gold while giving up experience — more commonly known as hyper-leveling.
+
+This led to situations where a team member could end up significantly under-leveled in favor of rushing an allied hero to a potential level power-spike. While we find the practice of hyper-leveling innovative and tactically interesting, we wanted to make sure that a player was not denied experience simply from the role or hero they chose.
+
+As such, in 1.19, we have decided to change experience range to 14, which matches the range of Ambient Gold. This means that if you are in range for Ambient Gold, you will also be in range to share experience.
+
+If a team so chooses, they are still able to hyper-level a hero, (which would not be too surprising for the first rotation to hit a level-2 power spike). However, they would be trading that for a potential loss of 75% increase in gold from each monster or minion that is killed.
+
+EXPERIENCE DISTRIBUTION
+
+With the change to experience and the addition of Ambient Gold, some adjustments to experience distribution were in order.
+
+Experience gain when multiple allies are nearby:
+
+One: 100%
+
+Two: 85/40%
+
+Three: 65/30/30% (killer gets the larger amount).
+
+GOLD TRICKLE
+
+Gold trickle up from 4 to 5 per second.
+
+NEW ITEMS COMING IN SUMMER UPDATE 1.19
+
+The other major reason for more build flexibility is more item choice!
+
+NEW CONTRACT ITEMS
+
+With the introduction of Ambient Gold, Ironguard Contract is no longer a staple item for every roam build. Instead, a few early-game options have been introduced into the OTHER section in the item shop. These can grant a significant amount of power early on, or if you find the need for a small power boost at any given time for a fairly low cost, these new Contract items are fantastic options. However, keep in mind that none of these Contracts upgrades into anything, though they can be sold back for half the purchase cost.
+
+IRONGUARD CONTRACT
+
+Ironguard is now specifically geared toward coming out of the jungle with a bit more battle readiness and to keep both members of a jungle duo topped off to fend off invasions. While no longer a necessity, Ironguard still makes for a fantastic starting purchase.
+
+Passive: When a nearby ally kills a jungle monster, you both heal for 75 health
+
+Range: 14m
+
+health Range: Cost: 300 gold
+
+Protector Contract
+
+A much more defensive start, the Protector Contract allows you to protect your teammates — as long as you are close enough to do so. This is a fantastic purchase if you expect heavy aggression coming out from the opposing team or if you plan on team fighting early on.
+
+Activate: Grant a 120 health barrier to the nearest ally hero for 2 seconds. 5s cooldown. 2 max charges, 20s per charge.
+
+Range: 8m
+
+health barrier to the nearest ally hero for seconds. cooldown. max charges, per charge. Cost: 300 gold
+
+Dragonblood Contract
+
+The Dragonblood Contract supports early aggression and may allow you to dominate early on in a match; however, this initial advantage falls off very quickly. Having a fairly long recharge time and a fixed amount of damage, it is a great tool for early aggression and calculated ganks, but it is a good candidate to replace once mid-game rolls around.
+
+Activate: After a brief delay, nearby enemy heroes are marked for 3 seconds. The next basic attack from an ally consumes the mark, slowing by 30% for 2s and dealing 75 bonus crystal damage. 15s cooldown. 2 max charges, 40s per charge.
+
+Range: 4m
+
+seconds. The next basic attack from an ally consumes the mark, slowing by for and dealing bonus crystal damage. cooldown. max charges, per charge. Cost: 300 gold
+
+NEW UTILITY ITEMS & REWORKS
+
+Stormguard Banner
+
+Stormguard Banner has been reworked to be a strong pickup for heroes who have weak wave/jungle clear abilities and for teams who intend to prioritize objective control over constantly battling the enemy team. However, this does come with the caveat that you will be giving up a significant amount of combat power.
+
+Passive: After using an ability, your next 3 basic attacks in the next 6 seconds deal 75 bonus true damage to non-heroes or 20 to heroes. Can only be refreshed once every 6 seconds.
+
+basic attacks in the next seconds deal bonus true damage to non-heroes or to heroes. Can only be refreshed once every seconds. +2.5 Energy Recharge
+
+Energy Recharge +150 Energy
+
+Energy Energy Battery (300) + Recipe (800) = 1100
+
+Stormcrown
+
+An upgraded version of the new Stormguard Banner. Deals significant but not overwhelming damage to heroes, but it’s fantastic for quickly taking down objectives.
+
+Passive: After using an ability, your next 4 basic attacks in the next 6 seconds deal 140 bonus true damage to non-heroes or 35 to heroes. Can only be refreshed once every 6 seconds.
+
+basic attacks in the next seconds deal bonus true damage to non-heroes or to heroes. Can only be refreshed once every seconds. +30% Cooldown Speed
+
+Cooldown Speed +5 Energy Recharge
+
+Energy Recharge +200 Energy
+
+Energy +150 Health
+
+Health Stormguard Banner (1100) + Chronograph (800) + Recipe (300) = 2200
+
+Journey Boots
+
+Running fast is a lot of fun. Running fast often is even more fun.
+
+Passive movement speed up from 0.5 to 0.6
+
+to Cooldown increased from 30 to 60
+
+to Passive: Damaging heroes instantly sets the cooldown to 12 seconds if it is above it.
+
+seconds if it is above it. Armor, Shield and Health Regen removed
+
+Health down from 300 to 250
+
+War Treads (Warhorn is now a type of Boots)
+
+These new boots have replaced Warhorn has a team-wide mobility option. If you ever find yourself in the situation where you need to get your team into or out of a fight quickly, War Treads is a perfect purchase.
+
+Activate: Nearby allies Sprint for 2 seconds ( 60s cooldown).
+
+seconds (
+
+Passive: +0.4 Movement speed
+
+Movement speed
+
+Passive: Travel Boots
+
+
+
++500 Health
+
+
+
+Stormguard passive removed
+
+
+
+Travel Boots (1000) + Dragonheart (650) + Recipe 850) = 2500
+
+Halcyon Chargers
+
+A powerful new option for both running down your foes or escaping from a pursuer. Halcyon Chargers should easily be able to get you in or out of danger once. Choose this over Journey boots when prioritizing ability usage from cooldown speed.
+
+Activate: Sprint for 3 seconds ( 50s cooldown).
+
+seconds ( cooldown).
+
+Passive: +0.5 Movement speed
+
+Movement speed
+
+Passive: Travel Boots
+
+
+
++200 Health
+
+
+
++15% Cooldown Speed
+
+Cooldown Speed
+
++4 Energy Recharge
+
+Energy Recharge
+
++250 Energy
+
+Energy
+
+Travel Boots (1000) + Void Battery (700) + Recipe (600) = 2300
+
+Flare Gun
+
+Offering an early game vision option. Pick up a Flare Gun if you plan to constantly track your enemies.
+
+Activate: Fire a Flare at target location. ( 18s cooldown).
+
++250 Health
+
+Health Oakheart (300) + Recipe (300) = 600
+
+Contraption
+
+No longer building out of Stormguard Banner, Contraption now charges a bit faster and offers a bit more defensive power.
+
+Cooldown up from 3 to 5 seconds ( 18s per charge)
+
++350 Health
+
+Health +35% Cooldown Speed
+
+Cooldown Speed +3 Energy Recharge
+
+Energy Recharge Health Regen removed
+
+Stormguard passive removed
+
+New Recipe: Flare Gun (600) + Chronograph (800) + Recipe (700) = 2100
+
+OTHER
+
+Kraken is no longer affected by any positive buffs (i.e. Warhorn speed boost and Adagio’s Gift of Fire).
+
+Players may no longer walk into the area where the Jungle Shop resides.
+
+Tap area of the jungle shop has been decreased to avoid accidental shopping during fights.
+
+Flares are no longer globally visible, but brush will not inherently hide them if there’s vision on that area.
+
+RELATED ARTICLES
+
+This is only a part of the massive Summer improvements coming in Update 1.19. For more previews, check these out:

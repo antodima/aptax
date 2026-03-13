@@ -1,0 +1,13 @@
+As someone with asthma, I can tell you that it's not fun to feel as though a 200-pound man is sitting on your chest after you've just run a marathon. Up a flight of stairs. With a gag in your mouth. So when there's news about asthma research, my alveoli really perk up.
+
+That's why I was drawn to new research from a team at Harvard University, recently published in the journal Lab on a Chip, that could pave the way for better asthma medication. They engineered a tiny bit of human airway muscle and mounted it to a glass chip. They then made the tissue asthmatic by introducing a substance known as interleukin-13 (IL-13), which causes lung tissue to react to allergens in asthmatics.
+
+Then, for the allergen itself, they introduced a neurotransmitter called acetylcholine. Sure enough, the airway muscle contracted in the presence of the irritant -- so much so that it curled atop the glass chip. They were then able to get the muscle to relax using drugs called beta-agonists, which are used in inhalers, like the albuterol I use on occasion to mitigate the effects of an attack.
+
+The scientists were also able to study changes in the muscle tissue after exposure to IL-13. One of the things they focused on was how IL-13 affects the release of chemicals known as RhoA proteins "which have been implicated in the asthmatic response, although the details of their activation and signaling have remained elusive," says a report about the research. They discovered that by using a drug called HA1077 that worked to mitigate the RhoA proteins, they were able to make the tissue on the chip more resistant to being triggered by an allergen.
+
+The hope is that by being able to conduct extensive observation of lung muscle outside the human body and to see how it reacts to different treatments, the researchers will be able to create new medications to treat asthmatics, without the danger of having to use human subjects or without introducing the unreliability of testing on animals. Their work with HA1077, for example, saw "preliminary tests (which) indicated that using a combined therapy of HA1077 plus a currently approved asthma drug worked better than the single drug alone."
+
+"The majority of drugs used to treat asthma today are the same ones that were used 50 years ago," says the Harvard report on the research. "New drugs are urgently needed to treat this chronic respiratory disease, which causes nearly 25 million people in the United States alone to wheeze, cough, and find it difficult at best to take a deep breath."
+
+As one of those millions, I know I personally find the research a breath of fresh air.

@@ -1,0 +1,35 @@
+Biofilms: Using Bacteria for new Designer Nanomaterials
+
+For most people biofilms conjure up images of slippery stones in a streambed and dirty drains. While there are plenty of “bad” biofilms around – they are even the same stuff that causes pesky dental plaque and a host of other more serious medical problems – a team of researchers sees biofilms as a robust new platform for designer nanomaterials that could clean up polluted rivers, manufacture pharmaceutical products, fabricate new textiles, and more.
+
+In short, they want to give biofilms better PR, and have developed a novel protein engineering system called BIND to do so. Using BIND (which stands for Biofilm-Integrated Nanofiber Display) the team said biofilms could be tomorrow’s living foundries for the large-scale production of biomaterials that can be programmed to provide functions not possible with existing materials.
+
+“Most biofilm-related research today focuses on how to get rid of biofilms, but we demonstrate here that we can engineer these super tough natural materials to perform specific functions — so we may want them around in specific quantities and for specific applications,” said Neel Joshi, Ph.D., the study’s senior author.
+
+Biofilms also self-assemble and self-heal.
+
+“If they get damaged, they grow right back because they are living tissues,” said lead author Peter Nguyen, Ph.D.
+
+Biofilms are communities of bacteria ensconced in a slimy, but extremely tough, matrix of extracellular material composed of sugars, proteins, genetic material and more. During biofilm formation individual bacteria pump out proteins that self-assemble outside the cell – creating tangled networks of fibers that essentially glue the cells together into communities that keep the bacteria safer than they would be on their own.
+
+Interest in biofilm engineering is skyrocketing, and while several other teams have recently developed genetic tools to control biofilm formation, Joshi’s team altered the composition of the extracellular material itself – essentially turning it into a self-replicating production platform to churn out whatever material they wish to produce.
+
+“Until recently there was not enough cooperation between synthetic biologists and biomaterials researchers to exploit the synthetic potential of biofilms this way. We are trying to bridge that gap,” Joshi said.
+
+The team genetically fused a protein with a particular desired function – for example, one known to adhere to steel – onto a small protein called CsgA that is already produced by E. coli bacteria. The appended domain then went along for the ride through the natural process by which CsgA gets secreted outside the cell, where it self-assembled into super tough proteins called amyloid nanofibers. These amyloid proteins retained the functionality of the added protein – ensuring in this case that the biofilm adhered to steel.
+
+Amyloid proteins traditionally get a bad rap for their role in causing tremendous health challenges such as Alzheimer’s disease, but in this case their role is fundamental to making BIND so robust. These amyloids can spontaneously assemble into fibers that, by weight, are stronger than steel and stiffer than silk.
+
+“We are excited about the versatility of the method, too,” Joshi said.
+
+The team demonstrated an ability to fuse 12 different proteins to the CsgA protein, with widely varying sequences and lengths. This means in principle that they can use this technology to display virtually any protein sequence – a significant feature because proteins perform an array of impressive functions from binding to foreign particles to carrying out chemical reactions, transmitting signals, providing structural support, and transporting or storing certain molecules.
+
+Not only can these functions be programmed into the biofilm one at a time, but they can be combined to create multifunctional biofilms as well. The concept of the microbial factory is not a new one, but for the first time it is being applied to materials, as opposed to soluble molecules like drugs or fuels.
+
+“We are essentially programming the cells to be fabrication plants,” Joshi said. “They don’t just produce a raw material as a building block, they orchestrate the assembly of those blocks into higher order structures and maintain that structure over time.” “The foundational work Neel and his team are doing with biofilms offers a glimpse into a much more environmentally sustainable future where gargantuan factories are reduced to the size of a cell that we can program to manufacture new materials that meet our everyday needs – from textiles to energy and environmental clean-up,” said Founding Director Don Ingber, M.D., Ph.D.
+
+For now the team has demonstrated the ability to program E. coli biofilms that stick to certain substrates, such as steel, others that can immobilize an array of proteins or promote the templating of silver for construction of nanowires. Really the sky’s the limit to what could come next and really that is an exciting prospect.
+
+Sources:
+
+Peter Q. Nguyen,, Zsofia Botyanszki,, Pei Kun R. Tay,, & Neel S. Joshi (2014). Programmable biofilm-based materials from engineered curli nanofibres Nature Communications : 10.1038/ncomms5945

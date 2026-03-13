@@ -1,0 +1,23 @@
+(TNS) -- The U.S. Senate has crowned the Federal Aviation Administration the nation’s drone regulator, saying federal laws covering everything from safety to design pre-empt any enacted by states and localities.
+
+Though the FAA controls all U.S. airspace from the ground up, some local governments around the nation have passed their own drone restrictions to protect privacy and safety.
+
+The Senate bill approved Tuesday says no state could enact a law about the “design, manufacture, testing, licensing, registration, certification, operation, or maintenance of an unmanned aircraft system, including airspace, altitude, flight paths, equipment or technology requirements, purpose of operations, and pilot, operator, and observer qualifications, training, and certification.”
+
+The bill must be reconciled with a House measure, which does not pre-empt local and state laws. The FAA is currently working to complete its first drone regulations.
+
+Noting a drone earlier this week is believed to have hit a British Airways plane headed to London Heathrow airport, Sen. Chuck Schumer (D-N.Y.) said Wednesday that he inserted a tech-enabled safety provision in the Senate bill.
+
+“Geo-fencing drone technology could soon be installed on every new drone, helping to stop them from flying near airports and other sensitive areas, while still allowing hobbyists to fly them in safe places,” Schumer said in a statement.
+
+Using GPS, geo-fencing would block drones from “No Fly” areas, such as the White House, major parades and sporting events.
+
+The FAA also should explore the use anti-drone technology at airports and on aircraft, Schumer’s office said.
+
+———
+
+©2016 Newsday
+
+Visit Newsday at www.newsday.com
+
+Distributed by Tribune Content Agency, LLC.

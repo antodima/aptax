@@ -1,0 +1,41 @@
+This Hansard corpus (or collection of texts) contains nearly every speech given in the British Parliament from 1803-2005, and it allows you to search these speeches (including semantically-based searches) in ways that are not possible with any other resource.
+
+The corpus was created as part of the SAMUELS project (2014-2016), which was funded by the UK Arts and Humanities Research Council.
+
+The following are just a few sample searches, but they should give you an idea of what you can do with the corpus. Once you've taken a look at some of these sample searches, click on SEARCH CORPUS to the left.
+
+
+
+SAMPLE SEARCHES Note: click on any link on this page to see the corpus data, and then click on "RETURN" in the upper right-hand corner of the corpus to come back to this page.
+
+SEE FREQUENCY OF A WORD OR PHRASE OVER TIME
+
+Increase : (noun) environment, technology, tourism, entitlement (verb) recycle, highlight, update, focus (adjective) regional, terrorist, ethnic, innovative, back-bench (adverb) tragically, forcefully, dramatically, worldwide
+
+Decrease : (noun) evil, clergyman, admiral, missionary, exertion, zeal (verb) avow, induce, acquiesce, assail (adjective) sacred, cordial, manly, impolitic, landed (adverb) lately, effectually, advantageously
+
+Increase/decrease ("spike" in frequency) : (noun) colonist (1850s), production (1940s), inflation (1970s), housewife (1940s-1970s), reactor (1970s), motorway (1970s); (verb) entreat (1830s), nationalise (1940s), overspend (1980s); (adjective) industrious (1830s-840s), nuclear (1960s-1980s), self-employed (1970s); (adverb) injuriously (after mid-1800s), appallingly (through 1980s)
+
+LIMIT AND COMPARE BY DECADE, HOUSE, OR PARTY IN POWER
+
+
+
+WHAT WORDS ARE USED WITH OTHER WORDS? (WORD MEANING AND USAGE)
+
+Nearby words ("collocates"): see changing meaning and use: (noun) crime, right, family, character, peace, reform, colony (verb) fight, assist, help, abolish, protect (adjective) Irish, European, American, honourable, regional, rural
+
+Words in context (re-sortable "concordance" lines): see patterns in which words occur: (noun) risk, complaint (verb) assure, justify (adjective) sorry, statutory (adverb) diametrically, rightly
+
+SEARCHING BY SPEAKER
+
+Which speakers use a word or phrase the most?
+
+Word or phrase Sorting (relevance takes into account
+
+the total number of speeches by the speaker) India frequency relevance Rhodesia frequency relevance Northern Ireland frequency relevance United States frequency relevance navy frequency relevance inflation frequency relevance computer frequency relevance
+
+Searching for a word or phrase in speeches by a certain speaker
+
+(PM's used here, but can limit by any speaker. Can also limit by year, e.g. Churchill 1939-1945)
+
+What words characterize the speech of specific speakers? (e.g. nouns or adjectives)

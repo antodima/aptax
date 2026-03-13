@@ -1,0 +1,65 @@
+Hey everyone! This is the second post in my new node.js modules you should know about article series.
+
+The first post was about dnode - the freestyle rpc library for node.
+
+This time I'll introduce you to node-optimist - the lightweight options parser library. This library is also written by James Halliday (SubStack), my co-founder of Browserling and Testling.
+
+Wonder how lightweight an options parser can be? Check this out:
+
+var argv = require('optimist').argv;
+
+And you're done! All options have been parsed for you and have been put in argv .
+
+Here are various use cases. First off, it supports long arguments:
+
+#!/usr/bin/env node var argv = require('optimist').argv; if (argv.rif - 5 * argv.xup > 7.138) { console.log('Buy more riffiwobbles'); } else { console.log('Sell the xupptumblers'); }
+
+Now you can run this script with --rif and --xup arguments like this:
+
+$ ./xup.js --rif=55 --xup=9.52 Buy more riffiwobbles $ ./xup.js --rif 12 --xup 8.1 Sell the xupptumblers
+
+I know you want to buy more riffiwobbles and sell your xupptumblers.
+
+Next, it supports short args:
+
+#!/usr/bin/env node var argv = require('optimist').argv; console.log('(%d,%d)', argv.x, argv.y);
+
+You can use -x and -y as arguments:
+
+$ ./short.js -x 10 -y 21 (10,21)
+
+Then node-optimist supports boolean arguments, both short, long and grouped:
+
+#!/usr/bin/env node var argv = require('optimist').argv; if (argv.s) { console.log(argv.fr ? 'Le chat dit: ' : 'The cat says: '); } console.log( (argv.fr ? 'miaou' : 'meow') + (argv.p ? '.' : '') );
+
+And now you can invoke the script with various options:
+
+$ ./bool.js -s The cat says: meow $ ./bool.js -sp The cat says: meow. $ ./bool.js -sp --fr Le chat dit: miaou.
+
+Next, you can easily get to non-hypenated options via argv._ :
+
+#!/usr/bin/env node var argv = require('optimist').argv; console.log('(%d,%d)', argv.x, argv.y); console.log(argv._);
+
+Here are use cases for non-hypenated options:
+
+$ ./nonopt.js -x 6.82 -y 3.35 moo (6.82,3.35) [ 'moo' ] $ ./nonopt.js foo -x 0.54 bar -y 1.12 baz (0.54,1.12) [ 'foo', 'bar', 'baz' ]
+
+Optimist also comes with .usage() and .demand() functions:
+
+#!/usr/bin/env node var argv = require('optimist') .usage('Usage: $0 -x [num] -y [num]') .demand(['x','y']) .argv; console.log(argv.x / argv.y);
+
+Here arguments x and y are required and if they are not passed, the usage will be printed automatically:
+
+$ ./divide.js -x 55 -y 11 5 $ node ./divide.js -x 4.91 -z 2.51 Usage: node ./divide.js -x [num] -y [num] Options: -x [required] -y [required] Missing required arguments: y
+
+Optimist also supports default arguments via .default() :
+
+#!/usr/bin/env node var argv = require('optimist') .default('x', 10) .default('y', 10) .argv ; console.log(argv.x + argv.y);
+
+Here x and y default to 10:
+
+$ ./default_singles.js -x 5 15
+
+Enjoy this stranger:
+
+Alternatively you can use isaacs's nopt that can enforce data types on arguments and can be used to easily handle a lot of arguments. Or you can use nomnom that noms your args and gives them back to you in a hash.

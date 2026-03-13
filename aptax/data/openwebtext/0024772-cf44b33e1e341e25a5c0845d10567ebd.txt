@@ -1,0 +1,23 @@
+Crowdsourced e-commerce company Threadless has existed on the web seemingly forever, connecting T-shirt and hoodie wearers with interesting designs submitted by members of its community. Now it’s taking its shop and its design voting platform mobile with an iOS app, enabling customers to let it know which designs they like the best and to instantly buy those that are already available.
+
+The idea behind Threadless’ business is pretty straightforward: Users of the site submit their designs, potential customers vote on them, and the best end up going into production to be sold online.
+
+Over the years the company has had more than 300,000 designs submitted, of which it’s printed about 3,000, according to founder Jake Nickell. And for some of its most popular designs, the company has expanded from printing designs on other goods, including coffee mugs, bags, iPhone covers, and other accessories.
+
+But it was all web-only. And while it’s got a pretty responsive mobile web site, there’s nothing quite like having a native app to browse and shop new designs.
+
+The launch of the iPhone app, which was built by Prolific Interactive, marks the company’s first big step into mobile, and it’s a pretty sleek example of what an e-commerce shop can look like on a smartphone.
+
+The shop has a grid of available products and designs, which can be zoomed in on to get more information and see more photos of the product in question. Users can then pick a size and add to the cart direct from the product screen, or look at other products with the same design.
+
+But the shop is only part of the app — it also has an area where customers can let Threadless know which designs they would actually like to buy in the future. In the Vote section, users can give a thumbs-up to hopefully get a product printed, leave comments for the designer, and to share the design out to other social networks.
+
+When a user votes on a product, the app also lets users know when the designer submits other designs they might like and should vote on.
+
+For Threadless, the new iOS app is just the first new mobile product it has in the works, according to Nickell. It also has an app called Type Tees that it’s looking to release soon, which would enable customers to produce their own custom designed, on-demand t-shirts.
+
+The Type Tees app follows a similar concept that Threadless had tried a few years ago, in which users could pick a saying, pick a font, and then submit them for possible printing. The idea worked for a while, Nickell told me, until the company ended up being overwhelmed with text-based designs.
+
+Type Tees will let Threadless users create their own custom-printed shirts with funny sayings, as long as they’re willing to pay a small premium over its existing prices.
+
+Threadless continues to experiment with new business models, recently making investments in crowdsourced design companies like Open Me and Tattoodo. But adding new products to complement its existing business should help it grow over time.

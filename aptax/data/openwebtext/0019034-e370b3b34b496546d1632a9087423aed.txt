@@ -1,0 +1,104 @@
+About this mod replica of the 9/11 memorial near the ant mound by camp Mccarren. Permissions and credits Credits and distribution permission Other user's assets Some assets in this file belong to other authors. You will need to seek permission from these authors before you can use their assets
+
+Upload permission You can upload this file to other sites but you must credit me as the creator of the file
+
+Modification permission You must get permission from me before you are allowed to modify my files to improve it
+
+Conversion permission You can convert this file to work with other games as long as you credit me as the creator of the file
+
+Asset use permission You must get permission from me before you are allowed to use any of the assets in this file
+
+Asset use permission in mods/files that are being sold You are not allowed to use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms
+
+Asset use permission in mods/files that earn donation points You must get permission to earn Donation Points for your mods if they use my assets Author notes ask me. File credits Bethesda and obsidian. Donation Points system This mod is not opted-in to receive Donation Points
+
+Update to V6 for main memorial
+
+Meshes and textures now included for main
+
+Update to V3 for special edition
+
+Meshes and textures now included.
+
+NPC’s set to player faction and tied to an X marker. Depending on your aliment, if your enemies attack the civilians will run and hide and the soldiers will attack with you. After all is clear they will return to their places
+
+==================================
+
+Name: 9.11 Memorial
+
+Version: V1
+
+Date: 2.09.2011
+
+Category: Buildings
+
+Author: agoon69
+
+====================================
+
+A fallout version of the 9/11 memorial in New York for the people who lost their lives that tragic day in 2001. This mod is dedicated to the people who died in the attack and to the family members who lost one of their own that day.
+
+Like all things it's not perfect but it's the thought that counts so enjoy and God Bless America!
+
+====================================
+
+Special Edition:
+
+Add a ceremony to the memorial, with NPC’s, soldiers, and artifacts.
+
+====================================
+
+Install Instructions:
+
+Drag and drop .esp meshes and textures to your FNV data folder and allow for over write
+
+=====================================
+
+Uninstall Instructions:
+
+Remove .esp meshes and textures
+
+======================================
+
+Requirements :
+
+Honest Hearts DLC.
+
+Credits:
+
+Bond123: for the animated flag, from his mod Bond’s Animated Flag found hear:
+
+http://www.fallout3nexus.com/downloads/file.php?id=12927
+
+Clintster74: for the Navy SEAL power armor, from his mod Clintster74 Navy SEAL T51B Power Armor. Found hear
+
+http://www.newvegasnexus.com/downloads/file.php?id=41643
+
+================================
+
+Tools Used:
+
+G.E.C.K.
+
+=================================
+
+Thank You:
+
+Bethesda for the G.E.C.K. and game
+
+OBSIDIAN for the game
+
+Nexus for a place to post and down load mods
+
+====================================
+
+Legal and Licensing:
+
+Bonds123’s animated flag is free to use just give him credit
+
+You must get permission from Clintster74 to use the Navy SEAL power armor
+
+You may not Modify, Edit or Alter this mod for upload.
+
+
+

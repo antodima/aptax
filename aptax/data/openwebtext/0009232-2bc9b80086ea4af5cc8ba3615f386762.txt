@@ -1,0 +1,23 @@
+Nine months after the president promised to rein in the NSA’s spying powers, the business of reform is delayed for 90 days -- again. By Dustin Volz
+
+In the face of congressional inaction, a federal court Friday renewed an order allowing the government to collect phone records on virtually all calls within the United States.
+
+The Foreign Intelligence Surveillance Court approved the Justice Department’s request for another 90-day extension of the National Security Agency’s controversial mass-surveillance program, exposed publicly last summer by Edward Snowden and authorized under Section 215 of the post-9/11 Patriot Act. The spying authority is next set to expire on Dec. 5.
+
+“Given that legislation has not yet been enacted, and given the importance of maintaining the capabilities of the Section 215 telephony metadata program, the government has sought a 90-day reauthorization of the existing program, as modified by the changes the president announced in January,” the Justice Department and Office of the Director of National Intelligence said in a joint statement.
+
+The extension marks the third of its kind since President Obama pledged in January to reform how the NSA spies on Americans during a major policy speech delivered amid withering scrutiny of the nation’s intelligence-gathering practices. Obama outlined a series of immediate steps to reform government surveillance and boost transparency, but noted he would wait for Congress to deliver him a bill before ending the bulk collection of U.S. call data.
+
+At the time, Obama said he had asked Attorney General Eric Holder and the intelligence community to devise “options for a new approach” for phone-records surveillance “before the program comes up for reauthorization on March 28.” The president added that “during this period, I will consult with the relevant committees in Congress to seek their views and then seek congressional authorization for the new program, as needed.”
+
+But attempts at NSA reform on Capitol Hill this year have been slow going. And in the absence of legislation, the courts have now renewed the collection of telephone metadata—the numbers and time stamps of calls but not their actual contents—in March, June, and now September.
+
+Republicans have claimed throughout the year that Obama has overstepped the constitutional bounds of his office, a charge that has even brought a lawsuit from the House of Representatives. But NSA critics have urged Obama to not wait for Congress and simply let the phone-records program lapse. In June, more than two dozen privacy groups sent the president a letter asking him to not renew the program, a decision they said was “solely within the authority of the Department of Justice.”
+
+In July, Senate Judiciary Committee Chairman Patrick Leahy introduced the USA Freedom Act, which would effectively end the government’s collection and storage of phone metadata and instead require phone companies to retain those records, which intelligence agencies could obtain only after earning court approval for their queries. The measure is a more ambitious proposal of a version of the bill that passed the House in May, and it has accrued support from tech companies, privacy groups, the administration, and Director of National Intelligence James Clapper.
+
+“Congress must ensure that this is the last time the government requests and the court approves the bulk collection of Americans’ records,” Leahy said in a statement. “This announcement underscores, once again, that it is time for Congress to enact meaningful reforms to protect individual privacy.”
+
+In their joint statement, the Justice Department and Office of the Director of National Intelligence endorsed the House version of the USA Freedom Act, noting that “it reflects a reasonable compromise that preserves essential intelligence community capabilities, enhances privacy and civil liberties, and increases transparency.” The statement did not directly comment on Leahy’s package.
+
+Despite the wide breadth of support for the Freedom Act, the bill is unlikely to earn a vote in the Senate before the midterm elections, and it could be tabled until next year.

@@ -1,0 +1,28 @@
+One of the important steps of computing point addition over elliptic curves is a division of two polynomials. When working in $GF(2^n)$ we don't have large enough powers to actually do a division, so we compute the inverse of the denominator and then multiply. This is usually done using Euclid's method, but if squaring and multiplying are fast we can take advantage of these operations and compute the multiplicative inverse in just a few steps.
+
+The first time I ran across this method it really confused me. The process itself does not depend on normal basis math, it just looks like it. Using normal basis to compute the squares means you only need a barrel shifter, so for the field sizes mentioned in the "One Cycle Polynomial Math" blog, this method is ideal for either FPGA or embedded implementations.
+
+We start off with a polynomial $\alpha$ in a field $GF(2^n)$ which means $$\alpha = \sum_{i=0}^{i=n-1}c_i\beta^{2^i}=\sum_{i=0}^{i=n-1}d_i\beta^i$$ where $c_i$ and $d_i$ have values $0$ or $1$. We want to find its inverse $\alpha^{-1}$. Using Fermat's Little Theorem we can write $\alpha^{-1} = \alpha^{2^n - 2}$. The first step is to break this down by noticing that $$\alpha^{2^n-2} = (\alpha^{2^{n-1}-1})^2$$ From here, things get a little more complicated.
+
+What we are going to do is build a chain of terms all of the form $\alpha^{2^k-1}$. The final term in the chain will be $\alpha^{2^{n-1}-1}$ so we just need to square this result to have our inverse. The chain will start with $\alpha^{2^1-1}=\alpha$.
+
+Since we are going to do an addition chain, the next form to look at is is $\alpha^{2^{k+j}-1}$. Let's expand this: $$\begin{array}{c}\alpha^{2^{k+j}-1}=\alpha^{2^{k+j}-2^j+2^j-1}\\ =\alpha^{2^{k+j}-2^j}\cdot \alpha^{2^j-1}\\ =(\alpha^{2^k-1})^{2^j}\cdot \alpha^{2^j-1}\end{array}$$ So if we have the forms $\alpha^{2^k-1}$ and $\alpha^{2^j-1}$ we can get the form $\alpha^{2^{k+j}-1}$ by squaring the form $\alpha^{2^k-1}$ $j$ times.
+
+A special version of this is when $k = j$. Putting $k+k=2k$ into the above we find $\alpha^{2^{2k}-1}=(\alpha^{2^k-1})^{2^k}\cdot \alpha^{2^k-1}$ So now we have the tools to build an addition chain.
+
+There are many ways to create a chain of sums. The simplest is to look at the binary representation of a number, use the $2k$ form for each bit position, and add the terms with the bits set. As a concrete example, let's look at $n=106$. The first step is to subtract $1$ so we start with $105$. In binary $105 = 1101001$. The most significant bit is $2^6$ so the first 6 terms in the chain are $1, 2, 4, 8, 16, 32, 64$. The bit position for 2^5 is set so we add the form for $32$ to get $96$, the bit for position $2^3$ is set so we add form $8$ to get $104$, and then the last bit is set so we add the term for $1$ to get $105$. The first term is just $\alpha$. Let's call the first term $\gamma_0$. We use the doubling form 6 times and get the following
+
+$\gamma_0$ $\alpha^{2^1-1}$ $\gamma_1=\gamma_0^2 \cdot \gamma_0$ $\alpha^{2^2-1}$ $\gamma_2=\gamma_1^{2^2}\cdot \gamma_1$ $\alpha^{2^4-1}$ $\gamma_3=\gamma_2^{2^4}\cdot\gamma_2$ $\alpha^{2^8-1}$ $\gamma_4=\gamma_3^{2^8}\cdot\gamma_3$
+
+$\alpha^{2^{16}-1}$ $\gamma_5=\gamma_4^{2^{16}}\cdot\gamma_4$ $\alpha^{2^{32}-1}$ $\gamma_6=\gamma_5^{2^{32}}\cdot\gamma_5$ $\alpha^{2^{64}-1}$
+
+Now we can begin the summation part of the chain. Bit 6 and bit 5 are set in the binary representation of 105 so we start with $\gamma_7=\gamma_6^{2^{32}}\cdot \gamma_5=\alpha^{2^{96}-1}$. Bit 3 is the next bit set so $\gamma_8=\gamma_7^{2^8}\cdot \gamma_3 = \alpha^{2^{104}-1}$. Finally the last bit is set so we have $\gamma_9=\gamma_8^2\cdot \gamma_0=\alpha^{2^{105}-1}$.
+
+Our final step is to compute the square of $\gamma_9\colon \gamma_9^2=(\alpha^{2^{105}-1})^2=\alpha^{2^{106}-2}=\alpha^{-1}$.
+
+The thing that confused me the most about this algorithm was the number of times to square the first term. It depends on the second term. We can see this from the derivation of the $j+k$ form when we add and subtract the second term's $2j$ value. We could have just as easily added and subtracted $2k$, but then $k$ would be the second term.
+
+Another thing that confused me is the arbitrariness of the addition chain. A completely valid result can be derived using the sequence $1, 2, 3, 6, 12, 13, 26, 52, 104, 105$. This method "walks" down the bit pattern. It takes the same number of steps as the doubling first and adding terms. It might take some experimentation to determine which method (or something else entirely) is better for a particular application.
+
+When implemented using normal basis representation, the squaring operations can be performed in a single cycle using a barrel shifter. If implemented in a field size which allows the type 1 normal basis, then the multiplies can be also be done very quickly. Thus, for the right field size, computing an inverse using the above algorithm can be done in very few clock cycles compared with standard implementations which can take 100's of clocks.
+

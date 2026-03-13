@@ -1,0 +1,19 @@
+How much is that nuclear reactor in the window?
+
+The answer has bedeviled researchers, government officials, academics and others for years. The U.S. hasn't commissioned a new nuclear reactor in years so any baseline data is very old. Reactor designs have changed since the '70s, a move that nuclear advocates say could make nuclear plants cheaper. Critics, on the other hand, have said that rising prices for things like steel combined with the chronic delays and budget overruns that regularly occur make nuclear unaffordable.
+
+How much do the answers vary? In 2003, MIT estimated that the "overnight cost," or the cost of a plant without financing, would be $2,000 per kilowatt. In 2009, MIT updated the figure to $4,000 a kilowatt, assuming some of the risk factors could be eliminated.
+
+Meanwhile, Mark Cooper, from the University of Vermont Law School, said earlier this year that the overnight cost might be in the $7,000-to-$8,000 per kilowatt range, with the all-in cost of a 2-gigawatt nuclear plant including financing running around $20 billion to $25 billion -- in other words, $10 or more per watt. Financing costs are important to include because plants take years to erect: even a one percent loan on a $8 billion project adds up. As a result, the high price results in nuclear socialism, he argues, because plants will always need state support.
+
+Constellation Energy, which wants to build a 1.6-gigawatt plant in Maryland, shed some light on the subject when it pulled out of the DOE loan program. Constellation had been seeking a guarantee that would cover 80 percent of the $7.6 billion loan on the Calvert Cliffs 3 project. The entire budget for the project is estimated at $9.6 billion. Constellation pulled out because the DOE requested a $880 million fee -- around 11.6 percent of the loan -- for the guarantee. The fee would make the project un-economical, Constellation said.
+
+But back to the math. $9.6 billion divided by 1.6 gigawatts equals $6,000 per kilowatt, or $6 per watt. Adding the cost of the DOE guarantee would boost it to $6.55 per watt.
+
+The figure obviously is an estimate. 1.6 neatly divides into 9.6 with no remainder. That sort of thing doesn't happen generally when dividing in the billions. The total cost would also likely be impacted by cost overruns, operations, waste management, maintenance or fuel. Fuel actually only adds two to four percentage points to the overall cost, but some of the other factors are less predictable.
+
+Still, even as an optimistic estimate, it seems to indicate that nuclear could be having trouble keeping up with the rest of the industry. Wind, although intermittent, costs $1,300 a kilowatt. Flow batteries for storing wind power sell for $4,000 a kilowatt. Compressed air can cost $1,000 per kilowatt. Conceivably, wind and storage together hover just under the $6,000 kilowatt benchmark for nuclear. A home solar installation costs $6,000 a watt after incentives and far less for utility-scale projects. Solar and wind, of course, regularly drop in price due to the force of mass manufacturing.
+
+The MIT report adds that even at $4,000 a kilowatt nuclear would need loan guarantees initially and other incentives to stay competitive with natural gas ($850 a kilowatt) and coal ($2,300 a kilowatt). The researchers also recommend carbon pricing.
+
+Again, a final, or even somewhat accurate, price is difficult to determine. These are rough estimates and we hope to delve deeper into the numbers soon. But the nuclear industry likely needs to do better than this.

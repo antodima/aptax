@@ -1,0 +1,17 @@
+How does voLTE Certification work? My understanding is that only phones on this approved list by T-mobile are supported on Band 12. Band 12 is the new Extended Range LTE band and T-Mobile is investing heavily in. My understanding is that voLTE Certification is something that T-Mobile does to ensure that a phone connected to Band 12 but out of range of other T-Mobile services to fall-back on (ex. 2G, GSM, and 3G HSPA+) can still dial 911.. If the phone lacked this ability, when they went to dial out on Band 12 they'd find they couldn't. Even if I'm wrong, VoLTE seems to have something to do with data and voice integration.
+
+VoLTE calls already go through faster (twice as fast as other calls), and while on VoLTE, customers can enjoy wicked-fast LTE data while they’re on a call. Customers on the old carriers’ CDMA networks still can’t do that. Today, 27 million T-Mobile customers on 40 models of VoLTE-enabled phones are making over 300 million calls a day— well over half of all calls on T-Mobile’s network.
+
+The voLTE process is expensive for the OEM and almost sounds like a shake-down by T-mobile:
+
+Speaking off the record to one major smartphone vendor, we have learned that there are very real costs and complexities associated with obtaining that certification, and it must be done on a device-by-device basis.
+
+And, one of the OnePlus developers said this
+
+In terms of technical specs, supporting VoLTE is actually not so hard, but there's still a long way to go for users can actually use it. Why? Because VoLTE is carrier-specific, we needs to meet the carrier's requirements firstly then our users will be able to actually use it.
+
+As if to say, we're only waiting on testing and certification.. Further, because T-Mobile had to ask Motorola to remove Band 12, I take it that the OEM (client side) has to disable B12 and not the carrier (server side).
+
+Does that mean Cyanogen or other AOSP's can re-enable B12? I would think so, but even small OEM's selling unlocked universal phones like OnePlus have commented that they're having problems with voLTE Certification, so I guess it's not entirely software?
+
+I understand T-Mobile's concern, but I simply don't care. Give me LTE if Band 12 is available and if my phone can't connect, well at least I've got decent data and I can use Google Hangout Dialer.

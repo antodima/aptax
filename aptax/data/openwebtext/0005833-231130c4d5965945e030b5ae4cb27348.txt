@@ -1,0 +1,21 @@
+Taking clear pictures of megaenzymes isn’t easy. But it’s definitely worth it. These proteins play an active role in creating many common antibiotics. They are in constant motion, with sections that flip around acrobatically to carry out necessary tasks. Now, for the first time, McGill researchers have been able to take a series of 3D images of a large section from one of these medicine-synthesizing enzymes in action. The researchers believe that the images they have generated will not only bring scientists closer to understanding how many antibiotics are made, but could, with further research, lead to the development of much needed next-generation antibiotics.
+
+“This is the most complete view we’ve ever had of these enzymes in action,” said Prof. Martin Schmeing from McGill’s Department of Biochemistry, and the senior author of a paper describing the research which was published today in Nature. “Even though megaenzymes are the second-biggest proteins known to man, they are still very small molecules and they are very mobile, so it’s difficult to see them at work.”
+
+You may also like
+
+Medicine is sometimes just battling bacteria
+
+The enzymes the researchers are working on are essential to the production of antibiotics that range from penicillin to cyclosporin. They are called nonribosomal peptide synthetases (or NRPSs) and act as catalysts inside specific bacteria, giving them the ability to kill all their competing bacteria.
+
+The NRPSs work like miniature assembly lines, combining building blocks through repetitive chemical reactions. Much like automobile assembly lines, these enzyme assembly lines are made up of different work stations (called modules) that each add on one section of the drug and in the process create antibiotics with new chemical features.
+
+Paralyzing proteins to take their picture
+
+Because these enzymes are too small to see and constantly in motion, Prof. Schmeing and his team, used chemical traps to capture the proteins in the desired position. They then used a technique called X-ray crystallography to essentially take a series of 3D pictures of the first module of an NRPS that makes the antibiotic gramicidin (an active ingredient of the Polysporin cream which may be in your medicine cabinet).
+
+“These 3D pictures revealed the totally remarkable way the NRPS works to synthesize its product. Parts of other NRPSs have been pictured before, but there have never been so many snapshots of the different steps of synthesis, and never pictures of NRPSs that incorporate interesting chemical modifications into the antibiotic,” says Janice Reimer, PhD student and the first author on the paper. ”These pictures reveal the exquisite way these parts repurpose and recycle their limited surfaces to interact with the rest of the enzyme. Once we understand enough, we can use modern bioengineering techniques to modify NRPSs to produce all sorts of products with designer modifications, perhaps giving a veritable treasure trove of new medicines.”
+
+To read “Synthetic cycle of the initiation module of a formylating nonribosomal peptide synthetase” by Reimer et al in Nature: DOI: 10.1038/nature16503
+
+​This work was supported by CIHR grant 106615, a HFSP CDA and a Canada Research Chair in Macromolecular Machines to T. Martin Schmeing. Janice .M. Reimer is supported by an NSERC Alexander Graham Bell studentship, and Martin. N. Aloise by a studentship from the CIHR Training Grant in Chemical Biology.

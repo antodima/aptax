@@ -1,0 +1,25 @@
+By: |
+
+We’ve seen transforming robots before, and I’m not talking about anything related to Hasbro.
+
+Researchers from MIT are among many engineers and tinkerers trying to design robots that perform different functions by changing their shape or appearance.
+
+Japan-based Brave Robotics has designed a 1/12-scale RC car that can transform into a humanoid robot. It can shuffle around, grab footage with its Wi-Fi camera, and even fire little missiles from its arms.
+
+But the intriguing part about the Transform Robot is its scope. Not only has Brave Robotics hobbyist Kenji Ishida put 10 years into building robots in disguise — he began in 2002 with a simple pair of legs and the Transform Robot is version 7.1 — he wants to build a full-scale transforming, drivable car with artificial intelligence by 2030.
+
+Transformers fan gone wild? Perhaps.
+
+Even though building a real Autobot seems highly unlikely due to the enormous power requirements, not to mention the sheer cost and AI hurdles, Ishida is an undaunted dreamer.
+
+He showed off his RC transformer last weekend at Maker Faire Tokyo, which also witnessed the appearance of 13-foot mecha marvel Kuratas, inspired by a different sci-fi franchise.
+
+The Transform Robot is partly made of 3D-printed components and runs on lithium-polymer batteries.
+
+The car even has room for two seats in case your action figures want to hop a ride. Check it out in the vid below.
+
+Ishida will make only 10 Transform Robots, custom painted and already programmed, each for $24,000. Yes, that’s the 1/12-scale version.
+
+Well, how else is he supposed to fund Autobot development?
+
+Check out more information here.

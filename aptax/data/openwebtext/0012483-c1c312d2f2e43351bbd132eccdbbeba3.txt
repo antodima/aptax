@@ -1,0 +1,41 @@
+For reasons that are not immediately clear to me, it seems that a lot of developers who attended Microsoft's recent PDC event were surprised to hear that the company now sees HTML5 as the way forward for developing rich Internet applications—and not, as they had been expecting, Silverlight. Their surprise surprises me, because past statements by the company had already made this repositioning obvious, though perhaps not explicit.
+
+When Silverlight was introduced in 2007, it was positioned as a kind of alternative to Adobe Flash. Though Silverlight and Flash have their differences—Silverlight's approach is a bit more programmer-oriented, Flash's a little more designer/artist-oriented—they were broadly aimed at the same market: complex, interactive content, delivered through the Web browser.
+
+As such, a naive observer might have expected Silverlight to be more prominent at PDC. During the keynote presentation, however, it received nary a mention. Mary-Jo Foley talked to Bob Muglia, president of Microsoft's Server and Tools division, and was told that Microsoft's strategy has shifted. HTML5 is now the solution for these same rich Web applications.
+
+After the ZDNet story was published, both Bob Muglia and Microsoft CEO Steve Ballmer wrote to "clarify" Microsoft's position. Fundamentally, though, it was as reported: Silverlight is still important, but no longer the premier option for Web development. The focus has shifted.
+
+Cue much wailing and gnashing of teeth. It's understandable in a sense—if you're a design agency or developer who's made your living from building Silverlight applications, the last thing you want to hear is that the company backing Silverlight is ditching it in favor of something else—but surprising nonetheless: it's been clear from Microsoft's recent actions that HTML5 is the priority, and over the past few months, the company has as good as said so already.
+
+This should be news to nobody
+
+The development of Internet Explorer 9 should have been a wake-up call to Silverlight developers. Throughout Internet Explorer 9's development, Microsoft has been shouting about HTML5 and Web standards. Really, it's been hard to miss. The company has made huge strides towards making Internet Explorer 9 a high-performance, standards-compliant, HTML5 machine. The current emphasis on HTML5 should not come as a surprise to anyone.
+
+The development of Internet Explorer 9 should have been a wake-up call to Silverlight developers.
+
+And it's not just the Internet Explorer team making a big noise about HTML5. Even the Silverlight team, in a blog post dating back to September, acknowledged Microsoft's commitment to HTML5. The post does two things. First, it positions Silverlight not as a replacement for HTML5, but as an adjunct to HTML5. There are certain things that HTML5 can't do—for example, stream DRM-protected video—that Silverlight can. HTML5 may be the main way of delivering Web applications, but this doesn't mean that there aren't niches where Silverlight (or, for that matter, Flash) is appropriate.
+
+Second, the post draws attention to non-Web uses of Silverlight. Silverlight can be used to develop applications that exist outside the Web browser in two areas. One, Silverlight can be used for desktop applications. They still use the Silverlight runtime, but are launched and run as if standalone. The Seesmic Desktop social networking client is a good example. It's built using Silverlight, but it looks and feels like a regular program (albeit one with a slightly quirky interface).
+
+Two, and this is the one that is strategically most important to Microsoft, Silverlight is the primary development tool for Windows Phone 7. It's not the only tool—games will generally use the XNA Framework instead—but most non-game applications will use Silverlight.
+
+If Silverlight developers didn't see the change in strategies coming, then it's not because Microsoft was making some big secret of it, and it certainly shouldn't surprise anyone. Frankly, Bob Muglia was not even announcing a new strategy: he was describing the strategy already taken, the one already elucidated by the Silverlight team, and already plain at least since the release of the first Internet Explorer 9 platform preview.
+
+The Apple issue
+
+The big reason for this change in strategy is that HTML5 will, one day, be cross-platform in a way that Silverlight probably won't ever be. Part of this is Microsoft's own fault—the company produced first-party Silverlight versions for Windows and Mac OS X but left Linux support to Novell's Moonlight, and did little to encourage .NET development on iOS or Android—but a big part of the problem is iOS. Apple refuses to allow browser plugins, and is reluctant even to allow standalone applications developed using alternative frameworks. If Microsoft wants to embrace iOS devices, HTML5 is the only real option.
+
+Adobe faces a similar issue with Flash—it too isn't welcome on iOS—but Adobe has nonetheless attempted to bridge the gap. The latest set of Flash tools can produce standalone programs that Apple will, begrudgingly, accept into the store. Adobe has also worked to produce a Flash plugin for Android and Linux, and is expected to produce one for Windows Phone 7 too.
+
+So what does this new focus for Silverlight—standalone applications, phone applications, and filling the gaps in Web applications—mean for the framework and its developers?
+
+Silverlight's new direction
+
+It certainly doesn't mean that Silverlight is no longer important. If anything, the opposite is true. Silverlight is more important now than it has ever been. Just not in a way that was originally envisaged.
+
+The truth is, Silverlight as a Flash-killer never quite made sense. The runtime, just as with the Flash runtime, is given out for free anyway, and though Microsoft may sell a few extra copies of Visual Studio or Expression Blend to Silverlight developers, it was never going to be a huge money-maker. And it was never likely to displace Flash; Silverlight's more programmer-y approach may well have appealed to developers of Web applications, but it also meant it was unlikely to ever appeal to creators of Flash animations. So the loss of this market to HTML5 probably isn't catastrophic: Silverlight was never likely to win here.
+
+Silverlight's new importance stems not from Web applications, but Windows Phone 7. If Microsoft doesn't make a success of Windows Phone 7 then the company's chances of making any money from the smartphone market are negligible. Smartphones are, potentially, an enormous growth market, important not just in their own right, but as a component of a broader market of highly portable, touch-driven devices. A rich selection of high-quality third-party applications is a key part of this, and these applications will generally use Silverlight. For as long as Windows Phone 7 is a going concern, Silverlight will remain a top priority.
+
+This might seem small comfort to existing Web-oriented Silverlight developers, as phone development is a very different beast than Web development. In some ways, it's a much narrower market: most developers are writing internal applications for use by the employers, and these employers are much less likely to want phone applications than they are Web applications. But in other ways, it should be rather broader: a new market of end-user, "shrinkwrap" software has opened up that didn't exist before.

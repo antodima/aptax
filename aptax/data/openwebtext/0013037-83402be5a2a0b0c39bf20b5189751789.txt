@@ -1,0 +1,51 @@
+news that people like to go out at weekends, I hope you're sitting down for this one: people who aren't good at numbers tend to be bad at looking after their money. " data-share-img="" data-share="twitter,facebook,linkedin,reddit,google,mail" data-share-count="false">
+
+After shocking you this morning with the news that people like to go out at weekends, I hope you’re sitting down for this one: people who aren’t good at numbers tend to be bad at looking after their money.
+
+My professional life is largely spent in a world of highly-numerate and highly-intelligent people, many of whom blow up spectacularly in the financial markets. And looking at hedge funds in particular, it’s very easy to find genius-level investors who have lost astonishing amounts of money: there’s clearly more to getting and holding on to vast sums than simply being off-the-charts smart. But the fact is that if you zoom out from the tiny group at the top, there’s a very strong correlation between numeracy, or intelligence, or financial literacy, on the one hand, and having a solid financial footing, on the other.
+
+Bear with me here, for a minute, because it’s worth reviewing the literature. Financially literate people are more likely to plan for retirement. And if you plan for retirement, you have more wealth: a 2006 paper showed the median person who was planning for retirement as being worth between $307,750 and $410,000, while the median person who isn’t planning for retirement was worth just $122,000.
+
+IQ also helps. Check out this chart, for instance, from a very long and detailed paper about the likelihood that a person of given intelligence will be invested in the stock market.
+
+The distribution is clear: the smarter you are (as measured by IQ), the more likely you are to be invested in the stock market. And this distribution is independent of wealth: it applies to the rich as much as it does to the poor. Or, as the paper puts it, “IQ’s role in the participation decisions of the affluent is about the same as it is for the less affluent. The definition of affluence—net worth or income—does not affect this finding.”
+
+Most impressively, check out this paper from 2007. It asked just three “simple mathematical questions” of couples to judge the numeracy of each one. If neither got any questions right, the total wealth of the couple, on average, was $202,000. If they both got one question right, it was $505,000. If they both got two questions right, it was $853,000. And if they both got all three questions right, their average wealth on average was a whopping $1.7 million. (If they got different scores from each other, the wealth ended up somewhere in between.)
+
+And similarly, at the other end of the spectrum, there’s huge amounts of research showing that if you’re particularly financially illiterate, or you’re not good at numbers, then you’re much more likely to be ripped off by predatory lenders or other scams, be they legal or otherwise.
+
+There are various conclusions to be drawn here, one of which is that if we do a better job of financial education, then Americans as a whole will be better off. That’s true. But at the same time, financial illiteracy, and general innumeracy, and low IQs, are all perfectly common things which are never going to go away. It’s idiotic to try to blame people for having a low IQ: that’s not something people can control. And so it stands to reason that any fair society should look after people who are at such a natural disadvantage in life.
+
+Which brings me to Nina Easton’s horrible new cover story for Fortune. Online, the headline is “Stop beating up the Rich”: even the capitalization grovels to the overclass. The magazine coverline is even worse: “In this political season,” it says, “the rich are an easy punching bag”.
+
+But over the course of the story’s 2,700 words, Easton never really manages to give any examples of “people beating up the Rich”: she’s incredibly vague about the behavior she wants to stop. There’s a graphic, under the cute headline “Public Enemy No. 1%”, listing historical examples of Americans “taking shots at the wealthy”: it features things like the debut of Mr Burns in The Simpsons, and Enron’s Jeff Skilling getting pied.
+
+By Easton’s own lights, that kind of thing is fair enough: there’s always a handful of evil rich people worthy of opprobrium. Her argument, quite explicitly, is that we shouldn’t tar all the rich with the same brush — but it’s precisely that kind of broad-based tarring which Easton has clearly failed to find. Yes, there are lots of impassioned pleas against rising inequality, but complaining about inequality is not at all the same thing as beating up on the rich.
+
+So when Easton says that “it’s wrong to lump the 1% into a monolithic group of greedy, tax-avoiding, selfish capitalists”; when she complains of “diatribes against the 1%”; when she says those people are being vilified — what she’s actually doing is carefully constructing a straw man. She simply assumes that every time anybody stands up for the 99%, or complains that they’re not fully partaking in the fruits of America’s economic growth, that they’re vilifying the 1% who do partake in those fruits at the same time.
+
+She’s also capable of writing highly mendacious stuff like this:
+
+Obama’s tax proposal labels as “wealthy” households making more than $250,000 a year — a comfortable income in Indianapolis (where the median home price is $102,000) but barely enough to afford a studio apartment in Manhattan, where tax rates easily hit 50%.
+
+This completely ignores how marginal tax rates work: to a first approximation, there are roughly zero people in Manhattan who pay 50% of their total income in taxes. It’s possible that marginal income ends up being taxed at that rate — but if you’re earning $250,000 a year, you’re not paying anything near $10,000 a month in taxes.
+
+Even if you were having to suffer through life in New York on a post-tax income of a mere $125,000, you could still, quite easily, rent pretty much any studio apartment you wanted, with money to spare for nice meals and international holidays and the like. In Manhattan, the average studio apartment rents for $2,261 per month in non-doorman buildings, and $2,677 per month in doorman buildings. That’s just over $32,000 a year, or 12.8% of a $250,000 salary. I’d say that falls into the “easily afford” bucket, rather than the “barely afford” one.
+
+The point here is that an income of $250,000 does, in fact, make you rich — and that if you increase marginal tax rates on people making more than that, then you’re only raising taxes on the income they make over and above a pretty hefty amount.
+
+But Easton is too busy throwing out red herrings to notice: for instance, she says that “over the past four decades the global economy has left many behind, but it has also lifted tens of millions out of poverty”. Actually, the number of people lifted out of poverty, globally, over the past four decades is much bigger than that — but the number of Americans lifted out of poverty has been shamefully low for basically all this century.
+
+“Raising taxes definitely won’t cure inequality,” says Easton, weirdly — if that’s the case, then the 1% really shouldn’t worry about higher taxes at all, since they’ll still be sitting happy, relatively super-rich, above everybody else.
+
+In any case, the deep underlying problem with Easton’s article is the way in which she essentially says that the way to fix what ails us is for everybody to become intelligent and numerate and so on.
+
+“Even if Occupy Wall Street’s wish came true and all the gains of the top 1% since 1979 were confiscated and redistributed to the 99%,” writes Easton, “household incomes would go up by less than half of what they would if everyone had a college degree.” She continues:
+
+There’s a limit to what policymakers can do about the ravages on a middle-aged man’s job prospects after three decades’ worth of technological advances and global competition. But we can talk about education: College degrees, while not a panacea, not only carry huge salary premiums but also offer a measure of job protection.
+
+This is true, but it also misses the crucial fact that not everybody can extract good value from college. There’s a reason that not everybody goes to college, and if you look at the predatory for-profit colleges pushing people into courses which they’re not remotely suitable for, it’s easy to see that the outcomes for people who do go to college are in large part a function of the fact that there’s a lot of self-selecting going on. The people who go to college are the literate and numerate and intelligent ones, and many of them would do well for themselves even if they had no college degree at all. Meanwhile, many of the people who don’t go to college would find it little more than a waste of time and money.
+
+It seems to me that the current election campaign comes down in large part to a simple question: “who do you care about”? Do you care about the 1%, on the grounds that they are “job creators”? Or do you care about the bottom 40% — the people who have been left behind by US economic policy and who desperately need help and support? The Republicans clearly are the party of the 1%, and the Democrats are trying to paint themselves as the party of the middle class — of the 59%, you might say. But no one is standing up for the bottom 40%, the invisible poor, partly because they have a distressing tendency not to vote.
+
+Easton concludes by saying that “mobility, in the form of equal opportunity rather than equal outcomes, is rooted in the very idea of America”. That’s true — and it’s also true that America has less equality of opportunity today than at any point in living memory. Once Easton has managed to provide the poor the same level of education afforded to the rich, then she can start talking about the open road to riches. But at that point, you might have a genuinely mobile society, where the people at the top know what it’s like to be at the bottom, and know that they might end up back down there themselves at some point. And in those societies, you tend to find much stronger safety nets, much more concern for people at the bottom, and many fewer tears shed for the plight of the 1%.

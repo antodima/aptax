@@ -1,0 +1,37 @@
+CoreOS founder Alex Polvi Twitter/@polvi
+
+Google Ventures is leading a $12 million investment in CoreOS, a tiny startup that's changing the way modern web applications are built and maintained.
+
+The startup will also use a recently released Google technology called Kubernetes in one of its own products, which is aimed at helping companies run their data centers more efficiently.
+
+CoreOS makes a super-lightweight version of the free Linux operating system, which reduces the amount of hardware you need to run applications in big data centers. That's made it popular among software developers looking to do more with less.
+
+For a while there, CoreOS was tight with Docker, one of the hottest startups in Silicon Valley, and it's no surprise why — they both had the mission of taking apps and putting them into what we call "containers."
+
+Think of containers as a metaphor. Shipping yards put goods into a bunch of shipping containers all the same shape and size because it makes them easy to stack onto boats.
+
+In the same way, containers let you take an application (an email server, a blogging platform, whatever) and whatever else it needs to run and throw it into a standard virtual "box." You can put this box on your own servers in your own data center, or upload it to Amazon's or Microsoft's or Google's cloud service and it'll run the exact same way, without the extra effort of having to struggle with it to make it work. It's all self-contained. (Hence, "containers.")
+
+CoreOS made a version of Linux that went into these boxes, and Docker made the boxes themselves.
+
+Docker Founder and CTO Solomon Hykes Flickr/ 97226415@N08
+
+But Docker and CoreOS had a falling out late last year. A container on its own doesn't really do much, it needs to be overseen and managed. Docker wanted to sell this management technology as well.
+
+CoreOS had an issue with what it saw as Docker getting too big for its britches, and made its displeasure clear with the public launch of Rocket, a competitor to Docker. Suddenly, developers had two options for building those self-contained apps-in-boxes.
+
+Meanwhile, Google has quietly been using containers in its own huge data centers for many years now. As Docker made containers popular to the rest of the world, Google released some of its own technology for managing them, dubbed Kubernetes, for free. Kubernetes seen some uptake in both the CoreOS Rocket and Docker communities.
+
+Today, in addition to the funding, CoreOS is announcing a new product called Tectonic, which combines the CoreOS operating system and the Rocket container technology and a management system for those containers based on Google's Kubernetes into one package.
+
+"With Kubernetes, we have a complete platform," says CoreOS CEO Alex Polvi.
+
+It's also the first purely commercial product that CoreOS has: The operating system and Rocket containers are both free; the company sells consulting and support services to make money. This whole Tectonic platform, though, will cost enterprise clients some cash.
+
+Why is Google so interested? Because Kubernetes is supported by Google's own Cloud Platform, where applications can be run at high scales. A customer using Tectonic would likely be attracted to the Google Cloud Platform, since it wouldn't require them to change anything at all to get it running at large scale.
+
+While both the Microsoft Azure and Amazon Web Services clouds do support Kubernetes, reigning cloud champion Amazon Web Services primarily publicizes its own products for managing containers.
+
+This may be too early to say, but the fact that CoreOS is opening some doors for Google Cloud Platform could make CoreOS an attractive acquisition for Google.
+
+Other investors in the round include Kleiner Perkins, Fuel Capital, and Accel Partners.

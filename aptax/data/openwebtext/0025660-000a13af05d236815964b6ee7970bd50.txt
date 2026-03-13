@@ -1,0 +1,11 @@
+Your browser does not support HTML5 video tag.Click here to view original GIF
+
+Good news for the basements and attics of the world: bulky old cathode ray TVs are no longer useless! And turning them into a retro streaming device is easier than it looks.
+
+Dr. Moddnstine found a way to make a “portable” TV from 1978 accept Chromecast, turn on automatically when streaming to it, and found a way to fit all the additional parts inside the original chassis. I feel compelled to warn you though, it is very easy to electrocute yourself when fussing around in the cuts of old CRT—and not a quick jolt either. These kind of accidents can be lethal so proceed with caution.
+
+Advertisement
+
+As he explains in the extended demo, the mod requires a series of adapters to be wired together in the TV. First, there’s the 300 ohm twin lead (the one that old rabbit ear antennae attach to) needs to be converted into 75 ohm VHF. That signal runs into an RF modulator which outputs composite video. Finally, a composite to HMDI gives you the connection needed to plug in a standard Chromecast. The process might be a pain in the ass, but it doesn’t require anything you can’t find on Amazon. There’s also almost no soldering involved.
+
+Unfortunately, he doesn’t disclose how the automatic power on unit functions—we’ll just have to hold out for a new video some time in the future.

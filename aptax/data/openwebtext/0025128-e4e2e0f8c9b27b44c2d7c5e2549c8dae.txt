@@ -1,0 +1,47 @@
+The history of geek culture and its exclusion of women
+
+Updated about 2 hours ago Fri 6 Nov 2015, 1:04am
+
+Computing never used to be seen as a masculine pursuit, but since the 80s we have witnessed a fascinating recalibration of tech and gender, as the beta males became alpha, writes Jeff Sparrow.
+
+The first 'computers' had names. They were Kay McNulty, Marlyn Wescoff, Fran Bilas, Ruth Lichterman, Adele Goldstine and Betty Snyder.
+
+In the 1940s, these women programmed the US Army's Electronic Numerical Integrator And Computer (ENIAC), known to the press at the time as "the giant brain" and recognised today as the first electronic general-purpose computer.
+
+ENIAC's operators were chosen from the clerks - known as 'computers' - who had previously been working out ballistic tables with desk calculators. Most were women, and because the job entailed crawling within ENIAC to manipulate its switches and cables, they came to understand the machine better than anyone.
+
+That's just one example of the important role women played in pioneering today's high technology.
+
+Famously, the very first piece of computer programming was performed by Ada Lovelace, who, in the 1840s, wrote an algorithm designed to be employed by Charles Babbage's "difference engine". Grace Hopper came up with the first computer compiler in 1952 and then established the programming language COBOL. Mary Keller helped develop BASIC; Radia Perlman built some of the protocols of the early internet.
+
+As Brendan Keogh explains in his fascinating essay about the development of computer gaming , many of these advances took place in male-dominated institutions such as military facilities and engineering laboratories. Nevertheless, during the postwar decades, the proportion of women studying computer science was growing rapidly, faster than in any professional fields.
+
+And then something happened.
+
+In a piece for NPR , Steve Henn notes that the participation rates for women in computer science began to fall in the mid-80s: that is, at about the same time as personal computers entered the home.
+
+At first, the association seems completely counter-intuitive. You'd think home access to computing would increase gender parity.
+
+But as Henn says:
+
+These early personal computers weren't much more than toys. You could play pong or simple shooting games, maybe do some word processing. And these toys were marketed almost entirely to men and boys. This idea that computers are for boys became a narrative. It became the story we told ourselves about the computing revolution. It helped define who geeks were, and it created techie culture.
+
+Studies show that parents bought computers for their sons - but not for their daughters, even when the girls had expressed an interest in computing. As a result, boys arrived at university with a degree of computer knowledge that their female counterparts lacked. For decades thereafter, high technology became an overwhelmingly male field.
+
+Yet the masculinism of the computing world was a curious phenomenon. On the one hand, 'geek culture' of the 80s and 90s was almost defined by its exclusion of women. On the other, male geeks were themselves feminised, invariably depicted as socially awkward, somewhat effete individuals whose enthusiasm for technology served as compensation for failure at traditionally masculine pursuits (such as sport and drinking).
+
+Today, though, geekdom reigns triumphant.
+
+A glance at the box office reveals a Hollywood entirely in thrall to cultural productions once the almost exclusive preoccupation of self-identifying nerds (from comic book superheroes to space opera), while computer games have unquestionably become, in revenue terms at least, the dominant cultural mode.
+
+The new ubiquity of the digital world - almost everyone now works, in some way, shape or form, with a computer - has spurred a fascinating recalibration of tech and gender, as the beta males become alpha. At one time, an Aussie bloke would talk knowledgably about the innards of his car but respond incredulously to suggestions he understood anything about the workings of a computer. Today, he'll hold precisely the same mansplaining, kick-the-tyres conversation about RAM and ROM and processing speeds.
+
+These days, tech entrepreneurs like Steve Jobs and Mark Zuckerberg are portrayed not only as rich and powerful but somehow sexy, with their most geekish characteristics - the very traits that once might have marked them as slightly apart from the traditional gender roles - now reinterpreted as emblematic of masculine dominance. The digital tycoons present almost as Ayn Rand characters: completely self-centred, casually indifferent to social norms, ferociously dedicated to self-enrichment.
+
+Yet Rand's heroes were also defined by the kind of physicality that the high tech sphere traditionally lacks. For Rand, the capitalist was a Real Man but he was also a Man of Action, whose devotion to self-interest created stuff in the real world. Hence her notorious obsession with railways).
+
+It's fascinating, then, to watch the Randian masculinity re-invented out of material that Rand herself would have despised, as the internet becomes increasingly central to capital accumulation and thus to power.
+
+On the one hand, the recent history of technology is a narrative of misfits and isolates finding solace and community in opposition to the mainstream. On the other hand, that community has often solidified around its own exclusions, particularly the exclusion of women.
+
+That's the basis for scandals like 'Gamergate' (in the gaming world) or 'Sad puppies' (in the SF community): a struggle over the soul of geekdom (and thus the modern world), which is still working its way through.

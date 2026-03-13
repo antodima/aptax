@@ -1,0 +1,223 @@
+Water Storage Tanks, Cisterns, Aquifers, and Ponds
+
+For Domestic Supply, Fire and Emergency Use Includes How to Make Ferrocement Water Tanks by Art Ludwig Water Storage do-it-yourself guide to designing, building, and maintaining your water tank, cistern or pond, and sustainably managing groundwater storage. It will help you with your independent water system, fire protection, and disaster preparedness, at low cost and using principles of ecological design. Includes building instructions for several styles of ferrocement water tanks and design details for rainwater harvesting. On this page: Reviews
+
+Introduction
+
+Thinking about water
+
+Ferrocement tanks
+
+Table of Contents
+
+Sample Figures
+
+References
+
+Index
+
+Introduction Traditional clay water vessel in Michoacan, Mexico Water Storage describes how to store water for home, farm, and small communities. It will help you design storage for just about any use, including fire safety and emergency, in just about any contexturban, rural, or village. This book includes: general principles to help you design, construct, and use any water system
+
+a look at common mistakes and how to avoid them
+
+how the different kinds of storage can serve youtanks, groundwater, and ponds
+
+how to determine the optimum amount of storage for your needs
+
+how to determine the best shape and material for your storage
+
+how to manage aquifers sustainably for inexpensive storage of water in the ground
+
+plumbing details for inlets, outlets, drains, overflows, access, etc.
+
+storage accessories and gadgets such as automatic shut-off valves, remote level indicators, ozonators, and filters
+
+how to build your own high-quality tank from ferrocement
+
+original design innovationspublished here for the first timeto improve the quality of stored water, increase water security, make maintenance easier, and reduce environmental impacts
+
+real-life examples of storage designs for a wide range of contexts This book offers underlying design principles as well as design specifics. If you run into a situation not specifically covered, there's a good chance you'll be able to use these general principles to figure it out yourself. 3500 gallon ferrocement rainwater storage urn Installed water storage typically costs fifty cents to three dollars or more a gallon ($60-200/m3). If you've got this book in your hands, you're probably on the verge of making decisions about hundreds or thousands of dollars worth of storage. On an average water system, this book could pay for itself a hundred times over in savings on construction and maintenance. Most of the information otherwise available on water storage comes from vendors. Oasis Design doesn't sell water storage hardware, so you don't have to worry about being steered towards stuff you don't need. Rather, we make our living by providing information to help people have a higher quality of life with lower impact. ^ Top ^ | Reviews | Introduction | Thinking About Water | Ferrocement tanks | Table of contents | Figures | References | Index |Water Storage Extras
+
+Chapter 1: Thinking About Water To achieve your design goals for a water system, it is helpful to know what your goals are. The first order of business is to consider: Why Store Water? Nearly all water systems include some form of storage, most commonly a tank. Storage can be used to: cover peaks in demand
+
+smooth out variations in supply
+
+provide water security in case of supply interruptions or disaster
+
+save your home from fire
+
+meet legal requirements
+
+improve water quality
+
+provide thermal storage and freeze protection
+
+enable a smaller pipe to serve for a distant source We're going to consider each of these reasons to store water, then look at design principles to help you frame the goals for your project. Cover Peaks in Demand The most common function of water storage is to cover short-term use flows that are greater than the flow of the water source. For example, a tiny, one gallon-per-minute spring supplies 1440 gallons a day. This is several times more than most homes use in a day. However, almost every fixture in the home consumes water at a faster rate than 1 gpm while it is turned on. Even a low-flow shower head uses about 1.5 gpm. By using water stored in a tank, you can supply water to the shower faster than it is flowing from the spring. On completing the shower, the water will be coming in faster than it is going out, and the tank level will rise back up. If you had a 10,000 gal tank, you could run a 100 gpm fire hosecreating the kind of blast used to bowl over hostile crowdson the stored water from this tiny spring, for an hour and a half! Hopefully the fire would be out by then, as the tank would take several days to refill. Short on Water By 2025 at least 3.5 billion peopleabout half the world's populationwill live in areas without enough water for agriculture, industry, and human needs... Worldwide, water quality conditions appear to have degraded in almost all regions with intensive agriculture and in large urban and industrial areas. World Resources Institute, October 2000 Smooth Out Variations in Supply In some circumstances, your storage needs will be affected by variations in the water supply. For instance, if the supply is rainwater, you will need enough storage to make it through the intervals between rainfalls. A six-month, rainless dry season requires a heck of a lot more storage than the most common kind of variable supplya well pump that cycles on and off. If you have a well that taps stored groundwater, a tank will save wear and tear on your pump, because the pump won't have to switch on and off every time you open a tap. Provide Water Security in Case of Supply Interruptions or Disaster In many places, the water supply chain from source to tap is long and made of many delicate links. If a cow steps on the supply line, a pump breaks, a wire works loose, the electricity goes out, the city misplaces your check, or there is a natural disaster, your water flow could stop. By locating your storage as few chain links away as possible from your use point, a large measure of security is added...
+
+Appendix D: How to Make Ferrocement Tanks Ferrocement tanks consist of an armature (framework) of steel reinforcing, which is then covered with a sand-cement plaster. They offer complete flexibility in shape. They have a long life, are cost-competitive when contractor-built, and are owner-buildable in both industrialized and non-industrialized countries. This section describes how to build ferrocement tanks with various techniques, to a variety of standards and sizes from 250-30,000 gal (1-115 m3). With the aid of an engineer you could adapt the plans up to a 100,000 gal (380 m3) tank. For more on the advantages and characteristics of ferrocement tanks, see Tank Materials/ Ferrocement p. 41. Heavy-duty ferrocement tank (section) The existing literature on ferrocement tanks is sparse, and each document is narrowly focused: one particular size of one design, or a variety of designs but all for the context of non-industrialized nations. The heavy-duty ferrocement construction technique described herewhich is suitable for large tankshas not been described in the literature before to my knowledge. This appendixpractically a book in itselfis unique in that it describes the full range of ferrocement techniques in one place, and reconciles some enormously disparate opinions and techniques into a coherent formulary. From procedures for ultra-light duty tanks that use the absolute minimum of material, to tanks buildable by native women with no construction experience, to detailed procedures for building large tanks to last a lifetimeyou can glean the best approach for your context. In the do-it-yourself, innovative spirit of ferrocement, this appendix gives you not only recipes but numerous variations and ideas for promising innovations, so that you can follow a recipe or concoct your own to suit: Plans for Jumbo Thai Jar, an 800 gal (3 m 3 ) light-duty cistern, which can be adapted to make containers of this shape from 250-800 gal (1-3 m 3 ).
+
+) light-duty cistern, which can be adapted to make containers of this shape from 250-800 gal (1-3 m ). Description of ultra light-duty ferrocement for cisterns up to 3000 gal (11 m 3 ) in size in the non-industrialized world.
+
+) in size in the non-industrialized world. Plans for light-duty ferrocement 10,000 gal (38 m 3 ) cistern, adaptable for inexpensive, non-industrialized nation-style cisterns from 500-10,000 gal (1.9-38 m 3 ).
+
+) cistern, adaptable for inexpensive, non-industrialized nation-style cisterns from 500-10,000 gal (1.9-38 m ). Construction photos of medium-duty, urn-shaped, ferrocement cistern of 3500 gal (13 m 3 ), which can be used in conjunction with the heavy-duty ferrocement construction plan to guide the construction of medium-duty construction cisterns from 500-15,000 gal (1.9-57 m 3 ). These also illustrate how ferrocement can be used to make creative shapes and details.
+
+), which can be used in conjunction with the heavy-duty ferrocement construction plan to guide the construction of medium-duty construction cisterns from 500-15,000 gal (1.9-57 m ). These also illustrate how ferrocement can be used to make creative shapes and details. Detailed plans for heavy-duty ferrocement construction of a 30,000 gal (110 m3) cistern, which can be adapted to tanks from 3000-30,000 gal (11-110 m3) capacity, and with the aid of an engineer, tanks up to 100,000 gal (380 m3).
+
+Contents Chapter 1: Thinking About Water Why Store Water?
+
+Cover Peaks in Demand  Smooth Out Variations in Supply  Provide Water Security in Case of Supply Interruptions or Disaster  Save Your Home from Fire  Meet Legal Requirements  Improve Water Quality  Provide Thermal Storage and Freeze Protection  Enable a Smaller Pipe to Serve for a Distant Source
+
+Design Principles
+
+Water System Design  Performance and Security Standard  Running Water People, Still Water People  Separate Handling for Different Qualities of Water  Design Horizon  Design for Failure, Design for Change  Where the Stuff in Water Ends Up  What Do You Have? What Can You Find?
+
+How Water Quality Changes in Storage
+
+Ways to Improve Water Quality in Storage  Hazardous Disinfection Byproducts Effects of Heating  Bacterial Regrowth  The Problem of Leaching  Water Age  How to Test Stored Water Chapter 2: Ways to Store Water Source Direct (No Storage)
+
+Store Water in Soil
+
+Store Water in Aquifers
+
+How Water Gets into and Moves through Aquifers  How to Increase the Amount of Water in Your Aquifer  Conjunctive Use  Sustainable management of groundwater  Overdrafting, Mining Fossil Groundwater  Protecting Groundwater Quality
+
+Store Water in Ponds
+
+Types of Man-Made Ponds and Where to Put Them  Pond Water Sources  Evaporation  Pond Size  Pond Depth  Pond Shape  Pond Inlets and Outlets  Pond Liners  Levee Construction  Wildlife and Ponds  Sport Fish in Ponds  Pond Maintenance
+
+Store Water in Open Tanks, Swimming Pools
+
+Store Water in Tanks Chapter 3: Water Tank Design Tank Components Overview
+
+Situating Water Tanks
+
+Elevation  Stability of Soil and Slope  Aesthetics, Sacred Spots  Security  Buried Storage
+
+Sizing Water Tanks
+
+Sizing a Tank For Demand Peaks which Exceed Flow  Sizing a Tank When You Have Limited Water Supply with Scheduled Use  Sizing a Tank to Cover Use During Interruptions in Supply  Sizing a Tank When Production Is Intermittent  Sizing a Tank for Firefighting  Size and Structural Integrity
+
+Tank Shape
+
+Tank Materials
+
+Materials Situations to Avoid  Glass  Ferrocement  Galvanized Steel  Stainless Steel  Porcelain-Bonded Carbon Steel  Brass  Copper  Aluminum  Rock and Mortar  Concrete  Brick  Clay  Wood  Plastic  High Density Polyethylene (HDPE #2)  Ethylene Propylene Diene Monomer (EPDM)  Fiberglass (Glass Fiber-Reinforced Polyester, GRP)  Epoxy-Coated Steel or Concrete  Masonry in and over Plastic  Galvanized Steel with Plastic Membrane  Interior Membranes for Repair  Plastic Bladders  Goat Bladders, Leather, etc.
+
+Tank Footings and Floors
+
+Tank Roofs
+
+Water-Harvesting Roof
+
+Tank Costs
+
+Really Cheap Storage
+
+Regulatory Requirements
+
+Zoning  Architectural Guidelines  Building Department  Fire Department  Health Department
+
+Hazards of Stored Water & How to Avoid Them
+
+Drowning  Structural Collapse  Flooding  Pestilence  Toxic Contamination  Liability Exposure
+
+Water Tanks for Special Applications
+
+Pressure Tanks  Break Pressure Tanks  Hot Water Storage  Tanks for Transporting Water Chapter 4: Common Features of Water Tanks Inlet
+
+Outlet
+
+Service Access
+
+Drain
+
+Tanks with No Drain  Drain Location and Orientation
+
+Overflow
+
+Critter-Proofing
+
+Air Vent
+
+Sunscreen and Shade Chapter 5: Optional Water Tank Features Inlet Meter, Filter, Gauges
+
+Inlet Float Valve
+
+Inlet Combined with Outlet
+
+Inlet Aerator
+
+Inlet Diffuser to Improve Settling
+
+Outlet Screen or Filter
+
+Variable Height Outlet
+
+Outlet Float
+
+Water Hammer Air Cushion
+
+Level Indicators
+
+Ozonators
+
+Drain Extension or Baffle
+
+Outlet and Overflow Curves
+
+Pump Controls, Alarms, and Switches
+
+Sand Filter
+
+Multiple Tank Management
+
+Freeze Protection Chapter 6: Emergency Storage How Much Emergency Water Do You Need?
+
+Emergency Storage You Already Have
+
+Long-Term Storage in Small Containers
+
+Protecting Stored Water
+
+Systems for Firefighting Chapter 7: Examples of Storage Systems for Different Contexts Poor Surface Water Quality, Limited Groundwater
+
+Only Stored Water in Dry Season, Hydroelectric in Wet Season
+
+Creek Direct with Remote Storage and Sand Filtration
+
+Very, Very Low Pressure
+
+Simple Jungle Eden
+
+Rural House with Well
+
+Urban Apartment
+
+Swank Suburban House Appendix A: Measurements and Conversions Appendix B: Tank Loads and Structural Considerations Appendix C: More About Plastics Appendix D: How to Make Ferrocement Tanks Ultra-Light Ferrocement over a Form: Jumbo Thai Jar Plans
+
+Ultra-Light-Duty Ferrocement Description
+
+Light-Duty Ferrocement Plans
+
+Medium-Duty Shaped Ferrocement Photos
+
+Heavy-Duty Ferrocement Plans
+
+Tools  Materials  Labor  Design  Site Prep  Grade for the Floor  Drain  Floor and Inside Wall: Welded Wire Mesh  Floor and Wall: Rebar  Inlet, Outlet, and Overflow Hardware  Wall Outer Welded Wire Mesh, First Layer of Lath and Hardware Cloth  Lift the Whole Thing Up and Get Ready to Pour  Pour the Floor  The Roof, Cool Shapes, Ladder  Lath and Hardware Cloth  Plaster Prep: Roof Supports, Seal Door  Plaster the Whole Tank  Keep It Wet  Color and Seal It  Fill It Index
+
+Sample Figures & Photos
+
+Pond at the Institute for Solar Living
+
+Ferrocement water tank shaped like a boulder
+
+Common features of water tanks
+
+Aquifer, Well, and Spring Types
+
+Drain Option Construction Details Low tech drain and outlet for mortared stone water tank
+
+Retrofit of a plastic tank with a sloped floor, sump, and dedicated drain
+
+Multiple tank plumbing options Tank floor options Tank floor options (PDF 5mb, updated in 2007 printing) Fire safety Water for fire safety (PDF 0.5mb, updated in 2009 printing)

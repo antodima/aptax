@@ -1,0 +1,15 @@
+Gurgaon will soon get a full-scale smart grid system for traffic management. Shortage of traffic cops and an increasing number of vehicles in the city results in heavy traffic jams at all major crossings during peak hours every day. To avoid such chock-a-block situations, the Municipal Corporation of Gurgaon (MCG) will partner with a Japanese firm, which will install an Integrated Intelligent Traffic System (IITS) at various crossings.
+
+The system intends to control traffic by forewarning drivers and changing signals according to the traffic volume.
+
+The project is likely to commence by the end of this month and intelligent signals will be installed at three crossings in the pilot phase. These include the Genpact crossing on the Golf Course road, Ghata crossing and Kachra Chowk on the Gurgaon-Faridabad road.
+
+The routes will have induction loops, which are coils of ropes embedded under the roads. Whenever a vehicle will pass over the loop, it will induce a current based on the speed of the vehicle, which will further send a pulse to the traffic signal controller to show the presence of an approaching vehicle. And this will initiate a traffic signal change process.
+
+Additionally, LED screens will be installed at a distance of about 400 metres from each crossing to avoid bumper-to-bumper traffic. Infrared camera sensors with WiFi connections will be installed with the streetlights, which will relay live traffic information to control rooms. The controller will then flash traffic information on the LED screens with messages like — ‘Please take a diversion, heavy traffic ahead’.
+
+“For three months, traffic at these three crossings will be managed through IITS, by tweaking time intervals of traffic signals to predict best possible routes, and by modelling optimal traffic flows,” a senior MCG official told The Times of India.
+
+Here’s hoping that this innovative transport infrastructure will help Gurgaon residents save time and maintain a stress-free routine for their daily commutes.
+
+Like this story? Or have something to share? Write to us: contact@thebetterindia.com, or connect with us on Facebook and Twitter (@thebetterindia).

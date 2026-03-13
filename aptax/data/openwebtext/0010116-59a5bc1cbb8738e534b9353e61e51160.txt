@@ -1,0 +1,9 @@
+Like a modern Henri Becquerel, Washington State University doctoral student Marianne Tarun's discovery came quite by accident. Her simple lab error has uncovered a new way to boost electrical conductivity of a crystal by 40,000 percent, simply by exposing it to light.
+
+Tarun had accidentally left a sample of strontium titanate out on a counter before testing the crystal's conductivity and discovering the phenomenon. Her team suspects that photons knock loose electrons which boost the material's conductivity. Her follow up tests confirmed the effect and found that as little as 10 minutes of light exposure could propagate the effect for days on end.
+
+Advertisement
+
+Known as persistent photoconductivity, it's nowhere near the level of electrical throughput of what super-conducting materials can achieve. However, it does hold a great deal of practical potential. For one, the effect works at room temperature unlike superconductors which only function at a fraction of a degree from absolute zero.
+
+"The discovery of this effect at room temperature opens up new possibilities for practical devices," said Matthew McCluskey, co-author of the paper and chair of WSU's physics department, in a press statement. "In standard computer memory, information is stored on the surface of a computer chip or hard drive. A device using persistent photoconductivity, however, could store information throughout the entire volume of a crystal." This could eventually lead to massive increases in data capacity and, hopefully, a Krypton-style storage medium. [WSU]

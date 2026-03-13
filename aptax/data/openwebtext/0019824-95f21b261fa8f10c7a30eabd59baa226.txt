@@ -1,0 +1,11 @@
+Will 2014 bring the death of the patent troll?
+
+In an effort to protect businesses from frivolous patent lawsuits, the House of Representatives recently passed a bill called the Innovation Act by a vote of 325-91. What’s more, the bill passed within two months of being introduced. Soon afterward, the Supreme Court agreed to hear a case that revisits the section of patent law concerning what exactly can be patented in the United States. And this comes just two years after President Barack Obama signed the America Invents Act, which, despite criticism, instituted the greatest reform to the system in nearly 60 years.
+
+Why so much attention to patent reform in such a relatively short period of time? Because “patent trolls” — companies that exist solely to acquire patents and then sue other companies for infringement — are filing more lawsuits than ever, more than 3,000 in 2012 alone. The typical targets are tech companies, startups and multinational corporations, because of the software they use, but brick-and-mortar businesses also get sued. And these companies say all this litigation, or even the threat of it, is severely hampering innovation and dramatically increasing the cost of doing business.
+
+But the problems with the patent system aren’t just with the legal process. Getting a patent in the United States is surprisingly easy. And it’s this ease of acquisition that’s led to a vast amount of patents with no value as innovations.
+
+There’s a patent on sending hyperlinks to mobile phones. There’s one for displaying images on websites and one on serving personalized ads over the Web. Even if the patents weren’t originally intended to cover these ubiquitous technologies, they can be claimed as such because they employ broad, vague language that a lawyer can use to make the case for infringement. David Martin, the founder of M-Cam, a company that analyzes patents to assess their value, believes that about one-third of all active patents fall into this category.
+
+So the patent system is deeply flawed and the U.S. government is trying to fix it. What follows is a look at the problems and the proposed reforms through one patent’s journey from idea to issuance, and then litigation.

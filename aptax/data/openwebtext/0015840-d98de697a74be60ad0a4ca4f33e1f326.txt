@@ -1,0 +1,87 @@
+Select a date Select month July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 December 2016 November 2016 October 2016 September 2016 August 2016 July 2016 June 2016 May 2016 April 2016 March 2016 February 2016 January 2016 December 2015 November 2015 October 2015 September 2015 August 2015 July 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 September 2014 August 2014 July 2014 June 2014 May 2014 April 2014 March 2014 February 2014 January 2014 December 2013 November 2013 October 2013 September 2013 August 2013 July 2013 June 2013 May 2013 April 2013 March 2013 February 2013 January 2013 December 2012 November 2012 October 2012 September 2012 August 2012 July 2012 June 2012 May 2012 April 2012 March 2012 February 2012 January 2012 December 2011 November 2011 October 2011 September 2011 August 2011 July 2011 June 2011 Select a category Agriculture Bihar Votes For Its (and India’s) Future BUDGET 2014 Budget 2015: Modi’s Moment of Reckoning Budget 2016: The stories behind the numbers Chart of the Day Climate Change Cover Story Currency Chaos Development Education Elections 2014 Employment Fact Check Governance Newsletter Health homepage video Hunger India’s Great Challenge: Health & Sanitation IndiaSpend In The News IndiaSpend Interviews Industry Investigations Central State Latest Headlines Latest Reports Making Sense of Breaking News Modi’s Message: India’s States Reply Modi’s Report Card Mumbai Special Mumbai Special: The Revival Agenda Opinion – Videos Opinions Pollution Poverty Prime Time: India’s Grand Challenges Resources Central State Sectors Agriculture Defence Economy & Policy Education Health Infrastructure Snapshots States Central India Chattisgarh Madhya Pradesh EAST Bihar Jharkhand Orissa West Bengal NORTH Haryana Himachal Pradesh Jammu & Kashmir New Delhi Punjab Rajasthan Uttar Pradesh Uttarakhand NORTH EAST Arunachal Pradesh Assam Manipur Meghalaya Mizoram Nagaland Sikkim Tripura SOUTH Andhra Pradesh Karnataka Kerala Tamil Nadu WEST Goa Gujarat Maharashtra Story In A Minute The Air We #Breathe The Road To Delhi: Elections 2015 The Transition: 2015-2016 Uncategorized Viznomics: A Quick Glance At Big Issues Welfare Women Women@Work Search with Google
+
+The first Indian monitoring and early warning system for air pollution was launched on May 12, 2017, in the nation’s fifth most populous city, with the hope that it will reduce the health impacts and deaths from air pollution, a growing problem in a country with nine of the world’s 20 most polluted cities in 2016, according to the World Health Organization (WHO).
+
+Combining the efforts of local government, scientists and nonprofits, eight new air quality monitoring sites across Ahmedabad will produce a daily air quality index (AQI) that will be accessible to citizens through 11 LED screens across the city, as part of what is called the Air Information and Response (AIR) plan.
+
+An early warning system will notify people of excessive pollution days as part of the response plan, while medical professionals will be trained to respond to air-pollution emergencies. The monitors are installed at eight locations (Bopal, Satellite, Pirana, Raikhad, Navrangpura, Rakhiyal, Chandkheda and the airport) in a city of over 5.5 million people.
+
+An AQI is a metric on a sliding scale that tells people about the quality of the air and associated near-term health impacts. It transforms complex air quality data of various pollutants into a single number (index value), nomenclature and colour.
+
+Source: Indian Institute of Tropical Meteorology & Ahmedabad AIR planNote: Each of the AQI categories are decided based on ambient concentration values of air pollutants and their likely health impacts (known as health breakpoints). The eight pollutants measured are PM 10, PM 2.5, NO 2 , SO 2 , CO, O 3 , NH 3 , and Pb for which short-term (upto 24-hours) National Ambient Air Quality Standards are prescribed.
+
+Ahmedabad was among the five most polluted cities in India in terms of PM 2.5, according to the WHO’s 2014 Ambient Air Pollution database.
+
+PM 2.5 is particulate matter finer than 2.5 micro-meters, or about 30 times finer than a human hair. Inhaled deep into the lungs, they can cause heart attacks, strokes, lung cancer and respiratory diseases, and are known to pose the greatest risk to human health. Their measurement is considered to be the best indicator of the level of health risks from air pollution, according to the WHO.
+
+In the footsteps of Beijing
+
+People living in more polluted areas die prematurely after long-term exposure to air pollution, and inconsistent monitoring makes it difficult to assess the threat posed by ambient air pollution.
+
+The AIR plan is a collaborative effort between the Ahmedabad Municipal Corporation (AMC), Indian Institute of Public Health (IIPH), a nonprofit in Gandhinagar, Natural Resources Defense Council (a non-profit head-quartered in New York), Indian Institute of Tropical Meteorology (government institute) and the Indian Meteorological Department’s System of Air Quality and Weather Forecasting And Research (SAFAR) network.
+
+The monitoring and warning system will be tried for the first time in India, but follows the successful example of Beijing, that started the program for issuing colour coded pollution alerts in 2013, according to this report by The Scientific American.
+
+However, this warning plan was accompanied by other measures like restricted driving schedules, school closures and reduced industrial production to curb emissions, according to a 2014 paper in the Journal of Epidemiology and Community Health, which is missing in the Ahmedabad plan.
+
+The AMC has set aside a budget of Rs 30 lakh for 2017, Chirag Shah, nodal officer of the AIR plan and the Deputy Health Officer of the West Zone at the AMC, told IndiaSpend.
+
+“All the recurring costs, such as the maintenance of screens and stations, issuing advisories and initiating programs to increase public awareness will also be borne by us,” said Shah. “The land for installing the AQI monitors has been provided free of cost to SAFAR by the AMC, and SAFAR has invested about Rs 20 crore to install ten AQI monitors in Gandhinagar and Ahmedabad, eight of which are here.”
+
+The AMC had drafted a comprehensive Air Action Plan to combat pollution from construction activities, vehicular emissions and industries in 2016, its second such plan since 2002, but it is yet to be implemented, according to this Times of India report on May 12, 2017.
+
+Forecast air quality, issue early warnings and be better prepared
+
+The AMC Health Department is responsible for coordination of the AQI and AIR Plan. This includes monitoring the daily AQI, issuing alerts and warning on bad air days and disseminating public health messages to local departments and community service providers.
+
+The AIR plan is modelled after Ahmedabad’s Heat Action Plan (HAP), launched in 2013 to reduce health impacts and mortality from extreme heat waves through measures that included early warning systems, increased public awareness and training health professionals.
+
+“If people don’t go to the highly polluted areas and follow the health advisory to minimise exposure, then symptoms will be reduced and there will also be a cost saving for citizens,” Dileep Mavalankar, , Director of IIPH, Gandhinagar, told IndiaSpend. “So, it depends on how effectively we are able to communicate to patients and the people who are vulnerable to avoid exposure.”
+
+“Once this plan is implemented we should be able to observe that the admissions to hospitals or mortality from high pollution levels comes down by taking precautions, like we saw after implementing the heat action plan,” said Mavalankar.
+
+As part of the AIR plan, the AMC will issue a health alert when the AQI forecast for the next 24 hours is “very poor” (301-400). When the AQI forecast rises to “severe” levels (401-500), a health warning will be issued.
+
+Under the health alert, the nodal officer of the AIR program–Shah, the deputy health officer–will “inform urban health centres as well as private medical practitioners including pulmonologists, paediatricians to alert them to expect and be prepared for more cases of respiratory health effects”.
+
+If the AQI exceeds 401 (severe), the nodal officer will inform urban health centres, the local ambulance service, transport, traffic police, the government radio station, schools, colleges, and the estate department–which handles permissions for real estate–in order to control road dust and construction work.
+
+What causes Ahmedabad’s air pollution?
+
+“Major contributors to air pollution are population, industries and vehicles. Rate of urbanisation and industrialisation leading to growth of vehicles make cities like Ahmedabad, Surat, Vadodara and Rajkot the hot spots for air pollution,” according to this 2012 report by the Gujarat ENVIS centre.
+
+Ambient levels of PM 2.5 from transport sources alone are expected to double by 2030 if no action is taken, according to this 2015 report by the Ministry of Health and Family Welfare.
+
+Between 2000-01 and 2010-11, Ahmedabad’s vehicles more than doubled from 1.2 million to over 2.6 million, with two-wheelers forming the largest proportion of the fleet. As of 2014-15, there were 3.4 million vehicles in the city. Ahmedabad also had more than 2,000 industrial air-polluting units as of May 2012, the report stated.
+
+In Ahmedabad, “pollution comes from a variety of sources – power plants and brick kilns surrounding the district. We often believe that vehicles moving in immediate surroundings contribute to the pollution in cities. However, a plant or a kiln away from the city can also affect Ahmedabad considering the wind direction,” Sarath Guttikunda, researcher and founder of Urbanemissions.info (a repository of research, and analysis related to air pollution) told the Times of India in this 2012 report. Ahmedabad has two thermal power plants and more than 300 brick kilns, according to this 2012 paper.
+
+“While Chennai has almost the same size and more industries, sea breeze blows PM 10 away from the city, reducing the suspended particulates in the air,” said Guttikunda. “Going by the PM 10 levels in Ahmedabad, the estimated premature deaths due to pollution is likely to be 4,950 as compared to 3,950 in Chennai.”
+
+The Air Action Plan, if implemented, will reduce pollution from these sources through various measures such as improving fuel quality, phasing out commercial vehicles over 15 years old, traffic management, installing pollution control measures in industries and reducing pollution from thermal power plants.
+
+A part of the plan was also to strengthen the air quality monitoring network and sponsor studies on health impacts of air pollution on the city, which is now underway.
+
+How serious is Ahmedabad’s air-pollution problem?
+
+In 2015, 153 of 168 days (93%) monitored for air quality in Ahmedabad remained “good” according to the national air quality index (AQI).
+
+However, in 2016, the annual PM 2.5 average in Ahmedabad was 183.35 µg/m³ (microgram/cubic metre), over 4.5 times the national ambient air quality standard of 40 µg/m³ prescribed by the Central Pollution Control Board (CPCB). In 2017, the monitor installed by the CPCB in Maninagar to provide real-time air-quality data has been working intermittently.
+
+IndiaSpend analysed air quality data from its monitoring systems, collectively called #Breathe, for two devices located in Ahmedabad for the duration March 14 to May 14, 2017, when CPCB data were unavailable.
+
+Source: Data from the #Breathe network
+
+Of the 62 days that IndiaSpend analysed, only six days (9.6%) fell within the WHO guideline of 25 µg/m³. However, only three of 62 days were over the national standard of 60 µg/m³, meaning that 95% of the monitored days fell within the permissible Indian standard for PM 2.5. However, the most severe air-pollution levels occur during the winter months of November, December and January, according to Mavalankar.
+
+Levels of PM 2.5 over 60 may cause breathing discomfort to people with lung disease such as asthma, and discomfort to people with heart disease, children and older adults.
+
+“While we need more data, roughly 40% or Ahmedabad’s population will fall within this vulnerable category,” Mavalankar said.
+
+(Patil is an analyst with IndiaSpend.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.
+
+__________________________________________________________________
+
+“Liked this story? Indiaspend.org is a non-profit, and we depend on readers like you to drive our public-interest journalism efforts. Donate Rs 500; Rs 1,000, Rs 2,000.”

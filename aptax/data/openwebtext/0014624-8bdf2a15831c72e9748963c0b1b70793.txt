@@ -1,0 +1,71 @@
+Updates to Team Fortress 2 have been released. The updates will be applied automatically when your Steam client is restarted. The specific changes include:
+
+
+
+Team Fortress 2
+
+
+
+
+
+Added "tf_allow_player_use" server ConVar to control players executing +use while playing (defaults to 0)
+
+
+
+Fixed a bug where full backpacks resulted in an item being repeatedly found each time the game is started
+
+
+
+Fixed being able to burn players/buildings that are in the water while standing outside the water
+
+
+
+Fixed teleporting Spies getting stuck in enemy players standing on the exit
+
+
+
+Fixed server log not listing telefrag kills as weapon "telefrag"
+
+
+
+Fixed the Pyro's airblast pushing Spectators in free-look mode
+
+
+
+Fixed Pyro's Hadouken killing Scouts that have used Bonk! and are phasing
+
+
+
+Fixed freezecam screenshots sometimes being saved outside the Screenshots folder
+
+
+
+Fixed deathnotice and server log entries not using the unique item names/icons when buildings are destroyed
+
+
+
+Fixed a case where the weapon selection menu wasn't drawing the images of non-standard items if the player was using hud_fastswitch 1 and using slot7-10 to view the panel
+
+
+
+Fixed CTF HUD not centering the flag panel if there is only one active flag
+
+
+
+
+
+Community requests
+
+
+
+Added the ability to set a parent for the item_teamflag entity
+
+
+
+Added OnPickUpTeam1 and OnPickUpTeam2 outputs to the item_teamflag entity
+
+
+
+Added intro movie .mp3 files to the sound/misc folder
+
+Click to expand...

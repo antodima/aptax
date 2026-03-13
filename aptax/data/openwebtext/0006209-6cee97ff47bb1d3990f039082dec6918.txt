@@ -1,0 +1,41 @@
+The Vermont Yankee nuclear power plant in Vernon, VT, is leaking radioactive tritium. Photo via nrc.gov.
+
+Guest blogger Cara Smusiak is a journalist and regular contributor to NaturallySavvy.com's Naturally Green section.
+
+
+
+UPDATE: This post has been updated from its original version on 2/04/10.
+
+Would you like a little radioactive tritium with your water?
+
+As far fetched as it sounds, the Associated Press recently reported that at least 27 of 104 nuclear reactors across the United States are leaking potentially dangerous levels of tritium into the groundwater around the plants.
+
+The scope of the problem surfaced after the recent discovery of a leak at the Vermont Yankee nuclear plant. According to the AP, new tests have shown that the levels of tritium in the wells at the Vernon, Vermont site are more than three-and-a-half times the federal safety standard.This comes hot on the heels of President Obama's interest in nuclear power, which included a call for "building a new generation of safe, clean nuclear power plants" in last week's State of the Union address, plus $54.5 billion earmarked for nuclear power projects.
+
+Vermont Yankee isn't the first case of a U.S. nuclear power plant leaking tritium, the AP article reveals. In the 1990s, leaks from the Braidwood nuclear station in Illinois contaminated local wells, and owner Exelon Corp. had to provide a new municipal water system. The Oyster Creek nuclear plant in Ocean County, New Jersey, was found to be leaking tritium just last year -- "just days after Exelon won NRC approval for a 20-year license extension there," the AP reports. And there have been more.
+
+The source of the leaks can be any number of things, including corroded underground pipes, and leaks in the spent fuel storage pools.
+
+So is it as bad as it sounds? That's up for debate.
+
+Information on the Tritium page of Idaho State University's physics department, there is no risk via skin contact because it can't get past the outer layer of dead skin cells--which is why Tritium is used in so many products. But, as the webpage states:
+
+...the main hazard associated with tritium is internal exposure from inhalation or ingestion. In addition, due to the relatively long half life and short biological half life, an intake of tritium must be in large amounts to pose a significant health risk. Although, in keeping with the philosophy of ALARA [As Low As Reasonably Achievable], internal exposure should be kept as low as practical.
+
+The National Academy of Sciences takes a stronger stance, concluding that any amount of ionizing radiation increases cancer risk, but radiation biologist Jacqueline Williams, who works at University of Rochester Medical Center, told the AP the risk is minimal:
+
+Somebody would have to be drinking a lot of water and it would have to be really concentrated in there for it to do any harm at all.
+
+These are industrial facilities, and any industrial facility from time to time is going to have equipment problems or challenges. Not every operational issue rises to the level of being a safety issue.
+
+Nuclear Energy Institute spokesman Steve Kerekes also told the AP there may be little cause for concern:
+
+It may be an operational issue, but it's one that is causing radioactive material to enter the groundwater at levels far in excess of safety standards. And while human health is a concern in any case involving radioactive contamination, let's not forget that any leaks will also effect the local ecosystems, impacting the health of local wildlife, particularly vulnerable aquatic species.
+
+More on Nuclear Power
+
+Will The New Decade Bring the US New Nuclear Energy?
+
+Portable Backyard Nuclear Reactors Ready to be Installed by 2013
+
+New Generation of Nuclear Power Plants More Expensive than Expected

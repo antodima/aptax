@@ -1,0 +1,17 @@
+LAS VEGAS--Researchers at the Black Hat security conference here showed today how they could disrupt and snoop on home automation networks in residences and offices using devices connected to Ethernet networks that communicate via public power lines.
+
+Dave Kennedy and Rob Simon have created a device that can be plugged in to a power outlet outside a target building or a nearby building and programmed to interfere with the home Ethernet network inside. The X10 Black Out device can be programmed to jam the signals that turn lights on and off and open doors, as well as disable security systems, kill security cameras, turn air conditioning or heat off, and interfere with other functions of a home automation network based on the X10 protocol. X10 is one of the most popular protocols.
+
+They also have developed the X10 Sniffer device, which can see what appliances and systems are attached to the Ethernet network and see whether the doors are open and lights are on. "We can track people with motion sensors and see what part of the house they might be in," Simon said during a presentation. The sniffer device basically "maps out the entire house," said Kennedy, whose hacker handle is "ReL1K."
+
+Home automation systems are appearing in more and more buildings, computerizing tasks that typically require some manual interaction, like turning on lights, or enabling advanced services, like heating toilet seats. The weaknesses stem from the fact that there is no encryption in the X10 protocol, said Simon, whose handle is "Kickenchicken57."
+
+The researchers are a few weeks away from releasing versions of the devices that would allow an attacker to remotely control the device via the cellular network, so that it could be plugged in to the outlet and communicated with from afar, instead of having to preprogram the commands. The attacker will be able to communicate with the device via text message and the device will be able to "send text notifications when someone comes into their house," for example, Simon said.
+
+They are also working on a sniffer based on the Z-Wave home automation protocol that connects appliances over a mesh network. That device will be able to sniff and decode the AES (Advanced Encryption Standard) encryption keys when a new appliance is added to the network, they said. This would enable an attacker to spoof the Z-Wave basic controller for the system.
+
+"We're trying to bring more exposure to this attack avenue," Kennedy said when asked why he was revealing the weaknesses and releasing the tools. "This needs to be incorporated into penetration testing. It is a very real threat vector."
+
+He said he had not notified any vendors of the flaws yet. Vendors will eventually need to add encryption to block such attacks, Kennedy said. "There's virtually no security on these things right now," he said.
+
+The researchers did find one device, a Z-Wave-based door handle, that had encryption, but it was turned off by default.

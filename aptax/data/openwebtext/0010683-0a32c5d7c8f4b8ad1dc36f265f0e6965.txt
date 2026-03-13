@@ -1,0 +1,32 @@
+As mentioned in my introductory post, it takes quite a bit of work to make my audio-reactive cigar box “tick.” The mechanical assembly comes in another post, but this is all about how it was programmed and wired. If you’d like to just skip to the Arduino code, it’s listed here. In case you forgot or missed it, here’s the video of this cigar box in action:
+
+
+
+As for how everything works, keep reading, and I’ll try to explain what is going on in a bit more detail.
+
+Microphone Input
+
+
+
+Getting a correct signal from a microphone breakout is a bit more complicated than one might think; Instead of just measuring the voltage, you have to define a sample size as shown in this Adafruit post. I actually used something from Sparkfun, but I think they work very similarly.
+
+One thing that I’m told would have helped my results, would be to put the servo motor on a separate signal while combining grounds. The servo draws a lot of power from everything, causing the microphone breakout to be thrown off at times. At least that’s my understanding. Also, if you’re using an Arduino, you’ll need to make sure to hook the supply voltage to the “AREF” pin as well to give it a voltage to compare it to.
+
+Servo Control
+
+The servo is hooked to PWM pin 5 as well as the + and – of the batteries. The code is written so that it varies how high it lifts to lid (2 positions now). It would likely be possible to make it directly proportional to the lid, but I haven’t tried this yet. If you’re going to do this, I used, and would recommend my servo-connecting header “component.” This little device makes connecting a standard to a servo wire to a breadboard quite easy.
+
+LED Strip Control
+
+There is some good tutorial material on Adafruit, and you can certainly check out my code to see what is going on there. The cool thing about these strips is that you can control all the LEDs in them with two wires, not including the +5VDC and and GND cable. Also, to change the number of LEDs under control, you just change the code and cut the strip. It’s a really cool device that I hope to play with more.
+
+Wiring
+
+Wiring for this project is provided through a small breadboard (this one – Amazon), and a lot of hookup wire. Even though there are some wires that could be run into the Auduino directly (LED strip signal wires for instance) running it into the breadboard first, then into the processor seems to keep things clean. This is especially important since the lid jumping up and down definitely has a tendency to pull the wires out.
+
+Along with this, I plugged the servo into the breadboard using a technique outlined here. This double-ended header really makes it easy to remove or plug it in without too much hassle. All in all, I was quite pleased with how the wiring turned out.
+
+Thanks for reading, if you’d like to see how everything was put together mechanically, check out this post.
+
+
+

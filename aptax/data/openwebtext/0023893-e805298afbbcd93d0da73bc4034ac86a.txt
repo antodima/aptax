@@ -1,0 +1,13 @@
+A mid-2016 security incident led to Apple purging its data centers of servers built by Supermicro, including returning recently purchased systems, according to a report by The Information. Malware-infected firmware was reportedly detected in an internal development environment for Apple's App Store, as well as some production servers handling queries through Apple's Siri service.
+
+An Apple spokesperson denied there was a security incident. However, Supermicro's senior vice-president of technology, Tau Leng, told The Information that Apple had ended its relationship with Supermicro because of the compromised systems in the App Store development environment. Leng also confirmed Apple returned equipment that it had recently purchased. An anonymous source was cited as the source of the information regarding infected Siri servers.
+
+Apple has used a variety of other companies' server hardware—since the company got out of the server business itself and never used its own in datacenters—including servers from HP and storage from NetApp. A few years ago, Apple added Supermicro as a supplier for some of its development and data center computing infrastructure.
+
+But Apple has been squeezing the cost of its data center supply chain and moving toward more custom hardware much like the other cloud giants. In August of 2016, Digitimes reported Apple was increasing its orders for full-rack systems from the integrator ZT Systems and adding the China-based Inspur as a server supplier.
+
+Leng told The Information that Apple was the only company to report the firmware issue, and he said the servers are used by thousands of customers. He asserted that when his company asked Apple's engineers to provide information about the firmware, they gave an incorrect version number—and then refused to give further information.
+
+Update: A source familiar with the case at Apple told Ars that the compromised firmware affected servers in Apple's design lab, and not active Siri servers. The firmware, according to the source, was downloaded directly from Supermicro's support site—and that firmware is still hosted there.
+
+Apple issued the following official comment:

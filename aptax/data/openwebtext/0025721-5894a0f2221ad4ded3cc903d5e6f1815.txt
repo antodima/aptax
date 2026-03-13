@@ -1,0 +1,3 @@
+Changing them is quite easy
+
+Because the files are simply just mp3, you don't need to convert any files(except when you listen to wav or any other file that isn't mp3)First you will need to get your custom musicChange the custom music name to the same name of the original music that you wanna changefor example if you want to change the menu theme, you will change your custom music toand when you want to change it into a victory theme, rename it toYou can just listen to any file and guess when they playYou will need to add the renamed custom music into the mp3 folderIf you want the menu theme to repeat after a fight copy your custom music and have one of the files namedand the second oneand just to be sure make a third one and have it named

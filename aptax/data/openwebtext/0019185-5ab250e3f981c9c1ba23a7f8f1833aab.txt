@@ -1,0 +1,11 @@
+Tufts University scientists have developed a silk-based bio-ink that could allow for printing tissues that could be loaded with pharmaceuticals, cytokines (for directing stem cell functions), and antibiotics (for controlling infections), for example, or used in biomedical implants and tissue engineering.
+
+Current 3-D printing processes are limited to simple body parts such as bone. And most inks currently being developed for 3-D printing are made of thermoplastics, silicones, collagen, gelatin, or alginate, which have limits. For example, the temperatures, pH changes and crosslinking methods that may be required to toughen some of these materials can damage cells or other biological components that researchers would want to add to the inks.
+
+To address these bio-ink limitations, Tufts Stern Family Professor of Engineering David L. Kaplan and associates combined silk proteins, which are biocompatible, and glycerol, a non-toxic sugar alcohol commonly found in food and pharmaceutical products. The resulting ink was clear, flexible, stable in water, and didn’t require any processing methods, such as high temperatures, that would limit its versatility.
+
+The researchers reported their research findings in the journal ACS Biomaterials Science & Engineering.
+
+Abstract of Polyol-Silk Bioink Formulations as Two-Part Room-Temperature Curable Materials for 3D Printing
+
+Silk-based bioinks were developed for 2D and 3D printing. By incorporating nontoxic polyols into silk solutions, two-part formulations with self-curing features at room temperature were generated. By varying the formulations the crystallinity of the silk polymer matrix could be controlled to support printing in 2D and 3D formats interfaced with CAD geometry and with good feature resolution. The self-curing phenomenon was tuned and exploited in order to demonstrate the formation of both structural and support materials. Biocompatible aqueous protein inks for printing that avoid the need for chemical or photo initiators and that form aqueous-stable structures with good resolution at ambient temperatures provide useful options for biofunctionalization and a broad range of applications.

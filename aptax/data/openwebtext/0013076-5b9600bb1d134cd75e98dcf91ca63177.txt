@@ -1,0 +1,23 @@
+Bitcoin Breaking News Brief Apple Responds to FBI Backdoor Order in Effort to Save PR
+
+February 17, 2016 — Apple is no stranger to handing over its users’ sensitive data to government – they went live on the NSA’s PRISM program back in late 2012, stated in their TOS and EULA documents that there should be expectation of privacy while using their services, and follow the common industry practice of handing over sensitive information they have on file with the issuance of a warrant. So the decision to reject a court ordered backdoor that would allow brute force decryption of their phones, accompanied by an open letter to Apple customers from CEO Tim Cook explaining their stance on the matter, has come as a surprise to many.
+
+Also read: itBit to Expand Blockchain Operations Abroad
+
+Apple’s Long History of Giving up User Data
+
+The order arrives in the aftermath of the San Bernadino Shootings. Many thought initially that the court was asking Apple to do the impossible: pull private keys out of thin air to give investigators access to the Shooters’ encrypted data, which would have demonstrated a laughable lack of understanding of the data encryption process on the FBI’s part. The open letter from Cook indicates that the government request is much more competent and insidious, though:
+
+“Specifically, the FBI wants us to make a new version of the iPhone operating system, circumventing several key security features, and install it on an iPhone recovered during the investigation. In the wrong hands, this software — which does not exist today — would have the potential to unlock any iPhone in someone’s physical possession.”
+
+Essentially, the court order mandates that Apple cooperates in assisting in the creation of a backdoor that would allow brute force decryption of any iPhone, which would be a disaster for Apple customers everywhere. It’s easy to see why Apple seems to have shifted its stance on privacy in this case: cooperation would, in addition to being a PR nightmare, but be setting a disturbing precedent that would allow law enforcement to circumvent 4th amendment rights even further, with corporate assistance. The FBI is citing the All Writs Act of 1789 to justify this court order, contending that the software backdoor is somehow a necessary act in analyzing their evidence.
+
+Secure data, something that has been traditionally protected by 4th and 5th amendment rights, has been accessed previously through use of this law, including one case involving an iPhone 5s in 2014. Since that time, Apple has shifted its stance on personal information handoffs, and this is the first example where they’ve followed through on their new stated policies. While it is refreshing to see a multinational corporation defend it’s customers’ privacy, this protection of individual data may seem counter-intuitive to those who follow Apple’s data collection and analysis practices.
+
+Remember: Apple is an information broker as much as they are a hardware and software company. They do sell their users’ data and metrics, and will continue to do so for the foreseeable future. The problem here is that they lose their information collection capability if people stop using their phones because anyone can crack the built-in encryption. If people perceive your product as insecure and fundamentally flawed, they move away from your ecosystem, and if anyone has access to the information you’re trying to sell, it becomes much less valuable. The move to protect user data, in this case, makes as much sense for their data collection infrastructure as it does from a PR and best practices standpoint.
+
+While it is nice to see Apple stand up to government pressures to invalidate user privacy, know that it is only because it serves Apple’s interests. They have a far from stellar track record when it comes to user data protection. For now, their goals dictate keeping strong encryption on their devices, but that has not and will not always be the case. Their policy on encryption will likely change with their corporate interest as it has several times in the past. Of course, this shifting stance on consumer rights is not unique to Apple, but in recent times, they’ve had the most extreme turnabout.
+
+What do you think about this letter from Apple? Let us know in the comments below!
+
+Images courtesy of Apple

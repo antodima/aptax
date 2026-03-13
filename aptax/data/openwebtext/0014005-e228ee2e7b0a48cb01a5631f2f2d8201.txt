@@ -1,0 +1,217 @@
+This is the text of a lecture from the German Glider Pilot Symposium held November 21, 2000 in Stuttgart as well as Febr. 3rd 2001 in Unterwössen for members of the German National Contest Groupn.
+
+Dear Glider pilots – as most of us are.
+
+It has been seven years since I founded DG Flugzeugbau and began our first Internet appearance. Via the Internet, I received an e-mail with a lapidary text from the representative of a US competitor who wrote:
+
+“Friedel, you are learning a very important thing: Safety does not sell.”
+
+Being new to the business, and full of energy, I thought I really wanted to prove them wrong!
+
+Yes, and four years later, I am addressing a lecture on this very topic. I have drawn on my personal experience and can’t help but ponder if it is worthwhile for a glider manufacturer to produce safety devices like, for example the automobile industry. They have been doing it for years, it has become second nature.
+
+We begin therefore with a little trip into a neighboring industry:
+
+No automaker can take the liberty today to not equip their vehicles with the latest safety equipment, following engineering tests. If a Norwegian auto tester performs one completely non-practical test and the new car almost flips over, the whole world laughs at the “moose test” and a new buzzword of the year is born.
+
+It wasn’t always like that. In the 1970, all cars came equipped with seatbelts, but almost no one used them. Then the law enabled penalties for those not wearing seatbelts, and the following year there were 1500 fewer deaths! This safety consciousness in the car industry has steadily increased, with fewer accidents despite the rising number of vehicles on the road. Can such a shift of consciousness occur with us?
+
+Another example: Everyone knows that driving a motorcycle is dangerous. And each motorcyclist wears a protective helmet and special clothes. In addition modern machines have an aerodynamic design giving wind protection, also the shin guards of today are much better designed to protect more than in former times. A motorcyclist acknowledges the fact that his hobby is dangerous and therefore voluntarily buys very expensive protective clothing. And us? It is nevertheless actually possible to develop mechanisms to increase security in the glider and to market them. There would just have to actually be a demand for it .
+
+If we want to examine this topic a little closer, ask yourself these questions:
+
+What is this really about?
+
+Is it a valid statement?
+
+What are the reasons?
+
+What can and should we do?
+
+First let’s take a glance at some of DG’s safety developments of the past seven years. Some of these will even be new to you:
+
+Emergency egress assistance. Many of the visitors to our website have already downloaded the spectacular video-clip of one of our apprentices at the time being thrown out of the cockpit of a DG-808.
+
+he idea is actually quite simple. In case of emergency, a pilot can egress quickly and reliably from the cockpit by way of an inflatable air cushion. The system will only function if the canopy has been released – thus during normal flight, it is blocked. Pulling the release will release the seat and shoulder belts, after which the air pillow inflates, lifting the pilot to the edge of the cockpit. Actual “stepping out” is then limited to a lateral rollout by the pilot.
+
+Also a parachute jump would have to actually be possible at airfield traffic circuit height – and in still lower heights neither collisions with other gliders nor other reasons for an emergency exit are probable.
+
+In the meantime, we could gain knowledge in the inconceivable case that the NOAH system would release unintentionally. Would it break all the pilot’s ribs? What would happen if he remained seated with the belts buckled?
+
+Someone in the plant made the seat buckle nonfunctional, and a visitor wanted to try out the NOAH……..
+
+So, we are in the fortunate position of being able to interview the “dummy” after the test. He said that he was pressed into the belts no more harshly than when pulling negative G’s in a loop. There is a secondary capillary opening allowing the pillow to deflate within about 30 seconds. Therefore, in the “impossible case” of a malfunction, nothing bad happens at all.
+
+When the NOAH system came out 7 years ago, Glaser-Dirks (our predecessor company) received 5 orders, one of them from me. Since then we sold about 20 systems, and with about 45 new single-seaters per year, the NOAH system wasn’t exactly a “sales hit”.
+
+By the way, the NOAH system could in itself fill an entire lecture. If you’re interested, please see our website.
+
+The Consummate Safety Cockpit
+
+The safety conscious surely know the investigations of Martin Sperber of the TUEV Rheinland crash tests with glider cockpits. He had asked the different manufacturers for a test cockpit and my predecessor had at that time been ready to supply one. The results were simply terrible!
+
+That is also the reason, why Martin Sperber only showed the high-speed film of the crash to us and does not publicize it. Naturally such pictures can be business damaging.
+
+Really?
+
+He said it to us and I repeat it here: What occurred with a cockpit of the DG-800 in the case of the impact at 70 km/h, would have occurred also with every other single-seater cockpit offered today. Professor Roeger of Aachen University of Applied Sciences determined similar results: It let a fuselage fall from a rack and strike at a speed of 6 m/sec. That should simulate the impact that occurs with “landing” with a well-designed total rescue system. The fuselage – a quantity production of a competitor – bore the impact.
+
+Then Professor Roeger repeated the test with a falling speed of 8 m/sec. ! It is the opinion that with the parachute sizes, the following impact would occur. The result was such that one shows no pictures of it. So what’s 8 m/sec? Only 29 km/hour! The cockpit would never survive a real crash.
+
+So, what is to be done? Martin Sperber suggested a set of measures, in order to make a fuselage clearly more crash resistant: Two very strong stringers from the front to the rear transverse force pipe are to direct the collision forces around the pilot – just like a sturdy cage around the passenger space in the automobile.
+
+There is additional reinforcements to prevent bursting of the fuselage and an additional frame in the back of the fuselage against indenting. A fuselage so equipped passed the same test and bored itself “only” deeply into the container. Due to these tests we developed a “consistently safe cockpit” and we offer exactly these additional reinforcements as an option.
+
+This is the most expensive of our developments in addition, the most important, because a cockpit always breaks open in a crash. It uses up an additional 2 cm of space in the workstation in the shoulder width, because somewhere the strong stringers must be fixed to the workstation. And then some pilots say to me, that it’s already tight without the reinforcement. My standard response then always is: “True, but the fit is closer still in the coffin!” – well, I believe so anyway! Possibly these are the same people squeezing themselves into so-called “competition cockpits” from other manufacturers, which are still smaller. However, perhaps 0.2 points of lift/drag ratio less resistance the result!
+
+How many safety cockpits did we sell so far? I fly in in one. Other than that, sales have been non-existent
+
+Piggott-Hook
+
+The Piggott Hook is now something completely new however one cannot buy it at all: It is included in all our new glider series.
+
+In Albuquerque in spring 2000 the well-known Glider Instructor, Derek Piggott from England addressed me and explained the idea:
+
+“An inadvertently unlocked air brake can work it’s way open during takeoff and bring the pilots into serious danger even resulting in a crash.”
+
+That can be prevented by metal flange on the inside wall of the cockpit with several teeth and an appropriate hook at the linkage. The hook intervenes in a tooth and cannot run any longer automatically to the rear. The pilot needs only to grasp the handle and turn only a little and the hooks is released. That is ingeniously easy – to build and develop at low cost and is a reliable means to eliminate a frequent cause of accidents.
+
+It personally annoyed me that we had not come up with the idea!
+
+I accelerated the development, after I found myself taking off while on vacation with an unlocked air brake. My glider launched nevertheless, and nothing serious happened.
+
+Is it not depressing that Derek Piggott said to me, he brought this suggestion via the different SSA Conventions to all German manufacturers described and nobody so far has taken up the suggestion!?
+
+Why not?
+
+Why don’t glider pilots demand safety-increasing developments with their gliders?
+
+Canopy safety lock pin – Roeger Hook
+
+You are surely familiar with the functioning of the Roeger Hook: If the pilot must leave an airplane by parachute, it will generally be falling downward in a completely uncontrollable flight attitude. The wind pressure against the canopy makes it difficult to eject. If however the canopy is to be thrown off, there is a great danger that it will strike the pilot in the side of the head if there is any lateral motion. Only about 50% of all attempted parachute jumps succeed. The other half ends deadly and often is due to the fact that the pilot is temporarily knocked out by a contact with at least the canopy framework and was therefore not able to exit. The Roeger Hook holds the canopy in the back, so that it can open only in front and fly in a high arc over the pilot’s head before rotating away. This is such an elementary safety device that the Roeger Hook is now logical with all newly certified airplanes with forward opening canopies. But what about the many older gliders and those, which are built still with old certifications? Unfortunately there was an accident in the United States, in which exactly the operational sequence described above occurred:
+
+From the pilot’s head wounds it could be proven clearly that he had gotten the canopy framework to release and was knocked out by it. The American Federal Office of Aviation inquired therefore with us whether there would be a re-tooling possibility for a Roeger Hook or something similar. And in such a way we developed the canopy safety lock pin and by way of a Technical Note to all owners of older DG gliders we advise them of the optional retrofitting. In order to promote the sales of this important safety device, we established also quite a cheap price – 50 Euro for the complete set. And now guess how many canopy safety lock pins we sold in one year after the publication? Of a possible 1,400 airplanes concerned: 28 canopy safety lock pins were sold within two years – That‘s 2 % of owners. Is it because it‘s not fun?
+
+Or: Safety does NOT sell! There are probably many ways to increase the safety of gliders. As a glider manufacturer, however, the development of such mechanisms has not been worthwhile so far. In order to describe it in monetary terms, we spent about 250,000 Euro on development costs of the described mechanisms.
+
+Perhaps you work at Airbus Industries and are of the opinion, that this is not very much. But these 250,000 Euro are from my own pocket. I felt a certain responsibility to do what was possible and I am sour now, because it was obviously to a considerable degree futile! What is the situation? 1. Are these safety options perhaps too expensive? Well, this cannot be the case, as proven by the story of the canopy safety lock pin. But Martin Volck had a much better and more general response in glider symposium in Stuttgart with his lecture: “How much is a glider pilot’s life worth?” Many will have read that it delivered the costs of a set of measures added and the estimate that the number of deaths could be reduced by 40%, if all airplanes were provided with these mechanisms. Since we with the Noah and the Piggott hook offer still more, I estimate a survival or an accident avoidance chance of even 50%. The remainder is then mathematics:
+
+The number of deaths with gliders over ten years in Germany is as well known as the life span of the airplanes and its number. Hence it follows that each airplane would be involved, on the average each 600 years in a deadly accident. That sounds like a lot, it means that in a thirty-year life span with each 20 airplanes one crash with a fatal outcome occurs. All DG measures cost together about 9,000 Euro. With 19 of the 20 aircraft, an unnecessary investment – however with the twentieth, a 50% probability life-saving. Thus it costs about 360,000 Euro to save a glider pilot’s life (9,000 X 20 / 0.5).
+
+We won‘t even talk about the reduction in injuries up to wheelchair results. Dear pilots – there is hardly a life-saving measure, which would be cheaper in the world. Or perhaps: A pilot buys the machine of his dreams and pays all together easily more than 120,000 Euro. However it does not even estimate his own life to be three times as valuable as the value of his toy. Tell me, are we glider pilots collectively crazy? 2. Do we perhaps displace safety questions unconsciously? Now I am not a psychologist, but much speaks for the fact that it is like that. If a pilot thinks about safety questions, he must also admit that gliding it is not harmless – that perhaps the car ride to the airfield is not the most dangerous part. I cannot express it better than the well-known Bruno Gantenbrink in his lecture “Safety comes first”, which you should really re-read on our web page. Obviously many pilots are subject to the internal conflict, over safety questions and – to not want to think of mechanisms, because that confession results in the knowledge of partaking in a dangerous sport. A “cognitive dissonance” for you – a contradiction between own conviction and the reality. Each pilot knows not to take any unnecessary risks. Additionally one “knows” that certain errors simply don’t happen and that accidents only happen to other people. On the other hand he knows that this cannot actually be correct. Even experienced and careful pilots sometimes make “such stupid” mistakes. But can he/she admit that? My friend was a surgeon and chief doctor at an ophthalmologic clinic. By his occupation, he was an extremely meticulous person. And so were also his pre-flight checks. I always said: ” Jens, you are my life insurance. If you checked my airplane, it is completely safe.” And that’s how he flew too. From him I first heard the advice of what to do in an aborted launch, “Think down! Stuff the nose down!” And that’s exactly what happened to him at an altitude of 90 meters, after releasing the launch cable. He did not stuff the nose down, and he probably did not think. When he hung quietly in the air, he rolled and spun, four seconds into a black hole. Why exactly did I tell you this? It is a small psychological experiment:
+
+Perhaps you are now feeling a little annoyed, and are thinking, why is Friedel Weber telling us that? What does it have to do with the Lecture? What concerns of ours is his friend? Does he always have to come back to this topic? Or do you feel a little uncomfortable? Nevertheless, we are all alone with our answers. “I do not want to hear this! ” See when we say “cognitive dissonance”?: You know very well that this could happen to you, but you do not want to admit that because it doesn’t fit into your idea of the world order. And such a conflict overcomes all humans simply by us ignoring reality. And in such a way safety consciousness is something to ponder in the distance. 3. Is it perhaps also because of the fact that we do not have a lobby, which worries about safety questions? So, what is to be done? I can point out three solutions to you. Two would not be feasible. One is feasible however will not be successful. And if you are of the opinion that this result is depressing, then consider this: 1. Are we to make all available safety devices simply the standard in each series?
+
+That would add approximately 9,000 Euro to the cost of each airplane! And there my personal commitment now unfortunately stops: If we would make this strategic decision alone, our airplanes would be more expensive, by the amount mentioned above, than the competitors, and we could not absorb that. It would save human lives however at the cost of the existence of our company. In order for all manufacturers to offer together these technically and economically feasible safety components, they must be convinced only of the fact that the development is also worthwhile itself.
+
+And I do not have the impression that it will be worthwhile itself in foreseeable time. 2. Are we to call after the state and request the Federal Office of Aviation to make these safety components obligatory?
+
+I personally would not like to see that either. The state already regulates far too much, and has its hands everywhere, that I would rather leave! 3. Or are we to continue as before and trust in our customers?
+
+Now, you must be the one to request the glider manufacturer of your choice to initiate the appropriate developments. Then you would have all safety devices that you want at your request. We manufacturers always make exactly what the market demands, that’s how this tough business works. Therefore, there is only one real solution.
+
+The extent of the safety developments in the German glider manufacturing industry rests certainly only with the customer! It‘s all in your hands. Always, happy landings!
+
+This article was a lead article taken from the pilots’ magazine “Luftsport”
+
+by Holger Back Safety does not sell Friedel Weber (DG-Flugzeugbau) chose this provocative but unmistakable thesis as the subject of the speech he held during a glider pilots’ symposium in Stuttgart (Germany) in November, and also at a meeting of the German national team in Unterwössen.
+
+“Safety does not sell” – and he proved this with some facts from the day-to-day life of a glider manufacturer. Whether it’s the comparatively simple fitting of the Röger hook, the rescue system “Noah” or the safety cockpit – the customers haven’t recognized the factory’s efforts. The financial effort of developing and certifying these safety features did not turn out to be profitable for the company. Fitting the Röger hook to older gliders for example only costs the customer 150 Euro and is proven to be a critical safety feature in the case of the pilot having to bale out – but only very few people have bought it so far. And this is not only a problem of one specific glider manufacturer.
+
+The investments other glider manufacturers make in safety features are often ignored or, even worse, rejected. Even leading pilots are no exception. For purely aerodynamic reasons some pilots wedge themselves into the narrow cockpit – knowing that an emergency bailout will take just as long as getting in the glider. Or important safety details like for example a bigger undercarriage are rejected for weight reasons. The “leisure pilot” is no exception to this rule either. His main concern is whether the glide angle might decrease by one or two points. Safety however will not be an item on his list of priorities when buying a glider. The interest in rescue systems has clearly decreased in the past two years. A lot of people will argue that the slow development of these systems is the main reason for this. This is probably true as nobody could have foreseen how time-consuming the development and testing of the rescue systems would turn out to be. Therefore it is all the more important to show the manufacturers that pilots are indeed still interested in these systems. We have often accused the manufacturers of a lack of interest in the safety of their gliders. Times have changed, though. Glider manufacturers have done their homework. Now pilots and customers have to do their part and change their attitudes towards safety. Holger Back … and here are some reactions: betreff: Safety classification in gliders received: Sonntag, 13. Juli 2014, 15:56:40 (Sun, 13 Jul 2014 15:56:40 +0200) Dear Sirs, I have been thinking about safety issues in gliding and reading your safety related documents in your web site. Specially the one called “safety does not sell “. On my personal view, safety would be the first criteria for choosing a new glider.
+
+However I understand that people might not want to think about that. There is a similar successful experience with energy consumptions in home appliances. People might be driven by price to buy a new washing machine but with the introduction of the Energy Efficiency classification with colours and letters in the EU. People tend to buy the most efficient. A similar system could be created in gliding, a standard classification about safety in all gliders. This could include active and passive safety. Customers might be aware that a high performance glider might not stall as nicely as a beginners glider. It could be made in a simple and transparent way, with ranking of clear things like: Hard landing absorption:
+
+Parachute:
+
+Ballistic parachute:
+
+FLARM:
+
+Piggott-Hook:
+
+NOAH:
+
+Stall warning indicator:
+
+Tip stall and general stall friendly:
+
+Spin out friendly:
+
+Sustainer:
+
+Instantaneous Electrical sustainer:
+
+GPS/orientation maps:
+
+Artificial horizon:
+
+Cloud flying instruments:
+
+Cabine crash cell (as Formula 1 cells):
+
+Side string:
+
+Rigging easiness:
+
+::::
+
+::::
+
+:::: The list may go on with many more features… Many or them are optional in the purchase or upgrade of a glider. The inclusion of this features increase the safety classification of the glider and boost its sales. The same glider might have different classification depending on the equipment. This should be a readily available classification for all gliders in the market. Where the person purchasing the glider can easily compare: price, claim performance, claim safety and overall brand prestige, delivery times. I believe the adoption of this would benefit all of us in the future. You said in your web site that safety is in the hands of the customers when we buy a glider. Well, lets create a transparent and easy to use tool to compare the actual gliders with the safety devices on from different manufacturers. It would be great if you could forward this to relevant people. I imagine this idea is in the mind of many people around. This could be a practical way to boost safety in gliding and a way to increase the sales of your company, as I understand DG is in the forefront of safety devices. Kind regards.
+
+Dr. Gonzalo Garcia-Atance.
+
+PhD. Aeronautical Engineer. Betreff: Safety
+
+Datum: Thu, 02 Aug 2001 09:41:00 -0700
+
+Von: Pete Williams Dear K.F. I sincerely appreciate your quest for safety devices in sailplanes. You are making a contribution to the sport that may not appear to be bearing fruit now but will in the future. Having been a military (Navy) pilot for 21 years, I can attest to the problems of making pilots aware of safety. Most of the time our safety programs fell on dead ears. Pilots continued to be killed doing dumb things…yours truly almost several times. Yes there were plenty of safety devices installed including a wing fold lever that looked like a wing and actuated in the proper direction. Still one pilot tried to takeoff with the wings folded!! After being an instructor for several years I discovered that I could not convince my students to be safe, so told them they were free to kill themselves if they desired and then told them how to kill themselves. Maybe this worked because some came to me in later years to say thanks. So what to do? My recommendation is to install in all production gliders a strong cockpit including the hard cushion and the Roger hook as standard. These items are basic to surviving a crash and bailing out. The other items can be options. Pilots are no more crazy than car drivers. Both have in common haste, pride and it will never happen to me syndrome. Its normal. Of course you are not responsible to save their lives…THEY are. Keep on keeping on and recognize your time and your employees time plus your money has not been invested in vain. Pete Williams Betreff: Emergency Egress
+
+Datum: Fri, 3 Aug 2001 11:07:42 +1000
+
+Von: LARCEY, PAT I was interested to see your article on the inflatable cushion to assist emergency egress from the cockpit. When I was test flying RAF V Bombers in the 1960’s, in particular the Victor, the rear crew had assister cushions to assist overcoming G forces and speed the egress in the event it was necessary. Sounds a great idea to me, a consideration, probably, is to have a means of deflating it if it deploys inadvertently. I suppose that although safety might not sell, the lack of safety is an even greater deterrent, so on balance safety must sell ???? Safe flying Patrick Larcey Betreff: Re: My New DG-808B
+
+Datum: Wed, 01 Aug 2001 10:07:36 -0500
+
+Von: Gary Flandro Dear Friedel: I read your recent article on soaring safety with great interest and considerable concern. You should be recognized and praised for the effort you have made to improve the safety of your gliders. It should be mentioned that you have already made a very significant impact on the soaring community in terms of awareness of key safety issues. I understand your frustration with the customers for not responding more favorably to your obvious hard work in implementing important safety features in the DG sailplane designs. Please understand though that we all very much admire and appreciate your efforts. Hopefully this will pay off for your economically in the long run. I guess that I am one of the offending parties since I chose not to purchase some of the key safety devices you have developed for installation in DG-808B # 236/B150. I must tell you that I have worried about this considerably since placing the order a year ago. I think I must be typical of most buyers in that the economics played a major role in my decision. For many of us a purchase of this magnitude greatly stretches our economic limits. In other words, I had to sacrifice some safety in order to buy the glider. I hope to be able to add the DSI indicator later. I can’t give you good reasons for not purchasing the NOAH system or the special safety cockpit design. In the latter regard, I was impressed that your standard cockpit design is very good in application of Kevlar materials to improve safety. I think many pilots feel that additional crash resistance is only useful up to a certain point. In the event of a heavy impact, one wonders if there is anything that can be done to prevent serious injury. You are to be complimented for your implementation of the Piggott Hook. I hope this important step will soon be recognized by the world soaring community. You should receive an FAI award. With kindest regards,
+
+Gary A. Flandro (DG-808B #236)
+
+Betreff: Safety does not sell
+
+Datum: Thu, 2 Aug 2001 05:46:12 -0400
+
+Von: “David Noyes” You may not win the battle to sell every pilot safety devices,
+
+but you win the hearts of all pilots and sleep with a good conscience.
+
+Betreff: Safety does not sell
+
+Datum: Fri, 3 Aug 2001 08:56:52
+
+Von: Peter Redshaw Hello Friedel I would like to congratulate you on your article on safety. I believe the biggest problem is that most pilots believe it will not happen to them, in particular those that have the experience and money to be flying new gliders. To be buying expensive new kit means that they should be able to afford the marginal extra cost. On the other hand the vast majority of gliders being flown are second hand, handed down from the pilots with the money to buy new and with the alleged wisdom and experience to know that is right. They obviously do not value safety highly and are setting a bad example to the next generation of pilots. To be fair it is also true that glider manufacturers seem to be more concerned with performance than safety, as you say safety does not sell. The one exception is the barbed canopy wire deflector which sells well in Holland, but why? Has it to do with the Dutch Gliding Association? I have only ever bought one brand new glider and had every possible extra added, except for the wire deflector extra safety features were not on offer. Most of the time I have bought the best second hand machine I could afford related to my ability, they did not have safety features built in. An Oly 2B, Club Libelle, Kestrel 19, Nimbus 3, Super Falke, LS6c, DG-800B (G-BYEC) and for real fun an old Slingsby Capstan T49. The safety features you describe generally cannot be retro-fitted to any of these machines. I have had one accident in 41 years of gliding, which is close enough to your statistics. I was 26 years of age and at the stage of total self confidence. I came in nose first from about 50ft having cart-wheeled over a tree attempting a field landing. It was in the Oly 2B, the entire cockpit became match-wood back to the leading edge of the wings. What saved me was pulling myself into a ball instead of bracing myself. It in effect allowed a crush zone. I don’t remember thinking it out when it happened and I don’t know if I would have the presence of mind to repeat the trick if it happened again. In fact I couldn’t do it in most glass ships as I cannot get my legs back past the instrument panel! I have about 4000hrs gliding, instructed for 26 years, was CFI for 5 years and have 3 diamonds. I get more cautious as I get older so I appreciate your efforts. My greatest concern is having a mid air collision and it is probably true to say I believe (like most pilots) it will be the other persons fault. I therefore now ensure I have a good serviceable parachute. I have been following the development of glider recovery systems and would like to see more of this coupled with better cockpit design and crash tests.
+
+I know a crumple zone works and you only have to look at Formula One motor racing to see the benefits of cockpits designed to withstand serious crashes. Our gliding movement is caught in a catch 22 situation, unless new machines have safety features built in then the majority of us with our second hand gliders will be flying without safety features forever. I only see one way to break this circle. Is there any chance of ALL glider manufacturers together with All National Gliding Associations, agreeing a set of safety standards/features that MUST be incorporated into ALL future designs? A long process but it might get there if ALL manufacturers include specific safety designs. Isn’t this what essentially happened on a smaller scale in Holland with the canopy wire deflector? Cheers and keep trying Peter Betreff: Glider Safety
+
+Datum: Sun, 5 Aug 2001 23:42:09 +0100
+
+Von: Brian Dear Sir, thank you for another excellent article on your web site about the strange situation that safety apparently does not sell. I have only been a glider pilot for about three years. At first the excitement of the sport and the challenge of learning overcame most other thoughts. After going solo the challenge of building my basic competences and gaining the Bronze badge / cross-country endorsement were uppermost in my thoughts. I told friends and family how wonderful it all was. But I found it strange how they thought I was taking a big risk with my new hobby. It is only in the last year that the risks of the sport have become my main concern. At first when I heard of a serious or fatal accident elsewhere, I assumed the people involved must have taken silly risks, or simply been very unlucky, and it couldn’t happen to me. Then I saw a couple of incidents at my airfield that could have been very serious, and was able to talk to the people involved. I realized that (of course) it could happen to me. I found out more about accidents from others at the club and by reading the published reports. Suddenly I realized that gliding was much more dangerous that I had thought. And it seemed that in many cases, the victims of accidents would have been saved if the glider had basic warning equipment like stall warning, airbrake warning on take-off. Or if the machine was easier to escape from when subjected to g-forces, or much more able to survive an impact. With about 8,500 pilots in the UK and about 8 or 9 fatal or serious accidents a year, it looks like you have a one in a thousand chance of being another statistic. Most people would not take part in anything with such a high risk. Last year, after being worried by road safety and the chances of injury in my ten year old VW Golf, I bought a nearly-new car with many modern safety devices like airbags, seat belt pre-tensioners, side impact bars, very good crumple zones, etc. Then when flying in an old glider like the PZL-SZD Junior I really started to feel exposed to physical danger, like I was sitting in a fast-moving cardboard box. This has had a bad effect on me, as I have started making excuses not to fly, and I feel I am in danger of giving up my hobby due to the risks. To overcome this I simply cannot afford a new glider with new safety devices. The club gliders that I rely on will not be replaced soon, and even if they are replaced I doubt if they will include any of the safety features that you provide in DG machines. But like the car industry in the 1970’s, it can only be a matter of time until we demand better safety. It might just take 20 years. I therefore applaud your efforts and wish you every success in making other glider pilots see the reality of the danger of their sport and demand safer aircraft. You are already well known for your stance against the safety complacency that pervades gliding. I am sure that in years to come you will be recognized as one of the most important innovators in the history of gliding. Please do not be discouraged by the poor response you get when marketing a new safety feature. There are many people like me who are increasingly worried about the lack of built-in safety in gliders. We cannot expect training alone to prevent the risks! When I win the lottery, if I am still flying, I will be sure to purchase one of your fine aircraft with all the available safety options you can build in. Many thanks,
+
+Brian Rogers Betreff: Re: DG Flugzeugbau – Newsletter No. 34
+
+Datum: Mon, 6 Aug 2001 14:22:34 -0400
+
+Von: Thomas Knauff Dear Mr. Weber, Regarding your article “Safety Does no Sell.” Before seat belts were required equipment, Ford motor Co offered them as an option. Something less than 10% ordered them even though Ford priced them at no profit. Even after they were required, it took a law to force people to use them, and even now, a very high percentage do not wear them while driving. As for motor cycle helmets, they are not required everywhere, so you will see many people driving motorcycles without a helmet in those areas where the law does not require there use. Safety does not sell, and the result in our case makes flying gliders more dangerous than all other activities. Smart people choose to act dumb. Tom Knauff Betreff: Safety does not sell.
+
+Datum: Tue, 7 Aug 2001 12:48:05 +0000 (GMT)
+
+Von: Bernt Hustad Hembre Hi. I read your article “Safety does not sell” with great interest. I do agree with you on many of your thoughts, but there is one thing I’d like to comment. Safety does sell, it just takes a long long time.
+
+Just remember how many years it took from it was prohibited to drive a car without wearing a seatbelt until people started to put their seatbelts on
+
+because it was safer. In the beginning people just took them on to avoid being fined for not wearing them. I’d like to use your article as a base for a discussion on a club-evening in our glider club. I will have my focus on what can be done to increase safety, reduce the chances for damage and reduce our annual repair budget. As a conclusion I will strongly urge you to keep up the good work and continue to find new improvements regarding safety. And articles on the
+
+subject are probably the best way of starting discussions in clubs around the world.
+
+Bernie

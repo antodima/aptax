@@ -1,0 +1,43 @@
+An upcoming event combines laser-tag technology with horrifying zombies in a spectacular first-person shooter video-game event.
+
+(Credit: IRL Shooter)
+
+The game's called Patient 0, and it's pretty much exactly what the studio name, IRL Shooter, suggests: a first-person shooter in the real world, in a game that combines elements of film, video gaming and live-action role playing. It will be hosted in an abandoned factory in Melbourne starting 31 October, and will run for a month.
+
+Its creation is the work of three people — Drew Hobbs, who works primarily on the script, story and characters; Ben Powell, whose purview covers IT infrastructure; and David Leadbetter, who looks after production, design and logistics.
+
+According to Leadbetter, Patient 0 is the result of a drunken night in a pub. "The three of us were crapping on about horror films and video games (as anyone who knows us will testify as being 100 per cent usual), and Ben mentioned the UK company putting on zombie apocalypse games in a shopping mall," he told CNET Australia. "This got us more excited than usual, and, as we dissected the concept, the issue of a scoring system was raised as a requirement to make it less about just shooting and more about gaming. This was on a Friday night. By Sunday, we had the website registered, a splash page up and Drew had started writing the outline for what has become Patient 0."
+
+That's fast work, especially considering that it's only been a few months since then, and there are significant logistical planning nightmares involved.
+
+The first was the location. "After a very disappointing false start (we were quite advanced in discussions with a certain institution but were ultimately rejected by their board of directors), we decided on a beautiful, disused building that I had come across scouting for film locations. It is a much better option, and the game has grown considerably since we chose it," Leadbetter said.
+
+(Credit: IRL Shooter)
+
+Now that location's under control, the team is trying to figure out the weapon system. IRL Shooter, according to its website, is working on a new weapon system that will allow you to count kills, headshots, body shots, misses and friendly fire, all packaged in a specially made replica M4. It sounds complicated; but once again, the team has pulled out all stops. "We are working closely with a professional armourer and a team of techs to have all the functionality that a gamer will require. It is coming together nicely."
+
+On the more practical side of things is player safety.
+
+"Our biggest concern was that the environment is going to be so real and scary that a player could potentially 'go rogue' and start physically assaulting the actors," said Leadbetter. "For the safety of all people inside the building, the entire playing arena will be covered by CCTV and monitored by a 'controller', who will be in radio contact with both the players and the cast. We are incorporating this communication into the gameplay. Players will have to sign a standard liability waiver (similar to if you go bungee jumping, ballooning, play paintball, etc). We will also have an on-site nurse at all times, and full control of the building, so in the unlikely event of an incident we will be able to extract the person almost instantly."
+
+Additionally, touching the actors will immediately result in the player becoming "infected", which Leadbetter hopes will reduce the temptation to come into physical contact with the actors. "We are developing a system that will allow our zombies to get close to the players to inflict 'damage'; however, they won't have to touch them. Again, we're trying to limit the potential for 'going rogue'."
+
+Players will patrol the factory in teams of six to survive the zombie outbreak, with the foes being played by real actors. This means that you never know what's going to happen; nothing is pre-programmed, and there's no dodgy AI that you can predict.
+
+(Credit: IRL Shooter)
+
+"This is not a picnic, this is a zombie survival experience," Leadbetter said. "Players enter the building as part of a special ops team sent in to clear the building and discover what actually happened. Like all good video games, there will be missions and puzzles to solve as they go. There will also be health packs, extra ammo and other items inside the building that they may or may not find, depending on how well they play the game. There may be moments where the players can stop to catch their breath, regroup and plan their next move, but there will not be time to kick back and relax."
+
+It sounds intense. And amazing. So why hasn't it been done on this scale before?
+
+"Actually, we were a bit puzzled by this ourselves," said Leadbetter. "Obviously, there are some amazing events run in the UK and US that cover some aspects of what IRL Shooter are creating, but no-one has included the weapons tech/video game gameplay yet. Seemed really obvious to us, but as there was no weapon on the market that could do what we needed, we decided to develop our own."
+
+If all goes well, IRL Shooter intends to tour the game around the country.
+
+"Our intention is that after a successful run in Melbourne, we take Patient 0 on the road to all major capitals and regional centres," Leadbetter said. "Once Patient 0 has run its course, we will be hosting another 'IRL Shooter Presents' event. Our philosophy is to bring our favourite FPS video-game scenarios into real life, so expect events with themes such as Ground Assault, Alien Invasion, Nazi Occupation, etc in future."
+
+Pricing has yet to be finalised, but Leadbetter told CNET Australia, "We are still working through the price structure for the event, but standard tickets will be in the region of AU$125 per person." What that gets, from arrival on-site, through playing the game to post-game debriefing, is about an hour and a half. "However, the 'game' will start from the minute that the player purchases their ticket (months before the event itself), as we are building a whole universe around the game for the players to be part of," he assured us.
+
+Limited pre-sale tickets are available now on Pozible (which is kind of like Kickstarter), and you can register here to be notified when the tickets go on sale.
+
+Watch the video here to find out more. Seriously, we can't wait.

@@ -1,0 +1,11 @@
+Over the past 30 years, childhood obesity has more than doubled and teenage obesity has quadrupled. Researchers want to identify and understand the molecular triggers that set off children down the obesity path. “There is considerable evidence that the prenatal environment can predispose the offspring to obesity. This is most clearly seen in children born to mothers who are overweight during pregnancy,” says Philip Gruppuso at Brown University. “However, there is not a suitable model to study human fat development.”
+
+So to come up with such a model, Gruppuso, along with Jennifer Sanders at Brown University, led a team to create mice that carry human fetal fat tissue. As they report in a paper just out in the Journal of Lipid Research, these mice can be used to study human fat development.
+
+The investigators took mid-gestation human fetal adipose tissue and implanted it into mice that were immunodeficient. This way, they avoided the problem of the animals rejecting the foreign tissue. The investigators were helped by Kim Boekelheide, also at Brown University, who developed the implantation technique.
+
+Following a two-week period of latency after implantation, the transplanted human fat tissue began to develop steadily over two months. The tissue expressed genes associated with fat cell differentiation and development.
+
+The investigators tried to do the same experiment with adult human fat tissue, but found that they couldn’t get the tissues to graft. The investigators suspect that the fetal tissue grew in the mice because the tissues were already programmed to develop new fat tissue and blood vessels.
+
+The ultimate aim with these animals to is tease out which molecular factors trigger obesity to take hold in children. “Our goal is to manipulate the rodent hosts, for example with an altered diet or exposure to environmental toxicants, to examine the effect on the transplanted human tissue,” explains Gruppuso.

@@ -1,0 +1,77 @@
+TL;DR
+
+Perl already won once - in the nineties it was the technology that powered the whole web. It got a market share that none of the 'cool' languages will ever be able achieve - be that Python, or Ruby, or Go, or Node, or whatever. Be that backed by Google, Facebook, Twitter, Craigslist or Booking.com. PHP is coming close, but it won't achieve it, exactly because of the cool new programming languages, because of the much larger internet market and of the diversity of software developers.
+
+
+
+
+
+I believe the main reason haters gonna hate Perl forever is because their language of choice will never achieve its dominant adoption.
+
+Transition to Perl
+
+Having those list, scalar, string, or void contexts is pretty confusing when you're first exposed to them. The types of variables are totally different from anything that I've seen that far - scalar, array and hash type. It was also hard to get along with the TIMTOWDI (There Is More Than One Way To do It) principle which is everywhere - should the $customer->orders method return undef when no orders are present, or should it simply return, or should it return an empty array or maybe an empty array ref - this is just one question that I found myself asking over and over again.
+
+I came for the money and stayed for the robustness
+
+I decided to switch from Progress because there was only one company in Cluj-Napoca that was using it. While you would normally expect, as an extremely specialized technologist, to earn a bigger salary because of the scarcity of experts in a certain field, the opposite was true - I earned a smaller than average salary, exactly because I could do nothing about it (ie I didn't had where to go). Although I wanted to switch to Java, the first opportunity I had was Perl. Given that we had at that time about 5 companies that were doing Perl development in Cluj, and that the salary this company offered, as a junior Perl developer (I wasn't able to even code the 'hello world' without googling it), was bigger than the one I got as a senior Progress developer with a commitment of salary negotiation after one month with the company, signaled me that there had to be something good with the language that I've only heard about it looks the same before and after it is encrypted.
+
+
+
+
+
+While I worked as a Progress developer, I was doing the whatever part time project I wanted to work on using technologies like PHP, Ruby and Python, mostly because of the high costs of running a Progress app (at that time they were charging even for the runtime VM, I don't know if that still applies). I don't have any public project since that time. When I switched to Perl I decided to use it for everything I do - I wanted to see if that's possible, without losing any productivity and in order to become more proficient in the language.
+
+
+
+
+
+The right tool for the right job Since 2010 when I started to develop in Perl, I found out that Perl has everything that I needed, some more and they're all rock solid pieces of software:
+
+
+
+Want a RoR like framework? go with Catalyst Want a Sinatra like framework? choose between Dancer2 and Mojolicious Want an uber ORM? - go with DBIx::Class (dbic)
+
+That's why Perl became my
+
+Young but wise the average Perl developer has 12 years of software development experience.
+
+What kind of code would you prefer in your business critical, money making software products? one written by people with an average of 12 years experience in the language of choice, or one written in a language that appeared on the radar in the last decade: I think that the average age of a Perl developer is about 35 years (I have no official data for this, my hunch is based on the people I saw at numerous YAPC s I had the opportunity to be present at). Assuming this is true and assuming a dev enters into production at 23 years old, it results thatWhat kind of code would you prefer in your business critical, money making software products? one written by people with an average of 12 years experience in the language of choice, or one written in a language that appeared on the radar in the last decade: Ruby on Rails, the framework that made Ruby popular was launched in late 2005 NodeJS is not yet at version 1, having its first version launched in May 2009
+
+
+
+In my imagination a language that is dying does not have frequent releases, nor it has modern frameworks and it doesn't inspire other languages also.
+
+
+
+A short story I currently work on a project written completely in Perl for a company that sells economic reports - lets call it X, because I don't have their permission to use their name. The project was started around 1998 and for about 8 years there were less than 3 developers who supported the whole online division of the company. The company that I currently work for (an outsourcing one) started to assist the X company with the project around 2008. If I remember correctly, between 2008 and 2012 there were no more than 5 developers assigned to the project from my company at any one time.
+
+In late 2012, a new CIO was hired by the X company in order to help with modernizing their so called legacy codebase. It was indeed legacy - the whole website was done entirely with CGI.pm. The new CIO promised to rewrite the whole system in .NET in just one year, because you know, how much functionality can be implemented by an average number of 3-4 developers in a technology that is so old and rusty as CGI, while also maintaining the core, business critical and money generating, functionality?
+
+So, in November 2013 they started to lay out the business logic that takes place in the online app in order to be able to start implementing it in early 2013 so it would be done by the end of 2013.
+
+It was March 2013 when the CEO decided to stop the idea of rewriting the app in .NET because they weren't able in those 4 months to even define the scope of the project. The CIO was out.
+
+My company made the commitment to rewrite the whole app using Modern Perl and to also respect the original schedule, compensating the time lost because of the unsuccessful .NET rewrite attempt. I remember my department manager saying after he came back from company X with the project "I might have made the most stupid commitment ever, but it might also be the best".
+
+Long story short - by October 2013 we rewrote 90% of the old application using Catalyst and DBIx::Class on the backend and Bootstrap from Twitter on the front end. By the mid of 2014, the old application, the CGI one, was taken out of production.
+
+There was no business interruption because of the rewrite.
+
+Conclusion
+
+Watch out for whoever says that Perl is an ancient technology, because they're either ignorant and completely clueless about what's really happening in the world of computer programming, or they have hidden agendas.
+
+
+
+I know, this might be a biased post - I love Perl, but so are the posts that people wright when they say it is irrelevant. Let me ask you a few biased questions:
+
+
+
+Why do you love Perl? How did Perl helped you in your profession? How did Perl helped your company? How do you intend to use Perl in the next years? As a result, I currently have 2 extra projects that I work on and have real users www.eatfab.com (a food ordering application) and www.prforge.com (a crowd speaking platform).Since 2010 when I started to develop in Perl, I found out that Perl has everything that I needed, some more and they're all rock solid pieces of software:That's why Perl became my golden hammer Regarding youth, Perl's last stable version is 5.20.1, released in 14th of September 2014. The Dancer2 framework had its first release in 2013 and it had 37 more releases since then. Mojolicious reached version 1 in December 2010, now it's at version 5.72 - have a look at the frequency of releases In my imagination a language that is dying does not have frequent releases, nor it has modern frameworks and it doesn't inspire other languages also.Watch out for whoever says that Perl is an ancient technology, becauseand completely clueless about what's really happening in the world of computer programming, orI know, this might be a biased post - I love Perl, but so are the posts that people wright when they say it is irrelevant. Let me ask you a few biased questions:
+
+
+
+
+
+This post is a response to the Yet Another Perl Rant article which appeared on hackernews Without being a special kind of paranoid or conspiracy theory adept, I can't help myself noticing that from time to time an article appears which tries to convince us that Perl is dead and there are no reasons to learn it.I started programming in Perl in 2010, after 4 years of professional software development (in progress ) and after I did some projects in PHP, Ruby and Python.I have to admit, as a programmer it wasn't really easy to start with Perl:

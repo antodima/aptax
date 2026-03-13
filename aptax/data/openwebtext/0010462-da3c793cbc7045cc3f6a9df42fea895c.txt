@@ -1,0 +1,57 @@
+Appearance and function match the final product, but is made with different manufacturing methods.
+
+Looks like the final product, but is not functional.
+
+Demonstrates the functionality of the final product, but looks different.
+
+A prototype is a preliminary model of something. Projects that offer physical products need to show backers documentation of a working prototype. This gallery features photos, videos, and other visual documentation that will give backers a sense of what’s been accomplished so far and what’s left to do. Though the development process can vary for each project, these are the stages we typically see:
+
+These photos and videos provide a detailed look at this project’s development.
+
+About
+
+Final minutes!
+
+We didn't reach our funding goal, but we are continuing work on future products and launches.
+
+Follow us on our other social media sites to keep getting updates about our latest developments.
+
+JuiceBox Zero Website: http://juiceboxzero.com/ JuiceBox Zero Facebook: https://www.facebook.com/juiceboxzero/ JuiceBox Zero Twitter: https://twitter.com/getjuiceboxzero JuiceBox Zero Instagram: https://www.instagram.com/getjuiceboxzero/
+
+A big thank you to everyone involved!
+
+The JuiceBox Zero is the only battery solution on the market built especially for Raspberry Pi Zero that requires no code. It is the easiest way to make your Pi Zero or Zero W instantly portable, and works right out of the box!
+
+FEATURES
+
+ON/OFF Switch
+
+4 Status Indicator LEDs
+
+Pi Zero Camera Mount
+
+Micro USB Power Input
+
+JuiceBox Zero works right out of the box. But with one additional line of Python, you can poll a GPIO pin for low battery status so you can trigger a safe shutdown of your Pi Zero.
+
+Small, mobile cameras are one of the most common applications for portable Pi Zero devices. For that reason, the JuiceBox Zero was designed with a camera mount built right into the board!
+
+YOU NEED
+
+JuiceBox Zero
+
+Raspberry Pi Zero or Zero W
+
+Header Connection
+
+JST-Compatible Single-cell Lithium-Ion Battery
+
+THE STORY
+
+While searching for a mobile battery solution for my Raspberry Pi 3, I found several well-made boards that were still a bit too cumbersome to set up. When the Pi Zero was released, I instantly saw the potential its tiny form factor provided for truly mobile inventions. But to be truly mobile, it can’t be tethered to a power source. Just imagine how useless an iPhone would be if it had to be plugged into the wall!
+
+So I took matters into my own hands to create a truly portable battery solution that is both plug ‘n play and matches the Raspberry Pi Zero’s tiny footprint. The PowerBoost 1000c by Adafruit provided a stable baseline to start from — then I shrank it down and added a handful of my own improvements.
+
+I’m excited about it, and can’t wait to see what you do you now that you can cut your Pi Zero loose.
+
+— Sam

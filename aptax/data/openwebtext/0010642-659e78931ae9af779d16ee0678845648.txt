@@ -1,0 +1,19 @@
+SQL injection is a type of security exploit/vulnerability in which the attacker submits a SQL code to a Web form input box exposing the back-end database to gain access to resources or make changes to data. SQL injection allows an attacker to create, read, update, alter or delete data stored in the back-end database. A SQL injection attack can occur when a web application utilizes user-supplied data without proper validation or encoding as part of a command or query.
+
+
+
+
+
+Typically, on a Web form for user authentication, when a user enters their name and password into the text boxes provided for them, those values are inserted into a SELECT query as it is. If the values entered are found as expected, the user is allowed access; if they aren't found, access is denied. However, most Web forms have no mechanisms in place to block input other than names and passwords. Unless such precautions are taken, an attacker can use the input boxes to send their own request to the database, which could allow them to download the entire database or interact with it in other illicit ways.
+
+More than 20 percent of all web vulnerabilities being attributed to SQL injection, this is the second most common software vulnerability, as due to it anyone can get access to the database of your system. Therefore, having the ability to find and prevent SQL injection should be top of mind for web developers and security personnel. In general, a SQL injection attack exploits a web application that does not properly validate or encode user-supplied input and then uses that input as part of a query or command against a back-end database.
+
+If your web application has a form asking for a user id. Then a hacker may write any user id "number or 1=1" if you have not done proper validation before using the input then this may compromise your database security. Hacker may also use a complete query like for the above example hacker may write "# or 1=1; Select * from users ; --" if this query executes then whole of your users information can be displayed and remaining of your query will be commented to avoid errors.
+
+
+
+According to security experts, the reason that SQL injection and many other exploits, such as cross-site scripting, are possible is that security is not sufficiently emphasized in development. To protect the integrity of Web sites and applications, experts recommend simple precautions during development such as controlling the types and numbers of characters accepted by input boxes.
+
+Prevention
+
+You can prevent SQL injection if you adopt an input validation technique in which user input is authenticated against a set of defined rules for length, type and syntax and also against business rules. Most of the languages provide support for prevention of sql injection by the use of prepared statements/queries which checks the parameters to be used in the query for sql injection. Use strongly typed parameterized query APIs with placeholder substitution markers, even when calling stored procedures. Show care when using stored procedures since they are generally safe from injection. However, be careful as they can be injectable (such as via the use of exec() or concatenating arguments within the stored procedure).

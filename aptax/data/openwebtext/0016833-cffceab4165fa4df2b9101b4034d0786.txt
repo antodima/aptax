@@ -1,0 +1,71 @@
+The Coalition government's proposals to extend surveillance powers would vastly expand the amount of data that communications companies must keep on record.
+
+Phone companies are already required to hold information for up to twelve months; in the future this information - as well as similar information collected form email and social networking sites - could be accessed in real time, and without a warrant.
+
+I accessed my own data from my mobile phone company Vodafone, using data protection laws, to demonstrate what information is already stored and how this data already creates a revealing profile of the individual.
+
+Use the graphic above to browse the location data logged by Vodafone every time my phone made a connection with the phone masts - when I made a call, received or sent a text message, or checked my emails.
+
+Further data - recording what I was using the phone for in each instance, and the numbers I dialled - was also released.
+
+Together this data creates a very effective profile of my life: who I called, where I worked, where I lived and what I got up to.
+
+My phone calls, messages and internet browsing has been recorded to the second. My location to within a few hundred metres.
+
+Browsing the data for only a few minutes is enough to acquaint you with my daily routine.
+
+Most mornings show my phone 'clocking in' with the mast nearest to my home in south London before I leave the house. This phone mast is perhaps 300m from my front door.
+
+On weekdays, the next activity tends to be linked to a Vodafone mast labelled '3 Thomas Moore Street, E1' - a mast apparently attached to or neighbouring the News International offices, where I worked as a reporter for The Sunday Times all of last year.
+
+(A very close reading of my records actually reveals a trip to the Telegraph offices for an interview.)
+
+Unless I'm out of the office on a story, my signal tended to hover around Wapping until evening, when I might meet some friends - maybe at the Truman Brewery on Brick Lane, where I was recorded several times - before travelling back to Brixton and bed.
+
+But it's not all work and no play.
+
+On July 3, I am in Hyde Park for the entire day. Quickly googling "July 3 2011" and "Hyde Park" provides a bit of insight: it was the last day of Wireless festival.
+
+My Twitter feed confirms it:
+
+<noframe>Twitter: Cal Flyn - Crosslegged in the mud at very front. Been here for 2 hours plus, Jarvis this is dedication <a href="http://search.twitter.com/search?q=doyourememberthefirsttime" target="_blank">#doyourememberthefirsttime</a> <a href="http://www.twitter.com/pulp2011" target="_blank">@pulp2011</a> <a href="http://search.twitter.com/search?q=wireless" target="_blank">#wireless</a></noframe>
+
+I make several trips to the north of Scotland to see my parents. Indeed, can watch me travel north on the train, through York, Newcastle, Berwick-upon-Tweed, Edinburgh, Kingussie, and Inverness.
+
+On the afternoon of 20 December I am at Gatwick airport (North terminal). I must have caught the 17:50 flight to Inverness, because by the next day I am in the Highlands again (a quick check of my emails confirm this was the case).
+
+And even from my relatively remote family home - half an hour's drive from the nearest town - my activity is being carefully and closely recorded. The Vodafone mast I clock in with is within a few hundred metres from my rural house - easily within eyeshot.
+
+On one occasion, I spend two days there before the signal goes dead - "No Cell Info Available" on the 24th or 25th of May, 2011.
+
+This two day period is the longest period during the entire year when my location goes unlogged. An email explains why I have gone off radar: "In the Highlands," I tell a friend on the 24th. "But my phone charger is in London. It'll be dead until I get back tomorrow night."
+
+And right enough, there I am - appearing suddenly back in London late on 25 May.
+
+Every row of data adds another pixel to this portrait of my life.
+
+The records display my daily routine down to the minute, my regular haunts, the location of my childhood home, even my taste in music.
+
+All of this activity is from when I have actively used my phone.
+
+If you have set your phone to automatically check for new emails - which I don't - you are leaving a trail of digital breadcrumbs only minutes apart.
+
+I am not suspected of any crime. I have no criminal record. I don't even have points on my driving license. There is no clear motive or explanation why my phone company - like yours - is required under law to record the minutiae of my life, and store it for a year.
+
+And under the Coalition's proposals, these rules would be rolled out to all email services, social networks, internet providers and even game companies, who would be required to offer access on demand and in real time and without a warrant.
+
+The proposals would allow officials or police to see not only when I was in Hyde Park, but when I went online to book the tickets, and who I emailed immediately after to let them know I had done so.
+
+And where there is such a wealth of information, there is an element of risk that it will not be used correctly.
+
+Emma Draper of Privacy International said: "Information, once collected and stored, will always be vulnerable to exposure by human error or corruption. The only answer to this problem is to collect only the bare minimum of information, and to delete or destroy information the moment it becomes superfluous to requirements."
+
+Already there are claims that UK phone data has been accessed illegally.
+
+During the Leveson inquiry, Simon Hughes MP claimed that reporters from The Sun gained access to phone records showing him to have used gay phonelines.
+
+I know that I have not been living a secret second life, nor masterminding any criminal activity. I don't have a lot to hide from the government.
+
+But that doesn't mean that I am happy for my life to be written up and ready to read.
+
+NB. Note on safety: My routine has significantly changed since January 2012.

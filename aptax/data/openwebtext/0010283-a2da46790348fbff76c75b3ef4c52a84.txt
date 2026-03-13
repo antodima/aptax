@@ -1,0 +1,15 @@
+The Securities and Exchange Commission is now investigating a pair of Yahoo data breaches reported in 2016 to see if the company should have reported the breaches to investors sooner.
+
+While the SEC investigation is in the early stages, according to the Wall Street Journal , a case brought against Yahoo could help clarify the timeline for companies to reveal such hacks.
+
+The disclosures also prompted Verizon, which had reached a deal to acquire Yahoo before the hacks were announced, to look into how the hacks may have affected Yahoo's user numbers. At one point, after the second hack was announced, Verizon was reportedly considering exiting the deal but, according to Sunday night's WSJ report, Verizon says the deal is still in place.
+
+The first data breach occurred in 2014, affecting up to 500 million users, and was reported in September 2016. Yahoo confirmed that user account information was stolen from the company’s network "in late 2014 by what it believes is a state-sponsored actor."
+
+The company suggested at the time that the stolen information could include personal credentials such names, email addresses, telephone numbers, dates of birth, hashed passwords (the vast majority protected by bcrypt) and even security questions and answers.
+
+The ongoing investigation also revealed that unprotected passwords, payment card data and bank account information were not included in the stolen information, since that info isn't stored in the affected system.
+
+The second incident occurred in August 2013, impacting nearly one billion users, and was reported in December 2016. That hack involved names, email addresses, phone numbers, dates of birth, MD5-hashed passwords (a form of encryption now widely considered insecure) and security question answers, according to the company.
+
+Additional reporting by Nicole Galucci and Gianluca Mezzofiore

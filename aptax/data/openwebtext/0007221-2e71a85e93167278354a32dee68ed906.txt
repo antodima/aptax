@@ -1,0 +1,157 @@
+Get to know Titanium
+
+Building mobile and desktop applications with web technologies
+
+The world of web application development has moved pretty quickly in the past five or so years. What used to be extremely rare — web developers who could deliver not only solid back-end code but also slick UIs — is becoming increasingly commonplace thanks to powerful development frameworks like Ruby on Rails and jQuery. Likewise, CSS and HTML — once extremely simple tools for determining the structure and layout of web pages — have solidified into flexible and powerful environments that allow developers to create extremely engaging experiences.
+
+At some point, though, these same developers are sometimes asked to go farther than a "mere" web presence (word in quotes because everyone who develops web software knows it's harder than it looks to pull off, but there are always those who would give it short shrift). In this rapidly changing world, it's not enough to just have a web presence: You also need mobile and desktop applications.
+
+The problem is, if you're coming from the world of interpreted scripting languages like Python, JavaScript, or PHP, making the transition to Java™ technology, C++, or Objective-C languages isn't quite as easy as it sounds. In fact, it can be downright difficult. Everything about the new world is difficult: You have to deal with compiled code; provision devices; and test on different platforms like Apple Macintosh, Windows®, or Linux®. You more than likely have to start working in a very different way.
+
+So, even if you can learn a new language (say, Objective-C, if you want to code Apple iPhone or iPad applications), you still have to learn how to do things in ways that conform to the new environment. If you're coding an Android or iPhone application, you need to walk through certain steps to get developer certificates, run your builds, provision your devices, test the code running on the devices, and finally follow another process for submitting your applications for distribution.
+
+For the average web developer, who is used to dropping code via SFTP onto a test server, running various browser checks, then pushing it live, all of this can be a bit overwhelming.
+
+But what if you could use the skills you already have with the languages you already know? Use those languages to build native applications for desktop and mobile platforms, then package those applications for distribution and use? Well, you're reading the correct article because the answer to those "what ifs" is Titanium, a free and open source development kit published by Appcelerator (see Related topics).
+
+What is Titanium?
+
+In short, Titanium is a rapid application development platform that uses HTML, JavaScript, and CSS (for starters) to develop desktop and mobile applications. The framework also supports the use of Python, Ruby, and PHP, which, together with the front-end technologies, gives you access to a whole range of familiar technologies you can use to create applications.
+
+Other platforms (like Adobe® AIR®) are similar, except that Titanium is licensed under a free/open source Apache license, and you don't need to learn Adobe Flash® or ActionScript to get started. Basically, what you'll be using is an independent WebKit client and an extensive API that includes an internal SQLite database and full file system access (among other features) that you combine with your own CSS, JavaScript, HTML, and back-end code. Furthermore, you get access to common wrappers for such things as desktop notifications, tray icons, window menus, and other widgets that allow your application to blend in naturally with most major operating systems.
+
+Installing Titanium
+
+To get started with Titanium, on the Appcelerator web site, click Download Titanium. When the package is downloaded, install it on your system. On Mac OS X, simply drag the Titanium icon onto the Applications folder icon.
+
+When Titanium is installed, you'll probably need to run updates and download secondary libraries before you can get going. When everything is complete, start Titanium for the first time; you should see a welcome page. If you already have a username and password, use those credentials to log in. Otherwise, take a minute to create your credentials now. You'll use those credentials to access the wiki, the support portal, and other resources, like cloud-based analytics.
+
+Once you've registered, you should see a page that lists your projects. You can also access API documentation and other helpful information from this same page (see Figure 1). You are free to explore these at your own leisure, but for now, start creating your first project.
+
+Figure 1. Titanium Developer Dashboard
+
+Creating your first Titanium application
+
+To create your first application in Titanium, simply click New Project on the top toolbar to open the New Project window. Here, fill in a few data points about your new application (see Figure 2):
+
+In Project type, choose desktop. Name your application. Give your application an App ID. Typically, the App ID follows the familiar com.companyname.applicationname format (such as com.example.sampleapp). Select a directory for your finished code. Enter your company's or a personal URL. Check the language modules you want to include in your new application (currently, there is support for Ruby, Python, and PHP). Click Create Project.
+
+Figure 2. Create a new project
+
+Titanium creates a folder for your new application in the designated folder. Your application folder will contain certain important files and directories:
+
+The Resources folder will eventually contain all your images, HTML files, PHP files, etc. Think of it as your application's web root. Within your application, you can use app:// URLs to refer to files and assets within this folder.
+
+URLs to refer to files and assets within this folder. The tiapp.xml file is your application's configuration file. You'll probably never edit this file outside of Titanium's UI, but if you do, make sure that you read the documentation (see Related topics) beforehand.
+
+The LICENSE.txt file contains the license your users will have to agree to before using your application.
+
+The manifest file describes some details about your application, such as the runtime version of the application. It's not a good idea to edit this file while Titanium is running.
+
+The dist directory is where Titanium stages your application when you launch and package it.
+
+For now, make sure that the initial application you've set up is valid and can actually be packaged. To test that, click the Test & Package tab, then click the Package tab.
+
+Next, select which platforms you want to support (just pick the one you're working with now), select an installer type (choose Bundled for now). Keep the rest of the defaults shown in Figure 3 (for example, you want the application to be private, and you don't want to release to users).
+
+Figure 3. Packaging your application
+
+Click Package Project. After a few minutes, you should end up with a package that's ready to download from the Appcelerator Web site (see Figure 4).
+
+Figure 4. Your package ready for download
+
+Click to download the package, then install it. What you'll see, of course, is just a blank screen with the words "Welcome to Titanium" along the top because that's pretty much what's inside the index.html file in the application's Resources directory. In fact, if you were to open that index.html file, you'd see something like the markup in Listing 1.
+
+Listing 1. Basic markup in your first Titanium application
+
+<html><head></head> <body style="background-color:#1c1c1c;margin:0"> <div style="border-top:1px solid #404040"> <div style="color:#fff;;padding:10px">Welcome to Titanium</div> </div></body></html>
+
+You've built your first application, but it isn't very exciting. It isn't much to look at, for one thing, and it doesn't do anything useful. So, let's add a few elements to it so that it will start looking like an application.
+
+Open the directory that contains your application, then open the Resources directory. Download a copy of your favorite JavaScript framework (for me, it's jQuery) and put the file right into the directory. Now open the index.html file in an editor and make changes.
+
+Begin by using a <script> tag to wire up the framework file you just downloaded into the page. Then remove all that extra inline style stuff that came with Titanium. At this point, your HTML markup should look like Listing 2.
+
+Listing 2. Adding jQuery
+
+<html> <head> <script type="text/javascript" src="app://jquery.js"></script> </head> <body> </body> </html>
+
+Now add some client-side code, such as a button that does something dynamic on the page. In the example in Listing 3, I create a simple button that, when clicked, prompts jQuery to fill a <div> with content.
+
+Listing 3. Adding a dynamic button
+
+<html> <head> <script type="text/javascript" src="app://jquery.js"></script> <script type="text/javascript"> jQuery(document).ready(function() { $("#mybutton").click(function(){ var string = 'Hello there!'; $('#mymessage').html(string); }); }); </script> </head> <body> <button id="mybutton">click me!</button> <div id="mymessage"></div> </body> </html>
+
+Although this is a simple example, you can see right away that the options are pretty much limitless (see Figure 5). Add other client-side frameworks, CSS layouts, and custom content to create the application you want to deliver to your clients.
+
+Figure 5. HTML + jQuery in Titanium
+
+Unlike a website, you'll need to do some planning because you need to package "builds" to see updates. For example, you can't easily refresh content changes once you've bundled up a distribution, so remember to budget in the time it will take to create a package, and then download it.
+
+For example, if you were to go back and add CSS styling like that shown in Listing 4:
+
+Listing 4. Simple CSS
+
+body { margin:0; padding:0; background:#ccc; } #wrapper{ border:1px solid black; margin:10px auto; width:500px; background:#fff; padding:10px; }
+
+Then a bit of markup, adding an HTML <div> with an ID of wrapper , as shown in Listing 5:
+
+Listing 5. Applying the CSS
+
+<html> <style> body { margin:0; padding:0; background:#ccc; } #wrapper{ border:1px solid black; margin:10px auto; width:500px; background:#fff; padding:10px; } </style> <head> <script type="text/javascript" src="app://jquery.js"></script> <script type="text/javascript"> jQuery(document).ready(function() { $("#mybutton").click(function(){ var string = 'Hello there!'; $('#mymessage').html(string); }); }); </script> </head> <body> <div id="wrapper"> <button id="mybutton">click me!</button> <div id="mymessage"></div> </div> </body> </html>
+
+Then you wouldn't be able to see your new look and feel until after you've run through the package process. That's a bit slower than you're used to when you develop websites, but just keep in mind what you're dealing with and you should be OK.
+
+If client-side only gets you so far, then there's also support for server-side code. You could convert the HTML file here to PHP, and if you've got PHP support for the application your building (in other words, you selected the PHP checkbox when you created the project), you'd be able to insert PHP commands. Combining PHP with the built-in SQLite database included with Titanium allows you to build just about any kind of dynamic application you care to build. The next section takes this all a bit farther and adds PHP coding.
+
+Adding PHP to the mix
+
+Now that you have the basics down, you can do a few advanced things with your new application. Open the Resources directory, then open the index.html file in an editor. Before you get started with PHP, it's a good idea to throw in a link to a PHP file that will run phpinfo() so that you know what you're dealing with. I chose PHP, because that's what I'm most familiar with: You may want to use Ruby or Python, and both of those options are supported.
+
+When you're in the HTML file, get rid of the button and put in a link to a new file — one you'll call phpinfo.php, as Listing 6 shows.
+
+Listing 6. Linking to phpinfo.php
+
+<div id="wrapper"> <a href="phpinfo.php">see PHP info</a> </div>
+
+The phpinfo.php file will be basic, containing just one line of PHP — a call to phpinfo() , which dumps out every variable and setting in Titanium's PHP environment (see Listing 7). You can wrap that call with the <pre> tag to make it easier to digest the information.
+
+Listing 7. Creating the phpinfo.php file
+
+<?php echo phpinfo(); ?>
+
+Once you're done with the source code, go back to Titanium and create an updated package. Wait for the process to finish, then download and install the package. Once installed, run it; you should see a simple page with a link to the phpinfo.php file. Click that link, and you should see the page shown in Figure 6.
+
+Figure 6. Basic results of the phpinfo() command
+
+As you can see, Titanium displays a page that shows you every PHP configuration setting it has. Notice that you have support for Sessions, SQLite, and SimpleXML (among other valuable tools) and that Titanium knows about your local environment (for example, where the WebKit libraries are located and what your _ENV['HOME'] setting is.
+
+That's all well and good, but what if you want to actually do some work with PHP? You can certainly create separate PHP files that you call, but it's much easier to embed your PHP directly into your HTML files. The way you do that is to create <script> blocks (much like you would with JavaScript) that use the text/php type parameter and add your PHP that way.
+
+For example, if you wanted to create a simple function that adds two numbers and place it in the previously created index.html file, you could run it via a JavaScript block, as Listing 8 shows.
+
+Listing 8. Creating a basic PHP block
+
+<script type="text/php"> function php_sum($a,$b){ return $a + $b; } </script> <script> alert(php_sum(3,4)); </script>
+
+As you can see in Figure 7, you can run the PHP code from a basic JavaScript block, making the data available from one to the other in ways that you're probably not used to in the web development world.
+
+Figure 7. A Basic PHP block
+
+Another option, of course, is to bundle your PHP blocks into separate files and include those files via one of two ways: through the common <script> tag or by using an include command inside a <script> block, as shown in Listing 9.
+
+Listing 9. Including PHP source files
+
+//you can use the script tag //if you use this method, leave your PHP code bare, no <?php block <script type="text/php" src="my_file.php"/> //or you can use a PHP include command inside a script block //if you use this method, surround your code with <?php block <script type="text/php"> include("source.php"); </script>
+
+Conclusion
+
+At this point, you know more than enough to get started on your own Titanium application. You've learned how to install the tools, create basic interfaces with HTML, and even added a bit of PHP code and some CSS styling. From here, you should be able to add other features and make smart desktop and mobile applications, building on the skills you already have as a web developer.
+
+Downloadable resources
+
+Related topics
+
+Check out Titanium Developer, the starting point for Titanium.
+
+Follow developerWorks on Twitter.

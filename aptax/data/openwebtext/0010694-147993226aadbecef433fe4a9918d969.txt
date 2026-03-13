@@ -1,0 +1,27 @@
+New Handheld Game Console Capable Of Running All PC Games
+
+Author: Jeff Taylor
+
+With the rise of tablets, mobile phones, and notebooks, the desktop market is being kept alive in large part due to PC gaming enthusiasts (and grandparents). PC gaming allows you to experience the fastest frame rates, the best graphics, and the largest and least expensive library of games – the downside is that it’s not exactly portable. Good luck enjoying the latest PC games while you’re stuck in layover at the airport or waiting for a bus, and have fun hauling your entire rig back and forth to a buddy’s house every weekend.
+
+There’s got to be a better way…
+
+PC gaming is amazing, but we’ve always had to make sacrifices when it comes to the convenience of portability. Dumb little mobile games are popular as hell because you’ve always got your phone on you. But now there’s a portable device that’s small enough to fit in your pocket, but that packs a real punch graphically.
+
+The PGS is a new handheld that’s capable of playing PC games at 1440p. It comes loaded with Windows 10, supports Steam games, has 8 gigs of ram, and a 128 gb hard drive. The battery can last for up to 5 hours with very demanding games, and even longer for less graphically-demanding games. There are two versions available, Hardcore and Lite. The lite version has half the ram, half the storage, and runs at 720p. Still, on a 5.5 inch screen, that’s really not the end of the world.
+
+Along with Windows 10, this device promises to allow players to dualboot into Android 6 as well, on the 2nd screen.
+
+Depending on which model you want, it will cost around $220-$260, which actually seems unbelievable – so we’ll give them the benefit of the doubt while remaining cautiously optimistic. Here’s a video from a Kickstarter that they apparently decided not to launch after all:
+
+Disclaimer: This is a prototype video, and when somebody in the comments called them out on simply disassembling a Linx 7″ Tablet PC, the creators of the PGS said this video isn’t complete yet and responded as follows:
+
+We did not plan to show an early prototype of the public. Before starting the assembly of more complex solutions, we had to ensure the consistency of decisions. It is normal practice for small companies.
+
+So far the general reaction to this device has been skepticism, for numerous reasons. A lot of doubts come to mind, like how hot would this little thing get? There can’t be a lot of room in there for fans or ventilation, plus it’s pushing out some real power, with a big battery to boot. How are they including a full version of Windows, all of this hardware, two HD screens, and selling it for a couple hundred bucks?
+
+The PGS is set to be available near the end of this year. You can visit their website here. Let us know your initial reactions, impressions, and thoughts about this device. Are you getting your hopes up, or do you plan on waiting until you can actually hold it before getting too excited? Just because it sounds too good to be true, doesn’t mean it isn’t… That’s how the saying goes, right?
+
+*Update*
+
+We reached out to the PGS Team for a follow up, and this is their response:

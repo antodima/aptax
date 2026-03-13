@@ -1,0 +1,115 @@
+FM2A68M-HD+ 2.10 2/20/2019 Update APU AGEGA code for Carrizo support. Download
+
+SBC-330 1.40 2/14/2019 1.Update Intel ME version
+
+2.Update Intel Microcode
+
+3.Improve HDD compatibility
+
+4.Enhance chassis fan behavior Download
+
+SOM-P101 1.50 2/14/2019 Update Intel Microcode Download
+
+IMB-186 1.90 1/25/2019 1.Improve HDD compatibility
+
+2.Enhance chassis fan behavior
+
+Note: This BIOS is for IMB-186
+
+Download
+
+IMB-390-L 2.20 1/25/2019 Improve CPU compatibility Download
+
+SBC-310 1.70 1/25/2019 1.Improve HDD compatibility
+
+2.Enhance chassis fan behavior
+
+Download
+
+SBC-311 1.60 1/25/2019 1.Improve HDD compatibility
+
+2.Enhance chassis fan behavior Download
+
+Fatal1ty B360 Gaming K4 3.30 1/23/2019 1.Update Intel Microcode and ME
+
+2.Add setup item "M2_3/PCIE3 Switch" Download
+
+Z390 Pro4 1.60 1/23/2019 1.Update instant flash module.
+
+2.Update Intel Microcode
+
+3.Improve the memory compatibility. Download
+
+A320M-DVS R4.0 1.50 1/22/2019 1.Improve SATA M.2 SSD compatibility with Bristol Ridge CPU
+
+2.Correct CSM control mechanism
+
+* Please install "AMD all in 1 with VGA driver ver:18.10.20_NHDA" or a later version before updating to this BIOS.
+
+* If you updated the BIOS before updating the AMD all in one driver, please refer to the Display recovery SOP to recover your system. Download
+
+A320M-HDV R4.0 1.50 1/22/2019 1.Improve SATA M.2 SSD compatibility with Bristol Ridge CPU
+
+2.Correct CSM control mechanism
+
+* Please install "AMD all in 1 with VGA driver ver:18.10.20_NHDA" or a later version before updating to this BIOS.
+
+* If you updated the BIOS before updating the AMD all in one driver, please refer to the Display recovery SOP to recover your system. Download
+
+AB350M-HDV R4.0 1.50 1/22/2019 1.Improve SATA M.2 SSD compatibility with Bristol Ridge CPU
+
+2.Correct CSM control mechanism
+
+* Please install "AMD all in 1 with VGA driver ver:18.10.20_NHDA" or a later version before updating to this BIOS.
+
+* If you updated the BIOS before updating the AMD all in one driver, please refer to the Display recovery SOP to recover your system. Download
+
+B450M-HDV R4.0 1.50 1/22/2019 1.Improve SATA M.2 SSD compatibility with Bristol Ridge CPU
+
+2.Correct CSM control mechanism
+
+* Please install "AMD all in 1 with VGA driver ver:18.10.20_NHDA" or a later version before updating to this BIOS.
+
+* If you updated the BIOS before updating the AMD all in one driver, please refer to the Display recovery SOP to recover your system. Download
+
+H110M-HDV R3.0 7.50 1/22/2019 Improve USB storage compatibility Download
+
+Z390 Extreme4 2.30 1/16/2019 1.Update instant flash module.
+
+2.Improve the memory compatibility.
+
+3.Support easy OC options for 8086K CPU Download
+
+Z390 Phantom Gaming 4 1.30 1/16/2019 1.Update instant flash module.
+
+2.Update Intel Microcode
+
+3.Improve the memory compatibility.
+
+4.Improve system performance Download
+
+Z390 Phantom Gaming 6 1.60 1/16/2019 1.Update instant flash module.
+
+2.Improve the memory compatibility.
+
+3.Support easy OC options for 8086K CPU Download
+
+Z390 Phantom Gaming 9 1.60 1/16/2019 1.Update instant flash module.
+
+2.Improve the PCIe device compatibility. Download
+
+Z390 Phantom Gaming SLI 1.20 1/16/2019 1.Update instant flash module.
+
+2.Update Intel Microcode
+
+3.Improve the memory compatibility.
+
+4.Improve system performance Download
+
+Z390 Phantom Gaming SLI/ac 1.20 1/16/2019 1.Update instant flash module.
+
+2.Update Intel Microcode
+
+3.Improve the memory compatibility.
+
+4.Improve system performance Download

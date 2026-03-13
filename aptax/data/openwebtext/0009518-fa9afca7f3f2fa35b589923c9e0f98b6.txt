@@ -1,0 +1,17 @@
+Director of NIST: Disclosure of WTC7 data "might jeopardize public safety"
+
+http://cryptome.org/nist070709.pdf
+
+FINDING REGARDING PUBLIC SAFETY INFORMATION
+
+Pursuant to Section 7(d) of the National Construction Safety Team Act, I hereby find that the disclosure of the information described below, received by the National Institute of Standards and Technology ("NIST"), in connection with its investigation of the technical causes of the collapse of the World Trade Center Towers and World Trade Center Building 7 on September 11,2001, might jeopardize public safety. Therefore, NIST shall not release the following information:
+
+1. All input and results files of the ANSYS 16-story collapse initiation model with detailed connection models that were used to analyze the structural response to thermal loads, break element source code, ANSYS script files for the break elements, custom executable ANSYS file, and all Excel spreadsheets and other supporting calculations used to develop floor connection failure modes and capacities.
+
+2. All input files with connection material properties and all results files of the LS-DYNA 47-story global collapse model that were used to simulate sequential structural failures leading to collapse, and all Excel spreadsheets and other supporting calculations used to develop floor connection failure modes and capacities.
+
+~
+
+Patrick Gallagher Director National Institute of Standards and Technology
+
+Dated: JUL 09 2009

@@ -1,0 +1,21 @@
+SmartBridge Technology by ARK
+
+BoldNinja Blocked Unblock Follow Following Nov 3, 2016
+
+Did you know that ARK has a special feature known as SmartBridge? When you hear the crew members of ARK discuss our goals and strengths you will often hear SmartBridge mentioned. However, the reader may say to himself, “what exactly is a SmartBridge”?
+
+Well, if you are one of those people, then this blog post will help you learn about the benefits of SmartBridges. The SmartBridge is a bit of code which helps ARK to be extremely diverse in the functionality provided by the ARK network. SmartBridges connect different blockchains to the core of ARK. This allows linked blockchains to send and receive a wide variety of data. This aspect can also be utilized by centralized services as well to provide Blockchain as a Service (BaaS), outside of the blockchain ecosystem.
+
+The way in which this groundbreaking feature is able to achieve these significant features is through ‘Encoded Listeners’, which respond to specific triggers found within the SmartBridge. These listeners allow for their coded autonomous systems to recognize any trigger function notices created by a user. They subsequently process the information accordingly, and relay the information intended to be sent or received.
+
+These Encoded Listeners will be developed by the administrators of the connecting blockchains. However, ARK intends on supplying a Rapid Deployment Engine, which will assist in creating these Encoded Listeners. This will make this process flow in the most efficient manner.
+
+To discuss all of the potential use cases which can be utilized by SmartBridge would take volumes. So, instead, we will present examples to help put our explanation of SmartBridges into perspective.
+
+One great example is the transfer of payments through various blockchain networks. This allows users to send a transaction with a specific amount of ETH from ARK, directly to the holder of the ETH account, once the information is processed and verified. Other applications will eventually lead to the transfer of data for user profiles, service ratings, contracts, and other applications. The use cases really are endless.
+
+Another use case could be a 3rd party coin exchange service may look for specific triggers and handle cross blockchain payments for their customers. For example, You have ARK but want to pay for a movie using Netflix Credits but you don’t have any Netflix Credits. You could go through multiple steps to transfer into these credits to watch a movie but because you are a member of Bob’s coinshift platform, you can send an ARK transaction to bob with the instructions to pay for the video you want to watch with Netflix Credits on your behalf. This would not require Bob to be there and would be handled by the Centralized and Decentralized system that Bob’s Coinshift provides instantly for the consumer.
+
+To more easily grasp the concept of SmartBridges, please review this image (full link to bigger image http://s22.postimg.org/a12rormvj/smartbridges_1.jpg ):
+
+In this blog post, we have only scratched the surface of what can be achieved through SmartBridge technology. However, I hope it has helped to clarify any misunderstandings and given the reader some insight into its application and its potential. SmartBridges — connecting isolated blockchain technologies within blockchain ecosystem. We don’t build walls, we build bridges.

@@ -1,0 +1,121 @@
+GIGABYTE GA-Z170X-Ultra Gaming Motherboard
+
+Intel ® Thunderbolt™ 3 Certified Motherboard
+
+Thunderbolt™ 3 Certified Motherboard Supports 6 th Generation Intel ® Core™ Processor
+
+Generation Intel Core™ Processor Dual Channel, Non-ECC Unbuffered DDR4, 4 DIMMs
+
+Intel ® USB 3.1 with USB Type-C™ & PD 2.0 100W Support
+
+USB 3.1 with USB Type-C™ & PD 2.0 100W Support 2-Way SLI™ & CrossFire™ Multi-Graphics Support
+
+NVMe PCIe Gen3 x4 22110 M.2 Interface & U.2 Interface for Intel ® SSD 750
+
+SSD 750 Best Support for 3 Intel ® SSD 750 Devices in RAID 0
+
+SSD 750 Devices in RAID 0 2 SATA Express Connectors for Up to 16Gb/s Data Transfer
+
+Intel ® GbE LAN with cFosSpeed Internet Accelerator Software
+
+GbE LAN with cFosSpeed Internet Accelerator Software High Quality Audio Capacitors and Audio Noise Guard with Ambient LED Trace Path Lighting
+
+Ultra Durable Metal Shielding over PCIe and DDR Slots
+
+Ultra Durable Anti-Sulfur Resistors for Longer Lifespan
+
+Ultra Durable Anti-Rust Rear I/O Connectors
+
+Dual Hybrid Fan Headers with Precise PWM / Voltage Control for Water Pump & Fan
+
+GIGABYTE UEFI DualBIOS™ Technology
+
+APP Center Including EasyTune™ and Cloud Station™ Utilities
+
+Rear Panel Mini DisplayPort-In for Future Feature Upgrade
+
+Next Generation 40 Gb/s Thunderbolt™ 3
+
+Thunderbolt™ 3 – The fastest 40Gb/s single-wire connection
+
+
+
+Intel® Thunderbolt™ 3 Certified Motherboard Powered by Intel's own Thunderbolt controller the new Thunderbolt™ 3 protocol, which is available over a USB Type-C™ connector on the back I/O of the GIGABYTE Z170X-Ultra Gaming, brings an unprecedented single-wire bandwidth of up to 40 Gb/s -- twice more than the previous generation of Thunderbolt! This incredible increase in bandwidth is also accompanied with support for different protocols such as Mini DisplayPort 1.2 and USB 3.1, which is backwards compatible with USB 3.0 and USB 2.0, opening up a world of new possibilities. Daisy-chain Multiple Devices Support for Mini DisplayPort 1.2 makes Thunderbolt™ 3 a must have for any enthusiast. The Z170X-Ultra Gaming is able to support a display in 4K resolution at 60 FPS. In addition, Thunderbolt™ 3 over USB Type-C™ has revolutionary industry-first features such as Power Delivery 2.0, and the ability to daisy-chain up to 6 devices thanks to the Z170X-Ultra Gaming's USB Type-C™ port. Ambient Surround LED Now offering more LED customizations than ever, users can truly adapt their PC to represent their lifestyle. With a redesigned Ambient LED application, the user has complete control over the LEDs which surround the motherboard.
+
+
+
+Dual Hybrid Fan Headers
+
+Precise PWM and Voltage Control for Water pumps or Fans
+
+
+
+Many of today's modern computers feature water cooling to ensure that the CPU or graphics cards stay cool and quiet while they are put under heavy load. In order to provide the best support for water cooling solutions, GIGABYTE has equipped its Z170 motherboards with an additional water pump power header. This allows the user to have full control over two water pumps or fans. An additional benefit of these headers with GIGABYTE's motherboards is the option to choose between voltage calibration or PWM modes. Customization Features and Water Cooling Support 100W USB Type-C™ Power Design(Power Delivery 2.0) Fast Intel® USB 3.1 Dual PWM Water Pump Control NVMe PCIe Gen3 x4 22110 M.2 Onboard Triple NVMe PCIe SSDs in RAID O Support (Z170) NVMe PCIe Gen3 x4 U.2 Onboard Dual Armor with Ultra Durable™ Design Ambient Surround LED Powered by Intel's own Thunderbolt controller the new Thunderbolt™ 3 protocol, which is available over a USB Type-C™ connector on the back I/O of the GIGABYTE Z170X-Ultra Gaming, brings an unprecedented single-wire bandwidth of up to 40 Gb/s -- twice more than the previous generation of Thunderbolt! This incredible increase in bandwidth is also accompanied with support for different protocols such as Mini DisplayPort 1.2 and USB 3.1, which is backwards compatible with USB 3.0 and USB 2.0, opening up a world of new possibilities.Support for Mini DisplayPort 1.2 makes Thunderbolt™ 3 a must have for any enthusiast. The Z170X-Ultra Gaming is able to support a display in 4K resolution at 60 FPS. In addition, Thunderbolt™ 3 over USB Type-C™ has revolutionary industry-first features such as Power Delivery 2.0, and the ability to daisy-chain up to 6 devices thanks to the Z170X-Ultra Gaming's USB Type-C™ port.Now offering more LED customizations than ever, users can truly adapt their PC to represent their lifestyle. With a redesigned Ambient LED application, the user has complete control over the LEDs which surround the motherboard.Many of today's modern computers feature water cooling to ensure that the CPU or graphics cards stay cool and quiet while they are put under heavy load. In order to provide the best support for water cooling solutions, GIGABYTE has equipped its Z170 motherboards with an additional water pump power header. This allows the user to have full control over two water pumps or fans. An additional benefit of these headers with GIGABYTE's motherboards is the option to choose between voltage calibration or PWM modes.
+
+Immersive VR Gaming Experience VR requires 30% more performance than Full HD graphics for a steady 60FPS or greater.
+
+Only Gaming PCs can provide the best VR experience.
+
+To create a seamless VR experience GIGABYTE Motherboards offer the best features to make your virtual reality feel like your actual reality.
+
+
+
+With technologies such as Thunderbolt™ 3 to transfer data and video, NVMe support via M.2 or U.2, and a one piece metal shielding to brace for heavier discrete graphics cards its obvious that GIGABYTE has the tools you need to start your journey in VR. To set the mood GIGABYTE Motherboards include Ambient Surround LED to put you in the center of action. To create a seamless VR experience GIGABYTE Motherboards offer the best features to make your virtual reality feel like your actual reality.With technologies such as Thunderbolt™ 3 to transfer data and video, NVMe support via M.2 or U.2, and a one piece metal shielding to brace for heavier discrete graphics cards its obvious that GIGABYTE has the tools you need to start your journey in VR. To set the mood GIGABYTE Motherboards include Ambient Surround LED to put you in the center of action. Recommended configuration for VR Gaming PC
+
+Graphics Card: NVIDIA GTX 970 / AMD R9 290 or greater, Compatible HDMI 1.3 video output
+
+CPU: Intel i5-6600K equivalent or greater
+
+Motherboard: GIGABYTE X99/Z170/H170/B150 motherboards
+
+Memory: 8GB RAM or greater
+
+USB Ports:3x USB 3.0 ports plus 1x USB 2.0 port or greater
+
+OS: Windows 7 SPI 64-bit or newer Any copyrighted images or trademarks displayed are the property of their respective owners and are shown for reference purposes only. Reference herein does not constitute or imply affiliation or endorsement of Gigabyte products by the respective trademark owners. VR Gaming photo for reference only.
+
+PURE SPEED, MORE POWER
+
+Exclusively on GIGABYTE Powered Motherboards
+
+
+
+
+
+
+
+The Intel® USB 3.1 controller utilizes four PCIe Gen3 Lanes, offering up to 32 Gb/s total bandwidth, for uncompromised transfer speeds of up to 10 Gb/s per USB 3.1. With twice the bandwidth compared to its previous generation, and backwards compatibility with USB 2.0 and 3.0, the much improved USB 3.1 protocol is available over the new reversible USB Type-C™ and the traditional USB Type-A connector for better compatibility over a wider range of devices. 100W USB Type-C™
+
+Power and Charge From USB Type-C With Power Delivery 2.0 Support
+
+
+
+Redesigned to take full advantage of all the features that USB Type-C can support, GIGABYTE's new Z170 motherboards with Intel's USB 3.1 controller not only supports USB 2.0, 3.0, and 3.1, but also completely supports Power Delivery 2.0. This means users are able to get up to 100 watts through their Intel powered USB Type-C port. This opens the door for users looking to clean up their cable cutter and power or recharge their devices through this universal connector, the Type-C Port.
+
+Redesigned to take full advantage of all the features that USB Type-C can support, GIGABYTE's new Z170 motherboards with Intel's USB 3.1 controller not only supports USB 2.0, 3.0, and 3.1, but also completely supports Power Delivery 2.0. This means users are able to get up to 100 watts through their Intel powered USB Type-C port. This opens the door for users looking to clean up their cable cutter and power or recharge their devices through this universal connector, the Type-C Port.
+
+2-Way SLI™ / CrossFire™ Multi-Graphics Multi-graphics configuration offers better graphics performance for gaming enthusiasts who demand the highest frame rates without compromising on resolution. GIGABYTE Design By spacing the graphics cards in multi-graphics configurations, users are now able to obtain maximum airflow between cards.
+
+
+
+
+
+
+
+
+
+Support for DDR4 XMP Up to 3866MHz and Beyond* GIGABYTE is offering a tested and proven platform that ensures proper compatibility with profiles up to 3866MHz and beyond. All users need to do to attain this performance boost is to ensure that their memory module is XMP capable and that the XMP function is activated and enabled on their GIGABYTE motherboard.
+
+What is XMP? DDR4 memory modules are available at a stock frequency of 2133MHz, but as frequency tweaking requires a considerable amount of effort and knowledge, memory vendors encode XMP profiles which can automatically modify the timings of the supported memory modules to work with your CPU and to achieve increased performance. *XMP Profile support may vary depending on memory module. Please visit www.gigabyte.com to see the complete validated memory support list. Triple NVMe SSDs in RAID 0 Support
+
+Extreme Performance with Gen.3 x4 NVMe PCIe SSDs
+
+GIGABYTE's Z170 motherboards offers the industry's best compatibility in terms of NVMe storage for users who demand high capacity and seek the best performance. GIGABYTE's unique design supports up to three Intel® 750 Series NVMe PCIe SSDs which can be configured in RAID for record speeds of up to 3525 MB/s (Sequential Read), making GIGABYTE the obvious choice for the ultimate PC. NVMe PCIe Gen3 x4 U.2 Onboard
+
+NVMe Performance for PCIe SSDs The new Intel 750 series SSDs offer an incredible increase in performance over SATA drives. Using the NVMe protocol which takes advantage of the fast bandwidth of PCIe Gen3 x4 lanes (32 Gb/s), the drives are a clear advantage for users looking to boot their OS faster, load their games in a flash and access large files without waiting. By implementing the U.2 port onboard to support the 2.5" Intel 750 Series drive, GIGABYTE ensures that the users can benefit from the best performance. Fast Onboard Storage with NVMe PCIe Gen3 x4 110mm M.2 (Up to 32 Gb/s)
+
+GIGABYTE's M.2 solution offers considerably faster storage performance and support for both PCIe and SATA interfaces for M.2 SSD devices. GIGABYTE Patented Double Locking Bracket Industry Leading Ultra Durable™ PCIe Armor Photo for reference only. M.2 SSDs and cables not included. The innovative one piece stainless steel shielding design from GIGABYTE reinforces the PCIe connectors to provide the extra strength required to support heavy graphics cards. Ultra Durable™ PCIe Armor
+
+Enhanced Strength PCIe Design, Support for Heavy Graphics Cards For Extreme / VR Gaming Station Dual Armor DIMM and PCIe Metal Shielding Never worry about your heavy graphics card damaging your motherboard again. GIGABYTE's proprietary Ultra Durable PCIe Metal Shielding reinforces the PCIe connector to prevent slot damage due to heavy graphics card. The DIMM and PCIe metal shield also provides extra strength for when you forget to release the lock while replacing your component, adding a fool proof option which can save your PC's life. Intel® GbE LAN with cFosSpeed Intel® GbE LAN features cFosSpeed, a network traffic management application which helps to improve network latency and maintain low ping times to deliver better responsiveness in a crowded LAN environments.
+
+GIGABYTE Patented DualBIOS™ (UEFI) Design GIGABYTE Ultra Durable™ motherboards feature GIGABYTE DualBIOS™, an exclusive technology from GIGABYTE that protects arguably one of your PC's most crucial components, the BIOS. GIGABYTE DualBIOS™ means that your motherboard has both a 'Main BIOS' and a 'Backup BIOS', Protecting users from BIOS failure due to virus, hardware malfunction, improper OC settings or power failure during the update process. Long Lifespan Durable Black™ Solid Caps GIGABYTE motherboards integrate the absolute best quality solid state capacitors that are rated to perform at maximum efficiency for extended periods, even in extreme performance configurations. With ultra-low ESR no matter how high the CPU load, this provides peace of mind for end users who want to push their system hard, yet demand absolute reliability and stability. These exclusive capacitors also come in customized jet black, exclusively on GIGABYTE motherboards. 15µ Gold Plated CPU Socket Design GIGABYTE motherboards come equipped with a 15 micron thick gold plated CPU socket, which means that enthusiasts can enjoy absolute reliability and longevity for the CPU socket overtime, without having any concerns about corroded pins or bad contacts.

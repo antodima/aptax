@@ -1,0 +1,9 @@
+We're excited to be sharing a new bitcoin payment integration from our friends at Vodi, a mobile international messaging app available for download on Android and iOS devices.
+
+Vodi is taking advantage of the growth in mobile messaging in some exciting ways. In addition to offering free text messaging and phone and video calls, Vodi allows users to make airtime top-up payments to more than 390 mobile phone service providers in 135 countries. These airtime top-up payments can also be made as gifts to other Vodi users, opening up a convenient way for families and friends in different countries to transfer credit back and forth.
+
+Vodi also offers digital gift cards which can be redeemed at checkout through the app. Their eGift Card selection includes more than 90 offerings from brands in the United States and Mexico (with more countries to come), including Hotels.com, American Airlines, Regal Entertainment Group, and CVS Pharmacy. Headed to the store and want to get a digital gift card to pay? You can get a digital gift card in seconds with a bitcoin payment in the Vodi app. And since Vodi is using BitPay to accept payments, you can use any bitcoin wallet to pay.
+
+Mobile payments are an exciting use case for bitcoin, and gift card and top-up payments have proven to be especially popular with international bitcoin users. We're excited to continue to work with the Vodi team to explore new opportunities for bitcoin in the mobile messaging world.
+
+Want to get started with using Vodi? Download it for iOS or get it on your Android phone. Learn more about accepting bitcoin in your mobile app at https://bitpay.com/mobile.

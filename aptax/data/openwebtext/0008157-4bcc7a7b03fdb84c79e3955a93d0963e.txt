@@ -1,0 +1,193 @@
+Advertisement
+
+Google's Boston Dynamics has revealed the latest version of its humanoid robot - and it can now get up easily on its own if it falls.
+
+The Atlas robot was widely derided at the recent 'robolympics' after falling repeatedly and needing a crane to get up.
+
+However, the new wireless version is shown being pushed over by an employee - and simply getting back up.
+
+Scroll down for video
+
+He's behind you! Boston Dynamic has revealed the new wireless version of its humanoid robot in a new video showing it walk, run, and even be pushed over and get up again on its own.
+
+THE ATLAS ROBOT According to Boston Dynamics, Atlas is a 'high mobility, humanoid robot designed to negotiate outdoor, rough terrain. 'Atlas can walk bipedally leaving the upper limbs free to lift, carry, and manipulate the environment. 'In extremely challenging terrain, Atlas is strong and coordinated enough to climb using hands and feet, to pick its way through congested spaces.'
+
+Boston Dynamics said the video showed 'a new version of Atlas, designed to operate outdoors and inside buildings.
+
+'It is electrically powered and hydraulically actuated,' the secretive firm said.
+
+'It uses sensors in its body and legs to balance and LIDAR and stereo sensors in its head to avoid obstacles, assess the terrain and help with navigation.
+
+'This version of Atlas is about 5' 9" tall (about a head shorter than the DRC Atlas) and weighs 180 lbs.'
+
+However, the firm released now more details - and the video has no narration.
+
+The video shows the robot walking out of the firm's office and across a snowy plateau.
+
+While lsing its footing several times, it corrects itself and stays upright.
+
+It is also shown moving 10kg boxes with ease in a tight space.
+
+It then faces a more difficult foe - an employee with a hockey stick.
+
+Last year's Robo-Olympics saw the world's most advanced robots go head to series in a series of ever more challenging events.
+
+The DARPA Robotics Challenge (DRC) proved that robots still have some way to go before matching the dexterity of a human.
+
+The impact knocks the robot to the ground. Previousl versions would then have required a crane to lift it up again.
+
+The new wireless version is able to deftly flip onto its knees, then stand up - without help from a human
+
+Twenty five of the top robotics organizations in the world were competing for $3.5 million in prizes, and took on a gruelling simulated disaster-response course during the two day contest.
+
+DARPA says 'the DRC is a competition of robot systems and software teams vying to develop robots capable of assisting humans in responding to natural and man-made disasters.
+
+'It was designed to be extremely difficult.
+
+WHAT THE ROBOTS CAN DO In the recent robot olympics, Robots will try to complete a series of challenge tasks selected by DARPA for their relevance to disaster response. The robots will start in a vehicle, drive to a simulated disaster building, and then they'll have to open doors, walk on rubble, and use tools. Finally they'll have to climb a flight of stairs. There will be a surprise task waiting for the robots at the end - which turned out to be turning a valve.
+
+'We get most of our ideas about robotics from science fiction. And we want to show a little bit of science fact,' said Gill Pratt, who organized the competition for the U.S. Defense Advanced Research Projects Agency, which focuses on futuristic technologies for national security.
+
+The contest runs Friday and Saturday at a Pomona racetrack designed to look like a disaster zone.
+
+The robots may be slow, clumsy and delicate but they might just save lives someday by braving dangerous disaster zones.
+
+Pratt cited the 2011 Fukushima nuclear disaster in Japan as an emergency where such robots would have come in handy.
+
+'Sometimes in a disaster, it is too dangerous for people to go in,' he said.
+
+Teams of engineers, programmers and designers from research institutions across the world have worked for years to build robots that can maneuver the course and complete the assigned tasks.
+
+'We have a valve that we need to turn to shut off a gas leak or something similar,' said John Seminatore, a Virginia Tech graduate student with Team Valor.
+
+Meet the family: The new robot (second from left) next to the original version, and three versions of Spot, the firm's 'dog robot'
+
+The robot is also shown moving heavy boxes around in a confined space, and walking on snowy ground without falling
+
+'We have to cut a hole in a wall to get access to something behind it. And there will be either rough terrain or rubble that we get past.'
+
+The most difficult task - getting out of the small utility vehicle - is so hard that many teams aren't even attempting the dangerous egress, preferring to be docked on their times rather than risk toppling their robot into the dust.
+
+'Robots don't have that sense of touch that humans do to know where they are inside the car,' Seminatore said. 'So it's going to be really nerve-racking for teams because the training wheels have come off.'
+
+The robots come in all shapes and sizes.
+
+Most appear humanoid but some can switch to wheels to get around.
+
+'RoboSimian' looks like a double-jointed monkey without a head.
+
+Another has a torso on a 4-wheeled base, like a centaur.
+
+Team Valor's semi-autonomous ESCHER (Electromechanical Series Compliant Humanoid for Emergency Response) robot lays on the ground after falling backwards during its first run during the Defense Advanced Research Projects Agency Robotics Challenge at the Fairplex June 5, 2015 in Pomona, California
+
+Several teams used DARPA's Atlas robot as a start for their own designs.
+
+'This robot weighs almost 400 pounds with the battery and hydraulics,' Cassie Moreira of Boston Dynamics said as she worked on the knees of a robot from the Massachusetts Institute of Technology.
+
+DARPA's first robot competition in 2004 was a race for driverless cars.
+
+None of the entries finished and most made it only a few miles.
+
+But 11 years later, Google's driverless cars are cruising.
+
+Pratt says that means the competitions are a success.
+
+So even if the robots struggle to exit a car this year, their designers will learn. And when DARPA issues a challenge and invites the public to watch the results, it means the Pentagon's 'mad science' division is serious about disaster response robots.
+
+'What I love about this is it introduces everybody to the new dream.
+
+The IHMC robot takes a fall while trying to negotiate a set of uneven blocks during the robo-olympics in California
+
+After trying to stay upright, it eventually crashes to the floor, looking uncannily like a drunk.
+
+'his is something you can do right now,' said Jonathan Daniels, who teaches robotics at the University of Nevada, Las Vegas.
+
+'Give me five years and we'll have this in high schools.'
+
+'Participating teams, representing some of the most advanced robotics research and development organizations in the world, are collaborating and innovating on a very short timeline to develop the hardware, software, sensors, and human-machine control interfaces that will enable their robots to complete a series of challenge tasks selected by DARPA for their relevance to disaster response.'
+
+The winning team will receive a $2 million grand prize; DARPA plans to award $1 million to the runner-up and $500,000 to the third-place team.
+
+Tasks are 'put together in a single mission' that teams have one hour to complete, Pratt said.
+
+The robots will start in a vehicle, drive to a simulated disaster building, and then they'll have to open doors, walk on rubble, and use tools.
+
+During the contest robots have to walk across different terrain - with many finding sand difficult. Getting them upright again requires a team of engineers a special crane.
+
+Finally they'll have to climb a flight of stairs.
+
+After this, there will be a surprise task waiting for the robots at the end.
+
+Spectators have been encouraged to watch the event, and will see a quartet of virtually identical Finals Courses, or what Kathy Wadham, director of creative programming for Fairplex, thinks of as stage sets.
+
+'Anything that needs to be turned into something else, or created here, we do that,' said Wadham during a backstage tour of the concocted disaster zones the robots will have to navigate over and through.
+
+'We went through our scrap piles to find the doors and the electrical switches,' she said.
+
+Those same piles were a gold mine for creating the debris fields in front of the steel staircases on the left side of each set.
+
+Each junk heap is an assemblage of rooftop turbine vents (some with long-abandoned birds' nests inside), gas line piping, beat up steel drums, water heater vessels, and sundry other pieces of detritus.
+
+'Some of the stuff was not rusted enough at first,' she said. 'So we have a person who rusts and weathers it and makes it look old.'
+
+For some of the details on the set, Walham went shopping.
+
+She found the incandescent bulbs for the dingy metal mesh fixtures online and purchased decals of gauges for the square electrical cabinets from a store specializing in retro design.
+
+'We create places,' says Wadham. 'That's what we do.'
+
+One of the competitors is a human sized robot that can walk, climb walls and even turn into a tank to move across tough terrain.
+
+The Carnegie Mellon University Highly Intelligent Mobile Platform, or CHIMP, is designed to primarily move like a tank using tracks to cover tough terrain.
+
+However, when it needs to, it can simply stand up - and even use built in 'claws' and a use power tools such as a chainsaw to help it climb ladders, scale buildings and even hold a car's steering wheel.
+
+CHIMP is roughly the size of a human, an inch short of 5 feet when it's standing and almost 3 feet when it's crawling.
+
+It weighs 443 pounds. CHIMP's arms are 4.3 feet long – long enough to reach the ground, which is useful and gives the robot a simian-like stance.
+
+It can operate for 90 minutes or more with its battery pack
+
+The robot is set to compete in the US government's robo olympics next month.
+
+'CHIMP needs to master many skills for the DRC Finals,' its creators said.
+
+'During the past several months, it spent long hours crossing block piles and climbing stairs.
+
+'Now it's learning how to drive!'
+
+CHIMP's normal mode of locomotion will be much like that of a tank, with the tracks of all four limbs on the ground, the team says.
+
+This configuration would offer a particular advantage when moving over debris and rough terrain.
+
+'We realize there are a lot of great teams in this competition and the final scoring could be close,' said Tony Stentz, a CMU research professor of robotics and leader of the Tartan Rescue Team.
+
+'We are making steady progress, but we can't afford to get comfortable.'
+
+But CHIMP also can move on the treads of just two limbs when needed, such as when it must use one or more limbs to open a valve, or to operate power tools.
+
+CHIMP will be able to perform complex, physically challenging tasks through supervised autonomy.
+
+A remote, human operator will make high-level commands controlling the robot's path and actions, while the robot's on-board intelligence prevents collisions, maintains stability and otherwise keeps the robot from harm.
+
+The robot also will be pre-programmed to execute tasks such as grasping a tool, stepping on a ladder rung or turning a steering wheel without step-by-step direction from the human controller, circumventing the lag between command and execution.
+
+The competitors range from humanoid robots such as MIT's Hercules (bottom left), Team HRP2-Tokyo's sci-fi effort (top left) and Technische Universitätto Jonny 5 (top right) to Carnegie Mellon's robo chimp (main image) and the four wheeled Nimbro from Germany.
+
+'Humans provide high-level control, while the robot provides low-level reflexes and self-protective behaviors,' said Tony Stentz, NREC director and Tartan Rescue Team leader.
+
+'This enables CHIMP to be highly capable without the complexity associated with a fully autonomous robot.
+
+'This type of robot has tremendous potential,' he said.
+
+Climbing ladders and driving vehicles are among the obstacles robots will face in environments engineered for people.
+
+The NREC entry, Tartan Rescue Team, is one of seven selected by DARPA for DRC Track A, in which each team will develop its own hardware and software.
+
+CHIMP is designed with static stability; it won't fall down even if it experiences a computer glitch or power failure.
+
+'When we walk or stand, our brains are actively controlling our balance all of the time,' Stentz said.
+
+'This dynamic balance makes people nimble and enables them to run.'
+
+When necessary, however, the operator can control CHIMP's individual joints, enabling it to adapt its motion to particular circumstances or extricate itself from tight spots.

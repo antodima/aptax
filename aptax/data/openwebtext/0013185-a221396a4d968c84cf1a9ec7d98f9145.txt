@@ -1,0 +1,83 @@
+Grand Central Dispatch Crash Course for Swift 3
+
+Yogev Sitton Blocked Unblock Follow Following Apr 20, 2017
+
+This post is based on a short talk I gave about using GCD with Swift 3.
+
+We have been pretty bad with using the full capabilities of GCD - using only the main serial queue and the global background queue. Hopefully this will help you learn from our lesson.
+
+What is GCD?
+
+Grand Central Dispatch was developed by Apple in order to simplify work with systems with multi-core processors and released with Mac OS X Snow Leopard and iOS 4.
+
+GCD’s task parallelism is based on the thread pool pattern. Multiple threads are always available — waiting for tasks to be executed concurrently.
+
+Since we don’t need to keep creating and destroying threads we get great performance and low execution latency.
+
+Dispatch Queues
+
+Dispatch queues manages tasks in FIFO order. Tasks run in the order in which they are added to the queue — the first task in the queue will be the first to start.
+
+There are two types of dispatch queues:
+
+Serial Queues
+
+Execute one task at a time
+
+Can be used to synchronize access to a specific resource
+
+Concurrent Queues
+
+Execute one or more tasks concurrently
+
+Tasks are completed according to complexity and not by the order in the queue
+
+Synchronous vs. Asynchronous
+
+When using dispatch queues you can choose to execute your code synchronously or asynchronously.
+
+With synchronous execution the program waits for the work to finish before returning.
+
+With asynchronous execution the program returns immediately without waiting for the work to complete.
+
+Thread Safety
+
+Dispatch queues are thread safe. They can be accessed from different threads simultaneously without locking. Developers can use dispatch queues to make their own code thread safe.
+
+Types of Dispatch Queues
+
+Main Queue
+
+When your app launches, the system automatically creates a serial queue and binds it to the application’s main thread. All UI tasks have to be run on the main thread.
+
+Global Queues
+
+There are four global concurrent queues which are provided and shared by the system.
+
+Quality of Service attribute indicates the priority of the tasks in the queue:
+
+User-interactive: update the UI or other small tasks that should occur instantly. Tasks in this queue are the highest priority tasks and they will run on the main thread.
+
+User-initiated: tasks in this queue are tasks that should run immediately -like opening documents or react to user actions. Tasks should complete in a few seconds or less. Will be mapped to High priority queue.
+
+Utility: this queue is for longer tasks that should complete immediately (think tasks with a loading bar such as downloading or importing). Tasks should complete in seconds or minutes. Will be mapped to Low priority queue.
+
+Background: tasks that takes minutes to hours to complete — indexing, syncing, etc… This queue is energy optimized and any disk I/O actions are throttled. Will be mapped to Background priority queue.
+
+Custom Queues
+
+Serial queues must be created and managed by the developer. You can also create custom concurrent queues but it is encouraged to use one of the global queues instead.
+
+Code examples
+
+Working with system queues
+
+Working with custom queues/
+
+Performing background tasks and then updating the UI
+
+Beware of deadlocks with serial queues
+
+Beware of Synchronously running on the main thread from a synchronous background thread
+
+Where to go from here?

@@ -1,0 +1,31 @@
+We all know that some climate change is natural, in fact, even without humans, the Earth’s climate changes. But, as we have added heat-trapping gases to the atmosphere, we have seen human influence “emerge” from natural variability.
+
+Droughts, one of the most intensely studied climate events, are a perfect example of an effect with both human and natural influences. Separating the relative strengths of the influences is a challenge for scientists. But, when we deal with drought, with its large social and economic costs, it is a challenge we must undertake.
+
+A very recent study tries to do just this. Published in the Journal of Climate, authors Richard Seager and Martin Hoerling cleverly used climate models forced by sea surface temperatures to separate how much of the past century’s North American droughts have been caused by ocean temperatures, natural variability, and humans. What they found was expected (all three of these influence drought), but it's the details that are exciting. Furthermore, the methodology can be applied to other climate phenomena at other locations around the globe.
+
+The very beginning of their paper sets a great framework for the study,
+
+“In a nation that has been reeling from one weather or climate disaster to another, with record tornado outbreaks, landfalling tropical storms and superstorms, record winter snowfalls, and severe droughts, persistent droughts appear almost prosaic. Droughts do not cause the mass loss of life and property destruction by floods and storms. They are instead slow-moving disasters whose beginnings and ends are even often hard to identify. However, while the social and financial costs of hurricane, tornado, and flood disasters are, of course, tremendous, droughts are one of the costliest of natural disasters in the United States.”
+
+Droughts can be caused by a variety of isolated or interacting phenomena. At its root, drought results from lowered precipitation and sometimes higher temperatures (which increase evaporation rates). The onset of drought can often be linked to variations in ocean temperatures. For instance, La Niña events in the Pacific Ocean as well as elevated Atlantic Ocean temperatures have coincided with United States droughts.
+
+In fact the authors state that the three mid-to-late 19th century droughts, the Dust Bowl, and the drought in the 1950s all depended on persistent La Niña conditions. Of course, other factors played roles as well and ocean temperatures simply don’t explain everything. Perhaps the best example of multiple drought factors is the Dust Bowl of the 1930s. Then, cool Pacific temperatures were not by themselves sufficient. It is likely that land use changes associated with farmland erosion and natural atmospheric variability also played roles.
+
+The authors, therefore, wanted to move beyond a simplistic association of La Niña episodes and warm Atlantic Ocean waters with the occurrence of drought. They asked what other causes might there be and how will things change in the coming years and decades?
+
+Using precipitation data from the University of East Anglia and ocean temperatures from the Hadley Centre combined with climate models, the researchers were able to add or omit the oceanic temperatures and compare the two sets of results. They found that ocean temperature variations cause up to 40% of the changes to precipitation, depending on location. They also found that the oceans can “nudge” the atmosphere to create conditions that are amenable to drought, and that temperature increases associated with human-driven global warming also play a role. In fact,
+
+“The warming leads to a simulated long-term reduction in soil moisture which, although of weak magnitude compared to soil moisture deficits induced by naturally occurring droughts in the southwest United States, would imply that drought conditions may be entered more quickly and alleviated more slowly owing to long-term warming … Radiative forcing of the climate system is another source of predictability, although not really a welcome one, and rising greenhouse gases will lead to a steady drying of southwest North America. However this is a change that is only now beginning to emerge and currently is exerting less influence on precipitation variability than ocean variability or internal variability.”
+
+This conclusion agrees with other researchers who have shown that, while human-emitted greenhouse gas warming may not cause a particular drought, it can make drought come on earlier, faster, and harder than it otherwise would.
+
+There are two issues that I will be watching closely. The first is that any extra damage caused by drought as a consequence of human emissions will not scale linearly with attribution. For instance, if human impacts are responsible for 10% of a drought’s severity, it does not mean that human impacts are responsible for 10% of the social or economic cost.
+
+
+
+A great example of this is with Superstorm Sandy. While admittedly not a drought, the example will make the point. It has been estimated that human-caused increases to water temperatures caused perhaps 10% more rain to fall. This extra 10% rainfall caused more than 10% of the economic damages associated with rainfall. Similarly, the human-induced sea level rise of 1 foot was only about 10% of the storm surge. But, this extra foot caused a disproportionate amount of flood damage. With this in mind, I would really like to know how the social and financial costs will change in the future as droughts set in earlier, faster, and harder because of greenhouse gas warming.
+
+Secondly, there may well be a human influence on these otherwise natural causes. For instance, scientists have argued that greenhouse gas warming may change the ocean temperature fluctuations, particularly in the Pacific. Similarly, there are many new studies linking increasing greenhouse gases with atmospheric circulation changes. Since both of these features affect drought, they appear, at least to me, to be potential indirect human influences.
+
+We will have to wait to learn more, let’s hope the wait isn’t too long.

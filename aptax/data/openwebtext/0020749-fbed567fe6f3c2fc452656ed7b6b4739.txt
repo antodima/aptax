@@ -1,0 +1,9 @@
+The Claim And Criticisms
+
+In October 2016, molecular geneticist Jan Vijg published a paper claiming that the human lifespan was limited to 115 years. This kindled a vigorous controversy among scientists, and on June 28 of this year, five groups of scientists published formal rebuttals to the claim.
+
+Vijg’s work analyzed demographic data from the 20th century, taken all over the world, and demonstrated that peak age plateaued at about 115 years starting in the mid-1990s. Based on their results, the authors concluded that the natural human age limit is 115 years old and that there is the probability of less than 1 in 10,000 of living to be more than 125 years old.
+
+You could probably guess, not everyone in the scientific community agrees. Most criticisms arise from the way the Vijg team handled their data, and their process for drawing conclusions. First, the Vijg team tested their data to prove whether or not the plateau they felt they observed after 1995 was in fact present. In other words, they generated a hypothesis and then tested it using the same dataset, which is typically unacceptable, as it causes inaccurate results due to severe overfitting, a fit based on error or noise, not a real relationship.
+
+Second, the team’s actual data set was very small because in each year they counted only the oldest person who died. They then subjected this inordinately small sample to standard linear regression techniques, which was not appropriate based both on the small sample size, and the additional fact that the individuals being counted were outliers who should have been subject to extreme event analysis. In fact, the decline suggested in the 2016 conclusions appears to be suggested by a single death in the data set.

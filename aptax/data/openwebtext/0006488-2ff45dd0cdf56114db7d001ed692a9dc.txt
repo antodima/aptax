@@ -1,0 +1,71 @@
+Girih tiles
+
+Patterned Girih tiles
+
+Construction lines are usually hidden: geometric tiles on left, girih pattern on right.
+
+Girih tiles are a set of five tiles that were used in the creation of Islamic geometric patterns using strapwork (girih) for decoration of buildings in Islamic architecture. They have been used since about the year 1200 and their arrangements found significant improvement starting with the Darb-i Imam shrine in Isfahan in Iran built in 1453.
+
+Five tiles [ edit ]
+
+The five shapes of the tiles are:
+
+a regular decagon with ten interior angles of 144°;
+
+an elongated (irregular convex) hexagon with interior angles of 72°, 144°, 144°, 72°, 144°, 144°;
+
+a bow tie (non-convex hexagon) with interior angles of 72°, 72°, 216°, 72°, 72°, 216°;
+
+a rhombus with interior angles of 72°, 108°, 72°, 108°; and
+
+a regular pentagon with five interior angles of 108°.
+
+These modules have their own specific Persian names: The quadrilateral tile is called Torange, the pentagonal tile is called Pange, the concave octagonal tile is called Shesh Band , the bow tie tile is called Sormeh Dan, decagram tile is called Tabl. [1]All sides of these figures have the same length; and all their angles are multiples of 36° (π/5 radians). All of them, except the pentagon, have bilateral (reflection) symmetry through two perpendicular lines. Some have additional symmetries. Specifically, the decagon has tenfold rotational symmetry (rotation by 36°); and the pentagon has fivefold rotational symmetry (rotation by 72°).
+
+The Emergence of Girih Tiles [ edit ]
+
+By the late 11th century, the Islamic artists in North Africa start to use “tile mosaic”, which is the predecessor of tessellation.[2] By 13th century, the Islamic discovered a new way to construct the “tile mosaic” due to the development of arithmetic calculation and geometry—the girih tiles.[3]
+
+Girih [ edit ]
+
+Girih are lines (strapwork) that decorate the tiles. The tiles are used to form girih patterns, from the Persian word گره, meaning "knot".[4] In most cases, only the girih (and other minor decorations like flowers) are visible rather than the boundaries of the tiles themselves. The girih are piece-wise straight lines that cross the boundaries of the tiles at the center of an edge at 54° (3π/10) to the edge. Two intersecting girih cross each edge of a tile. Most tiles have a unique pattern of girih inside the tile that are continuous and follow the symmetry of the tile. However, the decagon has two possible girih patterns one of which has only fivefold rather than tenfold rotational symmetry.
+
+Mathematics of girih tilings [ edit ]
+
+In 2007, the physicists Peter J. Lu and Paul J. Steinhardt suggested that girih tilings possessed properties consistent with self-similar fractal quasicrystalline tilings such as Penrose tilings, predating them by five centuries.[5][6]
+
+This finding was supported both by analysis of patterns on surviving structures, and by examination of 15th-century Persian scrolls. However, we have no indication of how much more the architects may have known about the mathematics involved. It is generally believed that such designs were constructed by drafting zigzag outlines with only a straightedge and a compass. Templates found on scrolls such as the 97-foot- (29.5 metres) long Topkapi Scroll may have been consulted. Found in the Topkapi Palace in Istanbul, the administrative center of the Ottoman Empire and believed to date from the late 15th century, the scroll shows a succession of two- and three- dimensional geometric patterns. There is no text, but there is a grid pattern and color-coding used to highlight symmetries and distinguish three-dimensional projections. Drawings such as shown on this scroll would have served as pattern-books for the artisans who fabricated the tiles, and the shapes of the girih tiles dictated how they could be combined into large patterns. In this way, craftsmen could make highly complex designs without resorting to mathematics and without necessarily understanding their underlying principles.[7]
+
+This use of repeating patterns created from a limited number of geometric shapes available to craftsmen of the day is similar to the practice of contemporary European Gothic artisans. Designers of both styles were concerned with using their inventories of geometrical shapes to create the maximum diversity of forms. This demanded a skill and practice very different from mathematics.[7]
+
+Geometric construction of an interlocking decagram-polygon mosaic design [ edit ]
+
+Firstly, divide the right angle A into five parts with same degree by creating four rays that start from A. Find an arbitrary point C on the second ray and drop perpendiculars from C to the sides of angle A counter-clockwise. This step creates the rectangle ABCD along with four segments that each has an endpoint at A and other endpoints are the intersections of the four rays with the two sides of BC and DC of rectangle ABCD. Then, find the midpoint of the fourth segment created from the fourth ray point E. Construct an arc with center A and radius AE to intersect AB at point F and the second ray at point G. The second segment is now a part of the rectangle's diagonal. Make a line, parallel to AD and passing through point G, that intersects the first ray at point H and the third ray at point I. The line HF passes through point E and intersects the third ray at L and line AD at J. Construct a line, passing through J which is parallel to the third ray. Also construct line EI and find M which is the intersection of this line with AD. From the point F make a parallel line to the third ray to meet the first ray at K. Construct segments GK, GL, and EM. Find the point N such that GI = IN by constructing a circle with center I and radius IG. Construct the line DN which is parallel to GK, to intersect the line emanate from J, to find P to complete the regular pentagon EINPJ. Line DN meets the perpendicular bisector of AB at Q. From Q construct a line parallel to FK to intersect ray MI at R. As shown in the figure, using O which is the center of the rectangle ABCD, as a center of rotation for 180°, one can make the fundamental region for the tiling.[1]
+
+An interlocking decagram-polygon mosaic design
+
+An interlocking decagram-polygon mosaic design
+
+An interlocking decagram-polygon mosaic design
+
+An interlocking decagram-polygon mosaic design
+
+Geometric construction of a tessellation from Mirza Akbar architectural scrolls [ edit ]
+
+First, divide the right angle into five congruent angles, a arbitrary point P was selected on the first ray counterclockwise. For the radius of the circle inscribed in the decagram one half of the segment created from the third ray, segment AM, was selected. The following figure illustrates a step-by-step compass-straightedge visual solution to the problem by the author.[1]Note that the way to divide a right angle into five congruent angles is not a part of the instructions provided, because it is considered an elementary step for designers.
+
+Step-by-step compass-straightedge construction of the tessellation
+
+Examples [ edit ]
+
+Different patterns
+
+Complex girih patterns with 16-, 10- and 8-point stars at different scales in ceiling of the Tomb of Hafez in Shiraz, 1935
+
+A window of the crown prince's apartment in the Topkapı Palace, Istanbul, Turkey, with 6-point stars; the surrounds have floral arabesque tiling
+
+Interior archway at the opening of the Sultan's Lodge in the Ottoman Green Mosque in Bursa, Turkey (1424), with 10-point stars and pentagons
+
+The girih has been widely applied on the architecture. To begin with, girih on the Persian geometric windows meet the need of the Persian architecture. “The specific types of embellishments utilized in orosi typically linked the windows to the patron's social and political eminence.”The more ornate a window is, the higher social and economic status the owner is more likely to have. A good example for this would be Azad Koliji. The Azad Koliji is a Dowlatabad Garden in Iran. With the girih patterns on its window, the architects successfully demonstrate multiple layers. The first layer would be the actual garden which people can have a glimpse at when they open the window. In addition to this natural layer, the first girih pattern on the outside of the window (the carved pattern. Another artificial layer would be the colorful glasses on the window. The multi-color layer create a sense of a mass of flowers. This layer is abstract which forms a clear contradiction with the real layer outside the window, and gives the audience enough space to imagine.[8]
+
+See also [ edit ]

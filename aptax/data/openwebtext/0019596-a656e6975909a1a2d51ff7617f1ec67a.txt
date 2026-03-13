@@ -1,0 +1,273 @@
+The connection between the Haskell lens library and category theory is a constant source of amazement to me. The most interesting part is that lenses are formulated in terms of higher order functions that are polymorphic in functors (or, more generally, profunctors). Consider, for instance, this definition:
+
+type Lens s t a b = forall f. Functor f => (a -> f b) -> (s -> f t)
+
+In Haskell, saying that a function is polymorphic in functors, which form a class parameterized by type constructors of the kind *->* (or *->*->* , in the case of profunctors) and supporting a special method called fmap (or dimap , respectively) is rather mind-boggling.
+
+In category theory, on the other hand, functors are standard fare. You can form categories of functors. The properties of such categories are described by pretty much the same machinery as those of any other category.
+
+In particular, one of the most important theorems of category theory, the Yoneda lemma, works in the category of functors out of the box. I have previously shown how to employ the Yoneda lemma to derive the representation for Haskell lenses (see my original blog post and, independently, this paper by Jaskelioff and O’Connor — or a more recent expanded post). Continuing with this program, I’m going to show how to use the Yoneda lemma with profunctors. But let’s start with the basics.
+
+By the way, if you feel intimidated by mathematical notation, don’t worry, I have provided a translation to Haskell. However, math notation is often more succinct and almost always more general. I guess, the same ideas could be expressed using C++ templates, but it would look like an incomprehensible mess.
+
+Functor Categories
+
+Functors between any two given categories C and D can themselves be organized into a category, which is often called [C, D] or DC . The objects in that category are functors, and the morphisms are natural transformations. Given two functors f and g , the hom-set between them can be either called
+
+Nat(f, g)
+
+or
+
+[C, D](f, g)
+
+depending how much information you want to expose. (For simplicity, I’ll assume that the categories are small, so that the “sets” or natural transformations are sets indeed.)
+
+What’s interesting is that, since functor categories are just categories, we can have functors going between them. We sometimes call them higher order functors. We can also have higher order functors going from a functor category to a regular category, in particular to the category of sets, Set. An example of such a functor is a hom-functor in a functor category. You construct this functor (also called a representable functor) when you fix one end of the hom-set and vary the other. In any category, the mapping:
+
+x -> C(a, x)
+
+is a functor from C to Set. We often use a shorthand notation for this functor:
+
+C(a, -)
+
+If we replace C by a functor category then, for a fixed functor g , the mapping:
+
+f -> [C, D](g, f)
+
+is a higher order functor. It maps f to a set of natural transformations — itself an object in Set.
+
+Representable functors play an important role in the Yoneda lemma. Take the set of natural transformations from a representable functor in C to any functor f that goes from C to Set. This set is in one-to-one correspondence with the set of values of this functor at the object a :
+
+[C, Set](C(a, -), f) ≅ f a
+
+This correspondence is an isomorphism, which is natural both in a and f .
+
+The set of natural transformations between two functors f and g can also be expressed as an end:
+
+[C, D](f, g) = ∫ x∈C D(f x, g x)
+
+The end notation is sometimes more convenient because it makes the object x (the “integration variable”) explicit. The Yoneda lemma, in this notation, becomes:
+
+∫ x∈C Set(C(a, x), f x) ≅ f a
+
+If you’re familiar with distributions, this formula will immediately resonate with you — it looks like the definition of the Dirac delta function:
+
+∫ dx δ(a - x) f(x) ≅ f(a)
+
+We can apply the Yoneda lemma to a functor category to get:
+
+Nat([C, D](g, -), φ) ≅ φ g
+
+or, in the end notation,
+
+∫ f Set(∫ x D(g x, f x), φ f) ≅ φ g
+
+Here, the “integration variable” f is itself a functor from C to D, and so is g ; φ , however, is a higher order functor. It maps functors from [C, D] to sets from Set. The natural transformations in this formula are higher order natural transformations between higher order functors.
+
+Furthermore, if we substitute for φ another instance of the representable functor, [C, D](h, -) , we get the formula for the higher order Yoneda embedding:
+
+Nat([C, D](g, -), [C, D](h, -)) ≅ [C, D](h, g)
+
+which reduces higher order natural transformations to lower order natural transformations. Notice the inversion of g and h on the right hand side.
+
+Using the end notation, this becomes:
+
+∫ f Set(∫ x D(g x, f x), ∫ y D(h y, f y)) ≅ ∫ z D(h z, g z)
+
+We can further specialize this formula by replacing D with Set. We can then choose both functors to be hom-functors (for some fixed a and b ):
+
+g = C(a, -) h = C(b, -)
+
+We get:
+
+∫ f Set(∫ x Set(C(a, x), f x), ∫ y Set(C(b, y), f y)) ≅ ∫ z Set(C(b, z), C(a, z))
+
+This can be simplified by applying the Yoneda lemma to the internal ends (“integrating” over x, y, and z) to get:
+
+∫ f Set(f a, f b) ≅ C(a, b)
+
+This simple formula has some interesting possibilities that I will explore later.
+
+Translation
+
+All this might be easier to digest for programmers when translated to Haskell. Natural transformations are polymorphic functions:
+
+forall x. f x -> g x
+
+Here, f and g are arbitrary Haskell Functor s. It’s a straightforward translation of the end formula:
+
+∫ x∈Set Set(f x, g x)
+
+where the end is replaced by the universal quantifier, and the hom-set in Set by a function type. I have deliberately used Set rather than Hask as the category of Haskell types, because I’m not going to pretend that I care about non-termination.
+
+A higher order functor of the kind we are interested in is a mapping from functors to types, which could be defined as follows:
+
+class HFunctor (phi :: (* -> *) -> *) where hfmap :: (forall a. f a -> g a) -> (phi f -> phi g)
+
+The higher order hom-functor is defined as:
+
+newtype HHom f g = HHom (forall a. f a -> g a)
+
+Indeed, it’s easy to define hfmap for it:
+
+instance HFunctor (HHom f) where hfmap nat (HHom nat') = HHom (nat . nat')
+
+The types give it away:
+
+nat :: forall a. g a -> h a nat' :: forall a. f a -> g a result :: HHom (forall a. f a -> h a)
+
+Higher order natural transformations between such functors will have the signature:
+
+type HNat (phi :: (* -> *) -> *) (psi :: (* -> *) -> *) = forall f. Functor f => phi f -> psi f
+
+The standard Yoneda lemma establishes the isomorphism between f a and the following higher order polymorphic function:
+
+forall x. (a -> x) -> f x ≅ f a
+
+The Yoneda lemma for higher order functors is the equivalence between φ g and:
+
+forall f. Functor f => forall x. (g x -> f x) -> φ f ≅ φ g
+
+Compare this again with:
+
+∫ f Set(∫ x Set(g x, f x), φ f) ≅ φ g
+
+The higher order Yoneda embedding takes the form of the equivalence between:
+
+forall f. Functor f => forall x. (g x -> f x) -> forall y. (h y -> f y)
+
+and
+
+forall z. h z -> g z
+
+The earlier result of the double application of the Yoneda lemma:
+
+∫ f Set(f a, f b) ≅ C(a, b)
+
+translates to:
+
+forall f. Functor f => f a -> f b ≅ a -> b
+
+One direction of this equivalence simply reiterates the definition of a functor: a function a->b can be lifted to any functor. The other direction is a little more interesting. Given two types, a and b , if there is a function from f a to f b for any functor f , than there is a direct function from a to b . In Set, where there are functions between any two types, with the exception of a->Void , this is not a big surprise.
+
+But there are other categories embedded in Set, and the same categorical formula will lead to more interesting translations. In particular, think of categories where the hom-set is not equivalent to a simple function type with trivial composition. A good example is the basic formulation of lens as the getter/setter pair, or a function of type:
+
+type Lens s t a b = s -> (a, b -> t)
+
+Such functions don’t compose naturally, but their functor-polymorphic representations do.
+
+Profunctors
+
+You’ve seen the reusability of categorical constructs in action. We can have functors operate on functors, and natural transformations that work between higher order functors. The same Yoneda lemma works as well in the category of types and functions, as in the category of functors and natural transformations. From that perspective, a profunctor is just a special case of a functor. Given two categories C and D, a profunctor is a functor:
+
+Cop × D -> Set
+
+It’s a map from a product category to Set. Because the first component of the product is the opposite category (all morphisms reversed), this functor is contravariant in the first argument.
+
+Let’s translate this definition to Haskell. We substitute all three categories with the same category of types and functions, which is essentially Set (remember, we ignore the bottom values). So a profunctor is a functor from Setop×Set to Set. It’s a mapping of types — a two-argument type constructor p — and a mapping of morphisms. A morphism in Setop×Set is a pair of functions going between pairs (a, b) and (s, t) . Because of contravariance, the first function goes in the opposite direction:
+
+(s -> a, b -> t)
+
+A profunctor lifts this pair to a single function:
+
+p a b -> p s t
+
+The lifting is done by the function dimap , which is usually written in the curried form:
+
+class Profunctor p where dimap :: (s -> a) -> (b -> t) -> p a b -> p s t
+
+All said and done, a profunctor is still a functor, so we can reuse all the machinery of functor calculus, including all versions of the Yoneda lemma.
+
+Let’s start with the Yoneda lemma for the category Cop×D. Straightforward substitution leads to:
+
+[Cop×D, Set]((Cop×D)(<c, d>, -), p) ≅ p <c, d>
+
+or, in the end notation:
+
+∫ <x, y>∈Cop×D Set((Cop×D)(<c, d>, <x, y>), p <x, y>) ≅ p <c, d>
+
+Here, p is the profunctor operating on pairs of objects, such as <c, d> . A hom-set in the product category Cop×D goes between two such pairs:
+
+(Cop×D)(<c, d>, <x, y>)
+
+Here’s the straightforward translation to Haskell:
+
+forall x y. (x -> c) -> (d -> y) -> p x y ≅ p c d
+
+Notice the customary currying and the reversal of source with target in the first function argument due to contravariance.
+
+Since profunctors are just functors, they form a functor category:
+
+[Cop×D, Set]
+
+(not to be confused with Prof, the profunctor category, where profunctors serve as morphisms rather than objects):
+
+We can easily rewrite the higher-order Yoneda lemma replacing functors with profunctors:
+
+∫ p Set(∫ <x, y> Set(q <x, y>, p <x, y>), π p) ≅ π q
+
+And this is what it looks like in Haskell:
+
+forall p. Profunctor p => (forall x y. q x y -> p x y) -> pi p ≅ pi q
+
+Here, π is a higher order functor acting on profunctors, with values in Set. In Haskell it’s defined by a type class:
+
+class HFunProf (pi :: (* -> * -> *) -> *) where fhpmap :: (forall a b. p a b -> q a b) -> (pi p -> pi q)
+
+Natural transformations between such functors have the type:
+
+type HNatProf (pi :: (* -> * -> *) -> *) (rho :: (* -> * -> *) -> *) = forall p. Profunctor p => pi p -> rho p
+
+Notice that we are now defining functions that are polymorphic in profunctors. This is getting us closer to the profunctor formulation of the lens library, in particular to prisms and isos.
+
+Understanding Isos
+
+An iso is a perfect example of a data structure straddling the gap between lenses and prisms. Its first order definition is simple:
+
+type Iso s t a b = (s -> a, b -> t)
+
+The name derives from isomorphism, which is a special case of an iso (I think a cuter name for an iso would be Mirror ). The crucial observation is that this is nothing but the type corresponding to a hom-set in the product category Setop×Set:
+
+(Setop×Set)(<a b>, <s t>)
+
+We know how to compose such morphisms:
+
+compIso :: Iso s t a b -> Iso a b u v -> Iso s t u v (f1, g1) `compIso` (f2, g2) = (f2 . f1, g1 . g2)
+
+but it’s not as straightforward as function composition. Fortunately, there is a higher order representation of isos, which composes using simple function composition. The trick is to make it profunctor-polymorphic:
+
+type Iso s t a b = forall p. Profunctor p => p a b -> p s t
+
+Why are the two definitions isomorphic? There is a standard argument based on parametricity, which I will skip, because there is a better explanation.
+
+Recall the earlier result of applying the Yoneda lemma to the functor category:
+
+forall f. Functor f => f a -> f b ≅ a -> b
+
+The similarity is striking, isn’t it? That’s because, the categorical formula for both identities is the same:
+
+∫ f Set(f a, f b) ≅ C(a, b)
+
+All we need is to replace C with Cop×D and rewrite it in terms of pairs of objects:
+
+∫ p Set(p <a b>, p <s t>) ≅ (Cop×D)(<a b>, <s t>)
+
+But that’s exactly what we need:
+
+forall p. Profunctor p => p a b -> p s t ≅ (s -> a, b -> t)
+
+The immediate advantage of the profunctor-polymorphic representation is that you can compose two isos using straightforward function composition. Instead of using compIso , we can use the dot:
+
+p :: Iso s t a b q :: Iso a b u v r :: Iso s t u v r = p . q
+
+Of course, the full power of lenses is in the ability to compose (and type-check) combinations of different elements of the library.
+
+Note: The definition of Iso in the lens library involves a functor f : type Iso s t a b = forall p f. (Profunctor p, Functor f) => p a (f b) -> p s (f t) This functor can be absorbed into the definition of the profunctor p without any loss of generality.
+
+Next: Combining adjunctions with the Yoneda lemma.
+
+Acknowledgments
+
+I’m grateful to Gershom Bazerman and Gabor Greif for useful comments and to André van Meulebrouck for checking the grammar and spelling.
+
+Advertisements

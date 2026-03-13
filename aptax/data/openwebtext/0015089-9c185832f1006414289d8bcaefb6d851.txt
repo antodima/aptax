@@ -1,0 +1,57 @@
+It’s been one of my major pet peeves on both Android and iOS: the total and utter lack of consistency. Applications – whether first party or third party – all seem to live on islands, doing their own thing, making their own design choices regarding basic UI interactions, developing their own non-standard buttons and controls. Consistency died five years ago, and nobody seems to care but me.
+
+As a proponent of what is now called the old school of UI design, I believe consistency is one of the most important aspects of proper user interface design. A consistent interface requires less learning, because users can carry over their experience from one application to the next, making the whole experience of using a UI more fluid. Applications should be the means to an end – not the end itself.
+
+The release of the iPhone, and more specifically of the App Store, changed user interface design practically overnight. A lot of people focus on the shift to finger input as the biggest change the iPhone caused in UI design, but in reality, the move from thin stylus to fat stylus (the finger) isn’t that big a shift at all. No, for me, the biggest change in UI design caused by the iPhone, and later Android, is that ‘consistency’ lost its status as one of the main pillars of proper UI design.
+
+Three reasons lie at the root of this underreported, massive shift. The first is conceptual, the second practical, and the third consequential.
+
+Conceptual
+
+iOS popularised a single-tasking interface, where only one application is visible at any given time – quite the far cry from desktops and laptops where we have lots of different applications running at once (or at least have the ability to do so). iOS obviously didn’t invent the concept; in fact, it’s as old as computing itself. Even in the mobile world, iOS just built on that which came before, since both PalmOS and Windows Mobile used the exact same single-tasking focus.
+
+The consequence is that the application pretty much becomes the device. It’s the sole focus, the sole star of the show, with the operating system reduced to a status bar at the top of the screen. It’s quite similar to how game consoles have been operating for ages; in fact, older consoles generally couldn’t boot into a stand-alone, non-game operating system at all.*
+
+As with anything under a spotlight, this has consequences. If all the user sees is a single application, deviations from UI standards and conventions don’t jump out as much, and developers can more easily experiment with changing the appearance or – worse yet – the behaviour of UI elements, or even create entirely new ones that have no equivalents in the rest of the operating system or application base. Since the user will never see applications side-by-side, these deviations don’t stand out visually (but they do stand out behaviourally).
+
+Given this level of freedom to design the appearance of an application, the application itself becomes the focal point, instead of the task it is supposed to accomplish. We have entire websites dedicated to how an application looks, instead of to how it works. It is, perhaps, an analogy of how computer technology is perceived these days – style over substance, ‘it looks good so it must work well’. If some website reports on a new application for iOS or Android, the first few comments will almost inevitably be about how the application looks – not about if the application works.
+
+We’ve reached a point where it’s entirely acceptable to reduce functionality just to make an application look good. We give more accolades to a developer who designs a pretty but functionally crippled application than to a developer who creates a highly functional and useful, but less pretty application. In my view, removing functionality because you don’t know how to properly integrate it into your UI is a massive cop-out, an admission of failure, the equivalent of throwing your hands in the air, shouting ‘I give up, I know my application needs this functionality but because I don’t know how to integrate it, I’ll just claim I didn’t include it because users don’t need it’.
+
+Because the application itself has become the focal point, the designers have taken over, and they will inevitably feel constrained by the limits imposed upon them by human interface guidelines and commonly accepted user interface standards. The end result is that every application looks and works differently, making it very hard to carry over the experience from one application to the next.
+
+Consistency suffers.
+
+Practical
+
+The smartphone market (and to a lesser degree, the tablet market) is divided up in two segments. iOS and Android are both highly desirable targets for mobile application developers, and as such, it’s becoming very hard to ignore one or the other and focus on just one. Instagram, Flipboard, Instapaper – even platform staples had to face the music and move to Android, sometimes kicking and screaming.
+
+This has had a crucial effect on application development. I can’t count how many times I downloaded an Android application, only to realise it was a straight iOS port without any effort put into properly integrating it with Android UI conventions and standards. A logical consequence of the mobile application business not being as profitable as some make it out to be; most developers simply don’t have the time and money to do it properly.
+
+Some applications take an entirely different approach to ‘solve’ this problem, by using lowest common denominator technologies. The official Google Gmail application for iOS is basically just a web page, and the Facebook application relies on HTML as well to display timelines. Both use entirely non-standard UI elements and conventions, of course (in addition, performance suffers for it, but that’s another story altogether).
+
+Whatever the case – straight UI port or lowest common denominator technologies – consistency suffers.
+
+Consequential
+
+The third and final cause of the death of consistency is the sheer size of the App Store and the Google Play Store. Each of these is now populated by literally hundreds of thousands of applications, with every type of application having dozens, if not hundreds, of similar alternatives. In order to not drown in this highly competitive tidal wave of applications, you need to stand out from the crowd.
+
+A highly distinctive interface is the best way to do this. If you were to follow all the standard UI conventions of a platform, you wouldn’t stand out at all, and would risk not being chosen among your flashier – but potentially less functional – competitors. It’s the equivalent of television commercials and web advertisements trying to stand out through motion, sound, pop-ups, screen-covers, flashing, and so on. “Hello, you there! Notice me! Notice me!”
+
+If custom UI elements are required to stand out, they are added. If UI conventions need to be broken in order to differentiate from the crowd, so be it. If we lose functionality in the process – who cares, reviews will focus on how good we look anyway. Again – consistency suffers.
+
+Mourning
+
+In the smartphone and tablet age, the application has become the star. The days of yore, where the goal of an application was to disappear and blend in with the rest of the system as much as possible so that users could focus on getting the task done instead of on the application itself, are gone. Instead, applications have become goals in and of themselves, rather than just being the means to an end.
+
+My ideal application is one that I don’t care about because it’s so non-distinctive, invisible and integrated into the system I barely notice it’s even there in the first place. During its heydays, GNOME 2.x represented this ideal better than anything else (in my view). GNOME 2.x sported an almost perfect behavioural and visual integration across the entire desktop environment, making it one of my personal favourite UIs of all time. KDE 3.x had incredibly tight behavioural integration, but, in my opinion, failed a bit on the visual side. Windows has been an utter mess for a long time, and Mac OS X started out okay, but once brushed metal and the wood panelling were introduced, it pretty much went downhill from there – and is still going down.
+
+And my desire for applications to be invisible is, of course, the exact problem. A highly consistent interface is one where applications do not stand out, where they are designed specifically to blend in instead of drawing attention. This goes against the very fibres of many designers, who, understandably, want to make a statement, a demonstration of their abilities. On top of that, they need to stand out among the loads and loads of applications in the application stores.
+
+Sadly – I, as a user, suffer from it. I don’t like using iOS. I don’t like using Android. Almost every application does things just a little bit differently, has elements in just a slightly different place, and looks just a bit different from everything else. I have to think too much about the application itself, when I should be dedicating all my attention to the task at hand.
+
+I know this is a lost battle. I know I’m not even in the majority anymore – consistency lost its status as one of the main pillars of proper UI design almost instantly after the release of the iPhone. People who stood next to me on the barricades, demanding proper UI design, people who blasted Apple for brushed metal, people who blasted Windows for its lack of consistency, those same people smiled nervously while they stopped advocating consistency virtually overnight.
+
+Consistency became a casualty almost nobody ever talked about. A dead body we silently buried in the forest, with an unwritten and unmentioned pact never to talk about the incident ever again. Consistency is now a dirty word, something that is seen as a burden, a yoke, a nuisance, a restriction. It has to be avoided at all costs to ensure that your application stands out; it has to be avoided at all costs to let the designer have free reign.
+
+I mourn the death of consistency. I may be alone in doing so, but every death deserves a tear.

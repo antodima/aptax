@@ -1,0 +1,25 @@
+Stephen Barnes/Technology / Alamy Stock Photo
+
+Did you hear that? You might not have, but Alexa did. Voice assistants have been successfully hijacked using sounds above the range of human hearing. Once in, hackers were able to make phone calls, post on social media and disconnect wireless services, among other things.
+
+Assistants falling for the ploy included Amazon Alexa, Apple’s Siri, Google Now, Samsung S Voice, Microsoft Cortana and Huawei HiVoice, as well as some voice control systems used in cars.
+
+The hack was created by Guoming Zhang, Chen Yan and their team at Zhejiang University in China. Using ultrasound, an inaudible command can be used to wake the assistant, giving the attacker control of the speaker, smartphone or other device, as well as access to any connected systems.
+
+Advertisement
+
+“If all a voice assistant could do was set an alarm, play some music or tell jokes then, there wouldn’t be much of a security issue,” says Tavish Vaidya, of Georgetown University in Washington DC. But voice assistants are connected to an increasing number of services, ranging from smart thermostats to internet banking, so any security breaches are pretty serious.
+
+How does sound affect us? Find out at New Scientist Live in London
+
+The attack works by converting the usual wake-up commands – “OK Google” or “Hey Siri” – into high-pitch analogues. When a voice assistant hears these sounds, they still recognise them as legitimate commands, even though they are imperceptible to the human ear.
+
+The team was then able to open a malicious website to download malware and start a video or voice call to spy on its surroundings. Additionally, they could send text messages and publish posts online.
+
+The attacker would need to be near the target device to hack it – but it may be possible to play the commands via a hidden speaker as they walk past. How close they would need to be varies from 2cm to 175cm, depending on the strength of the microphone and background noise levels.
+
+Not all devices were so easily hacked. Taking control of Siri, for example, required an extra step. The owner’s voice had to be surreptitiously recorded for playback as Apple’s system recognises the speaker. “There are a lot of variables for the attack to succeed outside of a controlled environment,” says Vaidya.
+
+To secure voice assistants in the future, sounds outside the human voice range could be suppressed or machine learning algorithms could listen out for similar style attacks, Vaidya says. We should focus on protecting against unauthorised commands rather than limiting what assistants can do, he adds.
+
+Journal reference: Cryptography and Security, https://arxiv.org/abs/1708.09537

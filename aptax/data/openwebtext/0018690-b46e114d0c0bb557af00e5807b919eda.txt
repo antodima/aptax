@@ -1,0 +1,67 @@
+This has been the softest launch of a game I’ve ever done. I spent about $100 total on facebook post boosts, I tweeted, I blogged and I posted to the ProductionLine facebook page. Since then…thats it, I’ve been pretty much going along on word of mouth, and even then, sales have exceeded my expectations! This is really good news, because so far the development of the game has gone exactly as I had hoped, with a lot more focus on what actual players of the game want, rather than me guessing, or doing just want I want, or me trying to guess what makes the press happiest.
+
+This has resulted in a lot of bug reports! (many thanks for that) and some really good suggestions and ideas, some of which have already made it into the game. People do seem to be surprised how quickly stuff goes in or gets improved, but frankly thats because I worked on this game for about a year in silence so there is this whole huge library of decent engine code in the background that is *done* and thus I only really have to code new features and GUI stuff now. New GUI does not take that long, and thankfully I’ve got good enough at debugging multi-threading and recursive stuff that this is not a huge bottleneck either. I’m almost disappointed nobody is having frame-rate issues, because I love optimizing :D
+
+This is just as well as there have been a LOT of ideas and suggestions. I’ve already seen factories way bigger and more efficient than anything I have managed to create. It never occurred to me to re-use the conveyor belts in cunning roundabout-style loops with the individual processing elements happening at different junctions…until someone found a bug in it.
+
+Users feedback has been excellent, encouraging and invaluable.
+
+But anyway! I’m actual;y sending out a puny mailing list today with 7,500 recipients, so that should open things up a bit, especially as some are press. I don’t expect massive press coverage, but I’m not relying on it either. The game remains very much in Alpha (not even beta) so I expect a lot of people, gamers and press alike will stay in a ‘wait and see’ mode.
+
+In the meantime, I have just set a big patch(1.04) live, and here is the fairly hefty changelist. (not bad for about 4 days work).
+
+[version alpha 1.04]
+
+1) The task ‘make fuel tanks’ now unlocks when researched correctly.
+
+2) Fixed some crashes and routing bugs caused by deleting resource importer bays.
+
+3) Pop-up details on the slot-picker now should show decimal places for times.
+
+4) Vehicle details windows limited to one per vehicle and can now be dragged by the player.
+
+5) Fixed minute format bug in save games.
+
+6) Pause now works as a toggle, and all speed controls have hotkeys.
+
+7) Escape key now closes slot picker.
+
+8) Slot picker has less visual ‘padding’.
+
+9) Double-click on the relevant window now loads a save game.
+
+10) The upgrades section of a slot details dialog is now hidden if there are no upgrades available for selection.
+
+11) Any open dialogs are now correctly closed when going to the main menu.
+
+12) Fixed crash bug when a single stretch of uninterrupted conveyor belt was over 64 tiles long.
+
+13) Added new efficiency dialog which shows efficiency over time and also a snapshot of current slot efficiency.
+
+14) Fixed bug where slots could be placed ‘spilling’ over into a locked factory area.
+
+15) Fixed bug on low resolutions where the slot upgrades window did not fit on the screen.
+
+16) Floating numbers fade out now even when paused.
+
+17) Improvements to ‘load-balancing’ at junctions.
+
+18) New ‘Efficiency’ dialog currently just showing global state of all slots now and over time.
+
+19) Slight speedup of creating the load-game dialog.
+
+20) New vehicle pop-ups show the reason a vehicle is stuck.
+
+21) Some conveyor belt graphics now have darker, more obvious direction arrows.
+
+22) Fixed incorrect sizes of some delivered resources.
+
+23) New upgrade for painting slot: ‘High pressure paint nozzles’
+
+24) Fixed bug where components built inside the factory at ‘make’ slots did not survive a save and load.
+
+25) Corrupt resource deliveries to roof making and similar slots fixed.
+
+26) New graphics for the tyre-making slot and the window making slot.
+
+Thanks for everyone pre-ordering, and I also really appreciate it when people tweet or post online about the game, its really helpful. If you don’t have the game yet, here is the order form :D

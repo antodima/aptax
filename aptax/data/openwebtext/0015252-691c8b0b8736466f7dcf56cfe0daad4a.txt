@@ -1,0 +1,57 @@
+These days it's not easy for a legal threat to distinguish itself. There are so many of them, and it's common from them to be bumptious and ignorant.
+
+That's why I have to tip my hat to Stuart Gibson, an attorney at the Australian firm Mills Oakley. He has risen above the pack.
+
+Mr. Gibson charges heedlessly into a crowded subgenre: threatening people for merely talking about you. The genesis of his bluster is a 2012 post at Techdirt discussing an Australian court victory against Google by one Milroad Trkluja, who was displeased that Google searches of his name brought up pictures of an underworld figure. That's not so bad; Googling my name brings up pictures of Jabba the Hutt cosplay. Anyway, Techdirt's article criticized the decision but made it perfectly clear that Mr. Trkulja was not, in fact, a gangster, and that his image only got connected with a gangster because he had the misfortune to be an innocent bystander in a shooting.
+
+More than three years later, Trkulja sent Techdirt and Google a bizarrely entertaining legal threat complaining about a comment on the 2012 story that suggested that he was the sort of "gangster" who uses courts rather than guns. Trkulja demanded money, the deletion of the offending comment and anything ever written about him, and to block Techdirt. This was amusing and noteworthy; it's exactly the sort of flailing threat Techdirt writes about all the time.
+
+Enter Mills Oakley attorney Stuart Gibson. He sent Techdirt a threat that, while much shorter and less floridly pro-se nutty than Trukulja's, was in its own way just as ridiculous.
+
+This is the rotten core of it:
+
+The matter that you have published conveys false and defamatory meanings including (but not limited to) the following:
+
+Our client is a gangster; That our client by virtue of his legal claims is incompetent and unfit to be a litigant; That our client by virtue of his legal claims is a ridiculous litigant; That our client is a criminal and a participant in organised crime; That our client is unfit to be a litigant None of these meanings is defensible. Our client is not a criminal and has never been a gangster nor associated with such persons. Accordingly there is no factual basis for the imputations published.
+
+This is entertainingly preposterous. Techdirt never suggested Trkulja is a gangster; a commenter jokingly suggested he is a litigation gangster. Techdirt's suggestion that Trkulja's legal threat is ridiculous (which Gibson spins as "unfit to be a litigant") is a classic case of opinion based on disclosed facts — the fact in this case being Trkulja's nutty legal threat.
+
+Gibson finishes with bluster about how his firm has enforced Australian judgments against other companies, about how American law will not protect Techdirt, about how Techdirt's free speech defense is "absolute nonsense," and so forth.
+
+Gibson is, of course, utterly full of shit. This is exactly the sort of bullying threat that the SPEECH Act, 28 U.S.C. section 41202, is designed to render impotent. Australia is beautiful and its people are lovely and its laws have many things to recommend them but, with respect to protection of free speech, it is a jurisprudential shithole. Congress passed the SPEECH Act to ensure that law-thugs like Mr. Gibson could not silence speech by obtaining defamation judgments under legal regimes that lack adequate protections for free speech. Mr. Gibson is free to get an Australian judgment against Techdirt — indeed, Australian courts are popular with libel tourists and folks with ambitions to control speech worldwide. But unless Techdirt has assets in Australia, that judgment will be worthless.
+
+Under the SPEECH Act, American courts won't recognize and enforce foreign defamation judgments unless the party seeking to enforce them carries the burden of proving that (1) the foreign court's exercise of personal jurisdiction over the defendant satisfied American concepts of due process; (2) the foreign court's ruling complied with Section 230 of the Communications Decency Act of 1996, which says that web sites can't be held liable for defamation for comments left by third parties; and (3) either the foreign court offers as much free speech protection as American courts, or American courts would have reached the same result on the defamation claim. Stuart Gibson's threats on behalf of Mr. Trkulja fail all three of those tests. Australia has no plausible personal jurisdiction claim over Techdirt; Gibson and Trkulja are trying to hold Techdirt responsible for a comment left by a third party; and Trkulja's and Gibson's silly claims would never stand up to First Amendment scrutiny. Among other things, Australia apparently treats truth as a defense, requiring defamation defendants to prove that their statements were true, rather than requiring the plaintiff to prove that they were false. That, standing alone, is enough to fail the SPEECH Act test. Trout Point Lodge, Ltd. v. Handshoe, 729 F.3d 481, 489 (5th Cir. 2013) (Canadian judgment was not enforceable under SPEECH Act because, among other things, it placed burden of proving truth on defendant). Moreover, Mr. Gibson's suggestion that Techdirt can't make fun of Trkulja for writing a very silly threat is sheer idiocy, and I suspect would be even under Australian law.
+
+One can imagine why Mr. Trkulja would act this way — he's an angry litigant, not an attorney. But why would Stuart Gibson, who appears to be a real-life lawyer at a reputable law firm, act this way?
+
+There are several possibilities. One is that Stuart Gibson is willfully ignorant of relevant American law. This theory has some appeal, especially when you consider that this is the entirety of his analysis of the SPEECH Act in his threat to Techdirt:
+
+You are not protected by the Speech Act.
+
+Another possibility is that Stuart Gibson knows the relevant law but is hoping that Techdirt doesn't — that he hopes that Techdirt is ignorant or easily intimidated enough to yield to legally meritless demands. This merely demonstrates another form of willful ignorance; the briefest investigation of Techdirt's history would reveal that it stands up to stupid legal threats all the time, and in fact publicly mocks them. If this is the case, then Gibson has failed to follow one of the core rules of writing an effective and non-own-foot-shooty takedown letter: he didn't investigate his target.
+
+A third possibility is that Stuart Gibson is a hotheaded buffoon incapable — whatever he knows or doesn't know — of maintaining communications discipline. This explanation, too, has a certain appeal. I wrote Mr. Gibson seeking comment and some of his responses suggested a failure of self-control:
+
+Ken
+
+What you can say is that I have challenged Mike to accept Service of Proceedings and to espouse his theories in Court here.I have been trying to effect Service on him.
+
+We are at this time trying to serve him/it.
+
+I do not think it understands Australian Defamation Law.
+
+We have no Free Speech law in this country.
+
+Ken
+
+What are you doing writing for this trashsite
+
+And so forth.1
+
+There is a type of gormless lawyer who becomes incensed when his or her idiotic demands are not met with immediate compliance; Mr. Gibson appears to be such a buffoon.
+
+Finally, it's possible that Mr. Gibson is actually very clever and is just setting this matter up for Mr. Trkulja for another Australian lawsuit against Google seeking damages for the existence of websites that do not fluff him. Lord knows such train wrecks are possible there.
+
+Mr. Gibson and Mr. Trkulja perform useful service: they illustrate exactly why Congress was right to pass the SPEECH Act, and exactly why we should be thankful for America's unusually broad and robust defense of free speech. Do you want people like Stuart Gibson dictating what you can say and whom you may ridicule? After all, Mr. Gibson is the sort of lawyer who says "we have no Free Speech law in this country" — and is happy about it, because it allows him to act like . . . well, like a gangster.
+
+Last 5 posts by Ken White

@@ -1,0 +1,217 @@
+Our Kickstarter campaign is over! It's been an amazing month. We're looking forward to getting Pebble Time and Pebble Time Steel onto your wrist.
+
+To learn more and order a Pebble Time, head on over to pebble.com
+
+Developers can sign up for our developer newsletter to get the latest news. Hardware developers, have you heard of our $1mm smartstrap development fund?
+
+“3 Reasons Pebble's Time Smartwatch Beats The Apple Watch” - Forbes
+
+“Pebble's Fantastic Smartwatch Is Growing Up" - Gizmodo
+
+“The most exciting thing about Pebble’s new smartwatch isn’t the color screen” - Fast Company.
+
+For press inquiries, please contact media@getpebble.com.
+
+You can follow Pebble on Twitter @pebble and on Facebook.
+
+High level details
+
+We have two new watches, Pebble Time and Pebble Time Steel , with a new timeline interface .
+
+Pebble Time and Pebble Time Steel feature a new color e-paper display and microphone for responding to notifications.
+
+No compromises on what you love about Pebble: up to 7 days of battery life, water resistance and customizability.
+
+Pebble Time and Pebble Time Steel are fully compatible with all 6,500+ existing Pebble apps and watchfaces.
+
+Pebble Time starts shipping in May. Pebble Time Steel starts shipping in July.
+
+Photo of early production unit
+
+You'll need an HTML5 capable browser to see this content. Play Replay with sound Play with
+
+sound 00:00 00:00
+
+All the features of Pebble Time, dressed up and ready to go.
+
+CNC-finished 316L stainless steel casing.
+
+Premium leather and stainless steel strap.
+
+Up to 10 days of battery life.
+
+We're back on Kickstarter
+
+This is where it all started. Three years ago you supported our vision to make the world’s first real smartwatch. The Kickstarter community and our early adopters believed in us before anyone else even knew we existed. You blew us away with your support and kicked off a worldwide movement!
+
+With your help, we set the bar very high:
+
+Your overwhelming support and feedback has shaped what Pebble is today. We’re back on Kickstarter to give you - the community who cares the most - an opportunity to support our vision for wearables and get exclusive access to our newest product.
+
+Get more info at a glance...in color!
+
+At its heart, Pebble Time is an awesome watch. The new color e-paper display is easy to read and always-on, perfect for displaying incoming notifications and your favorite watchface. Compared with display technology like LCD or OLED, power consumption is minimized, enabling Pebble Time to achieve an industry-leading battery life of up to 7 days.
+
+Send a quick reply by dictation
+
+Pebble Time's new microphone lets you send voice replies to incoming notifications* or take short voice notes. We used the latest technology to maintain water resistance so you can swim or surf with Pebble Time (we do not, however, recommend talking underwater).
+
+*Sending voice replies works with most major Android apps including SMS, Hangouts, Gmail, Facebook Messenger, Whatsapp and hundreds more. For iOS users, voice replies are currently limited to Gmail notifications. We’re working to enable voice replies for more apps.
+
+Pebble Time is 20% thinner than the original Pebble at just 9.5mm. Its ergonomic, curved design fits comfortably on either wrist and slides easily under dress shirts.
+
+Pebble Time and Pebble Time Steel is stylish and durable. The lens is crafted from scratch-resistant Gorilla Glass with a bezel made of stainless steel. Like our previous watches, it's water resistant - perfect for a run in the rain, water-balloon battle or a swim.
+
+People love to personalize their Pebble watches. We've included a soft silicone band with each Pebble Time and a fine leather band for Pebble Time Steel, but any standard 22mm watch band will fit. All new Pebble watch bands include a quick-release pin, letting you swap bands in under 10 seconds. Now it's super easy to find the perfect style for you!
+
+For DIYers, accessory makers and advanced customizers, we'll be publishing the 3D data you'll need to create amazing straps, covers and docks. Pebble Time comes in three colors: Black watch case and silicone band with black PVD stainless steel bezel
+
+
+
+White watch case and silicone band with silver PVD stainless steel bezel
+
+
+
+Red watch case and silicone band with black PVD stainless steel bezel Pebble Time Steel is available in three stainless steel finishes:
+
+Silver with a stone leather band
+
+
+
+
+
+Gunmetal black with a black leather band
+
+
+
+
+
+Gold with red leather band All Time Steels come with both a leather and matching metal band. Special Engraving for Kickstarter Backers All reward watches are engraved with ‘Kickstarter Edition’. For those who are backing Pebble on Kickstarter for the second time - thank you! Your Pebble Time watch will be engraved with something extra special. We've been making smartwatches for almost 7 years now. Our ultimate goal is to make Pebble an indispensable tool in your daily life by helping you accomplish more each and every day. While developing software for the original Pebble, we uncovered an important problem: apps are an inefficient way to interact with a smartwatch. As we increased functionality by adding more apps, our Pebbles clogged up. It became harder to quickly find the app we wanted. No one wants to manage another homescreen!
+
+To make Pebble infinitely more useful, we needed an expandable system for organizing information and interactions. Luckily, the answer was right up our sleeves.
+
+It turns out the best interface for any watch...is time!
+
+You'll need an HTML5 capable browser to see this content. Play Replay with sound Play with
+
+sound 00:00 00:00
+
+You already plan your day around time, so it makes sense for your Pebble to be organized around the same principle. Now your notifications, news, reminders and events are laid out chronologically instead of being trapped inside separate apps.
+
+With one click, see what’s coming up next. Your timeline connects to calendars, alarms, and apps, organizing all kinds of relevant information along with quick actions. Similarly, recall the past. Scroll back in time to see that email you missed, your step count for the day or the score from the game last night.
+
+Your timeline takes an incredible amount of information and makes it super easy to access.
+
+This is the new app menu, featuring new app faces with glanceable content. With timeline we've also created a system that dynamically loads and caches apps as needed, letting you access as many apps as you need.
+
+As with all Pebble software, we’ve built an open platform. You can allow apps and developers to add ‘pins’ to your timeline, so you can keep track of things like upcoming events, sports, weather, traffic, travel plans, pizza specials and more.
+
+The Pebble operating system has been re-imagined with a new visual style. While all existing Pebble apps will still work great, we’re inviting developers to upgrade their apps to support color. More details coming soon!
+
+Simplicity and focus, without compromise
+
+We’ve added all these new features - color screen, microphone, slimmer design and timeline - without compromising what you love most about Pebble:
+
+Always-on, daylight readable screen with a great backlight
+
+Up to 7 day battery life (Time Steel battery life is up to 10 days)
+
+Use any standard 22mm watch band
+
+Water resistant and durable
+
+Tactile buttons for easy eyes-free clicking
+
+Silent vibrating alarms
+
+Step tracking with Misfit and Jawbone
+
+Language and international character support (Chinese coming soon!)
+
+Timeline will work on Pebble and Pebble Steel (exact date TBD)
+
+Works with iOS 8 on iPhone 4s and above
+
+Works with all Android 4.0+ phones including Samsung, HTC, Sony, LG, Google, Motorola, Xiaomi and more
+
+If you’re already part of our community of backers, developers and, early adopters, that’s fantastic! If not, we invite you to join those who have supported and guided our journey so far. It's pretty straightforward, just back this project!
+
+We pledge to do the absolute best we can at creating amazing products and supporting them for as long as possible. We’ve gone out of our way to develop new features, release software updates and provide technical support for all Pebble owners. Check out our Amazon reviews or our Twitter's @Pebble and @PebbleHelp to get a taste.
+
+Developer community
+
+Since the first Kickstarter campaign, developers have been an integral part of the Pebble community. We are very proud of the 26,000+ developers who have created over 6,500 apps and watchfaces for Pebble.
+
+Pebble Time greatly expands possibilities for wearable apps, building on top of the existing Pebble SDK and tools:
+
+Rich C SDK for apps and watchfaces running natively on the watch, even when the phone is disconnected
+
+Best in class online development environment: www.cloudpebble.net
+
+New emulator that can be used on CloudPebble or locally
+
+Rich set of APIs: accelerometer, compass, bluetooth messaging, background tasks, GPS and HTTP request, etc
+
+(NEW) Color APIs to support the 64 colors of the new Pebble Time screen
+
+(NEW) Support for PNG and APNG
+
+(NEW) Timeline APIs to push information from the web into the user’s timeline (no watch or phone apps required)
+
+(NEW) UI framework to create beautiful applications that take advantage of color and animations
+
+(Later in 2015) Voice to text APIs: add voice recognition to your apps
+
+(Later in 2015) Smart accessory port for hardware hackers.
+
+(Later in 2015) Bluetooth Low Energy API. Use Pebble to control BLE-enabled objects.
+
+All existing Pebble apps are compatible with Pebble Time and apps built with the new SDK are compatible with both platforms. We will reveal more information about the new APIs during the campaign. Stay tuned!
+
+Time for one last plug: we're hiring!
+
+Over the years, we've hired a bunch of folks from our community and are looking to hire more! If you (or a friend!) are passionate about bringing wearables to the masses, want to push Pebble to the next level, and love working with an awesome team at an innovative company, check out our Jobs page!
+
+Why are we back on Kickstarter?
+
+Pebble was brought to life by 68,929 backers who supported our vision three years ago. Even though we've grown tremendously since then, we're still a small company battling some of the largest competitors in the world. We believe that this is the best and most efficient way for us to get our latest product to the people who want it most: people like you.
+
+Help us by sharing Pebble Time with your friends!
+
+Know someone who would be just as stoked as you are about Pebble Time? Share our campaign with them through the "Share this project" button at the top. Sharing is caring!
+
+Reward Tiers
+
+$159 - Early Bird: One Pebble Time watch in any of the 3 colors
+
+$179 - One Pebble Time watch in any of the 3 colors
+
+$250 - One Pebble Time Steel watch in any of the 3 colors
+
+$338 - Two Pebble Time watches in any of the 3 colors
+
+$400 - One Pebble Time and One Pebble Time Steel in any of their respective 3 colors
+
+$845 - Five Pebble Time watches in any of the 3 colors
+
+$1690 - 10 Pebble Time watches in any of the 3 colors
+
+$5,000 - 30 Pebble Time watches, 10 of each color
+
+The full retail price for Pebble Time will be $199, so you're getting a deal by supporting us on Kickstarter. We will not be selling Pebble Time in retail until all Kickstarter rewards have been shipped.
+
+International Backers
+
+We're proud to have Pebble fans in over 150 countries. We will ship Pebble Time worldwide, with the exception of Argentina, Belarus, Cuba, Iran, Iraq, Lebanon, Libya, Myanmar/Burma, North Korea, Russia, Somalia, Sudan, Syria, and Yemen. Please note that you may be responsible for duties, fees and taxes applicable to your region.
+
+Estimated Delivery
+
+Each reward tier may have a different estimated shipment month. While we do not expect these to change, it is possible that the estimated shipment month may shift. At anytime up until your watch has shipped, you may request a full refund by emailing support@getpebble.com.
+
+Warranty
+
+We stand firmly behind our products. Each Pebble Time includes with a 30 day (after you receive it) money back guarantee and minimum 1 year limited warranty. For more information, please see https://getpebble.com/legal/warranty
+
+Need help? We're here for you.
+
+If you have questions at any time, during or after the campaign has closed, you can always reach us at support@getpebble.com.

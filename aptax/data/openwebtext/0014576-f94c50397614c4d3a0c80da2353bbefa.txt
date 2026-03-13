@@ -1,0 +1,83 @@
+
+
+The Georgetown University Master's in Cybersecurity Risk Management prepares you to navigate todays complex cyber threats. Take classes online, on campus, or through a combination of both -- so you dont have to interrupt your career. Learn more.
+
+It may be natural for Linux aficionados to get upset when someone criticizes their favorite operating system, but that doesn't make it any easier to bear.
+
+So when some less-than-flattering comments about Linux were revealed recently -- made back in January by none other than Google Chrome developer (and ex-Firefox lead) Ben Goodger -- many Linux bloggers were dismayed.
+
+Goodger had been working on the Linux port of the Chromium project, for which the alpha was recently released. Ars Technica reviewed the alpha, concluding that it's "shaping up nicely," but there was apparently much frustration along the way.
+
+"This entire situation is a clusterf*ck," wrote Goodger earlier this year. "I am not happy with the technical constraints imposed by Linux and its assorted UIs on Chrome's UI and feature set."
+
+Is it even possible to take criticisms like that lying down? Not if the Linux community is on the receiving end, you can be sure.
+
+Time for Standardization?
+
+On Slashdot, jeevesbond called attention to the story, noting that Adobe has been "getting twitchy about the glibc fork" and had previously described Linux's various audio systems as "welcome to the jungle."
+
+Such comments led jeevesbond to wonder, in fact, if it's "time to concentrate on consolidation and standardisation in GNU/Linux in general, and the desktop in particular?"
+
+Was there any shortage of opinions on *that* juicy topic? Not on Planet Linux!
+
+'Linux Is a Server OS'
+
+"Good luck," began Mikkeles.
+
+"It was time 10 years ago when Linux was first gaining real momentum in that area," added bonch. "I remember posting Slashdot comments about it and getting told Linux was about 'choice' and that if I didn't like it, I should contribute code. Ten years later, even Google is bashing Linux for it. I bet nothing will change even now.
+
+"Linux is a server OS, only used on the desktop by enthusiasts," bonch added. "Accept it, because the kind of standardized APIs that are needed are not going to happen with the attitudes that this community has."
+
+Indeed, well nigh 1,000 comments had been made on the topic in less than a week, so we here at LinuxInsider knew the question needed some closer examination.
+
+'Citing Irrelevant Points'
+
+"I am a supporter of Google on the whole, but I think they really mishandled Chrome on a number of points," Slashdot blogger Enderandrew told LinuxInsider.
+
+First, "they started a project that they intended to eventually be multiplatform, but utilized coders who only knew how to make very Windows-centric software," he said. "In doing so, they made life difficult on themselves in the porting process."
+
+Perhaps more to the point, "instead of accepting responsibility for their choice -- every choice comes with an opportunity cost -- they instead divert blame to the Linux platform, citing irrelevant points," Enderandrew explained.
+
+'Problematic Toolkit'
+
+Google also "chose a problematic toolkit that won't easily match the appearance and functionality of the Mac or Windows ports, but then later claimed the main reason they didn't use Qt from the get-go is that multiplatform toolkits would restrict them in exactly this capacity," Enderandrew added. "Not only is this statement not true of Qt, the reality is that they chose a toolkit that doesn't serve their needs well."
+
+GTK, in fact, is also "being criticized by many Gnome/GTK developers, to the extent that GTK is about to see a fairly large overhaul [and] retooling as they approach a 3.0 release," he noted. "This means that even after Chrome is ported to GTK, it will likely need to be updated again for GTK 3."
+
+Had they used Qt, on the other hand, the Chrome developers could have shipped "a product for Windows, Mac, Linux and Solaris on the same day," Enderandrew asserted.
+
+'I Am Extremely Disappointed'
+
+Finally, Google made "the foolish decision to have completely different forks for the different platforms, which makes contributions harder, provides more bugs, hurts the consistency of the product, and overall makes maintenance of the code vastly more difficult," Enderandrew opined. "This decision is the hardest to justify.
+
+"With very different platform forks, Chrome will operate, perform, look and behave differently on different platforms," he concluded. "As someone who uses Linux and Windows daily, I wish Firefox was more consistent on both platforms, and I am extremely disappointed that Google has decided not to value consistency."
+
+Others, however, took no offense at Goodger's comments.
+
+"I didn't see the words as particularly harsh or even unwarranted," Chris Travers, a Slashdot blogger who works on the LedgerSMB project, told LinuxInsider. "The reaction to the thread is fairly overblown, though."
+
+'Simply Settle On a Toolkit'
+
+The basic issue, Travers asserted, "is that Linux does not offer the consistency that Google wants for Chrome, and this leaves them with a few options.
+
+"However, it seems to me that the initial way forward would be to simply settle on a toolkit -- GTK or QT-- and make a great browser using that," he added. "If later one wants to support the other as well, they can do that. Nearly every system comes with the options of both GTK and QT, and these play together reasonably well."
+
+If users are uncomfortable "using multiple inconsistent widget sets, they probably aren't using Linux with anything more than the default applications for their desktops," he concluded. "Chrome won't make headway with these users anyway, so why not just choose whichever toolkit meets their needs best and run with that?"
+
+'It Would Be Good to Standardize'
+
+Nothing in FLOSS, GPL or GNU/Linux precludes standardization, blogger Robert Pogson asserted.
+
+"Many FLOSS packages are created to fill a niche and are not intended to be on every desktop," he told LinuxInsider. "GNU/Linux on the desktop has reached a tipping point where, for efficiency, it would be good to standardize a desktop environment and its libraries. Major players would likely be interested in calling a conference to hash this out."
+
+Goodger's problem, however, "is not so much the Linux libraries but the fact that he's trying to wedge them into some sort of internally designed cross-platform wedge," Montreal consultant and Slashdot blogger Gerhard Mack told LinuxInsider. "I suspect that 'views' needs more changes than the Linux libraries do."
+
+'Too Many Choices'
+
+The problem comes when developers approach Linux GUI apps such as browsers at abstraction layers, Slashdot blogger yagu told LinuxInsider. "There are myriad available options, all with good and bad features, but mostly incompatible at some levels -- and impossibly incompatible when writing something as complex as a browser," he explained.
+
+"It wouldn't be hard to port Chrome in one context -- say, Gnome -- but once you've picked that as your target, using Gnome paradigms, widgets, libraries and tools, you now have something almost guaranteed not to work as designed in KDE," yagu asserted. "This is probably the big downside to developers for Linux GUIs: literally too many choices creating too much work."
+
+The ultimate solution "is to develop and port GUI applications to the lower-level graphics engines, but that would be Xwindows, and that borders on a lost discipline," yagu added. "Certainly it is difficult and labor-intensive. The finished product with this approach is much more compatible across the Linux desktops, but at the same time lacks in specific desktop enhancements through special APIs."
+
+It is a solvable problem, yagu concluded -- "I'd choose the Xwindows approach" -- but "there won't be any solution that makes all Linux users happy."

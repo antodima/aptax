@@ -1,0 +1,48 @@
+
+
+More articles by
+
+Posted in mtg Posted on Friday, September 22nd, 2017 by the Good Gamery Judge TeamMore articles by Good Gamery Posted in Judge's Corner
+
+Welcome back to the Judge’s Corner. This week we have a special Ixalan edition of Judge’s Corner where we go over some important rules notes and reminders about the new set in preparation for the upcoming prerelease.
+
+Q: When I deal damage to my opponent with Gishath, Sun’s Avatar, what I am supposed to reveal about many cards from the top of my library?
+
+A: You’re supposed to reveal that many of them are Dinosaurs.
+
+Q: Can you explain how explore works?
+
+A: Explore is a sorcery that costs one generic mana and one green mana and allows you to play an additional land (sometimes two) that turn and draw a card. You may cast it during the main phase of your turn.
+
+Q: I tried to play Torment of Venom on my opponent’s Carnage Tyrant, but he said that Carnage Tyrant’s ability stops that. Is he right?
+
+A: Yes, your opponent is correct. Carnage Tyrant can’t be countered.
+
+Q: Jace, Cunning Castaway has the type Legendary Planeswalker – Jace. What does this mean?
+
+A: No, Jace has the type Planeswalker. Legendary is a supertype and Jace is a subtype.
+
+Q: What is the difference between the new Treasure tokens and Gold tokens?
+
+A: Treasure tokens are colorless artifact tokens with the ability, “T, Sacrifice this artifact: Add one mana of any color to your mana pool.” Gold tokens are only produced by the card Sword of Dungeons and Dragons from the upcoming Unstable set.
+
+Q: I control Admiral Beckett Brass and attack with Angrath’s Marauders. If my opponent doesn’t block, will I be able to gain control of one of his nonland permanents?
+
+A: Yes. Note that the name “Angrath’s Marauders” is plural, as you can clearly see three different Pirates in the art. Plus, they deal double damage so that’s already like, six Pirates in all. So you can totally gain control of one of your opponent’s nonland permanents this way!
+
+Q: My opponent claims he can Demolish my Hostage Taker, but that doesn’t make any sense to me. What gives?
+
+A: Your opponent is right, he can Demolish your Hostage Taker. This is because Hostage Taker was unfortunately printed with a word omitted in its rules text: it has been errata’d to say “When Hostage Taker enters the battlefield, exile another target artifact or creature until Hostage Taker leaves the battlefield.” This means that Hostage Taker is an artifact.
+
+Q: What does Tocatli Honor Guard’s ability do?
+
+A: Tocatli Honor Guard is the newest of a category of cards we affectionately like to call “rules reminder cards.” Frequently newer or less enfranchised players think that their creatures do whatever they do immediately when they play them. Tocatli Honor Guard is there to remind them that just entering the battlefield isn’t necessarily going to cause their creatures’ abilities to trigger. The ability doesn’t actually do anything. Some examples of older rules reminder cards include Heartbeat of Spring, Kami of the Crescent Moon, Vernal Bloom, Cavalry Master, and Dauthi Slayer.
+
+Submit your questions to @goodgamery on Twitter using #judgescorner.
+
+Share this: Twitter
+
+Facebook
+
+Reddit
+

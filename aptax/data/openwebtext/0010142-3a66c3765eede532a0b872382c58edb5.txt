@@ -1,0 +1,79 @@
+The UK government has once again bared its anti-technology teeth in public, leaning especially heavily on messaging platform WhatsApp for its use of end-to-end encryption security tech, and calling it out for enabling criminals to communicate in secret.
+
+Reuters reported yesterday that UK Home Secretary Amber Rudd had called out end-to-end encryption services “like WhatsApp”, claiming they are being used by paedophiles and other criminals and pressurizing the companies to stop enabling such people from operating outside the law.
+
+“I do not accept it is right that companies should allow them and other criminals to operate beyond the reach of law enforcement. We must require the industry to move faster and more aggressively. They have the resources and there must be greater urgency,” Rudd reportedly added.
+
+Earlier this week she also admitted she doesn’t really understand e2e encryption.
+
+Asked about her understanding of the technology at the Conservative Party conference, Rudd came out with this gem: “I don’t need to understand how encryption works to understand how it’s helping the criminals. I will engage with the security services to find the best way to combat that.”
+
+She also complained about being ridiculed by the tech industry for not understanding the technologies she’s seeking to regulate. Whilst apparently doubling down on the ignorance that has attracted said mockery.
+
+This of course led to more mockery…
+
+Paedophiles are also using roads, planes, supermarkets, pubs, lettuces and Terry's Chocolate Oranges, so we're getting rid of them, too. https://t.co/VncItwvpnb — Owen Jones🌹 (@OwenJones84) October 3, 2017
+
+You can see the problem with this strategy. Unless you’re the UK government, evidently.
+
+But what exactly is Rudd trying to get WhatsApp to do? The company has repeatedly pointed out it can’t hand over decrypted message content because e2e crypto means it doesn’t hold the keys to decrypt and access the content.
+
+Which is exactly the point of e2e encryption, and also explains why it’s better for data security.
+
+The Facebook-owned company reportedly rejected a government demand it come up with technical solutions to enable intelligence agencies to access e2e encrypted WhatsApp messages this summer (per a Sky News report).
+
+And an e2e encryption system with a backdoor wouldn’t be an e2e encryption system, as Rudd apparently can’t understand. (She wrote some other confusing words on that topic this summer.)
+
+Meanwhile Facebook’s Sheryl Sandberg has tried to sell governments on the notion that access to its — doubtless high resolution — metadata should be enough for their counterterrorism/crime-fighting needs.
+
+(Note for Rudd: U.S. intelligence agencies have previously said they kill people based on metadata, so Sandberg probably has a point. But maybe you don’t fully grasp what metadata is either?)
+
+Yesterday Reuters also quoted UK security minister Ben Wallace, whose brief covers counterterrorism and comms data legislation, bashing on services that use e2e encryption for preventing security services from tracking and catching criminals because “we can’t get into these communications”.
+
+Wallace also reportedly had this to say: “There are other ways I can’t talk about which we think they can help us more without necessarily entering into end-to-end encryption. So we think they can do more.”
+
+What “other ways” is the government thinking of? A backdoor into an e2e encrypted messaging platform given any other name would still be, er, a backdoor. Unless you’re just getting your hands on an unlocked device and reading the plain text messages that way. (Which is of course one possible workaround for security services to access e2e encrypted comms.)
+
+We asked WhatsApp (and Facebook) for comment on the government’s latest attacks on its messaging platform. Neither replied.
+
+But when politicians seem intent on ignoring how your technology works while simultaneously asking your technologists to make the tech do what they want (which also happens to be: Destroy the security promise that your service is founded on) you can’t really blame them for not wanting to engage in conversation on this topic.
+
+Security researcher and former Facebook staffer Alec Muffett, who worked on deploying e2e crypto for its ‘Secret Conversations’ feature, did have this to say when we asked for this thoughts: “If the Snowden affair has taught us anything it’s that government will internally redefine any distasteful term such as ‘backdoor’ so that it arguably does not apply to what they wish to achieve. I strongly suspect that state officials themselves do not have technical or specific plans, so much as a set of ‘desired outcomes’ which they will pressure the communications providers to deliver. For the rest of us, any ‘feature’ which breaks the promise that is implicit in the name of ‘end-to-end encryption’ is rightly called a ‘backdoor’ and should be resisted.”
+
+Amen to that.
+
+Meanwhile rumors suggest Rudd is gearing up for a potential leadership fight, if/when current UK PM Theresa May is finally unseated by the Brexit mess she has managed to exacerbate.
+
+So Rudd’s views on e2e crypto — and her apparent willingness to continue to misunderstand how technologies work — should worry us all.
+
+At this week’s party conference she unveiled plans to tighten the law around watching terrorist content online, with proposals to increase the maximum jail term for repeat viewing such content online or via a streaming service to up to 15 years.
+
+So the current political trajectory in the UK is for greater control and regulation of the Internet. At the same time as the government is pushing hard to undermine the security of online data.
+
+Again, that should worry us all — not least because other governments are watching the UK’s example, and some appear to be taking inspiration to make their own moves against encryption.
+
+If Rudd wasn’t enough, another Tory leadership contender in waiting — current foreign secretary Boris Johnson — appears to have an even more butterfingered grasp of digital infrastructure than she does (at least Rudd has taken a lot of meetings with tech firms lately, albeit without necessarily learning a great deal).
+
+Also speaking at the Conservative Party conference this week, Johnson reportedly suggested the UK could diverge from the EU’s data protection standards, post-Brexit — i.e. should he become the next UK PM.
+
+Boris Johnson: Britain "would want to do things differently to
+
+the EU in certain areas, such as data" – UK to diverge from GDPR post Brexit? — Rory Cellan-Jones (@ruskin147) October 3, 2017
+
+Where on Earth has Johnson got the idea that the UK would want to do things different in the area of “data”? What can he be thinking to go out on such a strange limb?
+
+His comments come despite the UK’s data protection watchdog sweating hard to inform UK businesses they do indeed need to comply with the incoming GDPR — and will need to continue to comply even after the country leaves the bloc (because, you know, complying with required standards is oil in the engine of trade).
+
+And despite UK digital minister Matt Hancock stating multiple times the government is aiming to essentially mirror EU data protection regulations — precisely to ensure there is no cliff edge as far as data flows are concerned.
+
+If the UK does not meet EU data protection standards once it leaves the bloc, UK businesses and startups will face being instantly cut off from selling into European markets.
+
+The UK will also likely need to negotiate its own data transfer agreement with the US which has its own data agreement with the EU. So could be cut off from the US market too if they can’t get some quick agreement in place (vs mirroring EU DP regs probably making some kind of UK-US Privacy-Shield copy-paste job quicker and easier to pull off.)
+
+Apparently none of the complexities of international data regulation have arrived beneath Johnson’s blonde mop. Expect that grand landing in some very far-flung future.
+
+Instead we find only a vague grasp on “data” — tightly coupled with a telling political stiffness for “doing things differently”.
+
+I don't think he's quite got the hang of international data regulation. Perhaps he could borrow this from Amber once she's done with it? pic.twitter.com/uRCuoy6Ozy — Rupert Goodwins (@rupertg) October 3, 2017
+
+And when button-pushing politicians have such a childish grasp on technology at the same time as powerful technologists are demonstrably failing to factor politics into their platforms we should all be rightly and highly concerned about the resulting societal outcomes.

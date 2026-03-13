@@ -1,0 +1,13 @@
+Perfectly Clear’s Version 3 of its iOS app is out and includes a software fix for the purple lens flare problem on the iPhone 5.
+
+On its own, the Perfectly Clear app is a great little editing app for the iPhone that gives you solid results from a single click. It’s quite similar to the Awesomize feature in SmugMug’s Camera Awesome app – and for good reason . . . Camera Awesome’s Awesomize is powered by Perfectly Clear’s technology.
+
+One of the things that sets Perfectly Clear’s app apart, however, is the one-click De-Purple setting that allows you to remove the oh-so-common purple lens flare from the iPhone 5 images. In practice, it works quite well. It’s just not spot-on every time as you can see in the images below.
+
+While “De-Purple” got rid of a lot of the purple color cast, it also introduced a nasty gray spot in the area of the flare, which is further set off by the saturated blue sky.
+
+It appears that the De-Purple feature in the app desaturates the purple/magenta in these shots, which you can further see from the color chart comparisons below.
+
+In most images, the De-Purple function works quite well; however, there are some scenarios where it falls short of an absolute solution – primarily in situations where the purple lens flare is surrounded by a saturated background (such as a sky) or where there is purple/magenta elsewhere in the image that you would want to preserve.
+
+Even without the De-Purple feature, the Perfectly Clear iPhone app is a great photo app for quick and easy editing. Perfectly Clear is $2.99 on the iTunes App Store.

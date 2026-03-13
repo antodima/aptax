@@ -1,0 +1,29 @@
+Success is a difficult thing to grab hold of. It’s often ill-defined. In my short career I’ve attempted to define success for myself. Though I speak from the point of view of a product manager, I find that this journey to define success is applicable across a wide range of experiences.
+
+Success means building my product
+
+As a product manager, it’s my job to lead a team to build great product. I have my vision of what needs to be built, with some input from my company’s leadership and other stakeholders, and I will win if I can execute that vision.
+
+When I first started, I imagined that my value was derived by the degree to which I could make my mark on a product. Unfortunately, the right product is often not the one I set out to build. I’m fascinated by the degree to which my initial hunch is proven incorrect. It’s come to make more sense to me though, what are the odds that the one idea I picked out of the ether would just happen to be the perfect solution?
+
+I slowly realized that this definition was flawed due to its foundation in ego. Such a definition of success can easily come about in big, bureaucratic organization that funds projects, rather than solutions to problems. Organizations where politics means not admitting failure is unforgivable, where pivots and “scope creep” constitute failure in the form of having to admit that your initial set of product requirements was not perfect.
+
+It was in these settings that I found myself evidence that my product was not going to be successful in its imagined final form, but was unable to change course due to a misinformed dedication towards executing on a stated vision. I realized I needed a new definition that was not inherently tied to a single product vision. or ego.
+
+Success means solving problems
+
+My loyalty is to solutions. I will find a problem that needs solving and build what needs to be built to most efficiently and effectively solve that problem. I’m going to help my team understand that we have a common goal, and encourage them to suggest ways that we can build product to achieve that goal. By doing this, I can put my team in a place where we are iteratively creating a vision for a product that best solves said problem.
+
+Important to success is measurability. Numbers can lie, but not as easily as people can. By defining your success in terms of data, you more closely bind the reality of success or failure to the degree to which you’re actually solving a given problem. Of course the truth can really suck sometimes, so you need to be flexible enough to realize that your product vision needs to be fluid — responsive to an evolving notion of the needs of users.
+
+Of course, the truth only reveals itself to those who seek it out. In order to properly solve a problem, you need to be willing to learn more about it. Reaching out to the people I’m building for — talking to users, is a wonderful way to understand more about how my solution might fill a need, provided that I’m willing to change my opinions based on the feedback that I get. I sometimes find myself feeling scared that such discussions will lead to a realization that my current vision is misguided, but that internal tension is what ultimately fuels great product.
+
+Success means changing the world for the better
+
+As a product manager, it’s my job to change the world, even if only for some small cohort of people out there. Success, therefore, is tightly tied to my ability to accomplish that core goal. Not only that, but I want to selectively solve problems that are real. I want to build solutions that actually make the world a better place. By tying my efforts to motives of altruism, I’ll be able to work harder and build a better product than I could if I were just attempting to make someone money, or if I were building something solely out of my motivation to build something.
+
+This poses an issue for me. There are a lot of companies out there that don’t necessarily focus on their affect on the outside world. Most teams extend their goals only as far as the way that their users use their product, instead of painting a picture of how their vision translates to improved outcomes for real people with real problems. And product success does not necessarily mean that you’re solving a problem worth solving — people were not looking for a new way to waste time and money before Clash of Clans came around and started earning $1B+/year siphoning both away.
+
+There are a lot of people out there who are dedicated to building products and companies that solve problems, but not all of those are changing the world for the better. As things stand, this constitutes my current definition of success.
+
+What’s yours?

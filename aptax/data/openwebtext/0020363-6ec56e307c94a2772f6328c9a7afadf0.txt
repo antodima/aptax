@@ -1,0 +1,57 @@
+If you were to throw ROM Manager, MetaMorph, Titanium Backup, and SetCPU into a blender with a dash of steroids, then the result would most definitely be ROM Toolbox from JRummy. Clearly this is a root only app, and it is probably the most beastly one that I've ever laid eyes on. All of the features encompassed by ROM Toolkit will blow your mind, just take a look at the feature list, taken directly from the Market listing:
+
+ROM Settings: Access the ROM Manager with hundreds of zips to download & install
+
+Install ROM from SD card
+
+Check for ROM updates/patches
+
+Backup/restore nandroid
+
+Wipe data/cache/dalvik/battery stats Theme Settings: Change your battery icon (Beta)
+
+Restart status-bar
+
+Change system fonts for your entire device
+
+Set your boot logo (for supported phones)
+
+Manage Theme Chooser themes (CM7 themes) Application Management: Remove, Freeze, unfreeze, launch, backup, wipe data/cache for any System or Data app
+
+Backup and restore your apps
+
+Set app install location (apps-to-SD)
+
+Batch install apps to either System or Data Performance Settings: Set CPU (max/min frequencies & scaling governor)
+
+Apply CPU at boot
+
+Change sysctl values to improve performance
+
+Free system memory Start-Up Tasks: Zipalign system/data apps on each boot-up
+
+Clear cache on each boot-up
+
+Fix permissions on each boot-up
+
+Run your own custom script each boot-up Quick Commands: Mount system read/write
+
+Reboot, Fast Reboot, Reboot Recovery, Shutdown, Reboot Bootloader
+
+Zipalign apks to optimize performance
+
+Block ads shown from other apps
+
+Remove or enable the boot animation Build Properties: Change the lcd density (screen resolution)
+
+Change the call ring delay to ring faster when dialing out
+
+Set the VM Heap size (performance increase)
+
+Set any property in any .prop file Extra Tools: Use your camera led as a torch/light
+
+Quickly access: Terrminal Emulator, Hidden settings menu, all System app settings
+
+Show ROM info
+
+That is a serious amount of features jammed packed into one app. To accompany all these features is an equally massive amount of screenshots showing them off:

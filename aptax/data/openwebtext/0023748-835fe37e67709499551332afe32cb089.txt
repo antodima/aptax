@@ -1,0 +1,39 @@
+Newswise — Feeling sleepy?
+
+That's because parts of your brain are actually asleep, according to a new theoretical paper by sleep scientists at Washington State University.
+
+Contrary to conventional wisdom, the researchers say, there's no control center in your brain that dictates when it's time for you to drift off to dreamland. Instead, sleep creeps up on you as independent groups of brain cells become fatigued and switch into a sleep state even while you are still (mostly) awake. Eventually, a threshold number of groups switch and you doze off.
+
+Lead author James Krueger said the view of sleep as an "emergent property" explains familiar experiences that the top-down model doesn't, such as sleepwalking, in which a person is able to navigate around objects while being unconscious, and sleep inertia, the sluggishness we feel upon waking up in the morning.
+
+"If you explain it in terms of bits and pieces of the brain, instead of a top-down phenomenon, all of a sudden you can make sense of these things," said Krueger. "The old paradigm doesn't even address these things."
+
+Krueger teamed with fellow neurobiologists David Rector, Hans Van Dongen, Gregory Belenky, Jaak Panksepp and electrical engineer Sandip Roy on the work. Their paper, "Sleep as a fundamental property of neuronal assemblies," will appear in the December issue of Nature Reviews/Neuroscience. It is available online at http://www.nature.com/nrn/journal/vaop/ncurrent/pdf/nrn2521.html.
+
+If sleep were being directed by a control center, the whole brain would respond at the same time, said Krueger. Instead, it behaves like a self-directing orchestra in which most sections are more-or-less in sync, but a few race ahead or lag behind at any given time.
+
+During sleepwalking, he said, the neuronal groups needed for balance are in a wake state while those needed for consciousness are in a sleep state. Conversely, in sleep inertia, enough neuronal groups are in a wake state for you to be awake in a general sense, but some groups are still in a sleep state—enough to hamper your ability to perform tasks.
+
+"Everybody has sleep inertia every morning," said Krueger. "It takes 30 minutes to an hour to recuperate from being asleep" and get all your neuronal groups up and running.
+
+The authors drew on evidence from several lines of research to develop their hypothesis.
+
+For example, a group of brain cells that work together to perform a certain function become less responsive and switch into a sleep-like state after the cells have been active for a long time. The likelihood that a given group of cells will enter the sleep state is proportional to how long it has been "awake" and how active it has been—in other words, how hard it has been working.
+
+Also, while you are awake, the cerebrospinal fluid bathing your brain accumulates proteins called Sleep Regulatory Substances, or SRSs. When the level of SRSs gets high enough, you go to sleep. Putting a drop of an SRS onto a neuronal group causes that group to enter the sleep state, showing that sleep can occur in a group of a few hundred cells without affecting the rest of the brain.
+
+Sleep researchers have long wondered how neuronal activity, which is measured in milliseconds, interacts with SRSs, which persist for hours or days. How do they coordinate to produce a coherent sleep response?
+
+The authors cited numerous studies showing that when neurons transmit electrical signals to each other, they also release ATP, a small chemical best known as an energy source for cells. The ATP causes cells called glia to produce SRSs, which in turn enter nearby neurons and activate a cascade of other chemicals that affect how the neurons respond to neurotransmitters.
+
+"It's a long-term change in sensitivity," in the range of hours, said Krueger. "You've got to think in terms of hundreds of these operating simultaneously in a network. If you're changing the sensitivity of the [neuron], and you have the same input coming into the cell, what happens? You've got a different output in the network for the same input. And that, by definition, is a state shift. So now we've got a complete mechanism" connecting neuronal activity, the production of Sleep Regulatory Substances and the occurrence of sleep.
+
+As a final piece of the puzzle, co-author Sandip Roy developed a mathematical model accounting for the experimental finding that when one neuronal group goes into a sleep-like state, neighboring groups become more likely to do so. The same happens when a sleeping group returns to wakefulness; its communications with its neighbors prompt them to "wake up" as well. The model showed that as communication among groups spreads, it can lead to the global synchronization that causes the whole animal to go to sleep.
+
+Krueger said such behavior is typical of all sorts of coordinated networks of functional units that operate mostly independently.
+
+"Whether it's an engineered system or whether it's fireflies glowing on a summer's evening, they tend to synchronize," he said.
+
+Krueger added that the classic brain "sleep centers" still have a role in the new paradigm. They coordinate the sleep-like and waking-like states of neuronal groups to help the organism adapt to its surroundings (such as whether it's light or dark out) and achieve peak performance.
+
+The paper's authors research many major aspects of sleep biology. Krueger studies the biochemistry of sleep; Rector explores the connections between neuronal activity and sleep/wake cycles; Van Dongen and Belenky study the relations between sleep and human performance; Panksepp studies the mechanisms of instinctual emotional and motivational behaviors; and Roy models network formation and coordination of action among independent units.

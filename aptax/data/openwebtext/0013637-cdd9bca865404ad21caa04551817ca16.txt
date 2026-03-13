@@ -1,0 +1,15 @@
+If your Kindle e-reader model requires an update, you may be unable to download Kindle content from the Cloud, access the Kindle Store, register or deregister your device, import collections, share content via social networks, or use Whispersync services, annotations backup, Goodreads, and Kindle FreeTime.
+
+The most recent software update for some Kindle e-readers provides updates needed to continue using some services on your device. This update should automatically download and install when your Kindle is charging and connected to a Wi-Fi network. If it doesn't, you may need to manually install the update to regain access to these features.
+
+Kindle E-Readers that Require Updates
+
+The Kindle e-readers in the table below require the latest software version. If you are not sure which Kindle e-reader you have, refer to Which Kindle E-reader Do I Have?
+
+Important: If your software version is higher than the version listed in the table, your device does not require an update. Additionally, the following device models are not impacted and do not require this update. Any Kindle e-reader model (7th Generation & newer)
+
+Fire tablets (any generation) If your software version is higher than the version listed in the table, your device does not require an update. Additionally, the following device models are not impacted and do not require this update.
+
+Your Kindle must be connected to Wi-Fi to download and install this update. This update will not download when connected to 3G. To learn more, see Download a Software Update via Wi-Fi.
+
+If you haven't received the software update over a Wi-Fi network, it may need to be transferred via USB. If you own a Kindle (1st Generation), Kindle (2nd Generation), or Kindle DX (2nd Generation), you will need to download the software update manually since those devices do not have Wi-Fi capabilities. To learn how, see Transfer & Install the Latest Software Update Manually.

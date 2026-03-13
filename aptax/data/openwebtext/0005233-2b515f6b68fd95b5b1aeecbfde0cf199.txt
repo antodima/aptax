@@ -1,0 +1,41 @@
+(Image: Stephen Voss/Alamy)
+
+When the criteria for diagnosing autism were changed last year, concerns were raised that people already diagnosed might be re-evaluated and end up losing access to treatments and services.
+
+The American Psychiatric Association (APA), which publishes the diagnostic guidelines, recommends that children who are receiving appropriate treatment as the result of the old criteria should not be required to undergo a re-examination with the new criteria by insurance companies.
+
+But a small survey revealed to New Scientist suggests that not everyone is following the party line.
+
+Advertisement
+
+In May, the APA published the DSM-5, the latest edition of what has come to be known as psychiatry’s diagnostic bible. One controversial change was to the criteria used to diagnose different kinds of autism, which are now combined under the umbrella term of “Autism Spectrum Disorder” (ASD).
+
+Under the previous criteria of DSM-4, a person would be diagnosed with ASD by exhibiting at least six of 12 behaviours, which include problems with communication, interaction and repetition. Now, that same person would need to exhibit three deficits in social communication and interaction and at least two repetitive behaviours – the latter, say critics, makes the new criteria more restrictive.
+
+Diagnosis: in question
+
+To see how the change in criteria was affecting people, Autism Speaks, a US science and advocacy organisation, asked users of its website to complete an online survey about their experiences. “We wanted to ensure that people are still maintaining access to the services they need,” says Michael Rosanoff, Autism Speaks’ associate director for public health research and scientific review.
+
+Around a third of the 611 people that have so far replied to the survey say that they have been asked by schools or health organisations to have their diagnosis re-evaluated under DSM-5 criteria, Rosanoff told New Scientist. “Some of these people also report having lost access to services and treatments,” he says. Rosanoff admits this survey is small and self-selecting, but says it is enough to ring alarm bells.
+
+One anonymous respondent said that the regional centre that funds services for her son is seeking to have him re-evaluated despite a 10-year well-established diagnosis of ASD.
+
+The UK National Health Service says that changes to the DSM-5 will have a limited impact on mental health care in the UK, as psychiatrists tend to diagnose mental health disorders using the World Health Organization’s International Classification of Diseases rather than the DSM. Those who are treated privately are also unlikely to be affected as, according to the UK health insurers approached by New Scientist, they don’t tend to cover the treatment or assessment of autism.
+
+The changes are most likely to be felt in the US, the country that most heavily relies on the DSM for diagnosis. None of the US health insurers approached were available for comment.
+
+Moving the goal posts
+
+However, the APA is clear that no one already diagnosed should be re-evaluated. “We made this recommendation from a public health and practical perspective since disruptions in effective treatment would be counterproductive to kids,” says Darrel Regier, vice-chair of the DSM-5 task force and director of the APA division of research.
+
+Despite these assurances, the results of the Autism Speaks survey have prompted the organisation to fund a bigger study in conjunction with Yale University to identify the effects of DSM-5 in terms of ASD prevalence and access to services.
+
+An indication of how the new criteria might affect the prevalence of ASD was published this week. Matthew Maenner at the US Centers for Disease Control and Prevention in Atlanta and colleagues analysed data from 644,000 children across the US who were 8 years old in 2006 or 2008. The data was from a monitoring network that collects ASD behaviours documented in medical and educational evaluations.
+
+Of the 6577 children classified as having ASD based on the DSM-4 criteria, only 5339, or 81.2 per cent, also met the DSM-5 criteria. Interestingly, 304 children would have been diagnosed with ASD under DSM-5 but not under DSM-4.
+
+Consequently, the team conclude that ASD prevalence will likely be lower under DSM-5 than under the previous edition of the manual.
+
+“Ultimately time will tell how this will affect prevalence,” says Maenner. “It’s reasonable to think that doctors will identify symptoms that receive greater attention in DSM-5 and actively document these if they think it will help people receive treatment and services.”
+
+Journal reference: JAMA Psychiatry, DOI:10.1001/jamapsychiatry.2013.3893

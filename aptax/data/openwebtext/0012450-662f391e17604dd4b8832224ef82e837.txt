@@ -1,0 +1,41 @@
+UPDATE: Amazon issued a statement Friday night saying, "When we were notified of this by the rights holder, we removed the illegal copies from our systems and from customers' devices, and refunded customers. We are changing our systems so that in the future we will not remove books from customers' devices in these circumstances." However, the company did not touch on whether it would monitor more closely what books get uploaded as part of its self-serve system for publishers to avoid such circumstances altogether.
+
+The press loves a juicy story, and Amazon served one up on a silver platter this morning by automatically deleting certain copies of George Orwell's 1984 and Animal Farm from customers' Kindles. But many facts were left out of this media frenzy, namely that the ebooks were essentially pirated copies sold for 99-cents by a company that had no rights to the material.
+
+Amazon was able to remove the titles because the Kindle is configured to automatically sync up with the user's Bookshelf via the electronic book reader's WhisperNet wireless service. When the company removed the unauthorized books from customers' accounts, they also disappeared from the Kindle. Amazon then delivered a cryptic e-mail about what happened:
+
+"We recently discovered a problem with a Kindle book that you have purchased. We have processed a refund to the payment method used to acquire this book. The next time the wireless is activated on your device, the problematic item will be removed. If you are not in a wireless coverage area, please connect your device to a computer using your USB cable and delete the file from the documents folder."
+
+Naturally, the media went wild.
+
+Amazon deleting books remotely? And the book in question being 1984, the dystopian classic where deep surveillance and censorship is the norm? It could only get more ironic if it was Ray Bradbury's Farenheit 451.
+
+David Pogue at The New York Times hopped on the story early, claiming that "the publisher changed its mind about offering an electronic edition," and stated that Amazon "electronically deleted all books by this author." Pogue asserted that "Amazon...caved" on the matter.
+
+The normally-reliable Harry McCracken at Technologizer wrote, "The books' publisher decided that it wasn't so hot on the idea of electronic rights after all."
+
+TechCrunch went so far as to compare Amazon's action to burning books, writing that the retailer deleted "perfectly legal versions" of 1984 and Animal Farm. "Big Brother is in your Kindle. Watching," TechCrunch's MG Siegler wrote.
+
+According to the NYT's Pogue, "it's like Barnes & Noble sneaking into our homes in the middle of the night, taking some books that we've been reading off our nightstands, and leaving us a check on the coffee table."
+
+Oh, give me a break. Whatever happened to a little fact checking? I guess we don't bother with that when a juicy story can be used to drum up comments and pageviews.
+
+I hate to be a party pooper ("Kindles" is now a top trend on Twitter with comments on this nearly every second), but let's get some facts straight before we compare Amazon to Big Brother:
+
+The two books in question were published for the Kindle by a company called Mobile Reference, which offers public domain books for around $1. Mobile Reference did not have the right to sell Orwell's novels because 1984 and Animal Farm are still under copyright protection in the United States. They were not legitimate or "perfectly legal" copies of the books, but rather illicit copies that should not have been sold in the first place.
+
+Contrary to what the New York Times reported, the publisher did not change its mind, nor did Amazon cave to pressure. Rather, Amazon was notified that copyrighted material was being sold on the Amazon store without permission and it removed said material.
+
+In addition, the NYT's claim that Amazon deleted all works by this author is incorrect. In fact, there are still multiple copies of 1984 still for sale on the Kindle -- just not for 99-cents from a company that had no rights to do so. Other ebooks published by Mobile Reference that do fall under public domain are also still for sale.
+
+This is not the first time such an event has happened. Amazon has had to perform widespread recalls from the Kindle at least two other times in the past, and the company sent out the exact same notification. Ayn Rand's books were put up on the Kindle Store without consent from the Ayn Rand Institute and had to be pulled down, while unauthorized copies of Stephenie Meyer's popular Twilight series had to be removed as well. Harry Potter and the Half-Blood Prince was reportedly offered for sale for a few hours on Monday, even though electronic versions of the books have not been authorized.
+
+Of course, those titles don't invoke the delicious irony of Amazon lurking inside your Kindle and deleting 1984.
+
+That's not to say that Amazon's actions were completely justifiable. The two ebooks may have been illegal copies, but they were purchased by the customer. In the real world, if you purchase stolen goods, you don't get to keep those goods, but you're also properly informed of the situation. This is where Amazon messed up.
+
+Instead of being honest about what happened -- that it sold unauthorized ebooks and has done so in the past -- Amazon only told customers that there was "a problem." While removing such titles from a customer's Bookshelf and in turn deleting them from the Kindle may be standard policy, a lack of communication about what actually happened has led to a media firestorm that will surely last through the weekend. Amazon also could have offered customers a legitimate replacement copy of 1984 or Animal Farm and footed the difference, because in the end, this was Amazon's mistake.
+
+Perhaps most importantly, this case and the others before it highlight a major problem with Amazon's Kindle Store. The retailer shouldn't have been selling copyrighted material in the first place, and it needs to take a serious look at its acceptance policies to prevent such occurrences in the future. By comparison, Apple has stringent reviews of all applications submitted to its iPhone App Store.
+
+So is Amazon going to come take legitimate books off your nightstand because a publisher changed its mind, or even burn down your library as TechCrunch implies? No. But hopefully it will put policies into place on the Kindle Store so it won't need to recall unauthorized ebooks in the future.

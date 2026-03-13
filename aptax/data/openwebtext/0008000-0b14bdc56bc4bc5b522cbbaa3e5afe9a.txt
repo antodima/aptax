@@ -1,0 +1,19 @@
+Graphics hardware and software firm Imagination Technologies has unveiled its newest graphics processing architecture which - given the company's previous work with Apple - may appear on future iPhones.
+
+The newly announced PowerVR Furian offers improvements over Imagination's current-standing tech, with 35% greater GFLOPS density and 80% greater fillrate density.
+
+This essentially translates to noticeably improved performance in day-to-day casual gaming and user interface experiences, but the Furian's capabilities don't stop there.
+
+In addition to optimizing multiple graphics APIs, like OpenCL 2.0, OpenVX 1.1, and Vulkan, the chip tech also promises 70%-90% gaming density improvement - a boon to more demanding games on mobile devices.
+
+This power is especially handy when aforementioned demanding games use augmented reality or virtual reality - two capabilities Imagination specifically had in mind when making the architecture for Furian.
+
+Will it make it to iPhone 8?
+
+Imagination's technologies have made repeat appearances in Apple's A-series chips, making it likely we'll see a modified PowerVR Furian GPU featured in upcoming iPhones.
+
+In fact, a variant of Furian's predecessor, the PowerVR Rogue, was recently used in the Apple A10 chipset that powers the iPhone 7 and iPhone 7 Plus .
+
+While it would seem logical to conclude that the iPhone maker has eyes for Furian, Apple has also been showing signs of wanting to go make its own chips independently, even going so far as considering buying Imagination Technologies outright last year.
+
+That said, Imagination says the first products utilizing its latest graphics tech will be unveiled "mid-2017," which could come just in time if Furian is expected to debut inside the iPhone 8 later this year.

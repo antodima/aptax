@@ -1,0 +1,177 @@
+Nowadays we have computers and phones equipped with multi-core processors. These computers can actually perform multiple computations in parallel. All the cores or processors share the same memory (RAM) and IO bus. The operating system is able to schedule work on different cores simultaneously. This is called symmetric multi processing (SMP). Programs take advantage of SMP. With the help of the operating system, the programs distribute computation to multiple cores, and bring down the overall execution time by a huge factor. The operating system, and programming language features play a huge role in making SMP available to programmers. The intension of this post is to delve deep and understand how the language features, operating system and hardware architecture enables use of SMP in applications. If one is already well versed in multi-threaded application programming, he/she may skip directly to “Understanding SMP hardware architecture“.
+
+Multi-threaded applications
+
+Each task that a process performs is a series of operations. The processing of these series of operations is called execution of a thread. A process can distribute tasks to multiple threads. It creates threads by calling a function exposed by the operating system. The operating system creates, manages and schedules threads. It does this for all the applications and services running on it. The operating system usually ends up creating a much larger number of threads than the number of cores on the computer. To be able to handle so many threads, each core has to serve multiple threads. The operating system assigns a thread to be executed on a core for some time, and then uses the same core for another thread. This process is called scheduling, and the duration for which a thread is assigned to a processor / core is called a time slice. When the time slice for a thread is over, it is pre-empted (taken off the processor) and put aside for scheduling. Whenever the thread gets another time slice for itself, it resumes from where it had been pre-empted in the last run.
+
+This post will cover the issues related to a single process using multiple threads. Applications use multiple threads mainly to:
+
+decrease effective time needed for huge computations
+
+increase responsiveness to external events such as: user input messages from other systems
+
+
+
+Such applications are called multi-threaded applications.
+
+Programming multi-threaded applications is considered challenging and rightly so. Many language features and operating system facilities try to abstract the details to simplify writing multi-threaded applications. Though it has helped application programmers, it also has a flip side:
+
+Due to improper use of these features and facilities, a large number of applications have turned out to perform worse than expected.
+
+Quite often, lack of true understanding has led to: undefined behaviour (crashes / memory corruption) hung processes (due to deadlocks)
+
+
+
+Sharing memory between threads
+
+The main reason for all the complexity in multi-threaded applications is that, the same data / memory location gets shared between multiple threads. Let us take a very simple task of incrementing a counter. Whenever an event occurs, we need to increment the counter. A simplified series of operations needed for incrementing a counter is as follows:
+
+Read the current value from the counter’s memory location Add 1 to the current value Write the new value to the counter’s memory location
+
+Let us say two events happen, and they are processed by our application in parallel. The process being multi-threaded, schedules the task of incrementing the counters on two different threads. The threads run on different processors simultaneously. Both of the threads execute step 1 above and see the value, say 998. They then add 1 to it and the new value happens to be 999. Then both want to write 999 to the memory location. Regardless of who writes first, in the end it would be 999 in the counter’s memory location. So instead of having 1000, we have 999.
+
+This is called a race, and it can be avoided using synchronisation features provided by the language or the operating system facilities.
+
+Synchronisation
+
+One of the synchronisation features is mutex (mutual exclusion). A thread locks a mutex, and until the thread unlocks it, no other thread can lock it. A mutex is typically used to protect a variable from data races. To avoid race in the counter example, lock a mutex before the read operation, and unlock after the write operation. Thus any one of the two threads gets to lock the mutex first. The other thread remains blocked. Once the counter is updated and written back, the first thread unlocks the mutex. This is when the second thread gets to lock the mutex and is able to proceed. By this time the counter is already updated by the first thread, hence the read by the second thread gets the incremented value. This provides the needed consistent behaviour. Programmers have to follow a discipline of using mutexes whenever they have to use variables that are shared between threads.
+
+Due to the simplicity of the counter example, one may be led into believing that using mutexes around all shared variables will solve all multi-threading related issues. There are two kinds of problems that arise:
+
+The process slows down. The process hangs.
+
+Slow down:
+
+If two threads are contending to get a lock on a mutex, the operating system or language makes sure that only one of them gets it. The other thread blocks. This causes only one thread to effectively proceed. In-spite of having multiple cores / processors on the system, it behaves as if it were single threaded. In fact if the application is single threaded, it could have avoided acquiring locks, and thus could have been faster! After all acquiring lock is some overhead even if there are no contending threads (it is an operation after all). Hence indiscriminately sharing all data between threads and thereby protecting it with mutexes would lead to slow down of the system.
+
+The process hangs:
+
+Let us say there are two variables which are protected using different mutexes. Now suppose there are two threads operating on the variables. The example below illustrates how two seemingly un-related functions get blocked indefinitely.
+
+thread 1 (function trying a swap) lock obj1 lock obj2 ( blocked ) ... swap obj1 obj2 ... ... unlock obj2 unlock obj1 thread 2 (function incrementing objects) lock obj2 lock obj1 ( blocked ) ... obj1 = obj1 + 1 obj2 = obj2 + 1 ... unlock obj1 unlock obj2
+
+This is called a deadlock. This is an over simplification of code causing deadlocks. Usually industrial code is very complex, and huge. It is becomes extremely difficult to find deadlocks until they actually occur!
+
+Different synchronisation mechanisms
+
+There are features like Mutexes, Semaphores and Condition Variables and even more higher level of synchronisation techniques provided by languages and operating systems.
+
+A well written program will strive to improve through put of the program. It would parallelise functions using multiple threads. With locks being used while sharing memory between threads, it becomes important to acquire locks only when needed and unlock immediately after the need is over. Acquiring a lock is costly in a high performance system.
+
+To further increase the performance of the system, a programmer can make use of hardware instructions exposed by languages like C/C++. The programmer avoids locking a mutex. This completely alters the design of the system. The technique is called lockless programming. It is considered very advanced, and is best avoided by application developers. This post attempts to explain the basics of lockless programming. Lockless programming techniques are used by device driver writers, compiler writers. It is also used in ultra low-latency systems and in a few operating system kernel modules. From an application developer’s perspective, the only benefit of lockless programming is that there is no chance of a deadlock!
+
+Understanding SMP hardware architecture
+
+Modern hardware architectures have multiple cores / processors and often 3 levels of caches. The sample image below is a 2 level cache taken from Intel’s website, just to illustrate.
+
+To manipulate a variable in a thread running on say Core 0, it has to fetch the value of the variable from the system memory. The Core 0 actually manipulates the value in a register and stores the new value in the location of the variable. In essence the Core 0 is actually operating on a copy of the variable, not directly on the system memory.
+
+The steps needed for incrementing a counter:
+
+1. load counter from system memory in C2 (C2 is location in L2 Cache) 2. load C1 from C2 (C1 is location in L1 Cache) 3. load R1 from C1 (R1 is a register in the processor) 4. R1 = R1 + 1 5. store R1 to C1 6. store C1 to C2 7. store C2 to location of counter in system memory
+
+The reason for these levels of caches is higher performance. It is much faster to load a value from L1 cache into the register compared to loading from L2 cache. Similarly the access to system memory is very slow compared to the L2 cache. Hence, the processors predict the data they might need, and pre-fetch those into the caches. Sometimes the predictions go wrong, so it has to drop the existing contents in the cache, and get the right ones. This is called a cache miss.
+
+In the example above, R1 could be the register eax of the x86 architecture. This register is 32 bits. So even if the counter happened to be an unsigned char, that is, just one byte (8 bits), R1 would load 32 bits. The remaining unneeded 24 bits next to the counter therefore get loaded in the register. Please bear this in mind, as the implication of this is elaborated later on.
+
+Optimisation by the processor
+
+Consider the following multiple lines which are unrelated, eg:
+
+1. x = x+1 2. y = 100 3. pi = 3.14
+
+It would not matter in which order the lines are executed. The processor exploits this and depending upon the proximity of the variables in the caches, executes the one which are closer first. This is called memory ordering.
+
+Quite often it even predicts conditional statements as well:
+
+1. if(some_bool == true) 2. x = x+1 3. else 4. y = y+1
+
+Whenever it predicts which direction the code is likely to flow, it would initiate executing based on the prediction even before the condition is evaluated. This is called branch prediction. This link provides the details: Intel processor’s branch prediction. There is a heavy cost associated with mis-prediction here, as a lot of work done by the processor needs to be thrown and other branch needs to be executed. This aspect is not being discussed / delved-into in this post.
+
+Optimisations by the compiler
+
+Even the compilers are intelligent enough to optimise the execution. The compilers quite often provide hints to CPU through instructions. Branch predictions can be influenced by developers by using appropriate macros in the code. The developer actually provides hints to the CPU on the likely result of a condition.
+
+The compilers often optimise poorly written code to get faster executions. (The code could be stylistically good, however from the processors perspective it could be poor.) Various levels of optimisations can be turned on while building the code. Sometimes these optimisations can become very aggressive in reordering instructions and cause various kinds of issues.
+
+Deeper understanding of data races
+
+Let us consider the incrementing counter example from the processor’s point of view again. If two threads were running the same code simultaneously on two separate cores we could easily end up in a situation where thread1 is executing step 5 above, while thread 2 is executing step 4. Thread 2 would have taken an older value of counter in the register R1. Thus we end up with a race, similar in nature as “Sharing memory between threads” section above.
+
+Another kind of race
+
+Let us now consider two seemingly unrelated lines of code:
+
+Thread 1: 1. x = result_of_this_function_call() 2. is_x_initialized = true
+
+The line 2 above possibly has been added by the programmer as a variable capturing if the line 1 has already been executed. The processor does not know this, nor does the compiler. The intent is in the programmer’s mind, and has not been explicitly indicated. The compiler does not understand English, and hence does not interpret the variable name to understand the intent.
+
+The memory ordering explained above will most likely reorder the above piece of code. If that happens, the variable is_x_initialized will be set to true even before x has the value from the function. If the two variables were used only in one thread, there would be no issues because of such reordering.
+
+The impact of such optimisation becomes evident when there is another thread which is reading the value of is_x_initialized. Eg:
+
+Thread 2: 1. while(!is_x_initialized) 2. do_something_else_and_wait_for_some_milliseconds() 3. do_something_with_x(x)
+
+Due to the optimisations explained above, the variable is_x_initialized could be set to true in Thread1 even before the value of x is set. Meanwhile Thread2 would come out of the loop, and execute do_something_with_x() with an “uninitialized” x. This is undefined behaviour. We don’t know what could have been the value of x when do_something_with_x is called.
+
+Apart from memory ordering optimisation of Thread1, there is another problem. For Thread2, the compiler can optimise as well! The compiler may optimise the code to look at is_x_initialized once, and decide not to look at it over and over again. This decision for such aggressive optimisation is justified as the loop is not modifying the value of is_x_initialized and we have not told the compiler that it can be modified by the processor or another thread. The aggressive optimisations happen when we turn on optimisations for release builds.
+
+Two outcomes are therefore possible:
+
+If is_x_initialized is true due to memory ordering of Thread1, the wait will never happen. If is_x_initialized is false, due to the compiler’s optimisation, it could never look for it again. Then the thread2 will loop indefinitely!
+
+How to solve this problem is explained later in the post.
+
+Language guarantees, compilers and processors
+
+Lets reflect upon the note above. Consider the lines of code below:
+
+1. unsigned char counter = 0 2. char x = 'A' 3. counter = counter+1
+
+It might just happen that counter and x are adjacent in memory. The memory layout for such a code could be: (each column represents 8 bits)
+
+counter x 0xFF 0xFF
+
+The processor loads the memory location (32 bits) as shown above into its register. The counter will get incremented by operating on the register, and then the whole 32 bits will get written back to the memory location. However, if x was updated by some other thread, it would get overwritten right? Surprise! It does not! This is because the language states that two unrelated variables should behave independent of each other. The language guarantees, and the compilers help keep sanity in a programmers life.
+
+Synchronisation through lockless programming
+
+Locks cost performance. Locks are best avoided, when performance is of prime importance. If some form of synchronisation is needed in these high performance systems, programmers prefer atomic operations. Consider the counter example. The counter can be implemented as an atomic integer. Whenever an increment happens all other threads can see the effect of this increment. The complete set of operations needed for READ, MODIFY, WRITE happen as one unit. This seems ideal. The atomics are implemented by making use of the processor instructions. No lock/unlock call is done. Hence using atomic operations one can be sure that the thread will make progress, and deadlocks cannot happen. The atomics exploit hardware instructions only as long as the atomic object is of the size of a WORD or less, i.e. the object fits in a register. All other atomic objects use locks to get the atomic behaviour.
+
+Also the memory ordering optimisations and compiler optimisations are prevented by using atomics. The atomic operations therefore prevent the problem of “is_x_initialized” being set before the actual initialisation of “x”. Simply make is_x_initialized an atomic variable to solve the above problem. Atomics are much faster than mutexes as they exploit hardware instructions.
+
+Faster than atomics
+
+Most of the modern hardware architecture support the notion of memory barriers. These memory barriers are used by C / C++ compilers to implement what are called the acquire and release semantics. These are not the same as the acquire and release of a mutex or semaphore.
+
+acquire semantics
+
+An acquire operation guarantees that the effect of that operation in a thread is seen by other processors before any subsequent operations in that thread. This means none of the subsequent operations in that thread will be optimised to be executed before the acquire operation.
+
+This is sometimes referred as “load acquire”.
+
+release semantics
+
+A release operation guarantees that the effects of all the operations prior the release operation are seen by other processors before the release operation. This means that memory ordering will not delay the effect of a prior operation beyond the release operation.
+
+This is sometimes referred as “store release”.
+
+acquired_and_release semantics
+
+This is a very strong fence. In this form, none of the operations before the acquire_and_release operation can be delayed beyond the acquire_and_release. Also none of the operations after the acquire_and_release operation can be ordered before this operation.
+
+consume semantics
+
+The consume is a weaker form of acquire, in which some of the subsequent operations can be performed before this operation. The operations which are inconsequential with regards to consume can be optimised to be performed before the consume!
+
+Using hardware instructions, these semantics are implemented by the compiler. They are known as barriers or fences. Atomics are implemented using the barriers. Needless to say, if these are exploited, a programmer can get performance better than using atomic variables.
+
+In a subsequent post, I will attempt to explain using these techniques for producer / consumer queues.
+
+Conclusion
+
+Under usual circumstances of application development, the techniques which exploit hardware instructions are rarely needed. For one or two modules in a huge system which demands very high performance do we ever need to exploit hardware instructions. In most cases of high performance systems, ensure that cache misses and acquiring locks is avoided. This yields satisfactory performance. The purpose of this article was to try to elaborate SMP, multithreading and advanced synchronisation techniques. Writing high performance software is a very huge subject, which is not covered by this post.
+
+I hope this post was as enjoyable, and informative enough to create interest and curiosity in exploring the techniques further.
+
+Advertisements

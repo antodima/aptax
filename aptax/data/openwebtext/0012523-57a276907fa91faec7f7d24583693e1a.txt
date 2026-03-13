@@ -1,0 +1,85 @@
+Lecture Outline Bacterial Growth
+
+1. Cell division (an asexual process):
+
+binary fission: diagram (see Fig. 6.1). Process has two functional pathways: DNA replication and segregation and cell septation. Cells have a way of regulating that septation does not occur until ~ 20 minutes are DNA replication has been completed. Cytokinesis, a term used to describe formation of two eukaryotic daughter cells, is now being used to describe cell division in prokaryotes.
+
+What are divisomes and what is the role of Fts proteins in cell divsion?
+
+What is known about how cells locate center of cell where septation will occur?
+
+generation time or doubling time: time it takes a cell to divide or for the culture to double its numbers. Each bacterial species, under optimal growth conditions, can divide only so fast (have a minimum generation time). The generation time is effected by the growth medium, and the physical/chemical environment of the cell (see below).
+
+Growth is exponential/logarithmic: can attain large numbers in a short interval of time (starting with a single cell, mass 1-2 X 10-12 grams, with a generation time of 30 min, if could keep growth exponential for 43 hrs would result in a mass of cells equal to the weight of the earth, 6 X 1027 grams!)
+
+2. Methods to monitor growth. See sections 6.9-6.11
+
+3. Ways to grow prokaryotes in laboratory:
+
+Batch culture (also known as a closed system)- a finite amount of nutrients is provide and culture is grown under a set of physical/chemical conditions (pH, aeration, etc.). As cells grow their environment changes (nutrients depleted, by-products of metabolism release to environment). Cells are dividing asynchronously. phases of growth- lag, log(exponential), stationary, death (Fig.6.10). How would the phases of growth differ between E . coli and B . megaterium ? During which phase would the generation time of the culture be determined?
+
+Continuous culture- chemostat (Fig. 6.11). How does a chemostat differ from a batch culture, and what does growing in a chemostat allow you to do that is difficult, if not impossible, to do in a batch culture?
+
+4. Classifying organisms by their carbon, energy, and source of protons/electrons allows identification of 4 major nutritional groups using this information. See Table 5.1, 5.2, and 5.3
+
+5. Types of Media.
+
+Minimal or a chemically defined: contains the bare essentials needed for growth (types and amount of chemicals known). A minimal medium for one species may not satisfy the minimal requirements for another species.
+
+complex or undefined: contains substances that bacterium could make for it self, but instead substances are transported in and used (exact composition of medium less certain).
+
+enrichment: contains a substance that enhances the growth of a prokaryote (Example, a medium containing oil which is not a suitable carbon source for most bacteria or serum or blood used to grow S . pyogenes or N . gonorrhoeae ).
+
+. or . ). selective: contains a substance that inhibits the growth of certain bacteria in a mixed culture, but not the bacterium of interest (Example, the addition of 7.5% NaCl to medium inhibits the growth of most bacteria, but not a salt tolerant bacterium like Stap. aureus ).
+
+). differential media: contains a substance that is noticeably changed if a specific bacterial species is present (blood agar medium, get zone of red blood cell lysis, b - hemolysis, if Streph . pyogenes is present.
+
+hemolysis, if . is present. selective and a differential medium (EMB medium). EMB (Eosin-methylene blue agar) used to select for gram-negative enteric bacteria. The methylene blue inhibits gram-positive bacteria (mechanism unclear), eosin is a dye that responds to changes in pH, going from colorless to black under acidic conditions. Medium contains lactose and sucrose, but not glucose, as energy sources. Enteric bacteria like E. coli, Klebsiella, and Enterobacter acidify the medium and the colonies appear black with a greenish sheen. Colonies of lactose nonfermenters, such as Salmonella, Shigella, and Pseudomonas are translucent or pink.
+
+6. Factors that effect growth.
+
+nutritional environment (medium): a prokaryote growing in a complex medium will have a shorter generation time than if it were growing in a minimal medium. Why?
+
+Temperature: Every bacterial species has an upper and a lower temperature over which growth can occur. Optimal temperature for growth is closer to upper temperature limit that bacterium can tolerate (Fig. 6.18). Groups- psychrophiles, psychrotolerant, mesophiles, thermophiles, and extreme thermophiles (Fig. 6.19). What factors account for thermostability?
+
+Oxygen (requirement for/sensitivity to): Groups- obligate aerobes, facultative aerobes (some text refer to this group as the faculative anarobes), microaerophiles, aerotolerant, and obligate anaerobes (Fig 6.27 and table 6.4). How can one explain the requirement for oxygen and sensitivity to toxic forms of oxygen? What are the various forms of toxic oxygen generated and how are they dealt with by organisms? See Fig. 6.29 and 6.30
+
+Water availability- Water may be present in the cells' environment, but not available to them. How is this possible? How do extreme halophiles (high salt loving bacteria), osmophiles (grow in high osmolarity, i.e., high sugar, environments), and xerophiles (live in dry environments) cope with this problem in their environments?
+
+(high salt loving bacteria), (grow in high osmolarity, i.e., high sugar, environments), and (live in dry environments) cope with this problem in their environments? Acidity/alkalinity (pH) of medium:
+
+revised 9/24/09
+
+Binary fission:
+
+Source of Carbon, Energy, and Protons/Electrons Carbon Source Autotrophs CO2 sole or principal biosynthetic carbon source. Heterotrophs Reduced, preformed, organic molecules. Energy Source Phototrophs Light Chemotrophs Oxidation of organic or inorganic compounds Proton and/or Electron source Lithotrophs Reduced inorganic molecules Organotrophs Organic molecules
+
+Major Nutritional Groups of Microorganisms Major Nutritional Type Source of Energy, Protons/Electrons and Carbon Representative Organisms Photolithotrophic autotrophy light energy Algae, cyanobacteria, and inorganic H+/e- donor purple and green bacteria CO 2 carbon source Photoorganotrophic heterotrophy light energy source Purple and green and non sulfur bacteria Organic H+/e- organic carbon source (CO 2 may also be used) Chemolithotrophic autotrophy Chemical energy (inorganic) Sulfur-oxidizing, hydrogen, Inorganic H+/e- donor nitrifying, iron bacteria, etc. CO 2 carbon source Chemoorganotrophic heterotrophs Chemical energy (organic) Protozoa, fungi, and the Organic H+/e- donor non photosynthetic bacteria Organic carbon source
+
+Methods to Determine Bacterial Growth:
+
+A. Determination of cell number:
+
+1. Total cell count methods: a. Direct microscopic count- See fig. 6.14 Advantages- quick and easy disadvantages- can not distinguish between live and dead cells, and can not detect less than 106 bacteria/ml. b. Coulter count (electronic count): Advantages- very quick and easy Disadvantages- same as above plus can end up counting dust and debris. Apparatus very expensive. 2. Viable cell count method: See fig. 6.15 and 6.16 Rationale, a single cell will give rise to a colony of cells that is visible to eye. By determining the number of colonies on a plate and the volume of liquid they were in (amount plated), can determine number of cells/ml. However, when have more than 300 colonies on plate they become to numerous to count. This is addressed by making a series of dilutions (will be held for 1:10 and 1:100 dilutions. For example 0.1ml in 0.9ml of a sterile diluent is a 1:10 dilution or a 10-1 dilution). The amount plated can be 1ml or 0.1ml. To determine the number of bacteria in a sample, count the number of colonies (want between 30-300), multiply times one over the total dilution, times one over the amount plated: equation to use is: # of bacteria/ml = number of colonies counted X 1/dilution X 1/sample plated advantages- can count as few as 1 bacterium/ml, and only count live cells. disadvantages- requires time for growth, may need to make dilutions of preparation and make dilution calculations (examples). Also,cells that clump or remain in groups that do not seperate, i.e., chains, will give a number that underestimates the number of viable cells present.
+
+B. Determination of cell mass-
+
+1. dry weight determination: advantages- only way to determine growth of filamentous bacteria. disadvantages- cumbersome and not very accurate. If cell numbers important must relate weight to cell numbers if possible. 2. Turbidity (measured by photometer or a spectrophotometer): What is the basis of this method to monitor cell growth? See fig. 6.17 advantages- rapid and easy disadvantages- does not give you cell numbers or increase in mass (must correlate turbidity, cloudiness, to cell numbers by the direct or viable cell count method), can not distinguish between live and dead cells, and must work within certain turbidity's (more than 107 and less than 108 bacteria/ml).
+
+C. Determination of cell constituents- measure increase in a specific cell material, i.e., DNA, RNA, Protein, or etc.
+
+Dilution Problems:
+
+Equation to use: no. of bacteria/ml in original sample = no. of colonies on plate X 1/total dilution X 1/ volume sample plated.
+
+1. You are interested in determining the number of bacteria in saliva. You spit into a tube, and then do four 1:10 dilution's. From the last dilution tube you plate 1.0 ml onto an appropriate medium, and observe 100 colonies on the agar surface after overnight growth. How many bacteria are present in the original sample?
+
+2. A friend of yours tells you that there should be no bacteria in hamburger meat, and having had micro you say not true. To show him/her you do the following: You take 1 gram of meat and blend it in 100 ml of sterile water. You then do the following dilution: 1:10, 1:100, 1:10, and a 1:100. You then take 0.1ml from the last dilution, and plate onto an appropriate medium, and find that after 18 hours of growth that there are 125 colonies on the plate. How many bacteria were present in the original sample, per ml of blended material and per gram of hamburger meat?
+
+Toxic forms of oxygen:
+
+Toxic Forms of oxygen (in order of decreasing toxicity Name Formula Generated by Destroyed Ozone O 3 irradiation of O 2 by UV or high voltage discharge fluorocarbons hydroxyl radical OH . H 2 O 2 + O 2 - (x-rays, gamma rays) ** Spontaneously, very unstable Superoxide O 2 - enzymatically (flavins and quinones) superoxide dismutase (SOD) Hydrogen peroxide H 2 O 2 enzymatically (flavoproteins) catalase or peroxidase singlet oxygen 1O 2 enzymatically or chemically (smog, light) ** reaction with carotenoid pigments
+
+**
+
+Requirement/sensitive to toxic forms of oxygen and presence of SOD and/or catalase/peroxidase:

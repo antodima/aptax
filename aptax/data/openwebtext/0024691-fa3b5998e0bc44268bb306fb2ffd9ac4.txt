@@ -1,0 +1,17 @@
+Microsoft has made an addition to Office 365 on the security front, with the introduction of a Service Assurance Dashboard to bolster the confidence businesses have in the online productivity suite.
+
+Nestling in the Security and Compliance Centre, the idea is that the dashboard will impart information on the implementation of privacy, security and compliance controls – including full details of third-party auditing of these controls to ensure they're watertight.
+
+Of course, Office 365 is a cloud service and there are traditionally worries about heading cloud-wards with your precious business data, and Microsoft wants to reassure companies they have nothing to worry about.
+
+Security tips
+
+The dashboard will also offer businesses guidelines on how they can use the productivity suite's various security controls to better protect their data
+
+In a blog post, Redmond noted: "Service Assurance helps you to stay secure and compliant with an 'end-to-end' view of controls implemented by you as well as by Microsoft. For controls owned by you, it provides actionable implementation plans for relevant features that help you to implement these controls and manage your risks."
+
+The Service Assurance Dashboard is now available to all Office 365 tenants and also to those trialling Office 365 E3/E5.
+
+Microsoft will certainly want Office 365 to be seen as more secure and transparent, given that the service was struck by a major ransomware attack earlier this year – one that exposed some 57% of subscribers to phishing attempts.
+
+Via: Winbeta

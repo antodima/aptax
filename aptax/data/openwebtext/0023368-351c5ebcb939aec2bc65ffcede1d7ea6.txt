@@ -1,0 +1,97 @@
+In November 2016, NASA officially announced[1a] that they've tested British engineer Roger Shawyer's[2a] controversial spaceship engine known as the EM Drive. They found that it appears to work, despite the fact that it appears to contradict the conservation of momentum, making it as impossible as a perpetual motion machine[3].
+
+NASA hope that further experiments will confirm this machine works, and that this will open up the universe for us (and anything else that's capable of making these devises), allowing us to travel to other stars at over 9% the speed of light[4a].
+
+1. What is an EM Drive? ↑
+
+Newton's first law shows that something needs a force in order to change its velocity.
+
+Newton's second law shows that: Force = Mass × Acceleration . This means that: Force = Change in momentum / Time , where Momentum = Mass × Velocity . , where
+
+Newton's third law shows that for every force, there is an equal and opposite reaction.
+
+The combination of Newton's second and third laws shows that momentum must be conserved. This means that like energy, it can't be created or destroyed, only changed.
+
+Objects like spaceships tend to move faster by pushing something, known as fuel, out of their back, through the exhaust. Newton's third law states that this pushes the object in the opposite direction to the fuel, creating a force known as thrust.
+
+Sponsored Links
+
+Forces on a rocket. Image credit: NASA/Public domain.
+
+The conservation of momentum means that the momentum (Mass × Velocity) of the fuel equals the momentum of the ship, and so the ship goes faster the higher the mass of the fuel and the faster the fuel moves away. This means that the fuel is usually sent out at a very high speed and so must have a high kinetic energy, where:
+
+Kinetic energy = ½ × Mass × Velocity2.
+
+In chemical rockets, the fuel can be something like petrol. This must be taken on the rocket and then burnt to convert potential energy to kinetic energy and hence release a fast moving gas. The mass that's used as fuel is known as the reaction mass.
+
+Many rockets now use electric propulsion in space. This uses electricity, which can be created by solar power or nuclear power, to create the energy that speeds up the fuel. This tends to make the fuel faster, and so you can take less reaction mass on board and active the same speed.
+
+The EM Drive looks like a cone-shaped piece of hollow metal that has no apparent fuel or exhaust pipe. Electric energy is used to make microwaves bounce inside and it moves forwards, in the direction of the cone.
+
+The fact that it appears to move forwards without something coming out of the back means that it appears to break Newton's third law and the law of the conservation of momentum. This means that if it works, then we don't know why.[4b]
+
+A prototype of the EM Drive built at NASA Eagleworks laboratory. Image credit: NASA/Public domain.
+
+2.1 Roger Shawyer and Guido Fetta ↑
+
+The EM Drive was invented by British engineer Roger Shawyer at the turn of the millennium. In 2001, he developed the British company Satellite Propulsion Research Ltd (SPR) in order to work on the drive[5].
+
+Shawyer claims that various organisations, like British aerospace company BAE Systems, were interested in his invention in 2004[6]. In 2008[2b] and 2014[7] he published his ideas at the annual International Astronautical Congress.
+
+Shawyer applied to patent an updated version of the EM Drive in 2016[8], and has created Universal Propulsion Ltd in order to develop the drive. He also confirmed that the Ministry of Defence (MoD) in the UK and the Department of Defense (DoD) in the US are both interested in the drive[9].
+
+A similar idea, known as the Cannae drive, was developed by American engineer Guido Fetta in 2014[10a].
+
+2.2 Juan Yang ↑
+
+A team led by Chinese physicist Juan Yang at Northwestern Polytechnical University (NWPU) in China became interested in the EM Drive in 2008. They built a devise that was tested in 2010, while they got positive results[11], they later retracted them[12].
+
+2.3 Martin Tajmar ↑
+
+Austrian physicist Martin Tajmar and his team at the Dresden University of Technology (TUD) experimented with the EM Drive in 2015[13]. They couldn't confirm whether or not the device worked.
+
+2.4 NASA Eagleworks ↑
+
+After a number of positive results, NASA became interested in the EM Drive in about 2011. NASA Eagleworks - a research group led by Harold “Sonny” White - first discussed positive results in 2014[14a].
+
+In 2015, they got positive results after testing the EM Drive in a vacuum, and this was published online by a peer reviewed journal in November 2016[1b]. It will be published in the journal in 2017.
+
+NASA Eagleworks tested their EM Drive at 40, 60, and 80 watts and found that in a vacuum, it generated a thrust of 1.2 ± 0.1 millinewtons per kilowatt of power.
+
+3. The Future ↑
+
+These results are controversial because there's no theoretical explanation for how the EM Drive works, and so it seems more likely that the results are down to an error. In order to be accepted by the scientific community, the devise would have to be shown to work in numerous independently conducted experiments.
+
+The EM Drive may also be accepted if it is demonstrated on a large scale, moving an object in space with a large force, and hence a large acceleration. Fetta has already announced that he wants to test his drive in space, hoping that it can spend 6 months being tested on the International Space Station starting sometime in 2017[15].
+
+If the EM Drive were found to work, then objects would no longer have to carry fuel into space in order to increase their speed or change direction. This may make space travel cheaper and safer.
+
+For low orbiting satellites like the International Space Station (ISS), fuel is currently needed to counteract the drag of the atmosphere. This can make up to half the mass of the satellite, which could be eliminated with an EM Drive[4c].
+
+NASA Eagleworks state that the EM Drive could be used to make a crewed flight to Mars in 70 days, a crewed flight to Saturn in 9 months, and a crewed flight to the closest star system to our own - Alpha Centauri – in 130 years, reaching speeds over 9% the speed of light[4d].
+
+For an EM Drive to work in space, it would need a source of electricity to heat the microwaves. NASA claim that to cover these distances, the EM Drive would need a nuclear power plant no more powerful that those that are currently available today[4e].
+
+Perhaps most interestingly, if the EM Drive does work, then this may make all number of other things possible. What this entails depends on what causes the EM Drive to move.
+
+Artist's impression of a probe on Saturn's moon Titan. Image credit: NASA/Public domain.
+
+The simplest answer at this point is that the EM Drive doesn't really work, and the results from Shawyer, Fetta, and NASA Eagleworks are all due to some kind of error in the experiment. One error could be that the results are not really due to movement, but ‘noise', these are changes in the results due to outside sources, like heat or magnets.
+
+The best way to test that the results are not due to outside sources is to shield the experiment from the environment. NASA Eagleworks have attempted to do this by performing the experiment in a vacuum[1c]. However, the best way to do this is to take the experiment into space.
+
+If the EM Drive does work, then it may be due to a direct violation of Newton's laws, making it a true reactionless drive. This is so unlikely, however, that it's generally considered impossible and would essentially make it a perpetual motion machine. No one is currently arguing that this is correct, and there are a number of theories as to how the EM Drive could move.
+
+Shawyer argued that the thrust is caused by different radiation pressures at different ends of the drive that are due to relativistic effects[17], and Fetta had a similar idea using electromagnetic forces[10b].
+
+In the 2014 paper by NASA Eagleworks, they suggest that the force may be due to the EM Drive pushing on the quantum vacuum[14b]. However, this is also not currently thought to be possible[4f].
+
+In their 2016 paper[1d], NASA Eagleworks suggest that the EM Drive's movement may be due to the Bohm interpretation of quantum mechanics. This suggests that there's no collapse of the wave function, which is highly problematic, and instead says that extra dynamics explain why all but one possible quantum result is observed.
+
+The main rival to Bohmian mechanics is Everett's many worlds interpretation of quantum mechanics. This also says that there's no collapse of the wave function, however there are no extra dynamics, and so every result occurs. This means there are infinite amounts of parallel worlds.
+
+In 2015, British physicist Michael McCulloch argued that the EM Drive works because of Unruh radiation[18], which is also unproven. McCulloch claims that his theory does away with the need for dark matter in order to explain galaxy rotation[19] and with dark energy in order to explain why the universe's expansion is accelerating[20].
+
+In June 2016, a group of scientists lead by Patrick Grahn from Finnish engineering software firm Comsol suggested that the EM Drive works because there is an exhaust, which is currently unobserved. This is composed of pairs of photons[16].
+
+If the EM Drive does work, then whatever's responsible for this is likely to dramatically change our understanding of the universe.

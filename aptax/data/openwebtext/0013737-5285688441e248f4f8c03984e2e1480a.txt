@@ -1,0 +1,29 @@
+Why Foreign Affairs Policymakers are More Prejudiced than Economic Policymakers
+
+Yesterday I was intermittently watching Janet Yellen’s testimony before the Senate Banking Committee, and I was struck by how often she relied on the guidance of "studies" to explain her worldview on monetary policy. By "studies," Yellen was referring to the policy-relevant academic literature.
+
+This, in and of itself, is not extraordinary — you’d find the same trope when Ben Bernanke testified. But it got me to thinking,. and then to tweeting:
+
+Fun exercise: imagine a SecState or NSC Advisor referring to "studies" — i.e., the literature — as much as Yellen has in Cong. testimony. — Daniel Drezner (@dandrezner) November 14, 2013
+
+My point is that no foreign policy principal, in testifying before Congress, would ever think of saying that the academic literature guides their thinking on a particular policy issue.
+
+In response to that tweet, Chris Blattman — a strange economist in the stranger land of political science — offered a response:
+
+[An] immense amount of what the best political scientists are doing is irrelevant to what State or the NSC does, and what is relevant is often of mediocre quality. I think this is improving but I’m not very sure. (emphasis added)
+
+Now it’s possible that Blattman is correct — but I don’t think so. First, I’m unconvinced that political scientists are doing as much irrelevant scholarship as he suggests. More importantly, I’m extremely dubious of the implicit contention that a greater fraction of political scientists are doing policy irrelevant work than, say, economists.
+
+I’d offer an alternative hypothesis — prejudice. The issue isn’t the poverty of political science research, but rather that foreign affairs policymakers view their relevant academic literature very differently from the way economic policymakers view their relevant academic literature. To repeat myself:
+
+[T[he fundamental difference between economic policy and foreign policy is that the former community accepts the idea that economic methodologies and theory-building enterprises have value, and are worth using as a guide to policymaking. This doesn’t mean economists agree on everything, but it does mean they are all speaking a common language and accept the notion of external validity checks on their arguments. That consensus simply does not exist within the foreign policy community…. Many members of the foreign policy community explicitly reject the notion that social science methodologies and techniques can explain much in world politics. They therefore are predisposed to reject the kind of scholarship that political scientists of all stripes generate. This might be for well-founded reasons, it might be simple innumeracy hostility to the academy, or it might be a combination of the two. I’d love to have a debate about whether that’s a good or bad thing, but my point is that’s the reality we face.
+
+For evidence to back up my assertion, see this forthcoming International Studies Quarterly paper by Michael Desch and Paul Avey entitled "What Do Policymakers Want From Us?" They find that senior foreign affairs policymakers are extremely dubious about the utility of political science scholarship. The interesting finding is why:
+
+[T]he more sophisticated social science methods such as formal models, operations research, theoretical analysis, and quantitative analysis tended to be categorized more often as “not very useful” or “not useful at all,” calling into question the direct influence of these approaches to international relations. Indeed, the only methodology that more than half the respondents characterized as “not very useful” or “not useful at all” was formal models. As Table 4 shows, the higher the rank of the government official, the less likely he or she was to think that formal models were useful for policymaking (p. 11).
+
+Now here’s the thing — as Desch and Avey note, these very same policymakers have a very different attitude about economics: "Respondents were more tolerant of ‘highly theoretical writings [and] complex statistical analysis of social science topics’ in the realm of Economics (p. 9)." Indeed, they note at the end of their paper that an outstanding question remains: "why is it that policymakers are relatively tolerant of complex modeling and statistical work in Economics and survey research but not in other areas of political science and international relations? (p. 35)"
+
+Maybe this is because economists are really just far more sophisticated in their research than political scientists — but I don’t think so. Maybe, as Desch and Avey postulate, it’s because foreign affairs policymakers exaggerate how important these methodologies are to economic policymakers. Or maybe it’s something different: it’s that economic policymakers have imbibed the methodology and jargon of economists in a way that foreign policymakers have not with international relations. They don’t reflexively pre-judge such scholarship in a negative light.
+
+What do you think?

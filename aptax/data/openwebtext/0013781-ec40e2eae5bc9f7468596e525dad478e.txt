@@ -1,0 +1,29 @@
+AMD has reached its biggest marketshare milestone in over a decade, overtaking Intel in both units sold and revenue at Germany’s largest online retailer. The data pulled from the “Newegg” of Germany, Mindfactory.de, shows AMD’s Ryzen and Threadripper CPU sales growing over several months to finally overtake Intel in August.
+
+AMD’s Threadripper CPUs in particular have done exceptionally well, generating a significant amount of revenue for the Sunnyvale California based chipmaker. The Ryzen Threadripper family was introduced just a month ago to great critical acclaim. The Ryzen Threadripper 1950X was AMD’s first processor in over fifteen years to be crowned the world’s fastest, outpacing Intel’s best by over 45%.
+
+Related NVIDIA & AMD Graphics Card Prices Drop by up to 18% Across the Board
+
+A Historic Milestone For The Perennial Underdog
+
+The sales data, which Mindfactory.de makes public, has been collected and regularly catalogued by a redditor.
+
+The data shows AMD with just 27.6% of the desktop CPU unit share in March, when Ryzen first came out. A figure that grew every month to hit nearly 49% in July, and finally surpassing Intel with over 56% of the unit share in August. AMD’s explosive share growth at the e-tailer amounts to a doubling of units sold in just six months.
+
+AMD’s best seller appears to be the Ryzen 5 1600, which should be of little surprise considering the incredible value this six core processor offers at just $220. In close second, third and fourth are AMD’s Ryzen 7 1700, Ryzen 5 1600X and Ryzen 7 1700X.
+
+In sharp contrast to AMD’s diverse lineup of highly popular chips, only a single SKU accounts for nearly half of all of Intel’s desktop unit sales and that’s the i7 7700K. This explains why the 7700K continues to maintain somewhat of a grip on Amazon’s #1 best seller spot, whilst AMD’s Ryzen chips often occupy the majority of the top 5.
+
+Related AMD’s Open Source Vulkan Ray Tracing Engine Debuting In Games This Year – Radeon Rays 2.0
+
+Breaking things up by revenue is more revealing. Unlike the AMD of old, the data clearly demonstrates that this incredible share growth hasn’t come at the cost of sacrificing profitability. As the company still manages to command the lion’s share of the revenue and not just the volume of units shifted.
+
+The revenue data also reveals that whilst Threadripper accounts for only a tiny percentage of the company’s unit share, it actually represents a healthy portion of the revenue share. In the blue corner once again we see a single SKU, the i7 7700K accounting for the majority of the company’s desktop sales revenue.
+
+The CPU War Is Heating Up And AMD Is Coming Out On Top
+
+It goes without saying that different markets around the globe will react differently to the same product. And while this Mindfactory.de data represents a snapshot of sentiment in Germany, Europe’s biggest PC hardware market, it’s also a reflection of a wider reaction that we’ve seen take place all over the globe. It’s a reaction by consumers to a genuinely competitive product in segment of the PC hardware market that lacked meaningful competition for many years.
+
+Ryzen has certainly taken the world by storm, but Intel is not sitting idly by. Unlike Skylake-X, which has largely been viewed as an underwhelming response to AMD’s Threadripper at best, Coffee Lake, which is only a month away, is shaping up to be a more formidable challenger.
+
+The question of whether AMD will be able maintain its remarkable growth in the desktop channel will rely entirely on how consumers react to Coffee Lake. When all is said and done, one must appreciate the fact that for the first time in ages, fierce competition is back in the CPU market and if this sales data is anything to go by hardware enthusiasts are loving every minute of it.

@@ -1,0 +1,55 @@
+Word in China is out about blockchain technology, as the government made clear in an Informatization Strategy published in December of 2016. The strategy states, "The internet, cloud computing, large data, artificial intelligence, machine learning, blockchain … will drive the evolution of everything - digital, network and intelligent services will be everywhere."
+
+It was an official endorsement for the new digital age and a big boost for blockchain technology.
+
+In a country with $5.5 trillion in digital payments last year (50 times the U.S.), blockchain is now a buzzword among the titans of industry. And in the race to participate, Chinese banks, builders, suppliers and retailers are pumping out blockchain solutions.
+
+Survival of the Fittest
+
+Even with millions of dollars, many of these new blockchains may not make it very far. In a recent WeChat post, Antshares executive Erik Zhang stated that 90 percent of the enterprise blockchains we are seeing are doomed to fail. Without an open-source code that anyone can build upon, Zhang argues, private solutions will not see the network effect of a healthy ledger.
+
+The big question for China, however, is whether a country known for its centralized authority, and a penchant for all things made-in-China, will allow an open-source, global standard solution sit on its internet. With Bitcoin, Ethereum and Hyperledger vying for dominance, there are big names within China making moves into the space.
+
+A few of these big names include:
+
+The People's Bank of China (PBOC) - The PBOC is reportedly close to the release of a government-backed digital RMB currency, which would put China at the frontier of digital currency adoption. And there are whispers within China that Shenzhen will be ground zero for the new digital economy. In September, Bloomberg reported that PBOC Vice Governor Fan Yifei wrote: "[T]he conditions are ripe for digital currencies, which can reduce operating costs, increase efficiency and enable a wide range of new applications." This would pave the way for blockchain startups in China to move forward in digital banking, finance, record-keeping, supply chains, IoT, AI and more.
+
+Wanxiang Blockchain Labs - Working with Ethereum, Wanxiang is the largest blockchain development backer in China. After purchasing 500,000 ETH tokens last year, they pledged $30 billion for the development of a smart city in Hangzhou. They offer open-source platforms for anyone to build upon, and launched an accelerator fund for developers, intending to put money into promising projects and integrate digital apps into China's 21st-century cities.
+
+At a recent Fintech Summit in Hangzhou, Dr. Xiao Feng, GM of Wanxiang Blockchain Labs, said, "The first generation of internet technology has brought great changes to society. In China great companies like Alibaba, Tencent and Ant Financial have emerged. The blockchain represents the second generation of the internet," adding that big changes will come with artificial intelligence, encryption, decentralization, finance and the transfer of value.
+
+Wanda Group - Wanda Group is the world's largest private property developer, with its own hotels, theme parks, shopping malls, AMC Theatres, media companies and department stores.
+
+In 2016 Wanda joined Hyperledger, intending to build smart apps for its businesses. Five months later, Wanda announced its blockchain platform Polaris for smart supply chains, pharmaceutical management, finance and invoicing. Now the company is working with China's Ministry of Industry and Information to draft domestic blockchain standards and a Chinese blockchain white paper.
+
+And Wanda insists Polaris will be an open-source blockchain for all. When announcing Polaris at the Shanghai Hyperledger Hackathon in March, Ji Zhoudong, GM of Wanda Feifan Technology Research Center, said, "Wanda attaches great importance to being open source, the core of which is to foster progress through community, openness, collaboration and sharing."
+
+Alibaba - Alibaba took a small step onto the blockchain in March, when it teamed up with PwC to build a pilot platform to prevent counterfeit foods. Food fraud is a big issue in China, as are fraudulent goods across Alibaba's many online platforms. If the pilot is successful, blockchain tracking may be applied to all goods on Alibaba's supply chain.
+
+Alibaba's financial arm, Ant Financial, is also embracing blockchain technology, as CEO Eric Jing recently told CNBC . According to Jing, "[T]hese technologies will be used … to bring more, a high level of security," also saying that in the future, artificial intelligence and blockchain will be "deeply" integrated into Ant Financial's business.
+
+ICBC - The largest and most valuable bank in the world, ICBC is adapting quickly to the fintech revolution. Speaking at a conference in March 2017, ICBC's Huiman Yi said, "We place great importance on the research of advanced technology and the cultivation of technical talents. We have established seven innovation labs in ICBC's head office for artificial intelligence, cloud computing, blockchain, bioidentification, big data and internet finance." And according to Yi, a blockchain-based financial trading system is coming to the public soon.
+
+Other Chinese companies making moves onto the blockchain include:
+
+Foxconn - The producer of Apple's iPhones (for supply chain finance)
+
+JD.com - A leading online retailer (for consumer finance applications)
+
+Juzhen Financials - Banking and finance (to bring distributed tech to financial markets)
+
+Zhongnan Construction - A property conglomerate (for trading agricultural products)
+
+CreditEase - Microfinance and wealth advisors (as a supply chain tool for businesses)
+
+Shanghai Insurance Exchange - An insurance trading platform (for securing trades)
+
+Qtum - To bring decentralized applications to China
+
+Antshares - For decentralized registration and issuing, transactions, settlements and blockchain-based digital payments
+
+Who Will Rule the Kingdom?
+
+Just before Ethereum's Devcon2 in Shanghai, Vitalik Buterin tweeted , "Chinese ethereum community full steam ahead." Since then, blockchain tech has taken Chinese industries by storm.
+
+With so many new blockchain solutions, it's hard to keep an eye on the developments in China. Things are moving fast, and it's great to see such energy devoted to the technology. As word continues to spread, expect to see more Chinese blockchains entering the fray, until we see leaders emerge, and then consolidation. In the meantime, grab a noodle bowl and watch it all unfold and marvel at the swiftness of China's blockchain invasion.

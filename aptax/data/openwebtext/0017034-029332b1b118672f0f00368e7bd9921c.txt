@@ -1,0 +1,35 @@
+Imagine that Banksy, (or J.S.G. Boggs, or some other artist whose name starts with “B”, and who is known for making fake money) creates a perfectly accurate counterfeit dollar bill – that is, he creates a piece of paper that is indistinguishable from actual dollar bills visually, chemically, and in every other relevant physical way. Imagine, further, that our artist looks at his creation and realizes that he has succeeded in creating a perfect forgery. There doesn’t seem to be anything mysterious about such a scenario at first glance – creating a perfect forgery, and knowing one has done so, although extremely difficult (and legally controversial), seems perfectly possible. But is it?
+
+In order for an object to be a perfect forgery, it seems like two criteria must be met. First of all, the object must be a forgery – that is, the object cannot be a genuine instance of the category in question. In this case, our object, which we shall call X, must not be an actual dollar bill:
+
+(1) X is not a dollar bill.
+
+Second, the object must be perfect (as a forgery) – that is, it can’t be distinguished from actual instances of the category in question. We can express this thought as follows:
+
+(2) We cannot know that X is not a dollar bill.
+
+Now, there is nothing that prevents both (1) and (2) from being simultaneously true of some object X (say, our imagined fake dollar bill). But there is an obstacle that seemingly prevents us from knowing that both (1) and (2) are true – that is, from knowing that X is a perfect forgery.
+
+Imagine that we know that (1) is true, and in addition we know that (2) is true. In other words, the following claims hold:
+
+(3) We know that X is not a dollar bill.
+
+(4) We know that we cannot know that X is not a dollar bill.
+
+Knowledge is factive – in other words, if we know a claim is true, then that claim must, in fact, be true. Applying this to the case at hand, this means that claim (4) entails claim (2). But claim (2) and claim (3) are incompatible with each other: (2) says we cannot know that X isn’t a dollar, while (3) says we know it isn’t. Thus, (3) and (4) can’t both be true, since if they were, then a contradiction would also be true (and contradictions can’t be true).
+
+Thus, we have proven that, although perfect forgeries might well be possible, we can never know, of a particular object, that it is a perfect forgery. But an important question remains: If this is right, then what, exactly, is going on in the story with which we began? How is it that our imagined artist doesn’t know that he has created a perfect forgery?
+
+In order to answer this question, it will help to flesh out the story a bit more. So, once again imagine that our artist creates the piece of paper that is visually, chemically, and in every other physical way indistinguishable from a real dollar bill. Call this Stage 1. Now, after admiring his work for a while, imagine that the artist then pulls eight genuine, mint-condition dollar bills out of his wallet, throws them on the table, and then places the forgery he created into the pile, shuffling and mixing until he can no longer identify which of the pieces of paper is the one he created, and which are the ones created by the Mint. Let’s call this Stage 2. How do Stage 1 and Stage 2 differ?
+
+At Stage 1 we do not, strictly speaking, have a case of a perfect forgery. Although the piece of paper the artist created is physically indistinguishable from a dollar bill, the artist can nevertheless know it is not a dollar bill because he knows that he created this particular object. In other words, at Stage 1 he can tell that the forgery is a forgery because he knows the history, and in particular the origin, of the object in question.
+
+Stage 2 is different, however. Now the fake is a perfect forgery, since it still isn’t a dollar, but we can’t know that it isn’t a dollar, since we can no longer distinguish it from the genuine dollars in the pile. So in some sense we know that the fake dollar in the pile is a perfect forgery. But we can’t point to any particular piece of paper and know that it, rather than one of the other eight pieces of paper, is the perfect forgery. In other words, in Stage 2 the following is true:
+
+We know there is an object in the pile that is a perfect forgery.
+
+But the following, initially similar looking claim, is false:
+
+There is an object in the pile that we know is a perfect forgery.
+
+We can sum all this up as follows: We can know that perfect forgeries exist – that is, we can know claims of the form “One of those is a perfect forgery”. But we can’t know, of a particular object, that it is a perfect forgery – that is, we can never know claims of the form “That is a perfect forgery”. And it is this latter sort of claim – that we know, of a particular object, that it is a perfect forgery – that leads to the contradiction.

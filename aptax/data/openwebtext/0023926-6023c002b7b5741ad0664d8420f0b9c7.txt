@@ -1,0 +1,31 @@
+Matt, The Office Mortar
+
+July 16, 2009
+
+Ah-ha! I have another ghost-blog entry, sent in by a tortured enterprise-peon who wishes to remain anonymous. (Personally, I like to imagine the voice of David Attenborough when reading this one.)
+
+Matt, The Office Mortar
+
+Like its military namesake, the mortar found in offices has one primary purpose - the lobbing of grenades.
+
+The Office Mortar often uses domain or technical knowledge, anecdotes or rule-lawyering to inflict heavy casualties. In an open, pluralist office where everyone is encouraged to speak up about problems it is difficult to deal with a mortar directly, but many people see them for what they are, constantly throwing out problematic issues that either need to be defused or blow up in somebody's face.
+
+Often used by insurgents keen to derail a project, a mortar placed in a strategic position such as testing, architecture or business analysis, can keep a team pinned down for weeks or months, and cause horrific loss of morale and productivity.
+
+Although the mortar likes to deliver its lethal payload by lobbing grenades indiscriminately into groups (in office parlance this is called a "meeting") mortars in the 21st century have devised a new means of spreading fear and error - grenades delivered by email!
+
+Now, Let's watch as this mortar unleashes a deadly barrage of nebulous issues, process meta-questions and second guessing.
+
+Organizer: We're here to finalize any remaining details of the user stories in the development cycle that's now underway... Matt the Mortar: Half these need to go. X isn't fully specified, and there's no point doing Y without it. And why isn't Z in scope? Organizer: Sorry Matt, we agreed on the list of stories last week. You were in that meeting, and as a group we all agreed on this list. Matt the Mortar: The whole process is broken! What's the point of saying we're agile if we're unwilling to change. Organizer: We value your opinions Matt, but perhaps this meeting isn't the best forum to... Matt the Mortar: There should be a full review of the process by which the list of stories is defined for the cycle, and I'd like the outcomes of any meetings where scope is discussed to be mailed to the whole team. Organizer: Now Matt, we held a retrospective meeting just last Thursday, and all of these points would've been excellent things to raise on that occasion... Matt the Mortar: Furthermore, let me say that I for one don't have any faith in these so called 'business reps' and whether or not they actually represent the business itself. You need to raise that back to the project sponsors. Organizer: The what? Look, getting back on track, we need to ensure the first user story is... Matt the Mortar: That story is completely broken -- it will never work with the FizzBuzz system they have in production. Organizer: Hold on, integration with the FizzBuzz system is strictly out of scope for this project. Matt the Mortar: No, I've been talking to other business reps and they're very keen to see a lot of improvements to FizzBuzz as soon possible including cloud based...
+
+And we leave our meeting there, irretrievably drowning in a deep vat of confusion. Matt will of-course have forgotten all of these bomb shells when the next retrospective is held. He will instead insist that the retrospective is a waste of time that stops them from implementing many important features that he alone understands.
+
+It is at moments such at this that managers around the world choose to bring in a highly successful counter measure: The Office Sharp-Shooter. But more on that topic next week.
+
+;-)
+
+My book "Choose Your First Product" is available now.
+
+It gives you 4 easy steps to find and validate a humble product idea.
+
+Learn more.

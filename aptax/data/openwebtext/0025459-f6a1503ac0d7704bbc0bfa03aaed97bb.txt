@@ -1,0 +1,23 @@
+It sometimes seems as if AA batteries breed when left alone in dark drawers around the house. As children rip them out of toys as they run out of juice the dead ones without charge get mixed up with the new ones. And somehow a working battery tester or multi-meter is never to hand to test them (and may even have had its batteries purloined for use in something else).
+
+One rumoured and simple test to determine a flat battery from a good one is the dead battery bounce – drop them on the floor, and the flat ones bounce. This has been met with a certain degree of scepticism, with many claiming the technique has no scientific basis at all. However, the matter has now been settled with the results of a peer-reviewed study from researchers at Princeton University published in the Journal of Materials Chemistry.
+
+The dead battery bounce
+
+What the study shows is that the more the battery discharges, the greater its bounce – as measured by dropping batteries down plexiglass tubes and recording the height of the bounce. This correlation levels off when half the power has been used. As well as putting doubts over the usefulness of the technique to rest, the authors have also figured out just why the batteries’ properties and tendency to bounce changes as its power is depleted.
+
+Dissecting Batteries
+
+Most disposable batteries consist of two chambers. One is the positively charged cathode, which contains manganese dioxide. The other is the negatively charged anode, which contains zinc in the form of a gel, and some potassium hydroxide – the alkali that gives standard, non-rechargeable alkaline batteries their name.
+
+Inside an alkaline battery. Tympanus
+
+When the two ends of a battery are connected, the zinc reacts with the hydroxide in the anode which frees electrons to flow to the manganese dioxide at the cathode, generating electricity. During this process the various chemicals react to form zinc oxide and another form of manganese oxide. When all the zinc has reacted, there is no more to create a flow of electrons, and so the battery goes flat.
+
+The Princeton University team then dissected batteries with various degrees of discharge and examined their contents under a scanning electron microscope. They discovered that in the process of discharging, there also a physical as well as chemical change in the nature of the battery.
+
+The zinc oxide forms around the zinc particles embedded in the gel, slowly turning the gel to a ceramic. While the material starts as tightly packed particles, the oxidisation process forms tiny bridges between them, producing a material a bit like a network of linked springs, which gives it bounce. Anyone who has ever dropped a jelly on the floor will know that gels don’t bounce – but the ceramic mold it’s formed in might.
+
+However, “maximum bounce” is reached when the battery is down to about half its charge, at which point the amount of bounce levels off despite the fact that more zinc oxide is still forming. So the bounce technique can reveal that a battery is not fresh, but it is not an indicator that it’s entirely flat. Still, it’s an easy and instant way of checking the profusion of batteries filling our drawers – no multimeter required.
+
+This article was originally published on The Conversation. Read the original article.

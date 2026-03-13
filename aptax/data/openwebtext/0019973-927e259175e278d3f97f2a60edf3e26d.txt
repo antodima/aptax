@@ -1,0 +1,651 @@
+Paintings of the great masters are among the most beautiful human artifacts ever produced. They are treasured and admired, carefully preserved, sold for hundreds of millions of dollars, and, perhaps not coincidentally, are the prime target of art thieves. Their composition, colors, details, and themes can fascinate us for hours. But what about their outer shape—the ratio of a painting’s height to its width?
+
+In 1876, the German scientist Gustav Theodor Fechner studied human responses to rectangular shapes, concluding that rectangles with an aspect ratio equal to the golden ratio are most pleasing to the human eye. To validate his experimental observations, Fechner also analyzed the aspect ratios of more than ten thousand paintings.
+
+We can find out more about Fechner with the following piece of code:
+
+
+
+
+
+By 1876 standards, Fechner did amazing work, and we can redo some of his analysis in today’s world of big data, infographics, numerical models, and the rise of digital humanities as a scholarly discipline.
+
+After a review of the golden ratio and Fechner’s findings, we will study the distribution of the height/width ratios of several large painting collections and the overall distribution, as well as the most common aspect ratios for paintings. We will discover that the trend over the last century or so is to become more rationalist.
+
+Prelude: The golden ratio, a beautiful construction in mathematics
+
+The golden ratio ϕ=(1+ )/2≈1.618033988… is a special number in mathematics. Its base 2 or base 10 digit sequences are more or less random digit sequences:
+
+Its continued fraction representation is as simple and beautiful as a mathematical expression can get:
+
+Or, written more explicitly:
+
+Another similar form is the following iterated square root:
+
+Although just a simple square root, mathematically the golden ratio is a special number. For instance, it is the maximally badly approximable irrational number:
+
+Here is a graphic showing the sequence q *|q ϕ-round(q ϕ)|. The value of the sequence terms is always larger than 1/5^½:
+
+Furthermore, we can show the approximation to the golden ratio that one obtains by truncating the continued fraction expansion:
+
+A visualization of the defining equation 1+1/ϕ=ϕ is the ratio of the length of the following line segments:
+
+Here are a wide and a tall rectangle with aspect ratio, golden ratio, and 1/(golden ratio):
+
+Not surprisingly, this mathematically beautiful number has been used to generate aesthetically beautiful visual forms. This has a long history. Mathematically described already by Euclid, da Vinci made famous drawings that are based on the golden ratio.
+
+The Wolfram Demonstrations Project has more than 90 interactive Manipulates that make use of the golden ratio. See especially Mona Lisa and the Golden Rectangle and Golden Spiral.
+
+The golden ratio is also prevalent in nature. The angle version of the golden ratio is the so-called golden angle, which splits the circumference of a circle into two parts whose lengths have a ratio equal to the golden ratio:
+
+The golden angle in turn appears, for instance, in phyllotaxis models:
+
+For a long list of occurrences of the golden ratio in nature and in manmade products, see M. Akhtaruzzaman and A. Shafie.
+
+However, the universality of the golden ratio in art is often overstated. For some common myths, see Markowsky’s paper.
+
+Later, we will also encounter the square root of the golden ratio. If we allow for complex numbers, then another, quite simple continued fraction yields the square root of the golden ratio as a natural ingredient of its real and imaginary parts:
+
+The name golden ratio seems to go back to Martin Ohm, the younger brother of the well-known physicist Georg Ohm, who used the term for the first time in a book in 1835.
+
+Fechner’s 1876 work on rectangle preferences and painting aspect ratios
+
+In volume 1 of the oft-quoted work Vorschule der Aesthetik (1876), Gustav Theodor Fechner—physicist, experimental psychologist, and philosopher—discusses the relevance of the golden ratio to human perception.
+
+Today, Fechner is probably best known for the subjective sensation law jointly named after him, the Weber–Fechner law:
+
+In chapter 14.3 (volume 1) of his book, Fechner discusses the aesthetics of the size (aspect ratio) of rectangles. Carrying out experiments with 347 probands, each given 10 rectangles of different aspect ratios, the rectangle that was most often considered pleasing by his experimental audience was the one with an aspect ratio equal to 34/21, which deviates from the golden ratio by less than 0.1%. Here is the today-still-cited but rarely reproduced table of Fechner’s results:
+
+Chapter 33 in volume 2 discusses the sizes of paintings, and Chapter 44 of volume 2 contains a forty-one-page detailed analysis of 10,558 total images from 22 European art galleries. Interestingly, Fechner found that the typical ratio of painting heights and widths clearly deviated from the “expected” golden ratio.
+
+Fechner carried out a detailed analysis of 775 hunting and war paintings, and a coarser analysis on the remaining 9,783 paintings. Here are the results for hunting and war paintings (Genre), landscapes (Landschaft), and still life (Stillleben) paintings. In the table, h indicates the painting’s height and b the width. And V.-M. is the ratio h/b or b/h:
+
+Here in the twenty-first century, we can repeat this analysis of the aspect ratios of paintings.
+
+For detailed discussions and modified versions of Fechner’s experiments with humans, see the works of McManus (here and here), McManus et al., Konecni, Bachmann, Stieger and Swami, Friedenberg, Ohta, Russel, Green, Davis and Jahnke, Phillips et al., and Höge. Jensen recently analyzed paintings from the CGFA database, but the discretized heights and width values used (from analyzing the pixel counts of the images) did not allow resolution of the fine-scale structure of the aspect ratios, especially the occurrence of multiple, well-resolvable maxima. (See below for the analysis of a test set of images.)
+
+While Fechner did a detailed analysis of quantitative invariants (e.g. mean, median) of the aspect ratios of paintings, he did not study the overall shape of the aspect ratio distribution, and he also did not study the distribution of the local maxima in the distribution of the aspect ratios.
+
+An easy start: analyzing entities from the “Artwork” domain of the Wolfram Knowledgebase
+
+One of the knowledge domains in EntityValue is “ Artwork ”. Here we can retrieve the names, artists, completion dates, heights, and widths of a few thousand paintings. Paintings are conveniently available as an entity class in the “ Artwork ” domain of the Wolfram Knowledgebase:
+
+Here is a typical example of the retrieved data:
+
+Paintings come in a wide variety of height-to-width aspect ratios, ranging from very wide to quite tall. Here is a collage of 36 thumbnails of the images ordered by their aspect ratio. Each thumbnail of a painting is embedded into a gray square with a red border:
+
+
+
+
+
+The majority of the paintings have aspect ratios between 1/4 and 4. Here are some examples of quite wide and quite tall paintings:
+
+We can get an idea about the most common topics depicted in the paintings by making a word cloud of words from the titles of the paintings:
+
+Now that we have downloaded all the thumbnails, let’s play with them. Considering their colors, we could embed the average value of all pixel colors of the image thumbnails in a color triangle:
+
+Before analyzing the aspect ratios h/b in more detail, let’s have a look at the product, which is to say the area of the painting. (Fechner’s aforementioned work devoted a lot of attention to the natural area of paintings too.)
+
+We show all paintings in the aspect ratio area plane. Because paintings occur in greatly different sizes, we use a logarithmic scale for the areas (vertical axis). We also add a tooltip for each point to see the actual painting:
+
+And here is a histogram of the distribution of the height/width aspect ratios.
+
+Starting now, following the Wolfram Language definition of aspect ratio, I will use the definition aspect ratio=height/width rather than the sometimes-used definition aspect ratio=width/height. As we saw above, this convention also follows Fechner’s convention, which also used height/width.
+
+Now let’s analyze the histogram of the aspect ratios in more detail. Qualitatively, we see a trimodal distribution. For wide paintings (width>height) we have an aspect ratio less than 1, for square paintings we have an aspect ratio of about 1, and for tall paintings (height>width) we have an aspect ratio greater than 1. The tall and the wide paintings both have a global peak, and some smaller local peaks are also visible.
+
+The trimodal structure for wide, square, and tall paintings was to be expected. Two natural questions that arise when looking at the above distribution are:
+
+1) what are the positions of the local peaks?
+
+2) what is the approximate overall shape of the distribution (normal, lognormal, …)?
+
+In 1997, Shortess, Clarke, and Shannon analyzed 594 paintings and took a closer look at the point where the maximum of the distribution occurs. In agreement with Fechner’s 1876 work, they found that 1.3 seems to be the local maximum for the distribution of max(h/b,b/h). Again, 1.3 is clearly different from the golden ratio and the authors suggest either the Pythagorean number (4/3) or the so-called plastic constant as the possible exact value for the maximum.
+
+The plastic constant is the positive real solution of x³-x-1=0:
+
+The plastic constant was introduced by Dom Hans van der Laan in 1928 as a special number with respect to human aesthetics for 3D (rather than 2D) figures. If explicitly expressed in radicals, the plastic constant ℘ has a slightly complicated form:
+
+The resolution of the graphs from the 594 analyzed paintings was not enough to discriminate between ℘ and 4/3, and as a result, Shortess, Clarke, and Shannon suggest that the value of the maximum of painting ratios occurs at the “platinum constant,” a constant whose numerical value is approximately 1.3. Their paper also did not resolve any fine-scale structure of the height/width distribution. (Note: this “platinum constant” is unrelated to the so-called “platinum ratio” used in numerical analysis.)
+
+(There is an interesting mathematical relation between the golden ratio and the plastic constant: the golden ratio is the smallest accumulation point of Pisot numbers, and the plastic constant is the smallest Pisot number; but we will not elaborate on this connection here.)
+
+If we use a smaller bin size for the bins of the histogram, at least two maxima for both tall and wide paintings become visible:
+
+If we show the cumulative distribution function, we see that the absolute number of paintings that are square is pretty small. The square paintings correspond to the small vertical step at aspect ratio=1:
+
+Next, let us take all tall paintings and show the inverse of their aspect ratios together with the aspect ratios of the wide paintings. The two global maxima at about 0.8 map reasonably well into each other, and so does the secondary maxima at about 0.75:
+
+Graphing smoothed distributions of the aspect ratios of wide paintings and the inverse of the aspect ratios for tall paintings shows how the maxima map into each other:
+
+A quantile plot shows the similarity of the distributions for wide and tall paintings under inversion of the aspect ratios:
+
+Will it be possible to resolve the maxima numerically and associate explicit numbers with them? Here are the above-mentioned constants and three further constants: the square root of the golden ratio, 5/4, and 6/5:
+
+Among all possible constants, we added the square root of the golden ratio because it appears naturally in the so-called Kepler triangle. Its side lengths have the ratio 1:sqrt(golden ratio):golden ratio:
+
+The Pythagorean theorem is also important for the square root of the golden ratio. The Kepler triangle becomes the defining equation for the golden ratio:
+
+Shortess et al. included 4/3 as the Pythagorean constant because this number is the ratio of the smaller two edges of the smallest Pythagorean triangle with edge length 3, 4, 5 (3²+4²=5²).
+
+And the rational 6/5 was included because, as we will see later, it often occurs as an aspect ratio of paintings in the last 200 years.
+
+The distribution of the painting aspect ratios together with the selected constants shows that the largest peak seems to occur at the sqrt(golden ratio) value and a second, smaller peak at 1.32… 1.33.
+
+Here is a list of potential constants that potentially represent the position of the maxima. We will use this list repeatedly in the following to compare the aspect ratio distributions of various painting collections. Let’s start with some visualizations showing these aspect ratios:
+
+The next graph shows the six constants on the number line. The difference between the plastic constant and 4/3 is the smallest between all pairs of the six selected constants:
+
+
+
+
+
+Here are wide rectangles with aspect ratios of the selected constants:
+
+And for better comparison, the next graphic shows the six rectangles laid over each other:
+
+And here is the above graphic overlaid with the positions of the constants at the horizontal axis:
+
+Various other fractions with small denominators will be encountered in selected painting datasets below, and various alternative rationals could be included based on aesthetically pleasing proportions of other objects, such as 55/45=11/9=1.2̅ (see here, here, here, and here) or 27/20=1.35 or the so-called “meta-golden ratio chi,” the solution of Χ²-Χ/ϕ=1 with value 1.35…
+
+Because the resolution of a histogram is a bit limited, let us carefully count the number of paintings that are a certain aspect ratio plus or minus a small deviation. To do this efficiently, we form a Nearest function:
+
+Again, we clearly see two well-separated maxima, the larger one nearer to the square root of the golden ratio than to the plastic constant or the Pythagorean number:
+
+Interlude I: Features of the probability distribution of aspect ratios
+
+Before looking at more painters and paintings, let’s have a more detailed look at the distribution of the aspect ratios.
+
+The most commonly used means are all larger than the tallest maximum for tall images:
+
+Here are the means for the wide paintings:
+
+What is the ratio of taller to wider paintings? Interestingly, we have nearly exactly as many tall paintings as wide paintings:
+
+The averages for the paintings viewed as a rectangles (meaning the aspect ratios (max(height, width)/min(height,width)) have means that are very similar to the tall paintings:
+
+As above in the plot of the two overlaid histograms, the distribution of tall paintings agrees nearly exactly with the distribution of wide paintings when we invert the aspect ratio. But what is the actual distribution for tall (or all) paintings (question 2) from above? If we ignore the multiple peaks and use a more coarse-grained view, we could try to fit the distribution of the tall paintings with various named probability distributions, e.g. a normal, lognormal, or heavy-tailed distribution.
+
+We restrict ourselves to paintings with aspect ratios less than 4 to avoid artifacts in the fitting process due to outliers:
+
+Using SmoothKernelDistribution allows us to smooth over the multiple maxima and obtain a smooth distribution (shown on the left). A log-log plot of the hazard function (f(a)/(1-F(a))) together with the function 1/a gives the first hint that we expect a heavy-tailed distribution to be the best approximation:
+
+Here are fits with a normal and a lognormal distribution:
+
+And here are some heavy-tailed distributions:
+
+As the height/width ratios have a slow-decaying tail, the normal, lognormal, and extreme value distribution are a poor fit. The range of aspect ratios between about 1.4 and 2 shows this most pronounced:
+
+The four heavy-tailed distributions show a much better overall fit:
+
+If we quantify the fit using a log-likelihood ratio statistic, we see that the truncated heavy-tailed distributions perform the better fits:
+
+The distribution for the aspect ratio has a curious property: we saw above that the distributions of the wide and tall paintings appropriately match after an appropriate mapping. This means their maxima agree, at least approximately. But by mapping the distribution p(x) of tall paintings with 0 p̅,(x) of wide paintings with 1<xp̅(x)=p(1/x)/x². Yet at the same time, for the maxima of p(x) and , of p̅(x) we have the relation ≈1/ . Interestingly, for the parameters found for the stable distribution fit, this property is fulfilled within two percent. Here we quantify this difference in maxima position for the beta prime distribution. (The results for stable distributions are nearly identical.)
+
+The aspect ratio through the ages, for movements and painters
+
+Now, a natural question is: how reproducible is the trimodal distribution across the ages, across painting genres, and across artists?
+
+Let’s look at time dependence by grouping all aspect ratios according to the century in which the paintings were completed. We see that at least since the fourteenth century, tall paintings have frequently had an aspect ratio of about 1.3, wide paintings an aspect ratio of about 0.76, and that square paintings became popular only relatively recently. We also see that for tall paintings the distribution is much flatter in the sixteenth, seventeenth, and eighteenth centuries as compared with the nineteenth century (we will see a similar tendency in other painting datasets later):
+
+The median of the aspect ratios of all paintings decreased over the last 500 years and is slightly higher than 1.3. (here we define “aspect ratio” as the ratio of the length of the longer side to the length of the smaller side). The mean also decreased and seems to stabilize slightly above 1.35:
+
+For comparison, here are the distributions of the paintings’ areas (in square meters) over the centuries:
+
+The median area of paintings has been remarkably stable at a value slightly above 2 square meters over the last 450 years:
+
+What about the aspect ratios across artistic movements? WikiGallery has visually appealing pages about movements. We import the page and get a listing of movements and how many paintings are covered in each movement:
+
+But unfortunately, width and height information is available for only a fraction of the paintings. Importing all individual painting pages and extracting the height and width data from the size of the thumbnail images allows us to make at least some quantitative histograms about the distribution of the aspect ratios for each movement.
+
+The overwhelming majority of movements shows again strong bimodal distributions with aspect ratio peaks around 1.3 and 0.76. (The movements are sorted by the total number of paintings listed on the corresponding Wiki pages.)
+
+Let’s use Wikipedia again to look at the distribution of aspect ratios of some famous painters’ works.
+
+Although the total number of paintings is now much smaller per histogram, again the bimodal (ignoring the square case) distributions are visible. And again we see clear maxima at tall paintings with aspect ratios of about 1.3 and wide paintings with aspect ratios of about 0.76:
+
+We see again relatively strongly peaked distributions. Some painters, for example Cézanne, preferred standard canvas sizes. (For a study of canvas sizes used by Francis Bacon, see here.)
+
+Let’s also have a look at a more modern painter, Thomas Kincade, the “painter of light.” Modern paintings use standardized materials and come in a set of sizes and aspect ratios that result much more from standardization of canvases and paper rather than aesthetics. So this time we do not analyze the textual image descriptions, but rather the images themselves, and extract the pixel widths and heights. Even for thumbnails, this will yield an aspect ratio in the correct percent range:
+
+In addition to our typical maximum around 1.3, we see a very pronounced maximum around 3/2—very probably a standardization artifact:
+
+Analyzing five old German museum catalogs
+
+The above histograms indicate at least two maxima for tall paintings, as well as two maxima for wide paintings, with the larger peak very near to the square root of the golden ratio. As we do not know what exactly was the selection criterion for artwork included in the “ Artwork ” domain of Entity , we should test our conjecture on some independent collections of paintings.
+
+An easily accessible source for widths and heights of paintings are museum catalogs. Various older catalogs, similar to the ones used by Fechner, are available in scanned and OCR forms. Examples are:
+
+It is straightforward to directly import the OCR test versions of the catalogs. While the form of giving the heights and widths varies from catalog to catalog, within a single catalog the employed description formatting is quite uniform. As a result, specifying the string patterns that allow you to extract the heights and widths is pretty straightforward after having looked at some example descriptions of paintings in each catalog:
+
+The catalog from the Kaiser-Friedrich Museum (today the Bode Museum):
+
+The catalog from the Pinakothek München (today the Alte Pinakothek):
+
+The catalog from the Museum der bildenden Künste zu Stuttgart (today the Staatsgalerie Stuttgart):
+
+The catalog from the Gemäldegalerie Dresden (today the Gemäldegalerie Alte Meister Dresden):
+
+The catalog from the Gemäldegalerie zu Cassel (today the Neue Galerie Kassel):
+
+Qualitatively, the results for the aspect ratios are very similar for the five museums:
+
+We join the data of the five catalogs and add grid lines for the above-defined six constants:
+
+Again, we clearly see two global maxima in the aspect ratio distribution. For tall paintings we obtain a relatively flat maximum, without clearly resolved local minima.
+
+(The archive.org website has various even older painting catalogs, e.g. of the Schloss Schleissheim, the catalog of the collection of Berthold Zacharias, the collection of the National Gallery of Bavaria, and more. The aspect ratio distribution of the paintings of these catalogs is very similar to the five we analyze here.)
+
+The Kress collection: four large PDF files
+
+A famous painting collection is the Kress collection. The individual images are distributed across many museums in the US. But fortunately (for our analysis), the details of the paintings that are in the collection are available in four detailed catalogs, available as PDF documents totaling 900 pages of detailed descriptions of the paintings. (Much of the data analyzed in this blog refers nearly exclusively to Western art. For measurable aesthetic considerations of Eastern art, see, for instance, the recent paper by Zheng, Weidong, and Xuchen.)
+
+After importing the PDF files as text and extracting the aspect ratios, we have about 700 data points. (From now on, in the following, we will not give all code to import the data from various sites to analyze the aspect ratios; the times to download all data are sometimes too large to be quickly repeated.)
+
+This time, we also have a local maxima near sqrt(2) as well as the golden ratio.
+
+Current gallery collections: Metropolitan, Art Institute of Chicago, Hermitage, National Gallery, Rijks, and Tate
+
+To confirm the existence of well-defined maxima in the aspect ratio distributions and their locations, let us now look at the distribution of selected famous art museums worldwide
+
+The Metropolitan museum of art has a fantastic online catalog. Searching for paintings of the type “oil on canvas,” we can extract their aspect ratios.
+
+This time, the global maximum seems to be a bit smaller than 1.27:
+
+The Art Institute of Chicago has a handy search that allows you to find paintings by period—for instance, paintings made between 1600 and 1800. Accumulating all the data gives about 1,200 data points, and the global maxima seems very near to the root of the golden ratio:
+
+The State Hermitage Museum has an easy-to-analyze website that has information about more than 3,400 paintings from its collection. Analyzing the aspect ratios shows again two distinct maxima for tall images:
+
+As a fourth collection, we analyze the paintings from the National Gallery. The distribution is visibly different from previous graphics:
+
+The relatively unusual distribution goes together with the following age distribution. We see many more 500-year-old paintings as compared to other collections:
+
+The Rijks Museum in Amsterdam is another extensive collection of old paintings. Here is the aspect ratio distribution of 4,600 paintings from the collection:
+
+As a sixth example of analyzing current collections, we have a look at the paintings of the Tate collection. Many of the 8,000+ paintings from the Tate collection are relatively new. Here is a breakdown of their creation years:
+
+The aspect ratio distribution, when overlaid with our constants from above, shows a good (but not perfect) match:
+
+But with an overlay of the rationals 6/5, 5/4, 9/7, 4/3, and 3/2, we see a good approximation of the local maxima for the tall paintings. (We use a slightly smaller bin size for better resolution in the following graphic.)
+
+Using the better-resolving Nearest -based counts of paintings within a small range shows that the maxima of the wide as well as the tall paintings occur at the rationals 6/5, 5/4, 9/7, 4/3, 3/2, and their inverses. (We use an aspect ratio window of size 0.01.)
+
+There is little dependency of the peak positions on the window size used in Nearest :
+
+Note that we showed grid lines at rational numbers in the above plot. Within 1% of 9/7, we find the square root of the golden ratio and fractions such as 14/11. So deciding which of these numbers “are” the “real” position of the maxima cannot be answered with the precision and amount of data available:
+
+There is one thing unique about the Tate collection, and that one thing is especially relevant for this project. Here are two examples of its data:
+
+Note the very precise measurements of the painting dimensions, up to millimeters. This means this is a dataset whose detailed aspect ratio distribution curve has a lot of credibility with respect to the exact values of the curve maxima.
+
+An aspect ratio exception: the National Portrait Gallery collection
+
+The National Portrait Gallery has tens of thousands of portrait paintings.
+
+The individual web pages are easily imported and dimensions are extracted:
+
+Not unexpectedly, portraits have on average a much more uniform aspect ratio than landscapes, hunting events, war scenes, and other types of paintings. This time, we have a much more unimodal distribution. The following histogram uses about 45k aspect ratios:
+
+Zooming into the region of the maximum shows that a large fraction of portrait paintings have an aspect ratio of about 6/5. A secondary maximum occurs at 5/4 and a third one at 4/3:
+
+While the golden ratio seems to be relevant for the center part of the human face (see e.g. here, here, and here), most portraits show the whole head. With an average height/width ratio of the human face (excluding ears and hair) of 1.48, the observed maximum at 1.2 seems not unexpected. For a more detailed investigation of faces in paintings, see de la Rosa and Suárez.
+
+The Web Gallery of Art: a convenient database ready to use
+
+So far, the datasets analyzed have not allowed us to uniquely resolve the position of the maxima. There are two reasons for this: the datasets do not have enough paintings, and the measurements of the paintings are often not precise enough. So let’s take a larger collection. The Web Gallery of Art, a Hungarian website, offers a downloadable tabular dataset of paintings as a CSV file.
+
+The file uses a semicolon as the separator, so we extract the columns manually rather than using Import :
+
+The following data is available:
+
+And here is how a typical entry looks. The dimensions are in the form height x width:
+
+The majority of listings of artworks are, fortunately, paintings:
+
+Extracting the paintings with dimension data (not all paintings have dimension information), we have 18.6k data points:
+
+Plotting all occurring widths and lengths that are present in the data, we obtain the following graphic:
+
+Averaging over a length scale of one centimeter, we obtain the following histogram of all widths and lengths. One notes the many pronounced peaks and discrete lengths:
+
+A plot of the actual widths and heights of the paintings shows that many paintings are less than 140 cm in height and/or width:
+
+A contour plot of the smoothed version of the 2D density of width-height distributions shows the two “mountain ridges” of wide and tall paintings:
+
+Looking at the explicit numerical values of the common-length values shows multiples of 5 cm and 10 cm, but also many numbers that seem not to arise from potentially rounding measurement values:
+
+The next graphic shows the most common length and width values cumulatively over time:
+
+Plotting the widths and heights sorted by the century shows that many of the very tall spikes come from the nineteenth century. (Note the much smaller vertical scale for paintings from the twentieth century.)
+
+For later comparison, we fit the distribution of the width of the paintings. We smooth with a bandwidth of about 5 cm to remove most of the local spikes:
+
+We show a distribution of the ages of the paintings from this dataset:
+
+We analyze this dataset by plotting all concrete occurring aspect ratios together with their multiplicities:
+
+To better resolve the multiplicities of aspect ratios that are nearly identical, we plot a histogram with a bin width of 0.02:
+
+Let’s approximate each aspect ratio with a rational number such that the error is less than 1%. What will be the distribution of the resulting denominators of the fractions approximating the aspect ratios? The following plot shows the distribution in a log-plot. It is interesting to note the relatively large fraction of paintings with a max(width/height)/min(width/height) ratio and min(width/height)/max(width/height) with denominators of 3, 4, and 7, and the relative absence of denominators 6 and 18:
+
+For comparison, here are the corresponding plots for 20k uniformly (in [0,2]) distributed numbers:
+
+Here are the cumulative distributions of the paintings with selected aspect ratios:
+
+If we normalize the counts to the total number of paintings, we still see the 5/4 aspect ratio increasing over time, but most of the other aspect ratios do not change significantly:
+
+If we do not take the measurement values for face value but assume that they are precise only up to ±1%, we obtain quite a different picture. The following graphic shows the distribution of the paintings of a given aspect ratio interval with a given center value. Around 1500, all common aspect ratios were approximately equally popular. We see that the aspect ratios 5/4, 4/3, and 9/7 became much more common about 1600. And aspect ratios approximately equal to the golden ratio have become less popular since the thirteenth century. (This graphic is not sensitive to the ±1% aspect ratio width; ±0.5% to ±5% will give quite similar results.)
+
+So what about the denominators of the most common aspect ratios? We form all fractions with maximal denominator 16 and map all aspect ratios to the nearest of these fractions. Because of the non-uniform gaps between the selected rationals, we normalize the counts by the distance to the nearest smaller and larger rational aspect ratios. This graphic gives a view of the occurring aspect ratios that is complementary to the histogram plot. The histogram plot uses equal bins; the following plot uses non-uniform bins and adjacent minima and maxima in the histogram bins can cancel each other out. Again, the 5/4 and the 4/5 aspect ratios are global winners:
+
+We again use the Nearest function approach to plot a detailed map of the aspect ratio distributions. The following function windowedMaximaPlot plots the distribution either as a 3D plot or as a contour plot for paintings from a sliding time window:
+
+Here are the 3D plot and the contour plot:
+
+The last two images show a few noteworthy features:
+
+Over the last 400 years, tall pictures often have an aspect ratio of approximately 1.2
+
+The most common aspect ratio of wide pictures changes around 1750, and a relatively wide distribution shows a few pronounced maxima, e.g. at 0.8
+
+Square images become more popular around 1800
+
+Labreuche discusses the process of the standardization of canvases. In France, a first standardization happened in the seventeenth century and a second in the nineteenth century. (For a recent, more mathematical discussion, see Dinh Dang.) Simon discusses the canvas standarization in Britain.
+
+Here are the figure, marine, and landscape sizes of the standardized canvases from nineteenth-century France. The data is in the form {width, {figure height, landscape height, marine height}}:
+
+The aspect ratios (max(height/width, width/height)) for all canvases has the following distribution:
+
+It is not easy to find large datasets of exact measurements of old paintings. On the other hand, various websites have tens of thousands of images of paintings in both JPG and PNG formats. Could one not just use these images for finding the aspect ratio of paintings by using the image height in pixels and the image width in pixels? Above, we saw that the majority of paintings are measured with a precision of about one centimeter. With an average painting height and width of about one meter, the resulting uncertainty is in the order of 2%. Even thumbnail images are about 100 pixels, and many images of paintings are a few hundred pixels wide (and tall). So from the literal pixel dimensions, one would again expect results to be correct in the order of (1. . .2)%. But there is no guarantee that the images were not cropped, the frame is consistently included or not included, or that boundary pixels were added. The Web Gallery of Art has, in addition to the actual measurements of the paintings, images of the paintings. After downloading the images and calculating the aspect sizes of the images, we can compare with the aspect ratios calculated from the actual heights and widths of the paintings. Here is the resulting distribution of the two aspect ratios together with a fit through a CauchyDistribution [1.003,0.019]. The mean of the two pixel dimensions is 1.036 and the standard deviation is 0.38. These numbers show that the error from using images of the paintings to determine the aspect ratios is far too large to properly resolve the observed fine-scale structure of aspect ratios:
+
+In the data dataWGA , we also have information about the painters. Does the mean aspect ratio of the paintings change over the lifetimes of the painters? Here is the distribution of when during the painters’ lives the paintings were made:
+
+Interestingly, statistically we can see a pattern of the mean aspect ratio over the lifetime of a painter. The first paintings statistically have a more extreme aspect ratio. At the end of the first third of the lifetime, the aspect ratio is minimal, and at the end of the second third the aspect ratio is maximal (left graphic). The cumulative average aspect ratio shows a minimum at about 40% the lifespan of the painters (right graphic). Both graphics show max(height/width, width/height) divided by the mean of all aspect ratios. (A general discussion of creativity vs. age can be found here.)
+
+
+
+
+
+If the reader wants to visit some of the paintings in person and wants to perform some more precise width and height measurements, let us calculate one more statistic using the Web Gallery of Art dataset. Let’s also calculate and visualize where the paintings are in the world. We take the (current) city locations of the paintings that have width and height parameters, aggregate them by city, and display the median of max(height/width, width/height) as a function of the city. Not unexpectedly, most larger collections don’t deviate much from the median of 1.333. We use Interpreter to find the cities and derive their locations:
+
+
+
+
+
+Interlude II: The importance of measuring precisely
+
+Now let us look at the detailed width and height values. If we plot the counts of the fractional centimeters, we clearly see that the vast majority of paintings are measured within a precision of less than 1 cm. Only about 10% of all paintings have dimensions specified up to a millimeter (and some of the ones specified up to 5 millimeters are probably also rounded):
+
+Now let us look at the detailed width and height values. As the majority of the paintings were made before the invention of the centimeter as a unit of measurement, the popular painting sizes are probably not a length that is an integer multiple of a centimeter. This means that the measured widths and heights are not the precise widths and heights of the actual paintings. The nearly homogeneous distribution of millimeters of the paintings that were measured up to the millimeter is comforting.
+
+In many of the datasets analyzed, the widths and heights of the paintings are given as integers when measured in centimeters. (A notable exception was the Tate dataset, in which virtually every painting dimension is given to millimeter accuracy.) As most paintings are in the order of 100 cm width or height (give or take a factor of 2), for an accurate determination of the aspect ratio the rounding to integer-centimeter length will matter. How many of the observed maxima at various fractions with small denominators can be traced back to imprecise width and height values?
+
+Let’s model this effect now. The function aspectRatioModelValue models the aspect ratio of a painting. We assume a stable distribution for the width of the paintings and assume the height to be normally distributed with a mean of 1.3xwidth. And we model only tall paintings by restricting the height to be at least as large as the width:
+
+Now we “cut canvases” for tall paintings and look at the distribution of the aspect ratios. We do this twice, each time for 100,000 canvases. The top graphic shows the resulting distribution in the case of millimeter-resolution of the canvas measurements. The bottom graphic assumes that in 65% of all cases we measure up to a centimeter precision, in 25% up to half a centimeter precision, and in the resulting 10% up to millimeter precision. For each of the three computational experiments, we overlay the resulting distribution histograms:
+
+Comparing the upper with the lower graphic shows that the aspect ratio distribution is quite smooth if all measurements are precise to the millimeter. The lower distribution shows that painting dimension measurements up to the centimeter do indeed introduce artifacts into the resulting histograms.
+
+Looking at the pretty smooth histogram for the millimeter-precise model and the above aspect ratio histogram for the Tate collection shows that the more common occurrences of aspect ratios that are equal to simple fractions is a real effect. Yet at the same time, as the above experiment with the weights {0.65, 0.25, 0.10} shows, the mostly centimeter-precise widths and heights do artificially amplify some simple fractions, such as 6/5, 5/4, and 3/2.
+
+An even simpler method to demonstrate the influence of rounding errors in the width/height measurements in the Web Art Gallery dataset is to modify the width and height values. For each integer centimeter measurement, we add between -5 millimeters and 5 millimeters to mimic a more precise measurement. We again use the ratio of the longest side to the smallest side of the painting:
+
+We overlay the original aspect ratio distribution with the one obtained from the modified width and height values. We see that the maxima at some rational ratios do get suppressed, but that the global maxima keeps its position around 5/4, and the second maxima around 4/3 stays, as well as the smaller, first maximum around 6/5. At the same time, we see the peaks at 3/2 and 2 get smoothed out:
+
+We now do the reverse with the Tate dataset: we round each width and height measurement to the nearest centimeter. Again, we plot the original aspect ratio distribution together with the modified one:
+
+While the height of the local peaks changes, the peaks are still present, even quite pronounced.
+
+WikiArt: another large web resource
+
+Let us have a look at yet another large web resource, namely WikiArt. For computational purposes, it is a conveniently structured website. We have a list of more than nine hundred artists, with hyperlinks to pages of the artists’ works. Each individual artwork (painting) in turn has a page that has conveniently structured information. For example, here is the factual information about the Mona Lisa:
+
+We note that the above data contains style and genre. This suggests using the WikiArt dataset to look for a possible dependence of the aspect ratio on genre especially (we already quickly looked at the movements above).
+
+There are about seven thousand paintings with width-height information in the dataset. For brevity, we encoded all data into a grayscale image:
+
+The paintings with dimension information have the following age distribution. We see a dominance of paintings from the eighteenth and nineteenth centuries:
+
+Based on the results obtained earlier, we expect this dataset that is mostly dominated by paintings from the last 150 years to show pronounced peaks in the aspect ratio distribution at rationals. The following distribution with grid lines at 6/5, 5/4, 4/3, and 3/2 confirms this conjecture:
+
+The genre obviously influences whether paintings are predominantly wide, square, or tall. Here are the wide vs. square vs. tall distributions for some of the popular genres:
+
+Now let us have a look at the distribution of the aspect ratio as a function of the genre:
+
+Hijacking the function TimelinePlot , we show the range of the second and third quartiles of the aspect ratios:
+
+
+
+
+
+Tall landscape paintings are much scarcer than wide landscape paintings. But even if we use the definition aspect ratio—longest side/shortest side—we still see a clear dependence of the aspect ratio on the genre.
+
+The genre frequently also influences the actual painting size. Here are the second and third quartiles in aspect ratio and area for the various genres (mouse over the opaque rectangles in the notebook to see the genre):
+
+If we slice up each genre by the style, we get a more fine-grained resolution of the distribution of aspect ratios. We find the top genres and styles, requiring each relevant genre and style to be represented with at least 50 paintings:
+
+The Neoclassical nude paintings stand out with the largest median aspect ratio of about 1.85:
+
+And here is a more detailed graphic showing the median aspect ratios for all the style-genre pairs with at least five paintings. (Mouse over the vertical columns to see the genre and the aspect ratios.)
+
+France national museums’ collections
+
+As we saw above, painting collections with a few thousand paintings allow us to resolve multiple maxima in the distribution in the range 1.24. . .1.33 for the aspect ratios. Now let’s look at a second large dataset.
+
+The Joconde catalog of the French national museums covers more than half a million artifacts. A search for paintings gives about sixty-seven thousand results. Not all of them are paintings that are made for hanging on a wall; the collection also includes paintings on porcelain figures and other mediums. But one finds about thirty-one thousand paintings with explicit dimensions. As the information about the paintings comes from multiple museums, the dimensions can occur in a variety of formats. The extraction of the dimensions is a bit time consuming.
+
+Interestingly, this time yet another maximum occurs at about 1.23.
+
+Mapping the distribution for wide images into the one for tall images by exchanging height and width, we see that the two maxima match up very well. This makes the ratio 5/4 (or 4/5) the most common ratio:
+
+About 11% more tall paintings than wide paintings are in the collection.
+
+Paintings in Italian churches: tall is all
+
+A very large database of paintings of the Catholic churches from Italy can be found here. Searching again for oil paintings gives 130k search results, about 124,000 of which have width and height measurements.
+
+The collection contains many relatively new paintings (sixteenth century ≈4%, seventeenth century ≈23%, eighteenth century ≈36%, nineteenth century ≈24%, twentieth century ≈13%).
+
+Here is the resulting distribution. We show grid lines at 1, 6/5, 5/4, 4/3, 7/5, 3/2, 5/3, and 2. The grid lines at these rational numbers agree remarkably well with the position of the maxima:
+
+The graphic immediately shows that inside churches we have a larger fraction of tall paintings than wide paintings. And the maxima visibly occur all at rational values with small denominators. Part of the pronounced rationality is the fact that only about 8% of the paintings have dimension measurements that are accurate below one centimeter.
+
+The Smithsonian’s collection
+
+The Smithsonian American Art Museum has a search site allowing one to inspect many paintings. About 286,000 paintings have dimension information. Here is the resulting distribution of aspect ratios:
+
+As already noticed, the pronounced peaks at rational aspect ratios correlate with paintings from the last 200 years. A plot of the age distribution of the paintings from this collection confirms this:
+
+A large collection of paintings in the UK
+
+A third large dataset is the Your Paintings website from the UK. It features 200k+ paintings, 56,000 of which have width and height measurements.
+
+In contrast to earlier datasets, many of the paintings are from within the last 150 years. So, will this larger fraction of newer paintings result in a different distribution of aspect ratios?
+
+We again see clearly pronounced maxima. The five most pronounced maxima for tall paintings are at rational numbers with small denominators. We show grid lines at 6/5, 5/4, 9/7, 4/3, and 3/2 and their inverses. For wide paintings, we see the same (meaning inverted) maxima positions as for tall paintings:
+
+Fortunately, 52% of all measurements are precise below a centimeter. This means that the maxima visible are not just artifacts of rounding, and paintings more often have aspect ratios that are approximately rational numbers with small denominators.
+
+And here again is a higher-resolution plot of the number of paintings with a maximal distance of 0.01 from a given aspect ratio:
+
+The current art market: more rational than ever
+
+The last section of paintings from the UK from the last 150 years showed a clear tendency toward aspect ratios that are rational numbers with small denominators. This begs the question: what aspect ratios are “in” today?
+
+There is no museum that has thousands of paintings from recent years (at least not one that I could find). So let’s look at some dealers of recently made paintings (in the last few decades). After some searching, one is led to Saatchi Art. Searching for oil paintings yields 96,000 paintings. So, what’s their aspect ratio? Here is a plot of the PDF of the aspect ratios. The grid lines are at 1, 6/5, 5/4, 4/3, 3/2, 2, and the corresponding inverses. Note that this time we use a logarithmic vertical scale:
+
+Indeed, all trends that were already visible in the Your Paintings dataset are even more pronounced:
+
+An even larger fraction of exactly square paintings
+
+Pronounced maxima at aspect ratios that are rational numbers with small denominators, for wide as well as for tall paintings
+
+A nearly equal amount of wide vs. tall paintings
+
+The maxima at certain aspect ratios is reflected in a distribution of the areas of the paintings: a few tens of pronounced painting sizes are observed:
+
+We can assume that they come from the size of industrially made canvases. To test this assumption, we analyze the canvases sold commercially, e.g. from the art supply store Dick Blick:
+
+Plotting the distribution of the about 1,600 canvases found shows an area distribution that shares key features with the above distribution:
+
+
+
+
+
+Plotting again the aspectRatioCDFPlot used above, the most common aspect ratios are easily visible as the positions of the vertical segments:
+
+While one can’t buy the paintings from museums, one can buy the paintings from Saatchi. So for this dataset we can have a look at a possible relation between the price and the aspect ratio. (For various statistics on painting prices and the relation to qualitative painting properties, see Reneboog and Van Houtte, Higgs and Forster, and Bayer and Page.)
+
+The data shows no obvious dependence of the painting price on the aspect ratio:
+
+At the same time, a weak correlation of the area and the price can be observed, with an average law of the form price~area^2/3. (For a detailed study of the price-area relation for Korean paintings, see Nahm.)
+
+Sold in the past: mostly made recently, and having a long tail
+
+Earlier we looked at the aspect ratios of paintings from various museum collections. In the last section we looked at the aspect ratios of paintings that are waiting to be sold. So, what about the aspect ratios of paintings that have been sold recently? The Artnet website is a fantastic source of information about paintings sold at auctions. The site features about 590,000 paintings with dimension information.
+
+While the paintings auctioned do include medieval paintings, the majority of the paintings listed were done recently. Here is the cumulative distribution of the paintings over the last millennium. Note the log-log nature of the plot. We see a Pareto principle-like distribution, with 90% of all auction-sold paintings made after 1855:
+
+Based on our earlier analysis, we expect a dataset with such a large amount of relatively new paintings to have strong pronounced peaks at small rationals, as well as many square paintings. And this is indeed the case, as the following plot shows. We show grid lines at 5/6, 4/5, 3/4, 2/3, 5/7, and 7/10, and their inverses:
+
+Even on a logarithmic scale the peaks as rationals are still clearly visible:
+
+The relative number of paintings with aspect ratios near to certain simple fractions has been increasing over time. For the aspect ratios from the interval [1.1, 1.4] we plot the absolute value of the difference between the empirical CDF and a smoothed kernel CDF (smoothed with width 0.01). The relative increase in size of the maxima at 6/5, 5/4, and 4/3 is clearly visible:
+
+The majority of paintings in this dataset are oil paintings, and the above histograms are dominated by oil paintings. But it is interesting to compare the aspect ratio distribution of oil paintings, watercolor paintings, and acrylic paintings. With acrylic paintings being made only since the 1970s, the peaks at small rationals are even more pronounced than in the overall distribution. The distribution of the aspect ratios of ink drawings has a distinctly different shape, arising potentially from paper format:
+
+The large number of paintings makes it much more probable to find paintings with extreme aspect ratios. Even aspect ratios less than 1/0 and over 10 occur. Examples of very wide paintings are the the The Hussainbad Imambara Complex, the Makimono scroll of river scenes, or the Sennenstreifen. Examples of very tall paintings are La salive de dieu, Pilaster, and Exotic rain.
+
+If we look at the cumulative fraction of all paintings that are either wide, tall, or square, we see that since 1825 wide paintings have become more popular. And we also see the dramatic rise of square paintings after 1950:
+
+The large number of paintings of this catalog, together with the occurrence of extreme aspect ratios in this dataset, suggest we should redo an overall fit of the distribution for all aspect ratios max(height/width, width/height). Using the (much smaller) data from the “Artwork” entity domain above in interlude 1, we conjectured that the distribution of aspect ratios is well approximated by a stable distribution. Fitting again a stable distribution results in a good overall fit. The blue curve representing the empirical distribution was obtained with a smoothing window width of 0.1:
+
+The website of the famous auction house Sotheby’s features a searchable database of more than 100,000 paintings sold over the last fifteen years. While one does not expect the hammer prices to depend on the aspect ratios, let us check this. Here are the hammer prices for the sold paintings as a function of the aspect ratio:
+
+Similarly, no direct relation exists between the hammer price and the areas of the paintings:
+
+The distribution of the hammer prices is interesting on its own, but discussing it in more detail would lead us astray, and we will continue focusing on aspect ratios:
+
+Going East: all ratios will be different
+
+While we have so far looked at many painting collections, virtually all paintings analyzed come from the Western world. What about the East? It is much harder to find a database of Eastern paintings. The most extensive I was able to locate was the catalog of Chinese paintings at the University of Tokyo.
+
+The web pages are nicely structured and we can easily import them. For example:
+
+Here is a typical data entry that includes the dimensions:
+
+The database contain about 10,500 dimension values. Here is a plot of the aspect ratios:
+
+The distribution is markedly different from Western paintings. The most pronounced maxima are now at 1/3 and 2. For a more detailed study of Chinese paintings, see Zheng, Weidong, and Xuchen. (Another, smaller online collection of Chinese paintings can be found here.)
+
+Aspect ratios of packages, cars, labels, logos, emblems, paper, bank notes, stamps, and movies
+
+If artists prefer certain aspect ratios for their paintings because they are more “beautiful,” then maybe one finds some similar patterns in many objects of the modern world.
+
+Supermarket products
+
+Let’s start with supermarket products. After all, they should appeal to potential customers. The itemMaster site has a listing of tens of thousands of products (registration is required).
+
+Here again is the histogram of the height/width ratios. Many packages of products are square (many more than the number of square paintings we saw). And by far the most common height/width ratios are very near to 3/2:
+
+(See Raghubir and Greenleaf, Salahshoor and Mojarrad, Ordabayeva and Chandon, and Koh for some discussions about optimal package shapes from an aesthetic, not production, point of view.)
+
+Wine labels
+
+After this quick look at the sizes of products, the next natural objects to look at are labels of products. It is difficult to find explicit dimensions of such labels, but images are relatively easy to locate. We found in the above discussion of the Web Gallery of Art that analyzing the images will introduce a certain error. This means we will not be able to make detailed statements about the most common aspect ratios of these labels, but analyzing the images will allow us to get an overall impression of the distribution. We will quickly look at red wine labels and at labels of German beers. The website wine.com has about 5,000 red wine labels:
+
+Interestingly, the distribution of the wine label aspect ratios is not so different from the distribution of the paintings. We have wide, tall, and square labels:
+
+German beer labels
+
+The Catawiki website has about 2,700 labels of German beers. It again takes just a few minutes to get the widths and heights of all the beer labels:
+
+The distribution of the beer label aspect ratios is markedly different from the wine labels. Most beer labels are nearly square:
+
+Food and drink logos
+
+We slightly generalized the last two datasets to food and drink. The website brandsoftheworld.com has about 9k food-and-drink-related logos. Here is their aspect ratio distribution. We clearly see that most logos are either wide or square. Tall logos exist, but there are far fewer than wide logos:
+
+Banknotes
+
+What about the paper we use to pay for the products that we buy, banknotes? As banknotes are available within the Entity framework, we can quickly analyze the aspect ratios of about 800 bank notes currently in use around the world:
+
+Virtually all modern banknotes are wider than they are high, so we see only aspect ratios less than 1. And most banknotes are exactly twice as wide as they are tall:
+
+Car sizes
+
+With enough banknotes, one can buy a nice car. So what are the height/length and height/width distributions for cars? Using about 3,600 car models from 2015, we get the following distribution:
+
+Here are some of the car models with small and large height/length aspect ratios:
+
+The strongly visible bimodalilty arises from the height distribution of cars. While lengths and widths of cars are unimodal, the height shows two clear maxima. The cars with heights above 65 inches are mostly SUVs and crossovers. Also, very small cars of average height but well-below-average length contribute to the height/width peak near 1/3:
+
+Paper sheets
+
+Bank notes are made from paper-like material. So, what are the aspect ratios of commonly used paper sheets? The Wikipedia page on paper sizes has 13 tables of common paper sizes. It is easy to import the tables and to extract the columns of the tables that have the widths and heights (in millimeters):
+
+Here is the resulting distribution of aspect ratios. Not unexpectedly, we see a clear clustering of aspect ratios near 1.41, which is approximately the value of , the ratio on which most ISO-standardized paper is based. And the single most common aspect ratio is 4/3:
+
+Stamps
+
+What are other painting-like (in a general sense) rectangular objects that come in a wide variety? Of course, stamps are a version of a mini-paintings. The Colnect website has data on more than half a million stamps. If we restrict ourselves to French stamps, from 1849 to 2015 we have nearly 6,000 stamps to analyze. Reading in the data just takes a few minutes:
+
+Here is the cumulative distribution of aspect ratios:
+
+Finally, we found a product with the most common aspect ratios at least near to the golden ratio. Here are the most commonly observed aspect ratios:
+
+The five-year moving average of the aspect ratio (max(width, height)/min(width, height)) shows the changing style of French stamps over time. We also show the area of the stamps over time (in cm²). And quite obviously, stamps became larger over the years:
+
+NCAA team logos
+
+Many people like to watch sports, especially team sports. The team logos are often prominently displayed. Let us have a look at two sport domains: NCAA teams and German soccer clubs. The former logos one can find here, and the latter here.
+
+Here is the height/width distribution of the NCAA teams. Interestingly, we see a maximum at around 0.8, similar to some painting distributions:
+
+German soccer club emblems
+
+And this is the height/width distribution of 1,348 German soccer club emblems. We see a very large maxima for square emblems and a local maxima for tall emblems with an aspect ratio of about 1.15:
+
+Movie formats
+
+We will end our penultimate section on aspect ratios of rectangular objects with a quick view on the evolution of movie formats. The website filmportal lists 85,000 German movies made over the last 100 years. About 27,000 of these have aspect ratio and runtime information totaling more than three years of movie runtimes. The following graphic shows the staggered cumulative distribution of aspect ratios over time. It shows that about two thirds of all movies ever released have an aspect ratio of approximately 4/3. And only in the 1960s did the trend of wider screen formats really take off:
+
+We plot the time evolution of the yearly averages of aspect ratios of the movies of major US studios (Warner Bros., Paramount Pictures, Twentieth Century Fox, Universal Pictures, and Metro-Goldwyn-Mayer) made over the last 100 years. Until about 1955, an aspect ratio near 4/3 was dominant, and today the average aspect ratio is about 2.18:
+
+Postlude: So what is the “best” ratio?
+
+To summarize: we analyzed the height-to-width ratios of many painting collections, totaling well over a million paintings and spanning the last millennium in time.
+
+Using a combination of built-in and web data sources, certain qualitative features could be established:
+
+The number of tall and wide paintings seems to be approximately equal in many collections.
+
+Since the nineteenth century, the total number of wide paintings is larger than the total number of tall paintings.
+
+The distribution of wide paintings can be accurately mapped into the distribution of tall paintings, meaning that the aspect ratio ar₁ is approximately as common as the aspect ratio 1/ar₁.
+
+The aspect ratio distributions of many collections shows for both tall and wide paintings at least two clearly visible global maxima: one around 1.3 and one around 1.27 (and the reciprocal values for wide paintings).
+
+Starting in the eighteenth century, aspect ratios that are rational numbers with small denominators become more and more popular; this trend is still ongoing—the timing coincides with the French standardization of canvas sizes.
+
+Nineteenth- and twentieth-century paintings show pronounced maxima in their aspect ratio distributions at the aspect ratios 6/5, 5/4, 9/7, 4/3, and 3/2.
+
+The overall distribution of the aspect ratios of large collections of paintings is well described by a Lévy alpha-stable distribution, meaning a distribution that has heavy tails.
+
+The golden ratio is not an aspect ratio that occurs prominently in paintings (for its occurrence in architecture, see for instance Shekhawat, Huylebrouck and Labarque, Birkett and Jurgenson, and Foutakis).
+
+The distribution of paintings is unique and quite distinct from the distribution of rectangular objects from the modern world (such as labels, stamps, logos, and so on).
+
+The causes of the transition to aspect ratios with small denominators in the seventeenth century remains an open question. Was the transition initiated and fueled by aesthetic principles, or by more mundane industrial production and standardization of materials? We leave this question to art historians.
+
+To more clearly resolve the question of whether the maxima correspond to certain well-known constants (square root of the golden ratio, plastic constant, 4/3, or 5/4), more accurate data for the dimensions of pre-eighteenth-century paintings are needed. Many catalogs give dimensions without discussing the precision of the measurement or if the frame is included in the reported dimensions. The precision of the width and height measurements is often one centimeter. With typical painting dimensions of the order of 100 centimeters, the rounding of full centimeter measurements introduces a certain amount of artifacts into the distribution. On the other hand, using digital images to analyze aspect ratios is also not feasible—the errors due to cropping and perspective are far too large. We intentionally did not join the data from various collections. In addition to the issue of identifying duplicates, one would have to carefully analyze if the measurements are with and without frame, as well as look in even more detail into the reliability of accuracy of the stated dimension measurements. The expertise of an art historian is needed to carry out such an agglomeration properly.
+
+One larger collection that we did not analyze here and that might be helpful in the precise value of the pre-1750 maxima of aspect ratio distributions are the 178,000 older paintings in an online catalog of 645 museums in Germany, Austria, and Switzerland published online by De Gruyter. At the time of writing this blog, I had not succeeded in getting permission to access the data of this catalog. (There are also various smaller databases of paintings, including lost ones, that could be analyzed, but they will probably give results similar to those of the catalogs shown above.)
+
+Interestingly, recent studies show that not just humans but other mammals seem to prefer aspect ratios around 1.2 (see the recent research of Winne et al.).
+
+Many more quantitative investigations can be carried out on the actual images of paintings—for example, analyzing the spectral power distribution of the spatial frequencies that are in the Fourier components of the colors and brightnesses, left-right lighting analysis, structure and composition (here, here, and here), psychological basis of color structures, and automatic classification. Time permitting, we will carry out such analyses in the future. A very nice analysis of many aspects of the 2,229 paintings at MoMA was recently carried out by Roder.
+
+And, of course, more manmade objects could be analyzed to see if the golden ratio was used in their designs, for instance cars. Modern extensions of paintings, such as graffiti, could be aspect-ratio analyzed. And the actual content of paintings could be analyzed to look for the appearance or non-appearance of the golden ratio (here and here). We leave these subjects for the reader to explore.
+
+Download this post as a Computable Document Format (CDF) file.

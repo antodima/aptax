@@ -1,0 +1,109 @@
+32C3 — 32. Chaos Communication Congress
+
+27. bis 30. Dezember 2015, CCH, Hamburg
+
+Das Event
+
+Der Chaos Communication Congress ist die jährliche Fachkonferenz und Hackerparty des Chaos Computer Clubs (CCC). An vier Tagen zwischen Weihnachten und Neujahr kommen tausende Hacker, Technikfreaks, Bastler, Künstler und Utopisten in Hamburg zusammen, um sich auszutauschen, voneinander zu lernen und miteinander zu feiern. Wir beschäftigen uns mit Themen rund um Informationstechnologie, Computersicherheit, d er Make- und Break-Szene, de m kritisch-schöpferischen Umgang mit Technologie und deren Auswirkungen auf unsere Gesellschaft.
+
+Wir freuen uns auf Eure Einreichungen in den Tracks:
+
+Failosophy
+
+Art & Culture
+
+Ethics, Society & Politics
+
+Hardware & Making
+
+Security
+
+Science
+
+Jenseits des Konferenzprogramms bietet der Chaos Communication Congress Raum für Community- Assemblies , Entwickler- und Projektgruppentreffen, Installationen, Lightning Talks sowie zahlreiche Workshops.
+
+Tracks
+
+Failosophy
+
+LOLWTF war gestern. Heute lernen wir aus den eigenen und den Fehlern anderer.
+
+Fehler sind verpönt und es wird nicht viel darüber gesprochen: Vertuschen statt teilen. Viele Programmierer – egal unter welcher Lizenz hier entwickelt wird – sprechen nicht über ihre Fehler. Das müssen wir ändern. Insbesondere die Open-Source-Entwickler, die an Projekten mitwirken, die unser aller Leben beeinträchtigen, werden nach Bekanntwerden einer Sicherheitslücke zuverlässig einem Shitstorm ausgesetzt und der Lächerlichkeit preisgegeben. Das schadet der Community und den individuellen Persönlichkeiten, die hinter dem jeweiligen Projekt stehen.
+
+Fehler in Software sind unvermeidbar. In diesem Track dürfen diejenigen zu Wort kommen, die über ihre eigenen Fehler oder Erfahrungen sprechen möchten, damit andere daraus eine Lehre ziehen können. Bitte sprecht über eure misslungenen Projekte und eure Fehler; dann seid ihr mit Abstand die mutigsten Teilnehme nden der gesamten Veranstaltung.
+
+Art & Culture
+
+In diesen Track passen alle Einreichungen für Vorträge, die sich aus der künstlerischen Perspektive oder mittels künstlerischer Ausdrucksformen mit den gesellschaftlichen Veränderungen und Widersprüchen durch Computer, Internet, Roboter oder Digitalisierung auseinander setzen.
+
+Mit dem Computer kann man Kunst und Schönheit schaffen: Auch Vorträge in Verbindung mit Installationen, Performances, Konzerten, Lesungen etc., die mit zeitgenössischen oder zukünftigen Technologien umgesetzt sind, oder sich mit ihnen befassen, sind hier richtig. Wir versuchen e uch organisatorisch so weit wie möglich zu unterstützen.
+
+Ethics, Society & Politics
+
+Hier bitten wir um Einreichungen, die sich mit den gesellschaftlichen, ethischen und politischen Fragen auseinandersetzen, die sich durch die Technisierung und Digitalisierung aller Lebensbereiche ergeben.
+
+Was wird die Zukunft bringen, welche kommerziellen und politischen Interessen stehen einer lebenswerten Utopie im Wege, wie können wir sie überwinden?
+
+Aktivistische, phantastische, solidarische und kommerzfreie Ideen und Konzepte sind hier gern gesehen.
+
+Hardware & Making
+
+Im Hardware & Making Track dreht sich alles um den kreativen Umgang mit, sowie die Entwicklung von Dingen, welche einen physikalischen Eindruck hinterlassen.
+
+Hier sind Einreichungen vom Reverse-Engineerer über den Mircrocrontroller-Bastler bis zum Raktentechniker, Quantenphysiker und Kernschmelzer willkommen. Aufgeschliffene Smartcards, Platinen und Chips , reverse-engineerte Firmwares aber auch der Cocktails mixende 3D-Drucker und heimlich im Keller betriebene Nuklearreaktor sind hier zu Hause. Der Fokus dieses Tracks liegt auf dem Design von Hardware jedweder Art, dem Erweitern bestehender sowie der Befreiung durch den Hersteller verschlossener proprietärer Systeme, schmutzigen Fingern – und natürlich R a ket en !
+
+Security
+
+In diesem Track wünschen wir uns Einreichungen, die zeigen, wie man Software sicherer oder unsicherer machen kann. Wenn Du bereit bist, den Spaß an Deinen Entdeckungen mit tausenden Security-Enthusiasten zu teilen, ist dies Dein Track. Wenn du neue Lösungen für bisher ungelöste Probleme entwickelt hast, ist dies Dein Track. Wenn du neue Probleme entdeckt hast, von denen wir gar nicht wussten, dass es sie gibt, ist dies Dein Track. Aber denk daran: Wer etwas kaputt macht, muss es auch reparieren!
+
+Science
+
+Nicht nur unsere blinkenden Rechner verdanken wir der Wissenschaft – fast jeder Fortschritt in Gesellschaft und Technik kommt auf kleineren oder größeren Umwegen durch Forschung zustande. Egal ob an Forschungszentren, Universitäten oder in der Garage: Wir interessieren uns für Vorträge, die Entwicklungen von einem wissenschaftlichen Standpunkt erkunden, und evaluieren, was sie bewirken können.
+
+Neben gesellschaftswissenschaftlichen Exkursen wie der Geschichte von Geheimdiensten, der Erforschung alternativer Koexistenzformen und Wirtschaftssysteme, interessieren uns auch drängende technische Probleme wie der steigende Energiebedarf der Menschheit, resistente Krankheitserreger oder der Zugang zu Trinkwasser. Die großen Fragen bleiben natürlich relevant: Sind wir allein im Universum? Wie funktioniert das Leben? Wie erkenne ich eine Endlosschleife?
+
+Submission Guidelines
+
+Für Vorträge
+
+Bitte schicke uns eine sinnvolle und möglichst komplette Beschreibung Deines Vortragvorschlages. Gerade die Beschreibung hat einen großen Einfluss auf die Auswahl und sollte deswegen sehr aussagekräftig sein. Qualität geht natürlich vor Quantität. Marketing- und Sales-Droiden verschwinden bekanntermaßen von dieser Veranstaltung ohne eine Spur zu hinterlassen. Es ist also nicht sinnvoll, Firmen- oder Produktpropaganda überhaupt einzureichen.
+
+Da die Chance groß ist, dass mehrere Leute einen Talk zum gleichen Thema einreichen, zeige uns bitte ganz genau, warum ausgerechnet Dein Talk dabei sein sollte – denke daran, dass die Teams divers besetzt sind und nicht alle Kuratoren jeden Einreicher und deren Hintergrund kennen. Es kann hilfreich sein, bei der Einreichung etwas über Dich selbst, Dein Umfeld oder Deine Motivation zu schreiben. Es ist uns vollkommen egal, ob der Talk schon einmal auf einer anderen Konferenz irgendwo auf dem Planeten stattgefunden hat. Wir bitten nur darum, dass der Talk aktuell ist.
+
+Vorträge sollten entweder 45 Minuten lang sein plus 15 Minuten für Fragen und Antworten , oder 20 Minuten plus 10 Minuten für Fragen und Antworten . Ausnahmen bestätigen die Regel. Bitte teile uns bei der Einreichung mit, wie lang Dein Vortrag dauern soll.
+
+Für Kurzvorträge
+
+Darüber hinaus gibt es noch fünfminütige Kurzvorträge (sogenannte Lightning Talks) für kleine Ideen, Projekte oder Rants, die erst auf der Veranstaltung koordiniert werden. Eine Einreichung via frab ist nicht nötig, die Kurzvorträge werden wieder in einem Wiki organisiert.
+
+Für Projekte, Installationen, Workshops und andere lustige Sachen
+
+Eine formale Einreichung ist nicht nötig. Wir werden wieder ein Wiki haben, in dem wir den Bedarf an Platz und anderen Dingen sammeln werden. Fange einfach schon einmal an, darüber nachzudenken, was du machen, mitbringen oder zeigen willst, bevor dieses Wiki online geht. W ir sind offen für Verrücktes und Überraschendes.
+
+Für Assemblies
+
+Assemblies sind die Orte, an denen sich die verschiedenen thematischen und sozialen Communities zusammenfinden und den Hauptteil des Congresses ausmachen. Sie sind mit den Villages auf unseren Camps zu vergleichen. Die Assemblies werden im öffentlichen Wiki organisiert.
+
+Sprache der Präsentation
+
+Da d er Chaos Communication Congress eine internationale Konferenz ist, werden viele Inhalte auf Englisch präsentiert. Solltest du Dich in Deinem Englisch aber nicht absolut sicher fühlen, halte den Vortrag bitte auf Deutsch. Wir versuchen, so viele Talks wie möglich simultan zu übersetzen. Bitte verwende die Sprache des Talks auch im Titel, um die anderen Teilnehmer nicht zu verwirren.
+
+Veröffentlichung
+
+Die Audio- und Video-Aufnahmen der Vorträge werden online in verschiedenen Formaten veröffentlicht und unter die CC-Lizenz, Namensnennung 4 .0 Deutschland (CC BY 4 .0 DE) gestellt. Für Medien erlaubt diese Lizenz die kommerzielle Nutzung von Ausschnitten im Rahmen ihrer Berichterstattung. Wenn keine Veröffentlichung oder kein Streaming für Deinen Vortrag stattfinden soll, teile uns d ies bitte bei D einer Einreichung mit.
+
+Eintritt , Fahrtkosten & Visum
+
+Der Chaos Communication Congress ist ein nicht-kommerzielles Event und weder die Macher noch die Vortragenden werden bezahlt. Als Vortragende bekommst du allerdings freien Eintritt. Bei Bedarf ist es möglich, Unterstützung bei Fahrtkosten und Unterkunft zu beantragen. Benötigst Du Hilfe bei der Beantragung eines Visums, zum Beispiel eine offizielle Einladung zur Vorlage bei der Deutschen Botschaft, sage dem Content-Team bitte rechtzeitig bescheid. Bitte berücksichtige, dass die Beantragung eines Visums bis zu sechs Wochen dauern kann.
+
+Termine und Deadlines
+
+30 . September 201 5 (23:59 UTC): Einreichungsende
+
+16. November 201 5 : Mitteilung über die Annahme
+
+27. – 30. Dezember 201 5 : Chaos Communication Congress
+
+Nur Online-Einreichungen
+
+Alle Vortrags v orschläge müssen über unser Konferenz-Planungssystem eingegeben werden, das sich unter folgender Adresse befindet: https://frab.cccv.de/cfp/32c3

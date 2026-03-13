@@ -1,0 +1,147 @@
+LWN.net Weekly Edition for March 12, 2015
+
+Version 8.0 of the ownCloud web-service platform was released in February. As was the case with previous releases, a basic installation offers a variety of cloud-like services for managing information: shared file storage, contact and calendar synchronization, online document editing, and so forth. The project also supports an API on top of which a variety of third-party web apps can run. The new release brings with it a renewed effort to make installing and managing these add-on apps easier and more reliable, plus several tools to make running one's own, private ownCloud server simpler. Finally, the company that underwrites ownCloud's development has announced that users who run such private server installations will be able to purchase support plans—something that was previously reserved only for enterprise customers.
+
+The 8.0 release comes about eight months after the last major update, 7.0. The project makes builds available in a variety of formats, from source archives to installer bundles intended for use on shared web hosting plans. Packages for a variety of Linux distributions are also available for download. There are desktop applications available for managing shared folders, and an Android app for device synchronization (the app, interestingly enough, is a for-pay offering in Google's Play Store, but is available for free through F-Droid).
+
+Users interested in testing out ownCloud 8 on a publicly reachable server (as opposed to installing it locally on their own machine) also have an opportunity to do that. The project has a three-hour "test drive" program available through a web hosting provider. The trial offers 1GB of storage space and is fairly painless to set up (although one must still walk through the hosting company's full setup process, including frustrating steps like trying to guess at an available subdomain name).
+
+There are a few changes in the project's release practices worth pointing out, though. First, in the past, there were two separate editions of ownCloud: the Community Edition and the Enterprise Edition—the latter being aimed at businesses and coupled with paid support plans from ownCloud, Inc. As of 8.0, the Community Edition has been renamed "ownCloud server" (although not all of the references on the web site have been updated to reflect this).
+
+There are still functional differences between the offerings: the Enterprise version features integration with services likely to be necessary in corporate IT environments (like Microsoft SharePoint and Oracle databases), and it adds support for using some different file-storage back-ends (including Amazon S3 and Ceph) as primary storage. But, as of the 8.0 release, the extra functionality in the Enterprise edition comes via a separate set of Enterprise apps and different default configuration, not from a different server codebase. And non-Enterprise users can still use Amazon S3 and Ceph for storage—they simply do not come configured as the primary back-end storage layers.
+
+The second change is that, starting with version 8, the project is moving to a time-based release schedule with an accompanying version-numbering scheme. Version 8.1 is scheduled to arrive in three months, followed by two more quarterly point releases (8.2 and 8.3), with 9.0 set to arrive one year from now.
+
+Last, but certainly not least, ownCloud Inc. has announced that it will offer commercial support plans for users running the "server" (i.e., non-Enterprise) version of ownCloud 8. The support plans are on the low end compared to the Enterprise offerings—users get email support only, and only during 8-to-5 business hours (those hours being measured from offices in Europe or on the East or West coasts of the US). But that is still, hopefully, a more reliable tech-support avenue than asking questions on a community mailing list or IRC channel, and it may produce another revenue stream to support development.
+
+So far, the company has managed to not build different features into the community edition and enterprise edition of the server, which is reassuring to see. Prior to version 8, there was an additional API in the enterprise edition; as will be discussed later, this has now been merged into the community version, too. There are also community-built substitutes available for several of the enterprise apps (such as logging or Shibboleth authentication).
+
+To the cloud
+
+All in all, the changes found in the 8.0 release fall into a few general categories. A lot of work has gone into making user-interface (UI) improvements, both on the user-visible side and in the administrative interface. There are also a handful of new and updated features. Finally, the new release integrates some changes to the way third-party apps are designed and deployed—changes that may primarily interest app developers at present, but should make for a better user experience in the long run.
+
+On the UI front, there is a new interface for working with shared files. In the web interface, one can open a pop-up dialog for each stored file and folder to change the sharing settings. There is a download link to provide to everyone who needs access to the file, plus straightforward password-protection and time-expiration checkboxes to limit that access when necessary. Any active sharing enabled for a file is also visible in the file browser thanks to an indicator that appears next to the file name.
+
+There is also a "favorites" feature that, at the moment, is fairly limited in scope: the user can star files in the main file browser, then access these "favorite" files in a separate sidebar. But the project indicates that there is more to come here: "favorites" are just the first metadata field tracked by the application. The plan is to roll out additional metadata filters (like "recently used" and "recently changed") in future updates.
+
+The 8.0 release notes also tout an improved search interface, although my tests found this feature to be a mixed bag. It is, indeed, remarkably fast at showing search results (and the search box is available on every screen, which is key). But it only appears to search the contents of the current folder—not including subfolders—which leaves quite a bit to be desired. That is particularly frustrating because the release notes include a screenshot indicating that ownCloud-wide search ought to be supported.
+
+Interface improvements are available on the administrative side as well, which (in a practical sense) is likely to be just as important as UI improvements on the user side—considering how many early ownCloud users run their own server. In particular, the various administrative tasks have been streamlined into a single page with handy links in the sidebar to the important sections. There are also improved tools for managing large numbers of user accounts and use groups, letting administrators search and sort on multiple fields, apply changes to multiple selected users, edit existing group names, and so on—features that were unsupported in the past.
+
+Finally, app installation has been significantly simplified. The available third-party apps are listed in an app-browser reminiscent of Firefox's current add-on browser. Each available app has a single "install" button, version and update information is clearly listed for each app, and there is a one-click tool for restricting access to each app by user group.
+
+Behind the clouds
+
+Under the hood, the revamped app-management system also marks a functional change. In previous ownCloud releases, the download bundle included an entire suite of add-on apps that were not enabled in the default settings. That made activating them rapid, of course, but it also made for a much larger download. Starting in version 8.0, only the basic file-storage and sync apps come built in; all of the others (including standard apps developed by the project, like Calendar and Contacts), are downloaded when they are installed from the web interface.
+
+Another set of less-visible changes affect file sharing. Starting with version 8.0, file sharing supports federation—that is, a folder can be shared directly between two ownCloud instances running on different hosts, not just between one ownCloud instance and a desktop machine. Users set up a federated share by entering otherusername@remoteOwnCloudServer.example.com in the "Share with a user or group" field. At the moment, that relies on the user already knowing the correct username and address of the other ownCloud server, but it is a step in the right direction, and is more secure than emailing a public link to the folder in question.
+
+The other new file-sharing feature is support for downloading a file directly from its underlying storage (e.g., Dropbox, Amazon's S3, a Gluster server). By bypassing the need to funnel the download through the ownCloud server, this should significantly speed up file access when large groups of people work on the same set of files, or for ownCloud servers that simply have a lot of user accounts.
+
+For third-party app developers, ownCloud 8.0 also includes some changes to app packaging and development. Dependency management is now built into ownCloud server; an app needs to include a list of any dependencies in an XML file, but the ownCloud server will automatically resolve those dependencies (where possible) when a user installs an app. That includes dependencies on underlying system tools (such as a database version or library) and specific PHP extensions, as well as simpler dependency issues like ensuring that the correct version of ownCloud itself is running on the server.
+
+There have also been a number of cleanups to the app API, with an emphasis on providing a more stable and predictable platform for app developers. Evidently, in previous releases, it was far from uncommon for a third-party app to rely directly on ownCloud's internal PHP classes and methods, leading to obvious stability problems across upgrades. The project has updated its developer documentation and tutorials to reflect this; users may only notice the change when they encounter less breakage in third-party apps.
+
+There is also one entirely new API available in ownCloud 8.0: the user provisioning API, which enables external tools to query and change various user account settings like storage quotas, and to create or modify users and groups. It is most useful from an administrative standpoint, but it is interesting to note that the API was originally an Enterprise-Edition-only feature that has now been added to the non-Enterprise edition.
+
+Evaluating the changes in ownCloud 8.0 can be a subjective affair. What one gets out of ownCloud depends on how one intends to use it. As a replacement for proprietary cloud services like Google Drive and Google Calendar, the latest version is easy to use and just as powerful. How one feels about all the additional apps might vary somewhat—I found the Documents collaborative-editor app to be a bit more awkward and less integrated, for instance.
+
+But the project is doing well to focus on the core—whatever other apps anyone uses, everyone needs access to files of some sort. It will also be interesting to see how the support plans for non-Enterprise customers fare as a fundraising endeavor. Other free-software web-application projects would, no doubt, like to find a reliable revenue stream that does not hinge on "open core" shenanigans or charging for commodities like file storage. Perhaps lightweight end-user support, if done right, could be just such an opportunity.
+
+Comments (5 posted)
+
+When Karen Sandler, the executive director of the Software Freedom Conservancy , spoke recently at the Linux Foundation's Collaboration Summit , she spent some time on the Linux Compliance Project, an effort to improve compliance with the Linux kernel's licensing rules. This project, launched with some fanfare in 2012, has been relatively quiet ever since. Karen neglected to mention that this situation was about to change; that had to wait for the announcement on March 5 of the filing of a lawsuit against VMware alleging copyright infringement for its use of kernel code. This suit, regardless of its outcome, should help to bring some clarity to the question of what constitutes a derived work of the kernel.
+
+In her talk, Karen said that the Conservancy gets "passionate requests" for enforcement of the GNU General Public License (GPL) from two distinct groups: "ideological developers" and corporate general counsels. The interest from the developers is clear: they released their code under the GPL for a reason, and they want its terms to be respected. On the other hand, a typical general counsel releases little code under any license. Their interest, instead, is in a demonstration that the GPL has teeth so that they can be taken seriously when they tell management that the company must comply with the license terms of the code it ships.
+
+The VMware suit should bring some comfort to both groups, in that it targets the primary product of a prominent company that has long been seen in some circles as pushing the boundaries of the GPL. But, beyond that, the suit will be of interest to the larger group of people that would like more clarity on just where the "derived work" line is drawn.
+
+The complaint
+
+The complaint has been filed in Hamburg, Germany, in the name of kernel developer Christoph Hellwig; the Conservancy is helping to fund the case and the lawyer involved is Till Jaeger, who also represented Harald Welte in his series of successful compliance cases. It focuses on the "vmkernel" component of VMware's vSphere ESXi 5.5.0 hypervisor product — one of VMware's primary sources of revenue.
+
+VMware openly uses Linux as part of the ESXi product, and it ships the source for (presumably) all of the open-source components it uses; that code can be downloaded from VMware's web site. But ESXi is not a purely open-source product; it also contains a proprietary component called "vmkernel." The bootstrap process starts with Linux, which loads a module called "vmklinux." That module, in turn, loads the vmkernel code that does the actual work of implementing the hypervisor functionality. [Update: in truth, newer versions of ESXi no longer need the initial Linux bootstrap; in current versions, vmkernel boots directly.]
+
+To many, the mere fact that vmkernel was once loaded into the kernel by a module is enough to conclude that it is a derived product of the kernel and, thus, only distributable under the terms of the GPL. That would make an interesting case in its own right, but there is more to it than that. It would seem that vmkernel loads and uses quite a bit of Linux kernel code, sometimes in heavily modified form. The primary purpose for this use appears to gain access to device drivers written by Linux, but supporting those drivers requires bringing in a fair amount of core code as well.
+
+If one downloads the source-release ISO image from the page linked above and untars vmkdrivers-gpl/vmkdrivers-gpl.tgz , one will find these components under vmkdrivers/src_92/vmklinux_92 . There is some interesting stuff there. In vmware/linux_rcu.c, for example, is an "adapted" version of an early read-copy-update implementation from Linux. vmware/linux_signal.c contains signal-handling code, vmware/linux_task.c contains process-management code (including an implementation of schedule() ), and so on. Of particular interest to this case are linux/lib/radix-tree.c (a copy of the kernel's radix tree implementation) and several files in the vmware directory containing a modified copy of the kernel's SCSI subsystem. Both of these subsystems carry Christoph's copyrights and, thus, give him the standing to pursue an infringement case against VMware.
+
+The picture that emerges suggests that vmkernel is not just another binary-only kernel module making use of the exported interface. Instead, VMware's developers appear to have taken a substantial amount of kernel code, adapted it heavily, and built it directly into vmkernel itself. It seems plausible that, in a situation like this, the case that vmkernel is a derived product of the Linux kernel would be relatively easy to make.
+
+Unfortunately, we cannot see the complaint itself, because "court proceedings are not public by default in Germany (unlike in the USA)," according to the FAQ maintained by the Conservancy.
+
+A service to the community
+
+In her talk, Karen stated that litigation is the Conservancy's last resort after every other approach fails to obtain compliance. Certainly there can be no accusations of a rush to litigation here; the first indications of trouble emerged in 2007. The Conservancy raised the issue with VMware a number of times with no luck. Christoph approached VMware in August 2014 with his own request for compliance, starting a series of communications that did not lead to an agreement. There was a meeting in December where, it is said, VMware wanted to propose a settlement but only under strict non-disclosure terms — terms which Christoph refused. So, it seems, going to court is about the only remaining option.
+
+One might wonder about the choice to file in Germany. The FAQ says:
+
+VMware distributes ESXi throughout the world, but Germany is close to Christoph's home and his lawyer was available to do the litigation work there. Finally, historically, Mr. Jaeger's cases in Germany have usually achieved worldwide compliance on the products at issue in those cases.
+
+It is worth adding that Germany's courts seem to be relatively friendly toward this sort of claim, with the result that previous GPL-enforcement cases filed there have tended to go well for the plaintiffs. The ability to pick the battlefield is a powerful advantage in a dispute of this nature.
+
+Filing an enforcement lawsuit is an intimidating prospect for a number of reasons. Karen's talk noted that there is a lot of tension around the topic of GPL enforcement. Some people would rather that it were not done at all, seeing it as an incentive for companies to avoid GPL-licensed code. There are not many developers who want to make a stand in an enforcement effort; the Linux Compliance Project, she said, contains a number of kernel developers, but almost none of them want to stick their necks out in an actual enforcement effort.
+
+But, she said, there is value in such efforts. Companies worldwide spend vast amounts of money to ensure that they are in compliance with free-software licenses. In the absence of enforcement, some will certainly question the value and necessity of that expense — and some will decide not to bother. There are also highly successful projects that have resulted from enforcement efforts; router distributions like OpenWrt are usually featured at the top of that list. GPL enforcement, by making it clear that everybody needs to play by the rules, is, she said, performing a service to the community as a whole.
+
+How that service plays out in this case is going to be interesting to watch, which is good, since we are likely to be watching for some time. Given that ESXi is at the core of VMware's business, VMware seems unlikely to either release the code or withdraw the product willingly. So the case may have to go all the way through trial, and perhaps through appeals as well. But, at the end, perhaps we'll have a clearer idea of what constitutes a derived product of the kernel; that could be seen to be a useful service even if the enforcement effort itself fails.
+
+Comments (128 posted)
+
+Since opening its doors in 2008, GitHub has grown to become the largest active project-hosting service for open-source software. But it has also attracted a fair share of criticism for some of its implementation choices—with one of the leading complaints being that it takes a lax approach to software licensing. That, in turn, leads to a glut of repositories bearing little or no licensing details. The company recently announced a new tool to help combat the license-confusion issue: a site-wide API for querying and reporting license information. Whether that API is up to the task, however, remains to be seen.
+
+None of the above
+
+By way of background information, GitHub does not require users to choose a license when setting up a new project. An existing project can also be forked into a new repository with one click, but nothing subsequently prevents the new repository's owner from changing or removing the upstream license information (if it exists).
+
+From a legal standpoint, of course, the fork inherits its license from upstream automatically (unless the upstream project is public domain or under some other less-common license). But from a practical standpoint, this provenance is difficult to trace. Throw in other GitHub users submitting pull requests for patches that have no license information, and one has a recipe for confusion.
+
+The bigger problem, however, is that the majority of GitHub repositories carry no license information at all, because the users who own them have not chosen to add such information. In 2013, GitHub introduced its first tool designed to combat that issue, launching ChooseALicense.com, a web site that explains the features and differences of popular FOSS licenses.
+
+ChooseALicense.com allows GitHub users to select a license, and the GitHub new-project-configuration page has a license selector, but using it is not obligatory. In fact, the ChooseALicense.com home page includes the following as its last option:
+
+I don’t want to choose a license. You don’t have to.
+
+That "no license" link, incidentally, attempts to explain the downside of selecting no license—most notably, it strongly discourages other developers (both FOSS and proprietary) from using or redistributing the code in any fashion, for fear of getting entangled in a copyright problem. But the page also points out that the GitHub terms of service dictate that other users have the right to view and fork any GitHub repository.
+
+A new interface
+
+One could probably quibble endlessly over the details of ChooseALicense.com and its wording. The upshot, though, is that it did not have a serious impact on the license-confusion problem. A March 9 post on the GitHub blog presented some startling statistics: that less than 20% of GitHub repositories have a license, and that the percentage is declining. The introduction of the license-selection tool in 2013 produced a spike in licensed repositories, followed by a downward trend that continues to the present. The post also included some statistics on license popularity; the three licenses featured most prominently on the license-chooser site (MIT, Apache, and GPLv2) are, unsurprisingly, the most often selected.
+
+This data set, however, is far from complete; as the post explains, the team only logged licenses that were found in a file named LICENSE , and only matched that file's contents against a short set of known licenses. Nevertheless, GitHub did evidently determine that the problem was real enough to warrant a new attempt at a solution.
+
+The team's answer is a new site-wide API called, fittingly, the Licenses API. It is currently in preview, which means that interested developers must supply a special HTTP header with any requests in order to access it.
+
+But the API is, at least currently, a frustratingly limited one. It offers just three functions:
+
+GET /licenses returns a JSON-formatted list of all of the licenses tracked by the site.
+
+returns a JSON-formatted list of all of the licenses tracked by the site. GET /licenses/licensename returns the license text and associated metadata for licensename.
+
+returns the license text and associated metadata for licensename. GET /repos/username/reponame returns any licensing information for username's reponame repository (along with other repository information).
+
+Arguably the biggest limitation is that, as was the case with the statistics gathered for the blog post, the license of a repository is determined only by examining the contents of a LICENSE file. On the plus side, the license information returned by the API conforms to the Software Package Data Exchange (SPDX) specification, which should make it easy to integrate with existing software.
+
+To be sure, determining and counting licenses is not a simple matter—as many in the community know. In 2013, for example, a pair of presentations at the Free Software Legal and Licensing Workshop explored several strategies for tabulating statistics on FOSS license usage. Both presentations ended with caveats about the difficulty of the problem—whatever methodology is used to approach it.
+
+Nevertheless, the GitHub Licenses API does appear to be strangely naive in its approach. For example, it is well-established that a significant number of projects place their license in a file named COPYING , rather than LICENSE , because that has long been the convention used by the GNU project. Even scanning for that filename (or other obvious candidates, like GPL.txt ) would enhance the quality of the data available significantly. Far better would be allowing the repository owner to designate what file contains the license.
+
+Furthermore, the Licenses API could be used to accumulate more meaningful statistics, such as which forks include different license information than their corresponding upstream repository, but there is no indication yet that GitHub intends to pursue such a survey. It may fall on volunteers in the community to undertake that sort of work. There are, after all, multiple source-code auditing tools that are compatible with SPDX and can be used to audit license information and compliance. Regrettably, the GitHub Licenses API does not look like it will lighten that workload significantly, since the information it returns is so restricted in scope.
+
+Power to choose
+
+GitHub is right to be concerned about the paucity of license information in the repositories hosted at its site. But both the 2013 license chooser and the new Licenses API seem to stem from an assumption on GitHub's part that the reason so many repositories lack licenses is that license selection is either confusing or difficult to find information on. Neither effort strikes at the heart of the problem: that GitHub makes license selection optional and, thus, makes licensing an afterthought.
+
+SourceForge has long required new projects to select a license while performing the initial project setup. Later, when Google Code supplanted SourceForge as the hosting service of choice, it, too, required the user to select a license during the first step. So too do Launchpad.net, GNU Savannah, and BerliOS. FedoraHosted and Debian's Alioth both involve manually requesting access to create a new project, a process that, presumably, involves discussing whether or not the project will be released under a license compatible with that distribution.
+
+It is hard to escape the fact that only GitHub and its direct competitors (like Gitorious and GitLab) fail to raise the licensing question during project setup, and equally hard to avoid the conclusion that this is why they are littered with so many non-licensed and mis-licensed repositories. An API for querying licenses may be a positive step, but it is not likely to resolve the problem, since it side-steps the underlying issue.
+
+Hopefully, the current form of the Licenses API is merely the beginning, and GitHub will proceed to develop it into a truly useful tool. There is certainly a need for one, and being the most active project-hosting provider means that GitHub is best positioned to do something about it.
+
+Comments (30 posted)
+
+Page editor: Jonathan Corbet
+
+
+
+Inside this week's LWN.net Weekly Edition

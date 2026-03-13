@@ -1,0 +1,13 @@
+As expected, Microsoft today announced that OneDrive now supports files up to 10GB in size, a significant jump from the previous 2GB cap. Support for larger files is included on the Web and in the Windows, Mac and mobile apps.
+
+Business users can also look forward to the increased limit, though Microsoft didn’t specify a launch date.
+
+OneDrive also increased the number of files that can be downloaded or uploaded simultaneous on PCs and Macs, so syncing to the service should be faster.
+
+Windows 7 and 8 users can now grab links for sharing OneDrive files straight from Windows Explorer instead of having to sign onto the website. The feature is gradually rolling out over the next few weeks.
+
+Microsoft has also added drag-and-drop folder uploading to OneDrive for Chrome.
+
+➤ OneDrive now supports 10 GB files [OneDrive blog]
+
+Read next: Kevin Rose’s North mobile design studio is building an app for sharing tiny disappearing photos

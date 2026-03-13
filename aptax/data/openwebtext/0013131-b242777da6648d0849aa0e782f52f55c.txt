@@ -1,0 +1,27 @@
+Sherlock (sher·lock): -verb (used with object): 1. to create an in-house product that clearly and obviously seems to replace a product created by a third party for that platform, thereby destroying that third party's ecosystem.
+
+E.g., Apple totally Sherlocked Instapaper on Monday by introducing Reading List.
+
+During the 2011 WWDC keynote, Instapaper developer Marco Arment appeared to be sure that he had just been stomped on by Apple's decision to integrate a new Instapaper-like feature, Reading List, into Safari for Lion and iOS 5. And he's not the only one by far—there are plenty of small- and big-name indie developers whose products seemingly became unnecessary thanks to Apple, which did not pay them for the privilege of using their ideas.
+
+But after taking a few days to mull it over, Arment's attitude sounds like a complete reversal of that apocalyptic tweet that he sent during the keynote. "The more I think about it, the more optimistic I am," Arment told Ars. "I keep playing back the scenarios of what might happen here; I try to be rational and not emotional about it. The two most likely outcomes are that nothing changes or my sales go up."
+
+"I think the tech press loves to use the word 'kill,' but it's very short sighted," he continued. "From my perspective, Apple could take 99.7 percent of the market and I could take 0.3 percent of the market, which would double my market share."
+
+Arment wrote a blog post to this effect immediately following the keynote on Monday in order to quell the fears of his developer peers, who were loudly concerned for his livelihood. But according to Arment, Apple is actually doing him a favor: "Before, my competitor was ignorance of this problem of how to save articles to read later or elsewhere." Now, he believes a huge swath of users who were not previously aware of Instapaper will be exposed to Apple's Reading List feature, and some of them may eventually begin searching for more full-featured alternatives. That's where Instapaper will come in, and Arment will hopefully profit.
+
+Arment isn't the only one who feels this way either. Chairman and CEO of The Omni Group, Ken Case, also expressed optimism at Apple's decision to roll out a task management feature called Reminders in iOS 5, strikingly similar to many of OmniFocus' own task management capabilities—right down to the location associations.
+
+"I'm really glad to see Apple setting a good baseline for what task management ought to be on the iPhone," Case told Ars. "It's great that Apple is educating people and is validating what we've already done."
+
+Just speaking with Arment and Case, it's clear that they (now, if not earlier) are quite confident that their products can stand on their own and will continue to be successful, regardless of Apple's new features.
+
+"I don't think much differentiation is needed when it comes to OmniFocus. Apple's Reminders aren't really something you can organize into any sort of dependent relationships or actions that are blocked by other actions, or an outline hierarchy, or add attachments," Case said, listing out the many features that come as part of OmniFocus. "We don't have to differentiate so much as make sure we're not at all deficient. One way where we're deficient is having those geofences, which we are working on now."
+
+Arment agreed. "As far as I can tell there's no offline storage in Apple's Reading List function, which Instapaper has. Reading List is just a bookmark folder with special rendering. In fact, I don't think anybody really needs to be worried about Apple stepping on them with features of this sort," Arment said. "I'm confident there's enough of a market in alternatives in general."
+
+He went on: "If you look at categories of apps, Apple has provided a Notes app since the very beginning, before the App Store. It's good for well over 99 percent of iPhone owners, yet this is a category that is doing very well in the App Store. Even the people who make shitty ones don't have to worry. People use alternative products for lots of reasons; we're talking about a huge market."
+
+Still, both developers agreed that they can't rest on their laurels just because Apple hasn't yet added all of their features to Reminders and Reading List. "You can't just assume Apple won't do anything. It's important to not rely on feature differentiation alone," Arment said. The two—and undoubtedly plenty of other developers—have already begun working on what's next. Case said that he and the Omni team were already full-speed ahead on OmniFocus 2 for the Mac and were looking forward to bringing some of their lessons from the iPad back to the desktop, while Arment showed Ars a preview of the next major release of Instapaper for iPad, which looks promising.
+
+"What it comes down to is this: I need Apple to advance themselves, or else they won't stay competitive in their own market. I am somewhat dependent upon their success," Arment said. "If they step on me a little in the process, that's the risk I took by developing for the platform. They're giving me new APIs to make my own product better, so it works out for me."

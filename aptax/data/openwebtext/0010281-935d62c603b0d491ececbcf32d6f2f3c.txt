@@ -1,0 +1,23 @@
+Amazon Lex, the technology powering Amazon’s virtual assistant Alexa, has exited preview, according to a report from Reuters this morning. The system, which involves natural language understanding technology combined with automatic speech recognition, was first introduced in November, at Amazon’s AWS re:Invent conference in Las Vegas.
+
+At the time, Amazon explained how Lex can be used by developers who want to build their own conversational applications, like chatbots.
+
+As an example, the company had demoed a tool that allowed users to book a flight using only their voice.
+
+However, the system is not limited to working only in the chatbots you find in today’s consumer messaging apps, like Facebook Messenger (though it can be integrated with that platform). Lex can actually work in any voice or text chatbot on mobile, web or in other chat services beyond Messenger, including Slack and Twilio SMS.
+
+Amazon has suggested it could be used for a variety of purposes, including web and mobile applications where the technology provides users with information, powers their application, helps with various work activities, or even provides a control mechanism for robots, drones and toys.
+
+Chatbots in messaging – and particularly in e-commerce bots – is a solid entry point for Lex’s technology, though. Consumers today have been frustrated by the current crop of chatbots that have clunky menus to navigate through, and a limited ability to respond to questions users asked. Lex, on the other hand, would allow developers to create bots that convert speech to text and those that could recognize the intent of the text, making the resulting bot more conversational, and more sophisticated than those on the market at present.
+
+Lex, as a fully managed Amazon service, would also scale automatically as the bots’ usage increased, meaning developers would only pay for the number of text or voice queries that Lex processes.
+
+Amazon’s goal with opening up Lex to the wider development community could give it an edge in its ability to compete with other voice technology, like Google’s Assistant or Apple’s Siri, for example. The company plans to take the text and recordings that people send to Lex-powered apps in order to improve Lex, and its ability to understand more queries, notes today’s report.
+
+This openness has been Amazon’s larger strategy with much of its Alexa platform. For example, it already had rolled out Alexa Voice Services which allowed developers to integrate Alexa into their own devices, like speakers, bedside alarm clocks, and more.
+
+Alexa’s software isn’t the only area where Amazon is embracing an open ecosystem. The company earlier this month said it would make the technology powering its Echo speakers available to third-party device makers as well. This includes the microphone array listening to Alexa commands, and the proprietary software that can recognize wake words, reduce background noise, and cancel out echos in large rooms.
+
+By offering this to OEMs, other device manufacturers can build their own smart, voice-powered products – even those that would compete with Amazon’s own Echo speakers.
+
+Developers interested in Amazon Lex can get started here.

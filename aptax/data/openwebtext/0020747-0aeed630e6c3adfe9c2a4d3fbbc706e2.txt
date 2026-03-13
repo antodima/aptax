@@ -1,0 +1,27 @@
+Researchers have found an intriguing resemblance between the human cells and neutron stars, some of the the smallest and densest stars known to exist.
+
+When I was a kid and I learned about cells and planets, I had a strange idea: what if our planets are just cells inside a gargantuan organism, which itself lives on a planet which itself is a cell… and so on. Well, we’re still a while away from confirming my childhood, but cells and stars might have more in common than you’d think — at least some stars.
+
+In 2014, UC Santa Barbara soft condensed-matter physicist Greg Huber and colleagues explored the geometry of a cellular organelle called the endoplasmic reticulum (ER). They found a distinctive shape, something like a multi-story parking garage. They dubbed them Terasaki ramps after their discoverer, Mark Terasaki, a cell biologist at the University of Connecticut. They found that this shape was virtually unique, reserved for thes specific organelles inside the human body — or so they thought. At one point, they stumbled upon the work of nuclear physicist Charles Horowitz at Indiana University, who was studying neutron stars. Using computer models, he concluded that deep inside neutron stars, similar shapes emerged. Huber was shocked.
+
+“I called Chuck and asked if he was aware that we had seen these structures in cells and had come up with a model for them,” said Huber, the deputy director of UCSB’s Kavli Institute for Theoretical Physics (KITP). “It was news to him, so I realized then that there could be some fruitful interaction.”
+
+Crossing an interdisciplinary border is not easy, especially when it comes to two fields which are so different from one another. But, as it usually happens with these collaborations, the results were outstanding. Astrophysicists have their own terminology for the class of shapes they see in their high-performance computer simulations of neutron stars: nuclear pasta. The surprisingly suitable name has subcategories such as tubes (spaghetti) and parallel sheets (lasagna) connected by helical shapes that resemble Terasaki ramps.
+
+“They see a variety of shapes that we see in the cell,” Huber explained. “We see a tubular network; we see parallel sheets. We see sheets connected to each other through topological defects we call Terasaki ramps. So the parallels are pretty deep.”
+
+However, once you start to look deep enough, differences also start emerging. The relevant physical parameters (temperature and pressure for example) are widely different at cellular and stellar scales.
+
+“For neutron stars, the strong nuclear force and the electromagnetic force create what is fundamentally a quantum-mechanical problem,” Huber explained. “In the interior of cells, the forces that hold together membranes are fundamentally entropic and have to do with the minimization of the overall free energy of the system. At first glance, these couldn’t be more different.”
+
+Still, the similarities are riveting for both biologists and astrophysicists. Is there some intrinsic phenomenon which shapes both things this way, some way of preserving energy or distributing matter, or is it all a grand, cosmic coincidence? Horowitz believes they’re on to something here.
+
+“Seeing very similar shapes in such strikingly different systems suggests that the energy of a system may depend on its shape in a simple and universal way,” he said.
+
+Huber noted that these similarities are still rather mysterious.
+
+“Our paper is not the end of something,” he said. “It’s really the beginning of looking at these two models.”
+
+Journal Reference: “Parking-garage” structures in nuclear astrophysics and cellular biophysics Phys. Rev. C 94, 055801 – Published 1 November 2016, journals.aps.org/prc/abstract/10.1103/PhysRevC.94.055801
+
+Enjoyed this article? Join 40,000+ subscribers to the ZME Science newsletter. Subscribe now!

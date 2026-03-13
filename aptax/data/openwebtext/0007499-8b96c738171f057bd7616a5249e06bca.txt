@@ -1,0 +1,35 @@
+Since I work on speciation, I’m often asked how many species there are on Earth. You’d think that we have a pretty good idea of this, but we don’t. Most species of viruses and bacteria—indeed, if there are such things as viral and bacterial “species”—can’t be easily seen in the field or grown in the lab, and most other species are nematodes or insects hidden in the forests of the tropics.
+
+According to Robert May, who took up this issue without resolution in a 1988 paper in Science, biologists have named roughly 1.5 million species, with 15,000 more named each year. This, of course, is only a fraction—perhaps a small one—of all species living on earth. And, given the predominance of arthropods among all species, this effort is patchy. As May points out in a note in this week’s Science, one third of taxonomists work on vertebrates, which are only about 1% of all species, another third work on plants (around 10% of all species), and the remaining third work on the other 89% of taxa.
+
+Estimates have varied between 5 and 50 million species on Earth, and that’s a big range. At the upper end of this range come calculations from biologist Terry Erwin, who, in a short but famous paper in 1982 in The Coleopterists Bulletin, tried to estimate the number of species of beetles in the world’s tropics. (One third of the world’s species are insects, and of these about a third are in the order Coleoptera—beetles. There’s a possibly apocryphal story about biologist J. B. S. Haldane, who was once asked what one could infer about the nature of the Creator from his creation. “An inordinate fondness for beetles,” Haldane supposedly replied).
+
+Erwin fogged (sprayed with toxic chemicals) 19 individuals of the tropical tree Luehea seemannii in Panama, killing everything in their canopies, and carefully counted all the beetles he found. There were 1143 species represented, most of them leaf-eaters. Erwin then made some calculations. Assuming that a certain percentage of these beetles were “host-specific,” found only on that species of tree (this percentage ranged from 5% for predatory and scavenging beetles to 20% for herbivores), he calculated that this species of tree harbored 163 species of host-specific beetles.
+
+Erwin then parlayed these data into an estimate of the total number of tropical, host-specific arthropods in the world. This involved making assumptions about not only the proportion of beetles that are host-specific, but the number of trees in the tropical forests (50,000), the proportion of arthropods that are beetles (40%), and the number of total beetle species per hectare of tropical rain forest canopy (12,448). Erwin came up with an astounding figure: thirty million species of tropical arthropods in the world! And that’s just arthopods! This suggested to many that there were far more species in the world than previously thought. Erwin later (1988) produced an even larger estimate–one hundred million species of arthropod.
+
+To be sure, Erwin recognized that this estimate was very rough, based on untested assumptions. As he said, “I hope that someone will challenge these figures with more data.”
+
+Well, someone has—not just with more data, but with better statistical analysis, too. As May reports in this week’s Science, Andrew Hamilton and his colleagues have, in a new paper in The American Naturalist, used new data on species numbers, and have varied the parameter estimates that Erwin saw as fixed, to come up with new estimates of the number of tropical arthropods.
+
+I w0n’t belabor the methods, which themselves involve assumptions, but they yield estimates of arthropod species much lower than that found by Erwin. Hamilton, using probability distributions for various estimates (such as the proportion of beetle species that specialize on a certain tree), come up with a range of species numbers, each having a relative likelihood. The two separate models give a median species number of 2.5 million (90% confidence interval: 1.1-5.4 million) and and 3.7 million (c.i. 2.0-7.4 million) tropical arthropod species in toto; Erwin’s estimate of 30 million or more has a probability of less than 0.001% of being true.
+
+Using these medians, Hamilton et al. estimate that, since only 855,000 species of arthropods have been described, 66%-77% of the world’s species are still unknown. As they say, “This represents an enormous amount of work for taxonomists that will take hundreds of years to complete at the current rate that species are described, taxonomists are trained, and funding is allocated for invertebrate taxonomy.
+
+They leave out one consideration: at the current rate of deforestation, we won’t have any rainforest left in a hundred years, and most of those species will vanish without ever having been seen by humans.
+
+So how many species are there on Earth? It’s still murky, but a fair back-of-the envelope estimate, including all those nematodes and the unknown parasites of living species (but not including bacteria), would involve tripling the estimate of total tropical arthropods, to make about ten million species. And that’s what I’ll tell people if they ask, making sure to add that it’s a very rough estimate.
+
+Fig. 1. The goliath beetle, Goliathus orientalis, one of many tropical insects. Males can reach 4 inches in length and weight 3.5 oz.
+
+_________
+
+Erwin, T. L. 1982. Tropical forests: their richness in Coleoptera and other arthropod species. Coleopterist’s Bull. 36:74-75.
+
+___________. 1988. The tropical rain forest canopy: the heart of biotic diversity. pp. 123-129 in E. O. Wilson and F. M. Peter, eds. Biodiversity. National Academy, Washington D. C. (Note: I haven’t read this paper).
+
+Hamilton, A. J. Yves Basset, Kurt K. Benke, Peter S. Grimbacher, Scott E. Miller, Vojtech Novotný, G. Allan Samuelson, Nigel E. Stork, George D. Weiblen, and Jian D. L. Yen. 2010. Quantifying uncertainty in estimtion of tropical arthropod species richness. Amer. Natur. 176:90-95.
+
+May, R. M. 1988. How many species are there on Earth? Science 241:1441-1449.
+
+May, R. M. 2010. Tropical arthropod species, more or less? Science 329:41-42.

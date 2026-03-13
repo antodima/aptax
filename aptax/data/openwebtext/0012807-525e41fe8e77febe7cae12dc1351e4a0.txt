@@ -1,0 +1,51 @@
+Author: arkayn Nice post. I wanted to add to it a little bit... While those exact percentages are not really that hard to calculate or remember, sometimes it's hard to translate on the fly to what that really means to me in the decision making process. I usually think of an even rougher breakdown of the odds for at least a first pass at eliminating choices... Basically, I break the odds down to: not likely, coin flip, and very likely.
+
+
+
+1 AV:
+
+coin flip to kill a 1 life unit (or wound a stronger unit)
+
+
+
+2 AV:
+
+very likely to kill a 1 life unit
+
+coin flip to kill a 2 life unit (very likely to wound)
+
+
+
+3 AV:
+
+very likely to kill a 1 or 2 life unit
+
+unlikely to kill a 3 life unit
+
+
+
+4 AV:
+
+very likely to kill a 1 or 2 life unit (overkill vs. 1 life)
+
+coin flip to kill a 3 life unit
+
+unlikely to kill a 4 life unit
+
+
+
+5 AV:
+
+very likely to kill a 1-3 life unit (overkill vs. 1 life)
+
+coin flip to kill a 4 life
+
+nearly impossible to kill a 5 life
+
+
+
+Yes, that coin flip for a 2 AV killing a 2 life is much worse coin flip than a 1 AV killing a 1 life, and when it comes down to two coin flips that are equally helpful to my position, I might remember the real odds and go from there. And yes, that "very likely" for a 3 AV to kill a 2 life unit is awfully close to the "coin flip" for a 1 AV to kill a 1 life. But there have to be breakpoints somewhere, and even 67% is decent odds, I still prefer to be a little pessimistic.
+
+
+
+But basically, "very likely" is something I can more or less count on. Try not to put myself in a position where a "very likely" failing will completely screw me, but taking risks for a "very likely" is generally OK. "unlikely" means don't even try it if it puts me in a bad position - or only try it if it doesn't cost anything or I have a backup plan. "coin flip" means don't count on it, try to have a contingency plan, but generally worth risking or spending moves to set up.

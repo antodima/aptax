@@ -1,0 +1,23 @@
+What you see above is a flat image – just like any one of the millions of other flat images on the web. Until now this is how we have viewed images from our favorite games, photos from our favorite movie sets, pictures of other people’s cats, porn – anything really. But with VR entering the mainstream in the coming months, that is all about to change – as it enables a dimensionality never before possible, and with that change the way we display visual content is likely to change with it.
+
+Sketchfab is one of the companies currently looking at addressing this problem, with webVR enabled embeddable 3D models. Sketchfab announced a partnership at Microsoft’s Build conference with project Hololens to bring 3D models into the augmented space, but they are also really looking into the VR space as well. It’s not just single models either, you can load in full still scenes, like this one:
+
+And here is the Oculus viewable link. Oh and one for Cardboard as well (for all of you on mobile).
+
+Looking at embeds like these I can only think of one thing, a revolution in screenshots for VR. Rather than representing a flat screenshot from a game that doesn’t truly do justice to how it looks in VR, content creators will be able to load up a model of a representative scene from the game that will be viewable in VR.
+
+Take these for example:
+
+Oculus version.
+
+Cardboard version.
+
+Oculus version.
+
+Cardboard version.
+
+Being able to preview a scene in this way would be a much more representative view of the experience. In fact, we already are seeing this kind of thing in practice. The new update to the Samsung Gear’s Oculus home page added 360 degree screenshots to Herobound and it would appear that that may be something other developers adopt as well.
+
+We are moving beyond the flat screen with virtual reality, and the rest of the content on the web is going to have to follow. WebVR may be early, but it is coming – it is inevitable.
+
+Tagged with: 3d, 3d models, HoloLens, microsoft, sketchfab, virtual reality, VR, webvr

@@ -1,0 +1,21 @@
+New research from Penn State suggests that the number of Earth-sized planets in the habitable zones of low-mass stars is more common than previously thought.
+
+University Park, Pennsylvania — The number of potentially habitable planets is greater than previously thought, according to a new analysis by a Penn State researcher, and some of those planets are likely lurking around nearby stars.
+
+“We now estimate that if we were to look at 10 of the nearest small stars we would find about four potentially habitable planets, give or take,” said Ravi Kopparapu, a post-doctoral researcher in geosciences. “That is a conservative estimate,” he added. “There could be more.”
+
+Kopparapu detailed his findings in a paper accepted for publication in Astrophysical Journal Letters. In it, he recalculated the commonness of Earth-sized planets in the habitable zones of low-mass stars, also known as cool stars or M-dwarfs.
+
+Scientists focus on M-dwarfs for several reasons, he explained. The orbit of planets around M-dwarfs is very short, which allows scientists to gather data on a greater number of orbits in a shorter period of time than can be gathered on Sun-like stars, which have larger habitable zones. M-dwarfs are also more common than stars like the Earth’s Sun, which means more of them can be observed.
+
+According to his findings, “The average distance to the nearest potentially habitable planet is about seven light years. That is about half the distance of previous estimates,” Kopparapu said. “There are about eight cool stars within 10 light-years, so conservatively, we should expect to find about three Earth-size planets in the habitable zones.”
+
+The work follows up on a recent study by researchers at the Harvard-Smithsonian Center for Astrophysics which analyzed 3,987 M-dwarf stars to calculate the number of Earth-sized planet candidates in cool stars’ habitable zones—a region around a star where rocky planets are capable of sustaining liquid water and therefore life. That study used habitable zone limits calculated in 1993 by Jim Kasting, now an Evan Pugh Professor in Penn State’s Department of Geosciences. Kopparapu noticed that its findings, based on data from NASA’s Kepler satellite, didn’t reflect the most recent estimates for determining whether planets fall within a habitable zone.
+
+These newer estimates are based on an updated model developed by Kopparapu and collaborators, using information on water and carbon dioxide absorption that was not available in 1993. Kopparapu applied those findings to the Harvard team’s study, using the same calculation method, and found that there are additional planets in the newly determined habitable zones.
+
+“I used our new habitable zone calculations and found that there are nearly three times as many Earth-sized planets in the habitable zones around these low mass stars as in previous estimates,” Kopparapu said. “This means Earth-sized planets are more common than we thought, and that is a good sign for detecting extraterrestrial life.”
+
+Research Paper: A revised estimate of the occurrence rate of terrestrial planets in the habitable zones around kepler m-dwarfs
+
+Image: Penn State

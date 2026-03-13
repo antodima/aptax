@@ -1,0 +1,11 @@
+Pandora just released its biggest web redesign since 2011. Back in the day, when Pandora first launched, everything was web first, mobile second. But as more and more people made the shift to mobile, so did development and design decisions, Pandora Software Engineering Manager Laura Leaverton told me.
+
+Pandora’s new web design is a lot cleaner, with improved navigation, a fixed bar that shows you what’s playing, replays and deeper integration with Ticketfly. For the majority of Pandora’s 78 million active users, this update might not matter a whole ton. Currently, 85% of listening happens on Pandora’s mobile apps, with just 14% of it happening on the web.
+
+“Web is one of our primary platforms,” Pandora Senior Product Manager Sunaina Gyani told TechCrunch. “We have a lot of very heavy web users. We wanted to make sure we were giving them an equally delightful experience.”
+
+I’m the type of person who likes to listen to music while I work — which accounts for most of my day, five days a week. My preferred method of consuming music is via desktop apps or web platforms — mostly Soundcloud, Hype Machine or Spotify. I also prefer to have a fair amount of control over what I listen to and when, which is why I haven’t been the biggest fan of Pandora. And, up until now, Pandora’s web version has been pretty harsh on the eyes. I played around with the new version of Pandora at work yesterday, but it just didn’t stick.
+
+What would (maybe) help to seal the deal for me would be on-demand streaming, which Pandora says it will launch in Q1 of 2017. But it feels a little too late for Pandora. There’s already a ton of streaming services out there with a large paid subscriber base. As of September, Spotify has 40 million paid subscribers and Apple Music has 17 million paying subscribers.
+
+Pandora’s first foray into the paid music game, Pandora One, topped out at around 4 million users before the company launched Pandora Plus in September. Meanwhile, Pandora’s overall listener count has been on the decline, falling to 77.9 million active listeners compared to 78.1 million in the same period last year, according to the company’s latest earning report.

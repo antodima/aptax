@@ -1,0 +1,137 @@
+Attorney General nominee Sen. Jeff Sessions is testifying in front of the Senate Judiciary Committee today as part of his confirmation process. EFF has voiced concerns about President-elect Donald Trump’s nomination of Sessions to lead the Justice Department, citing past statements he has made and votes he has cast on a number of critical digital rights issues, including surveillance, encryption, net neutrality, and protections for the press.
+
+While we can’t predict what Sessions would do as the head of an agency that oversees immigration enforcement, law enforcement and national security surveillance, and everything in between, we will be closely following the things he says and the commitments he makes during his confirmation process, beginning with a live blog below of his hearing.
+
+-------------------------------------------------------------------
+
+Click here to reload the page for more live-blogging.
+
+10:56 a.m. (PST) -- The hearing has ended.
+
+Sen. Amy Klobuchar
+
+9:32 a.m. (PST) -- Sen. Amy Klobuchar noted that Sessions did not support the Free Flow of Information Act, a proposed shield law for journalists. She further noted that Sessions provided no concrete answers and said he would need to conduct more research when she pressed him on various measures Attorney General Holder undertook to protect the media. Klobuchar specifically noted Holder’s 2015 memo limiting when federal prosecutors can subpoena journalists and Holder’s commitments not to imprison reporters for doing their job and to release an annual report about investigations involving journalists. David Cole, legal director for the ACLU, agreed that our country’s democracy depends on the freedom of the press, which functions as an essential check on government overreach, especially when one party controls all the branches of government.
+
+7:30 a.m. (PST) -- National President of the Fraternal Order of Police Chuck Canterbury stated that he endorses Sen. Jeff Sessions’ in part for his support for the “equitable sharing” program, which allows the federal government to share asset forfeiture funds (money seized in drug cases) with local law enforcement, even before a case has been adjudicated. As EFF has reported, asset forfeiture and electronic surveillance go hand in hand, with seized monies funding surveillance and surveillance assisting in seizing more funds.
+
+6:35 a.m. (PST) -- The hearing has started.
+
+-------------------------------------------------------------------
+
+Liveblog from Day One
+
+5:07 p.m. (PST) -- That’s a wrap for today. We’ll continue liveblogging when the hearing resumes with its third panel of witnesses tomorrow morning at 6:30 a.m. (PST).
+
+5:06 p.m. (PST) -- Sessions said he would be receptive to whistleblowers if confirmed as the head of the Justice Department. In an exchange with Senate Judiciary Chairman Chuck Grassley, Grassley asked Sessions to “give encouragement to whistleblowing,” since “whistleblowers within an agency are usually treated like skunks at a picnic.”
+
+
+
+Sessions responded that he would defend whistleblowers, including from retaliation from a government agency. “You cannot effectively manage this government without good citizens and good employees speaking up when they see wrongdoing,” he said.
+
+3: 46 p.m. (PST) -- Sessions stayed mum on Trump’s embrace of Wikileaks—including the President-elect putting his faith in the organization over the conclusions from U.S. intelligence agencies about the 2016 hack of the DNC—during a prolonged line of questioning from Sen. Al Franken, which included Franken repeatedly reading Trump’s “I love Wikileaks” statement. Franken also cited Sessions’ condemnation of Wikileaks’ Julian Assange in the past.
+
+
+
+“If Assange participated in violating the American law, then he is a person subject to prosecution and condemnation,” Sessions replied. He added that he needs “to be more cautious” about what he says as Attorney General nominee than he had been as Senator. “It’s just not appropriate for me to be the person [from whom] you seek political responses,” he said.
+
+
+
+Sessions also declined to comment on today’s report that Trump surrogates communicated with intermediaries for the Russian government.
+
+Sen. Maize Hirono
+
+2:54 p.m. (PST) -- Sessions admitted that a registry of Muslim U.S. citizens would pose “serious constitutional problems.” In response to questions from Sen. Maize Hirono, Sessions also noted Trump’s inconsistent position on creating a registry of U.S Muslims.
+
+2:29 p.m. (PST) -- Sessions said he does not support a registry of Muslims in the U.S. but left the door open for surveillance targeting mosques in certain cases. In response to questions from Sen. Chris Coons, Sessions repeated his previously stated position that it’s acceptable to consider religion when deciding whether or not to admit an individual to the country.
+
+
+
+But, deviating from Trump’s calls for targeted surveillance of Muslim communities during the campaign, Sessions said he “would not favor a registry of Muslims in the U.S.” and said he thinks the government “should avoid surveillance of religious institutions unless there is a basis to believe that a dangerous or threatening illegal activity could be carried on there.” He added, “I’m not aware that there’s a legal prohibition on that under current law.”
+
+1:52 p.m. (PST) -- Sen. Cornyn also asked Sessions to commit to supporting the Freedom of Information Act and the “public’s right to know.” Sessions agreed.
+
+1:51 p.m. (PST) -- Sen. John Cornyn broached a series of national security and surveillance topics, including the Electronic Communications Privacy Act, national security letters, encryption, and Section 702 of the Foreign Intelligence Surveillance Act, which is set to sunset at the end of the year. Cornyn pointed to a conclusion by the Privacy and Civil Liberties Oversight Board that Section 702 has been effective, despite the fact that it allows warrantless spying on Americans, and said he hopes lawmakers make it a priority to reauthorize the law. Sen. Cornyn asked no question though, except to have Sessions make a verbal commitment to “put the safety and security of the American people first.” Sessions responded only with: “I will.” We think it’s time to END 702.
+
+12:56 p.m. (PST) -- In response to a question by Sen. John Kennedy, Sessions admits that the Freedom of Information Act is law and would see it carried out. We heartily agree.
+
+12:33 p.m. (PST) -- Sessions wouldn’t commit to recuse himself if the Justice Department ends up pursuing any legal action against the Trump campaign tied to the DNC hack in 2016. When pressed by Sen. Dick Durbin, Sessions drew a distinction between this hypothetical and his commitment to recuse himself from prosecutions involving Trump’s opponent Hillary Clinton, citing public statements he made about Clinton.
+
+
+
+“I don’t think I’ve made any comments on [the DNC hack] that go to that,” he said. “I would review it and try to do the right thing.”
+
+
+
+Durbin pushed back, calling an investigation into the DNC hack “an obvious case for a special prosecutor”. Sessions said an Attorney General would have to “carefully think his way through that, to seek advice, and to follow the normal or appropriate special prosecutor standards.”
+
+Sen. Jeff Sessions answering questions about the USA FREEDOM Act
+
+12:10 p.m. (PST) -- Sen. Patrick Leahy pressed Sessions to commit to enforcing the USA FREEDOM Act, which prohibited the bulk collection of Americans’ phone records by the NSA. Sessions opposed the bill in 2015. Sessions responded that the prohibition on bulk collection “appears to be” the governing statute for U.S. government surveillance and pledged to follow the law, although he couldn’t confirm it prohibited bulk collection in all cases. “I believe the statute must be followed,” he said.
+
+11:52 a.m. (PST) -- There have been a number of questions since the hearing resumed, but so far no new digital liberties issues have specifically been raised.
+
+11:24 a.m. (PST) -- Sen. Richard Blumenthal tells Sessions that the attorney general must be a “zealous advocate of rights and liberties that are increasingly under threat,” and raises questions of how Sessions would handle conflicts of interests and under what circumstances he would appoint independent counsel. Sessions was non-committal.
+
+10:45 a.m. (PST) -- The hearing has resumed.
+
+10:11 a.m. (PST) -- The hearing has recessed for a 30-minute break.
+
+9:41 a.m. (PST) -- Sen. Amy Klobuchar asked if Sessions will commit to following the standards in place for investigating journalists and commit to not put reporters in jail for doing their job. Sessions said he does believe that the DoJ has “sensitivity” to this issue but noted that “you could have a situation where the media is not unbiased” and could be a “mechanism where unlawful intelligence is obtained.” So, no.
+
+Sen. Mike Lee Sen. Mike Lee
+
+9:29 a.m. (PST) -- Sen. Mike Lee asked what Sessions will do to ensure that the Office of Legal Counsel maintains its independence. Sessions responded that the OLC is extremely important as it adjudicates a number of disputes within the executive. While we agree that OLC is indeed important, we wish that Sessions had answered the question.
+
+9:16 a.m. (PST) -- Sessions dodged a line of questioning from Sen. Sheldon Whitehouse about whether he would prosecute Trump and his associates if the intelligence community finds that Russia’s involvement in the DNC hack was tied in some way to the incoming president.
+
+
+
+Whitehouse asked if the Justice Department under Sessions and the Trump administration would “be allowed to continue to investigate the Russian connection [to the DNC hack], even if it [shows ties] to the Trump campaign” and continue, “even if your duties require the investigation and even prosecution of the president, his family, and his associates.”
+
+
+
+Rather than committing to prosecute Trump and his allies, Sessions pointed to using political means to retaliate. “The problem may turn out to be—as in the Chinese hacking in our hundreds of thousands, maybe millions, of records—has to be handled at the political level.”
+
+8:42 a.m. (PST) -- In response to a line of questioning from Sen. Lindsey Graham, Sessions said he will need to briefed by the intelligence community, including the FBI, about Russia’s involvement in the hack of the DNC in 2016. He said he has done no research on the issue yet but—contrary to Trump's insinuations—is “sure [the FBI’s conclusion] was honorably reached.”
+
+Sessions also said that the U.S. should “develop protocols to ensure that a price is paid” when other countries interfere with U.S. democracy.
+
+8:32 a.m. (PST) -- The confirmation hearing has been interrupted four times now by protesters, with chants covering issues ranging from racism to the closing of Guantanamo Bay detention facility.
+
+Sen. Patrick Leahy Sen. Patrick Leahy
+
+8:28 a.m. (PST) -- In responding to a question from Sen. Patrick Leahy, Sessions said he believes that a person’s religious views can and should be a factor in determining whether they should be admitted into the U.S. He talked around a potential “Muslim registry” but indicated that he supported some sort of “strong vetting” for entrants coming from countries with high rates of terrorism.
+
+8:18 a.m. (PST) -- Sessions committed to work with Sen. Orrin Hatch on the issue of law enforcement access to data stored in servers located abroad but said that he currently does “not have firm and fast opinions on the subject.”
+
+
+
+Hatch—who has pushed for privacy protections for data stored abroad, especially in the wake of Microsoft's lawsuit against the U.S. government—asked Sessions to work with Senate staff “to strike the needed balance” between law enforcement and privacy concerns.
+
+
+
+Sessions said he would work on “understanding the new technology but the great principles of the right to privacy, the ability of individuals to protect data that they believe is private and should be protected. All of those are great issues in this new technological world that we’re in.”
+
+8:13 a.m. (PST) -- Would Sessions support speedy legislation enabling Rapid DNA scanning? “Rapid DNA analysis is a hugely important issue for the criminal justice system...it’s the kind of thing you can’t fake or mislead, and so I’m very strongly in favor of that.” We’re concerned about the system’s accuracy and its privacy implications.
+
+Sen. Orrin Hatch Sen. Orrin Hatch
+
+8:10 a.m. (PST) -- In answering a question from Sen. Orrin Hatch, Sessions says he’d consider reestablishing a unit within the DOJ to prosecute obscenity. We think that would be unnecessary and frankly would pose a threat to free expression.
+
+7:41 a.m. (PST) -- Sessions’ opening statement was entirely free of any mention of free speech, privacy, or civil liberties. We’re not surprised—just disappointed. On the other hand, he did note that the Attorney General “must be willing to tell the President ‘no’ if he overreaches. He or she cannot be a mere rubber stamp to any idea the President has.”
+
+Sen. Jeff Sessions Sen. Jeff Sessions
+
+7:17 a.m. (PST) -- Sessions was light on digital rights issues in his opening statement, but he briefly and vaguely outlined his cybersecurity goals as a part of his plan to fight “the rising threat of terrorism.”
+
+
+
+He touted “partnerships,” which he said will “be vital to achieving much more effective enforcement against cyber threats, and the Department of Justice clearly has a lead role to play in that essential effort.” The U.S. government “must honestly assess our vulnerabilities and have a clear plan for defense, as well as offense, when it comes to America’s cybersecurity,” he continued.
+
+
+
+His comments on cybersecurity come as the government continues to grapple with recent high-profile cyber attacks, including this past summer’s hack of the Democratic National Committee, which the U.S. intelligence community has conclusively tied to Russia. President-elect Trump has repeatedly questioned the intelligence community’s conclusions and encouraged the “country to move on to bigger and better things” after the Obama administration imposed sanctions on Russia in retaliation for the hack.
+
+7:06 a.m. (PST) -- During her opening remarks, Sen. Dianne Feinstein questioned Sessions’ ability to serve as an Attorney General, independent from the incoming administration. “Will he tell the President ‘no’ when appropriate?” she asked. “We cannot ignore there are deep concerns and anxieties throughout America. It is in this context that we must consider whether Jeff Sessions is qualified to become the top law enforcement official in this country.”
+
+6:30 a.m. (PST) -- Liveblogging underway!

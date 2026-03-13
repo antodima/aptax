@@ -1,0 +1,31 @@
+Bulgarian investigative journalists Atanas Tchobanov and Assen Yordanov created one of the only websites in the world to successfully replicate WikiLeaks' model of anonymously leaked bombshell documents. Now their project may face a similar fate to WikiLeaks': Crippling attacks by the financial institutions of the country they've embarrassed.
+
+Earlier this month, Tchobanov and Yordanov's news outlet Bivol.bg, which publishes documents from their WikiLeaks-like leak site BalkanLeaks, received a letter from Bulgaria's central bank threatening to fine the news organization for publishing "false information and circumstances" that undermine the "reputation and credibility" of four Bulgarian banks that filed the complaint with the government--a violation could carry as much 150,000 Bulgarian lev ($100,000) in penalties.
+
+The offending information, according to the banks, is a U.S. State Department cable obtained by WikiLeaks and published by the two Bulgarian journalists, which details the alleged money laundering and corrupt practices of the Bulgarian finance industry. The leaked 2006 memo details U.S. Ambassador John Beyrle's claims that eight "bad apple" banks in the country were participating in money laundering, often for the mob, as well as making bogus loans to connected companies that were never repaid.
+
+"Banking and financial authorities are aware of the most notorious banks and claim to be working hard to draft legislation and regulations to bring practices in line with Western norms...However, a number of domestic banks apparently manage to escape strict scrutiny," Beyrle's report reads, before launching into a detailed description of each bank's alleged mafia ties and criminal practices.
+
+Included among those eight are Bulgaria's First Investment Bank, Corporate Commercial Bank, Investbank, and Central Cooperative Bank, all of whom are participating in the complaint against Bivol. Bivol says it gave the banks a chance to respond before their publication of the cable, but none of the four now filing the complaint had any comment.
+
+The $100,000 potential penalty for publishing that cable, according to Bivol and BalkanLeaks founder Atanas Tchobanov, would be far greater than the total assets of his tiny media outlet. "It’s an enormous sum," says Tchobanov. "It will ruin us."
+
+Tchobanov argues that the banks' move to penalize him and his partner Yordanov represents political punishment for exposing evidence of the banks' corruption. "If there's any criminal case, the authorities should investigate criminal money laundering. Now instead we’re under investigation for publishing that cable," says Tchobanov. "Clearly it’s related to this nexus of corruption, organized crime and banks who cover those activities."
+
+Bivol and BalkanLeaks, after all, have made powerful enemies in Bulgaria. Using the same anonymity tools as WikiLeaks, the group has obtained leaked documents exposing judicial bribery, former members of the Soviet-tied secret police, and blackmailing between Bulgarian prosecutors. After obtaining and publishing a State Department cable on Bulgarian organized crime the group received from rogue WikiLeaks ex-associate Israel Shamir last summer, Bivol partnered with Assange's group to release the rest of WikiLeaks' Bulgaria-related cables. One of those cables accused Bulgarian prime minister Boyko Borisov of close mafia ties, a claim he vigorously dismissed in a Bulgarian TV interview as "yellow journalism."
+
+(For the full story of Bivol, BalkanLeaks and WikiLeaks, check out my book, This Machine Kills Secrets, or read the series of excerpts related to BalkanLeaks at Slate.)
+
+I've reached out to all four banks who filed the complaint against the Bulgarian journalists, but only heard back from First Investment Bank, which responded that it had pursued the complaint "with the sole purpose to protect our repute by discontinuation of the practice of communication of false information concerning our institutions and acting on the advice of an outside legal counsel" and referred me to the relevant section of Bulgaria's banking regulations.
+
+Reporters Without Borders plans to release a statement Wednesday expressing the group's support for Bivol. In a phone interview with Olivier Basille, the executive director of the group, he told me that if the banks actually sought to correct false information published by Bivol, they would have used traditional defamation law rather than the central bank's strong arm tactics, and notes that Bivol has merely published allegations from an official source. "It’s the duty for the media to investigate the way a society and the financial system functions," he says. "When there are sources of information that raise questions in the public interest, it’s their duty to publish it."
+
+The Bulgarians aren't the first to face a backlash over the leaked State Department cables, of course. WikiLeaks itself faced a financial blockade coordinated by Visa, Mastercard, Paypal, Bank of America and Western Union that deprived it of the majority of its donation sources for more than a year. Lately the group has become so strapped for cash that it's created a donation-based paywall around its content, a move that has angered some of its most steadfast supporters.
+
+Tchobanov and Yordanov say they plan to fight any charges from Bulgaria's central bank and are raising money for a legal defense through a donations page on their site. Tchobanov tells me that the media outlet currently has total savings of less than $2,000.
+
+But he believes that calling more attention to the banks' alleged corruption will do more to keep his investigative news site afloat than going silent. Tchobanov still hopes to turn law enforcement's spotlight from his site's publication to the banks themselves. "We're not going to hide, but to expose this and speak loudly," Tchobanov says. "We’re in a situation of publish or perish."
+
+—
+
+Follow me on Twitter, and check out my new book, This Machine Kills Secrets: How WikiLeakers, Cypherpunks and Hacktivists Aim To Free The World’s Information.

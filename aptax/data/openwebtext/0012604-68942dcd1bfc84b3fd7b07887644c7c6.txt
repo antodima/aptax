@@ -1,0 +1,49 @@
+Those voices in your head may be real.
+
+Researchers have developed technology that can project a beam of sound so narrow that only one person can hear it. "Directed" audio sounds like it's coming from right in front of you even when transmitted from a few hundred meters away.
+
+Inventors of the new "ventriloquist" technology say it could provide an added dimension to entertainment. The military, however, is investigating using it to confuse opponents or even inflict pain.
+
+The Audio Spotlight is one of two competing audio transmission systems that emit a one-foot square column of sound that can only be heard by people in its direct path. Joseph Pompei, a PhD student at the MIT Media Lab, decided to develop it while working at audio company Bose, which he joined at 16 as its youngest-ever engineer.
+
+Pompei, who used to play jazz trumpet in nightclubs in Chicago, became interested in how sound systems reproduce and distribute music. He thought it would be cool to "choreograph sound just like you would dancers on stage."
+
+Pompei imagined that instead of loudspeakers blaring the same cacophony of instruments to all parts of the room, it would be more interesting to selectively spotlight the soloist to the left side of the audience, while featuring the percussion up front, and then switching them around.
+
+"Sound in real life is occurring all around you. Regular speakers only go so far in reproducing an accurate environment," Pompei said.
+
+Pompei developed the first demonstration systems of the technology for installations at Sega's Joyopolis theme park in Tokyo and the Boston Museum of Science, and he's planning to start selling it commercially soon. He said museums like the system because visitors who stand in front of an exhibit can hear the appropriate audio track without being distracted by sound from other displays.
+
+The Audio Spotlight transmitters range from several inches in diameter to about 20 inches and generate a column of sound between one to three degrees wider than the transmitter.
+
+The technology could also be used to prevent fights over the car's radio tuner, Pompei said. He put several Audio Spotlights in a concept truck from Chrysler, which enabled passengers to hear their own radio stations – the kids in the back seat enjoyed heavy metal while the parents relaxed to elevator music. "It could make for much happier trips," he said.
+
+The Audio Spotlight converts ordinary audio into high-frequency ultrasonic signals that are outside the range of normal hearing. As these sound waves push out from the source, they interact with air pressure to create audible sounds.
+
+Pompei said the "non-linear" effect of air pressure modifies sound waves in a consistent fashion. He wrote algorithms that "reverse-engineered" the desired sound waves to determine the appropriate ultrasonic source signals.
+
+According to University of Texas professor David Blackstock, high-frequency signals are easier to focus, and control like a flashlight, than sounds that are within the human range of hearing, which disperse in all directions. Blackstock said ultrasonic signals "decay more slowly than lower-frequency waves" so they are easier to send farther.
+
+The Audio Spotlight emits sounds in the 60-kilohertz range, which, according to Blackstock, is well above the 20-KHz limit of human hearing.
+
+Blackstock said the first experiments to use ultrasonic sounds were conducted underwater in the 1960s, and Japanese researchers made advances in the 1980s but were unable to create a commercial application for the technology.
+
+Pompei said Audio Spotlights are currently being installed in Australia for the upcoming Fringe Festival. Pompei started Holosonic Research Labs to sell Audio Spotlights to corporations such as Kraft and Kodak, which are in the process of integrating them into information kiosks and retail displays.
+
+An alternative to Pompei's invention, which also may be commercially available soon, is American Technology's Hypersonic Sound System. The HSS system similarly converts audio into ultrasonic sound waves, and Blackstock was impressed by a demonstration.
+
+Blackstock said he heard a clear signal at about 100 meters, but then heard nothing by moving two steps out of the audio's path. "It's remarkable, a spectacular effect."
+
+American Technology president Terry Conrad said the company is going into its first mass production of chips that convert the audible sounds into ultrasonic waves in February.
+
+American Technology recently signed an agreement with the U.S. Army to develop the technology for a decidedly non-commercial use: psychological warfare.
+
+According to American Technology CTO Jim Croft, the technology could be used to confuse opponents by making them think there was someone nearby. Small transmitters could be kept out of sight, and ghost sounds could be bounced off "rocks or any reflective surface" to fool people into believing they were not alone.
+
+American Technology is also working on a stronger version of the technology called Directed Stick Radiator, Croft said. This "acoustic assault rifle" is shaped like a gun, but instead of bullets, it dispenses high-decibel sounds that would cause discomfort or even pain.
+
+Croft said the company is developing prototypes of the debilitating weapon that could be mounted on a jeep and used for crowd control. "It could be a very effective first-level deterrent," he said.
+
+Pompei, conversely, is happy to make music, not war, with his system. He said U2's Bono is a fan of the Audio Spotlight and recently flew him to Los Angeles to measure the acoustics during a Staples Center performance.
+
+He would prefer that others adopt his invention to returning to the stage himself. "I make a much better scientist than musician."

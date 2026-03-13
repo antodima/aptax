@@ -1,0 +1,7 @@
+Firefox for Maemo 1.1 RC 1 is ready to install. For this release, the focus was some UI features we didn’t have time to put in the initial release. We also used your feedback from previous releases and nightly builds to help improve the browsing experience.
+
+Some of the bigger features include:
+
+As always, we’ve provided unbranded Fennec desktop builds on Windows, Mac, and Linux. You can use these if you don’t have a Maemo device or to aid in add-on development. This is the final call for Add-on developers to update their add-ons from Firefox 1.0.x for Maemo.
+
+Note to Ovi Store Customers: If you installed Firefox 1.0.x from the Ovi Store, you will not be able to upgrade to Firefox 1.1 RC 1 (either from the N900 Application Manager or by downloading the software from Mozilla). We are working to solve this for future releases so that anyone can participate in our Beta programs. Don’t worry, though, if you got Firefox 1.0.x from either the Ovi store or directly from Mozilla, you will be updated to Firefox 1.1 (final) when it is released.

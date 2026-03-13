@@ -1,0 +1,56 @@
+After many months of hard, fun, frustrating & rewarding work, I am happy to announce the first public release of the OpenZoom SDK.
+
+What Is the OpenZoom SDK?
+
+The OpenZoom SDK is a free & open source toolkit for delivering high-resolution images and Zoomable User Interfaces (ZUIs) to the web and desktop. It is built on top of the Adobe Flash Platform which means you can use it in Flash, Flex, ActionScript & AIR projects equally well.
+
+Showcase
+
+Gigapixel Photography GigapixelPhotography.com — Dugg almost 5000 times on digg.com.
+
+Alba Water AlbaWater.com.vn — Stunning microsite for Alba Water.
+
+Is This Your Luggage? Remix of the famous IsThisYourLuggage.com. Powered by OpenZoom.
+
+Development
+
+While the development of the OpenZoom SDK originally started in Subversion on Google Code1, I have meanwhile successfully and happily migrated it to Git and GitHub.
+
+Having the OpenZoom SDK hosted on GitHub means you can browse the history, fork the project, watch its progress, download tags & branches or just quietly enjoy the power & simplicity of the Git version control system.
+
+Community
+
+The OpenZoom project has a thriving community over at Get Satisfaction with 82+ topics posted, 95+ people participating and me answering questions and addressing bugs in matters of hours.
+
+Unless there’s something confidential about your project or you plan to ask me for my bank account for donations, I promise you’ll get a quicker answer on Get Satisfaction than by emailing me.
+
+License
+
+In order to encourage a broad (ab)use of the OpenZoom SDK, I’ve added two additional licenses under which you can use it. The OpenZoom SDK is now licensed under MPL 1.1/GPL 3/LGPL 3.
+
+This licensing model was adopted from the famous Mozilla foundation and their products I love so much: Firefox and Thunderbird.
+
+Although I’m not a big fan of lawyers either, I strongly recommend you carefully read the licensing terms of the available licenses, choose the one that suits you & your project best and consult with a lawyer if you have questions. You should never assume anything.
+
+With the current licensing model I want to encourage all kinds of projects & products powered by the OpenZoom SDK while ensuring the constant evolution of OpenZoom SDK, including third-party improvements.
+
+Should your project require a different kind of licensing scheme, please contact me at daniel@gasienica.ch.
+
+Attribution
+
+Besides publishing any source code as required by the license you chose, please attribute your use of the OpenZoom SDK by creating a context menu entry with the caption About OpenZoom... linked to http://openzoom.org/. Thanks.
+
+Download & Documentation Get the latest OpenZoom SDK, including source code, documentation, SWC library and 14 examples for Flash CS3, Flash CS4, Flex & ActionScript projects. Download OpenZoom SDK (ZIP) After you’ve downloaded the SDK, please read the OpenZoom SDK API documentation.
+
+Follow
+
+Keep up with the development progress of the OpenZoom SDK through Twitter and Facebook:
+
+Donations Support the future development of the OpenZoom SDK and other OpenZoom projects with a donation:
+
+Stats
+
+Footnote
+
+
+

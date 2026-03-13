@@ -1,0 +1,43 @@
+The Ringer published an article today entitled “The NFL’s Analytics Revolution Has Arrived” by Kevin Clark. The first section of the article is a relatively interesting overview of the state of advanced analytics in the NFL. But then everything goes down hill. And where does it start to go down hill? Right here:
+
+“It is amazing,” Warren Sharp said, “how many teams anonymously follow me on Twitter.” Sharp is an engineer with his own analytics site and has been playing around with football statistics for about 20 years. He is among the top minds in football not working full time for a team.
+
+Ok. First of all, why does this read as a press release promoting Warren Sharp? Second, let’s talk for a second about who Warren Sharp is. You might remember him from this blog post (which was picked up by Slate, the Wall Street Journal, and Huffington Post) about how the “The New England Patriots Prevention of Fumbles is Nearly Impossible”. It turns out that the analysis was highly flawed, and myself and a colleague detailed the problems with the “analysis” over at Deadspin and Neil Paine over at FiveThirtyEight.com did a great job summarizing the whole kerfuffle.
+
+Sharp then basically claimed that he had been redeemed by the Wells Report, but that was also not true either. In fact, in 2015 immediately after the league implemented stricter ball handling procedures to prevent potentially deflating footballs, the Patriots still had the lowest fumble rate in the league. As Mike Lopez explains in Sports Illustrated:
+
+In any case, the 2015 season makes for an excellent out-of-sample test with respect to New England’s fumble tendencies. Although the Patriots have been accused of going crazy lengths to gain a winning edge, it seems safe to assume that any suspect ball routine could not have been a part of the game-day preparation process this season. (The NFL implemented new procedures for inspecting game balls.) As a result, if one initially made the link between the Patriots low fumble rates and deflated footballs, the natural follow-up would be to assume that New England’s fumble rates would revert toward the league average in 2015. So what happened in 2015? • The Patriots had the fewest fumbles of any NFL offense.
+
+• The Patriots had the best fumble rate of any NFL offense.
+
+• The Patriots had one of their best fumble rates of the past decade.
+
+Based on only this, it is my opinion that Warren Sharp is really not that great of a statistical analyst. And look, I make mistakes. Everyone makes mistakes. Its basically impossible to do statistics without ever making a mistake. Humans are human after all. But what bothers me so much about Sharp is that he just seems to ignore the legitimate criticisms and doubles down.
+
+But wait, there is more! In addition to this, Warren Sharp is a tout. While The Ringer generously promotes his site, Sharp Football Stats, they don’t seem to mention his other site, Sharp Football Analysis, where Sharp sells football picks to gamblers. (You can buy a season long membership for the low, low price of $250….) According to Sharp, his record, shown below, is a 59% winning percentage over 12 years, with a whopping 77% win percentage in Overs (which is somehow different than “Over Leans”).
+
+When something seems too good to be true, it usually is. There is absolutely no way he’s correctly picked 59% of games against the spread over the course of 12 years. And here’s how you can tell this isn’t real: If he was picking 59% correctly over the course of 12 years, he wouldn’t be selling the picks. He wouldn’t need to because he’s be extremely wealthy and wouldn’t need your $250 membership fee. There are a few very good professional gamblers, but you’ve probably never heard of them (Like Bill Benter, for example), and they certainly wouldn’t be selling their picks if their picks were any good because they could be making way more money betting on them (Benter made a BILLION dollars….with a “B”!). So his numbers are probably not the most truthful……
+
+In fact, Game Advisers, which tracks handicappers plays, has Warren Sharp as 16-23-1 for a negative 23.41% ROI. Not quite the same as what Warren claims.
+
+
+
+Also, apparently, he pissed someone off enough for them to start http://sharpfootballanalysistruth.blogspot.com. The blog has exactly one post:
+
+One of the links in that blog post links to an entire thread about how Warren Sharp is a scam. A poster named Dr. H refers to him as a “sleazeball hack”……..his words, not mine.
+
+And finally, a public service announcement from one of the covers.com forums:
+
+So anyway, my point is that Sharp is a tout who does, at best, sloppy statistical analysis. And yet these major media outlets are touting (see what I did there…?) him as this genius. He’s not.
+
+Anyway, back to that quote from The Ringer article. That paragraph continues:
+
+In fact, when you talk to people inside the league, some think he might be the top mind, period. Though he’s been writing on the internet for many years, he said it wasn’t until 2018 that teams started reaching out to him to discuss analytics. He says he’s heard from at least five and has done work as a consultant.
+
+While I haven’t personally asked anyone I know who works for an NFL team, I would bet everything I own that exactly 0% of the data scientists/statisticians working for NFL teams would consider this guy to be the “top mind, period“. And if I’m wrong about that, I can just take a page out of Warren Sharp’s playbook and lie about my record……..
+
+Cheers.
+
+P.S. They also mention my old friend Bill Barnwell (who is still blocking me on Twitter) in this article. I actually enjoy reading Barnwell’s stuff, but he also wrote this article once, which was a really poorly done statistical analysis for Grantland. You can read all about the shortcomings of that analysis here and here.
+
+P.P.S. I’ve added this flowchart here in case you are thinking about getting involved with a tout (via @cluelessTroll):

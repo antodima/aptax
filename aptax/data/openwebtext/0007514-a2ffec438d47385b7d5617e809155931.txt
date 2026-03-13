@@ -1,0 +1,29 @@
+Apache OpenOffice is a full suite of office applications: word processor, database, spreadsheet, presentation, and graphics. Each of them is full-featured and robust. Though not always matching Microsoft Office in terms of maximum bells and whistles, each application goes far beyond the basics in its class. Not bad for a free suite.
+
+You can start designing forms for databases entry with an auto-generated form, then customize it extensively.
+
+Apache OpenOffice is a long-standing competitor to Microsoft Office, with the roots of its code going back over ten years. It is a free, open-source product under the auspices of the well-known Apache Software Foundation, with regular updates, maintenance, and bug fixes.
+
+Like LibreOffice and OpenOffice.org, Apache OpenOffice "forked" from Oracle OpenOffice (which grew from StarOffice) in 2010. The sidebar interface was based on Lotus Symphony, which was donated to Apache Software in 2012. Despite the multiple code inputs, Apache OpenOffice feels smooth and cohesive—important in an office suite.
+
+The individual applications in Apache OpenOffice have a good level of integration. The menu and toolbar for each window are relevant to the current document, but you can always go to the "File" menu and create a new document of another type, which will then open in its own window. Including information from other applications, such as database rows in a Writer document, is not particularly difficult.
+
+Sadly, faux-Victorian prose is not within editorial guidelines for reviews.
+
+Writer offers a long list of functions: document templates, frames, mail merge, a style manager, section-based headers and footers, and much more. The sidebar docking feature introduced in Apache OpenOffice 4.0 is very useful if you have a wide monitor, as it's easy to place multiple panels so that all controls are visible and accessible.
+
+The layout and design options are flexible, but not quite at the level of Word 2007. For example, if you select a 'banded' table style, and insert or delete rows, the banding does not automatically adjust; you must select the table and re-apply the style.
+
+Tracking doughnut consumption is perhaps the best use for any spreadsheet.
+
+Base provides a functional set of database design and formatting tools. Some of the interface elements, such as query creation, are not entirely intuitive. There were some oddities that are sensible in retrospect, but don't call themselves out to a user: For example, switching a text field from "single line" to "multi line with formatting" disconnected it from the underlying database field (a long text field), because formatted text requires a binary field. I'd have appreciated a warning or error message.
+
+This points out one of the flaws with Apache OpenOffice: The documentation is sparse, and not well-aimed at non-technical users. The information on some features is barely more than the feature's name and self-evident function. The definition for the "Criteria" field of the query editor is "Specifies the criteria by which the content of the data field should be filtered," with no examples or guidelines. Writing code is more fulfilling and interesting, as an end in itself, than writing documentation, so this is a common issue with open source software.
+
+General interface responsiveness in Apache OpenOffice is good, though there's a very slight lagginess. Generally, AOO obeys standard Windows OS conventions. The look and feel are closer to XP than to Vista or 7—and leagues away from 8, for which it's tested but not yet certified—which many will consider a feature. I experienced no redraw issues, artifacting, or other oddities.
+
+Overall, I like Apache OpenOffice. The feature set includes what I expect in an office suite, and the developers have made a strong effort to make switching between applications feel smooth and intuitive. A Windows-only user who already has access to recent versions of Office will probably not be tempted unless they genuinely prefer open source for personal or financial reasons…but those who have no office suite, those who need a multi-platform (Windows, Mac OS, and *nix), and those who have only older version of Office will all find something worth checking out.
+
+The strength of the individual applications is such that Apache OpenOffice is fine even if you only need a single one of the components. You won't sacrifice significant functionality. Given that it's free, it's hard to argue against at least trying it out.
+
+Note: The Download button takes you to the developer's site, where you can download the latest version of this open-source software.

@@ -1,0 +1,59 @@
+One hundred fifteen years ago, an archeologist was sifting through objects found in the wreck of a 2,000-year-old vessel off the Greek island Antikythera. Among the wreck’s treasures — beautiful vases and pots, jewelry, a bronze statue of an ancient philosopher — was the most peculiar thing: a series of brass gears and dials mounted in a case the size of a mantel clock. Archeologists dubbed the instrument the Antikythera mechanism. The genius — and mystery — of this piece of ancient Greek technology, arguably the world’s first computer, is why Google is highlighting it today in a Google Doodle.
+
+What is the Antikythera mechanism?
+
+At first glance, the piece of brass found near the wreck looks like something you might find in a junkyard or hanging on the wall of a maritime-themed dive bar. What remains of the mechanism is a set of rusted brass gears sandwiched into a rotting wooden box.
+
+But if you look into the machine, you see evidence of at least two dozen gears, laid neatly on top of one another, calibrated with the precision of a master-crafted Swiss watch. This was a level of technology that archeologists would usually date to the 16th century, not well before the first.
+
+But a mystery remained: What was this contraption used for?
+
+The world’s first mechanical computer?
+
+To archeologists, it was immediately apparent that the mechanism was some sort of clock, calendar, or calculating device. But they had no idea what it was for. For decades, they debated: Was the Antikythera a toy model of the planets? Or perhaps it was an early astrolabe (a device to calculate latitude)?
+
+In 1959, Princeton science historian Derek J. de Solla Price provided the most thorough scientific analysis of the contraption to date. After a careful study of the gears, he deduced that the mechanism was used to predict the position of the planets and stars in the sky depending on the calendar month. A main gear would move to represent the calendar year, and would, in turn, move many separate smaller gears to represent the motions of the planets, sun, and moon.
+
+So you could set the main gear to the calendar date and get approximations for where those celestial objects would be in the sky on that date.
+
+And Price declared in the pages of Scientific American that it was a computer: “The mechanism is like a great astronomical clock ... or like a modern analogue computer which uses mechanical parts to save tedious calculation.”
+
+It was a computer in the sense that you, as a user, could input a few simple variables and it would yield a flurry of complicated mathematical calculations. Today the programming of computers is written in digital code — series of ones and zeros. This ancient clock had its code written into the mathematical ratios of its gears. All the user had to do was enter the main date on one gear, and through a series of subsequent gear turns, the mechanism could calculate things like the angle of the sun crossing the sky. (For some reference, mechanical calculators — which used gear ratios to add and subtract — didn’t arrive in Europe until the 1600s.)
+
+Scientists have learned even more about how the Antikythera mechanism works
+
+Since Price’s assessment, modern X-ray and 3D mapping technology have allowed scientists to peer deeper into the remains of the mechanism and learn even more of its secrets.
+
+In the 2000s, researchers revealed text — a kind of instruction manual — inscribed on parts of the mechanism that had never been seen before.
+
+The text — written in tiny typeface but legible ancient Greek — helped them complete the puzzle of what the machine did and how it was operated. In all, it’s astounding.
+
+The mechanism had several dials and clock faces, each which served a different function for measuring movements of the sun, moon, stars, and planets, but they were all operated by one main crank:
+
+Little stone or glass orbs that would have moved across the machine’s face to show the motion of Mercury, Venus, Mars, Saturn, and Jupiter in the night sky
+
+The position of the sun and moon, relative to the 12 constellations of the zodiac
+
+Another dial forecasting solar and lunar eclipses — and, oddly, predictions about their color. (Researchers guess that different colored eclipses were considered omens of the future. The ancient Greeks were a little superstitious.)
+
+A solar calendar, charting the 365 days of the year
+
+A lunar calendar, counting a 19-year lunar cycle
+
+A tiny pearl-size ball that rotated to show you the phase of the moon
+
+And this is pretty neat: another dial of the mechanism that counted down the days to regularly scheduled sporting events around the Greek isles, like the Olympics
+
+Again, the mechanics of this are absurdly complicated. A 2006 Nature paper plotted out a schematic of the mechanics that connect all the gears. It looks like this. Not simple.
+
+Researchers are still not sure who, exactly, used it. Did scientists build it to aid their calculations? Or was it a type of a teaching tool, to show students the math that held the cosmos together? Was it unique? Or are there more similar devices yet to be discovered?
+
+Its assembly remains another mystery. How the ancient Greeks accomplished this feat is unknown to this day.
+
+Whatever it was used for and however it was built, we know this: Its discovery changed our understanding of human history, and reminds us that flashes of genius are possible in every human age.
+
+"Nothing like this instrument is preserved elsewhere. Nothing comparable to it is known from any ancient scientific text or literary allusion,” Price wrote in 1959. “It is a bit frightening, to know that just before the fall of their great civilization the ancient Greeks had come so close to our age, not only in their thought, but also in their scientific technology.”
+
+Check out a modern reconstruction of the mechanism in the video below.
+
+Correction: The article originally misstated the timeline of events that led to the discovery of the mechanism. The wreck off the coast of Antikythera was discovered in 1900 by a group of fishermen. It wasn’t until May 1902 that the Antikythera mechanism was identified by an archeologist (today is the anniversary).

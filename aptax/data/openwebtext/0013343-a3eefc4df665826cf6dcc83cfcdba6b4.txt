@@ -1,0 +1,11 @@
+BP corporate network
+
+Find out more about:
+
+With over 1000 affiliate companies, BP controls a complex network of corporate entities. OpenOil, in partnership with OpenCorporates, developed a network of BP’s subsidiaries that aims to shed light on the corporate structure of the oil multinational, active in more than 80 jurisdictions and with ownership chains going up to 12 levels deep.
+
+Only using public disclosures that BP itself has made, OpenOil and iilab established a prototype tool and methodology that can be used to facilitate investigations into other major corporate players in the extractive industries, available under: data.openoil.net
+
+Features
+
+Click to check: for every data point in this network, we provide a reference to the source, which in the case of the BP network is always a document pulled from the company’s filings in the UK company register. Right now, our data set includes:

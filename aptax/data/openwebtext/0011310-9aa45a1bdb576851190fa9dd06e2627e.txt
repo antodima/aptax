@@ -1,0 +1,17 @@
+Abstract
+
+Purpose:
+
+We compared culture independent assessment of microbiota of the lower urinary tract in standard culture negative female patients with urological chronic pelvic pain syndrome who reported symptom flare vs those who did not report a flare.
+
+Materials and Methods:
+
+Initial stream (VB1) and midstream (VB2) urine specimens (233 patients with urological chronic pelvic pain syndrome) were analyzed with Ibis T-5000 Universal Biosensor system technology for comprehensive identification of microorganism species. Differences between flare and nonflare groups for presence or number of different species within a higher level group (richness) were examined by permutational multivariate analysis of variance and logistic regression.
+
+Results:
+
+Overall 81 species (35 genera) were detected in VB1 and 73 (33) in VB2. Mean (SD) VB1 and VB2 species count per person was 2.6 (1.5) and 2.4 (1.5) for 86 flare cases and 2.8 (1.3) and 2.5 (1.5) for 127 nonflare cases, respectively. Overall the species composition did not significantly differ between flare and nonflare cases at any level (p=0.14 species, p=0.95 genus in VB1 and VB2, respectively) in multivariate analysis for richness. Univariate analysis, unadjusted as well as adjusted, confirmed a significantly greater prevalence of fungi (Candida and Saccharomyces) in the flare group (15.7%) compared to the nonflare group in VB2 (3.9%) (p=0.01). When adjusted for antibiotic use and menstrual phase, women who reported a flare remained more likely to have fungi present in VB2 specimens (OR 8.3, CI 1.7–39.4).
+
+Conclusions:
+
+Among women with urological chronic pelvic pain syndrome the prevalence of fungi (Candida and Saccharomyces sp.) was significantly greater in those who reported a flare compared to those who did not.

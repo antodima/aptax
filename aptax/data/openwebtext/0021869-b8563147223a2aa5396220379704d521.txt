@@ -1,0 +1,19 @@
+Update 1.107
+
+Dear IL-2 Sturmovik players!
+
+Our team is proud to present you the new update 1.107. Preparing it was not an easy task, since it brings three new planes at once: Bf 109 F-2, IL-2 mod.1941 and Pe-2 series 35. In addition, there are many fixes and a number of improvements. Thankfully, we were able to finish it in time, thus delivering three new planes to Battle of Moscow owners in the end of January, as it was promised. You can learn about main features of these planes in our developer diary #117
+
+The work on the remaining Battle of Moscow content continues according to plan and the next update will bring you the final, 10th, aircraft of BoM project: German bomber Ju 88 A-4. Moscow map is closer and closer to its final look and the work on the campaign continues as well. Therefore, we plan to finish the entire project in time and release it to you this spring.
+
+Here is the change list for today patch:
+
+Main changes:
+
+1. Bf 109 F-2, IL-2 mod. 1941 and Pe-2 series 35 are available to players who pre-purchased Battle of Moscow. Those who only have Battle of Stalingrad can set them as AI controlled planes in single player or encounter them in multiplayer.
+
+2. Smoke, tracers and exhausts are now affected bywind.
+
+3. Roadside grass added.
+
+4. Random "Can't load object" error that could pop up in multiplayer when attacking ships fixed.

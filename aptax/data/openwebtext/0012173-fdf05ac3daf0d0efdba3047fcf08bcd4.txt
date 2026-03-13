@@ -1,0 +1,17 @@
+Boffins at NATO have managed to ratify, across the entire alliance, the first ever official standard for underwater digital communications.
+
+“This marks the first time that a digital underwater communication protocol has been acknowledged at international level and opens the way to develop many exciting underwater communication applications,” said the alliance in a statement.
+
+NATO’s Centre for Maritime Research and Experimentation (CMRE) had the new standard, called JANUS, ratified by all of the alliance’s 28 members in late March.
+
+It was developed over the last eight years, with the main paper describing the standard having been published (requires registration) in the journal Underwater Communications and Networking in 2014. The specification is open and “deliberately simple to allow easy adoption by legacy equipment”. More details are available here.
+
+JANUS is mainly focused on allowing underwater drones to communicate with mother ships and each other. "Robots can behave intelligently and act as a team," said João Alves, a principal scientist and project leader at CMRE. “For example, one of the robots could find some interesting feature and call the rest of the team.”
+
+“This is particularly important for search-and-rescue operations,” added John Potter, a scientist at the CMRE Strategic Development Office and one of the authors of the 2014 paper. “Autonomous vehicles are relatively inexpensive and of course unmanned, so they can be sent to do dirty, dangerous jobs.”
+
+Janus was the two-faced Roman sentry god who stood watch over doorways and portals. “That’s why it is called JANUS,” said Potter, “because this language opens the portal between two domains, two different operating paradigms, through which they can talk.”
+
+The Portuguese Navy has been working with NATO on perfecting JANUS, particularly for data exchange with submarines. For typical data movement activities, submerged submarines can either receive very low frequency (VLF) broadcasts from shore stations (but cannot transmit without surfacing) or must surface for two-way communications with nearby ships.
+
+NATO hopes that JANUS will be adopted by the civilian maritime industry as well as navies, as the paper makes clear. The alliance’s press statement gives use-case examples of scuba divers approaching the surface and needing to be aware of nearby ships and boats, or underwater survey drones communicating with oil rigs in real time. It also suggests the standard could be used “for harbour protection, maritime surveillance, mine detection, surveying offshore wind farms and pipelines, or even underwater archaeology.” ®

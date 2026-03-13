@@ -1,0 +1,38 @@
+Yuuta Banda poses for a photo with OriHime, his robot avatar. Image: OryLab
+
+When Yuuta Banda was just four years old, he suffered a car accident that left him paralyzed, connected to a respiratory machine, and confined to bed for life. But almost two decades later, he's been able to experience different places, and even find a job thanks to OriHime, his robot avatar.
+
+"At first I couldn't understand what was so great about OriHime, but I gradually learned through using it that [the robot] afforded people with a sense of presence," Banda told me in an email. "I felt a greater sense of satisfaction as I spoke with people in different places to me through the robot."
+
+OriHime, created by Japanese startup OryLab, is a portable robot about the same height as a laptop screen that acts as an avatar for a human operator. When I first saw it in OryLab's Tokyo office, it looked like a cross between a power ranger and a sea creature. Its creators argue that screen-on-wheels type telepresence devices like the one that projected US whistleblower Edward Snowden's face during a 2014 TED Talk can sometimes make it seem like you're talking with someone far away through a window. Their robot, they say, makes it feel like the person you're speaking to remotely is actually by your side—embodied through the robot.
+
+OriHime looks at the author reflected in the smartphone that is controlled by Akirahime. Image: Emiko Jozuka
+
+The startup, which has been supported by angel investors since its founding in 2012, is in the midst of securing its first round of venture capital for its product, which it wants to be used in everything from social settings like parties to serious business meetings.
+
+OryLab CEO Kentaro Yoshifuji initially dreamt up the robot when he was unable to attend school for three years owing to an illness. Years later, he met Yuki Akirahime, OryLab CFO, who shared a similar experience when she was confined to a hospital bed for six months as a high school student. The experience led her to miss out on giving a presentation in the US when she won a prize at the Japan Science and Engineering Challenge (JSEC) in 2006.
+
+"Yoshifuji and I both had a period where it was hard for us to go outside due to both our physical and psychological states," explained Akirahime. "If I had had an alter ego, then it could have gone to the US on my behalf, and I could've just given the presentation from the hospital in Japan."
+
+OriHime the robot demoes one of its ten poses. Image: Emiko Jozuka
+
+Banda, who connected with OryLab CEO Kentaro Yoshifuji via Facebook, has been using the robot for almost two years. He currently performs secretarial duties full-time for OryLab from his home in northern Japan. To control his robot counterpart in the Tokyo office, Banda either speaks directly into a microphone or selects commands by moving a pen connected to a mousepad with his chin.
+
+I'd really like this robot to be used by people [who can't move] owing to incurable diseases, and for it to provide these people with a sense of purpose within society"
+
+The Wi-Fi-connected, battery-powered, and app-controlled robot has an onboard camera that acts as the eyes for its human operator, flippers that move to reflect its user's moods, and a microphone that projects the user's voice. OriHime—whose name comes from a fairytale about a goddess who can only see her beloved, Hikoboshi, once a year—currently has ten moves that range from a nod to show agreement, a side-to-side head movement that means no, and a flipper tap denoting a special phrase (nandeyanen) unique to the Kansai region in the south of Honshu, Japan's main island, to indicate affectionate disagreement when someone says something a bit dumb.
+
+"I'd really like this robot to be used by people [who can't move] owing to incurable diseases, and for it to provide these people with a sense of purpose within society," said Banda, who mentioned how people in similar situations to him could also find a way to enter the labor force through the robot.
+
+The idea of telepresence robots has always been big in Japan, with veteran researcher Susumu Tachi spending over 30 years perfecting his concept, roboticist Hiroshi Ishiguro giving lectures via a lifelike doppelganger android, and entrepreneur Tatsuki Adiyana creating a VR headset that lets people see the world through the eyes of an avatar teddy bear. Yet these ideas have yet to make it commercially—one thing OryLab is trying to change with OriHime.
+
+So far OryLab—which has nine employees—has made close to 100 OriHime robots. Fifty have been rented out; some for free and others at a charge of 300,000 YEN ($277) per month. The rest are undergoing testing. The company is aiming to have made at least 300 robots by the end of this year, and want to produce close to 1,000 in 2017. It also wants to bring the robot's rental fee down to 10,000 YEN ($92) per month. Akirahime explained that the startup prefered renting out its robots as opposed to selling them as the software is constantly being improved based on user feedback.
+
+OryLab co-founder and CFO Akirahime with OriHime in Tokyo. Image: Emiko Jozuka
+
+For Banda, who initially worked his way from an internship to a full-time position at OryLab, OriHime has levelled his experience of the workplace, making it a more democratic space where all can participate.
+
+"Even now, I'm having my presence felt in OryLab's office in Tokyo through OriHime. I take part in meetings, attend lectures with the team," said Banda. "I'm really just in the middle of making up for 20 years worth of hospitalization and experiencing the world."
+
+Cool Japan is a column about the quirky and serious happenings in the Japanese scientific, technological and cultural realms. It covers the unknown, the mainstream, and the otherwise interesting developments in Japan.
+

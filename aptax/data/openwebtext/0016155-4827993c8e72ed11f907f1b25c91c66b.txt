@@ -1,0 +1,144 @@
+Taking RPG to the Next Level #SRPG
+
+Greetings Lords, this is Fantasy War Tactics Support Team!
+
+We are here to announce the Patch note for Aug.24 (Wed).
+
+
+
+
+
+■ Patch Summary
+
+1. Patch Period: Aug.24.2016 (Wed) 23:00 p.m. ~ Aug.25.2016 (Thu) 02:00 a.m. (Approx. 3 hrs) UTC+0
+
+2. Patch Type: Build Update
+
+3. Version: AOS 534.2 / iOS 0.534
+
+
+
+■ Patch Details
+
+[Update Instructions]
+
+1. After the server maintenance, there will be an update related data patch. To avoid unnecessary phone data usage, we recommend you to use the “Wi-Fi”.
+
+2. If the game doesn’t update itself on login, please update the game through the market “Manually”.
+
+3. If you only see [Open] button instead of an [Update] button in Google Play Store, use the “Settings > General > Apps > Play Store > Clear Data Storage” function and try again.
+
+
+
+
+
+[Added Game Contents]
+
+1. Added September Tower of Dawn
+
+- Period: 09.01(Thu) 00:00 ~ 09.30(Fri) 23:59 (UTC +0)
+
+
+
+2. Added attendance reward for September
+
+- Period: 09.01(Thu) 00:00 ~ 10.01(Sat) 04:59 (Local Time)
+
+
+
+
+
+
+
+
+
+[Events]
+
+1. [Yeka’s Jewel Box] Package available for purchase
+
+
+
+
+
+
+
+(1) Period: Aug.25.2016 (Thu) After Maintenance ~ Sep.7 (Wed) 13:59 (Local Time)
+
+(2) Purchase Detail: From [Lobby], click [Package] on the top left corner to purchase [Yeka’s Jewel Box]
+
+(3) Please Note: Can be purchased 2 times per account
+
+(4) Package Detail
+
+
+
+
+
+
+
+
+
+2. Event Shop: ‘Medal of Passion’ Shop Period will be changed.
+
+
+
+
+
+[Improvements]
+
+1. Library in the Sky: Defense Mode has been improved.
+
+- Stages have been reduced for the second dungeon from 200 to 50.
+
+- Stage Clear Rewards have been changed according to the stage reduction.
+
+
+
+
+
+
+
+
+
+- Movement AI for Heroes in ‘Library in the Sky’ has been improved.
+
+
+
+
+
+[Changed Details]
+
+1. Seal (Disarm) Immune Effect has been added to the boss monsters in Dark Fortress.
+
+2. Seal (Disarm) Immune Effect has been added to the monsters in Library in the Sky.
+
+
+
+[Bug Fix]
+
+1. Gold reward value will be displayed correctly in ‘Dungeon result’ screen. (‘Per grade gold reward’ will no longer be added to the actual amount.)
+
+2. Typos and colors of Xigncode Pop-up message (displayed when incomplete program is detected) have been fixed.
+
+3. ‘Mustache Island’s Completion Rate 100%’ achievement will be completed without an error.
+
+4. Set Item: Persona's Trick set effect will be fixed.
+
+5. ‘Some Heroes not being able to move in Dungeons While in Auto-mode’ error has been fixed.
+
+
+
+[iOS – Last week’s AOS Selective Build Update contents are included in this week’s iOS Build]
+
+1. Add BGM for Library in the Sky.
+
+2. Words will be displayed correctly when entering guild raid with only 4 members.
+
+3. 'Library in the Sky' Menus will be displayed correctly for English, Traditional Chinese and Thai users.
+
+
+
+Thank you.
+
+
+

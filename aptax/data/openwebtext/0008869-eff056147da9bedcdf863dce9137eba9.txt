@@ -1,0 +1,31 @@
+MyHDL Interfaces Example
+
+With the next release of MyHDL, version 0.9, conversion of interfaces will be supported. In this context an interface is any object with a Signal attribute. This can be used to simplify connection between modules and port definitions. For example, if I want to define a simple memory-map bus, the Signals for the bus can be defined as follows:
+
+class BareBoneBus: def __init__(self): self.wr = Signal(False) self.rd = Signal(False) self.ack = Signal(False) self.rdat = Signal(intbv(0)[8:]) self.wdat = Signal(intbv(0)[8:]) self.addr = Signal(intbv(0)[16:])
+
+The interface definition can be used to connect the bus between different modules (interface the modules). To demonstate the above as an interface, I am going to invent a convoluted example. The example is a small system that contains some buttons and LEDs (majority of FPGA dev boards have these). When a button is pressed a BareBoneBus (bbbus) bus cycle will be generated to read the LED register and invert the value and write the inverted value back to the LED register.
+
+Obviously, this system achieves its goal: invert the LEDs, the hard way! This is ok, the example is pedagogical.
+
+Often it is advantageous to write a test before implementing the module (test driven design, TDD). Before jumping to the interface usage, here is the meat of a test.
+
+@instance def tbstim(): reset.next = reset.active yield delay(10) reset.next = not reset.active yield delay(10) buttons.next = 1 for _ in range(8): yield clock.posedge assert leds == 0xFF buttons.next = 0 yield delay(10) buttons.next = 0x1F yield clock.posedge buttons.next = 0 for _ in range(8): yield clock.posedge assert leds == 0 print("*** TEST PASSED ***") raise StopSimulation
+
+The test verifies the LEDs invert when the button is pressed. For this example I did not simulate an “actual” button press (with the signal bouncing around like a two-year old after a nap) but the design does debounce the buttons a little. If you load the design on a board you will see it acts as expected.
+
+On a side note, this design can easily be loaded on a board, simply clone (or fork) the example repository and run the compile_design.py script. This requires the myhdl_tools pkg and currently only supports a small number of boards. Board definitions are easy to add, feel free to submit pull requests with additional boards.
+
+Four components are needed: memory-mapped bus (defined above), register based LED driver, button state-machine to drive a bus cycle, and the top-level. The following are the different modules.
+
+Top-Level and LED
+
+Button
+
+The interfaces remove the complexity (and carpal tunnel) involved to connect (interface) modules. Instead of having to list the bus signals individually for each module they are encapsulated in the interface. This is similar to SystemVerilog (SV) interfaces but a magnitude of order improved (and this is an under statement). My experience with SV interfaces has ranged from no synthesis support to incomplete and incompatible support in the various tools.
+
+Because the MyHDL interfaces convert to standard Verilog and VHDL the interfaces are supported by the tools.
+
+This example is trivial, those in search of advanced examples see the modules in this project. One of the great features with cores defined in the mentioned project is they are bus agnostic, a bus (as long as it meets the minimum requirements) can easily be swapped out (depends only on which bus is passed to the module). This is truly reusable cores.
+
+The MyHDL interfaces simplify the development of complex digital systems and are powerful for designing reusable IP (i.e a big win). This example is available @EDAPlayground. It is easy to experiment with different interfaces in MyHDL.

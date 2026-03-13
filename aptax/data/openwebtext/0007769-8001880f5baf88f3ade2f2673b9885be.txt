@@ -1,0 +1,59 @@
+Kinnard Hockenhull is the founder of BitBox, a US-based exchange and provider of bitcoin-related services. The company is FinCEN registered and BitBox was accepted into the most recent class at Boost VC, a venture capital firm and startup incubator located in downtown San Mateo, California.
+
+Boost VC’s Adam Draper has invested in Coinbase and has a focus on bitcoin-based businesses: of the 17 start-ups in Boost VC’s current summer class, seven are bitcoin-related startups.
+
+Participants in the incubator such as Hockenhull live and work on the same block, which has its own living space in the form of a renovated hotel and is located across the street above Draper University, an affiliated school that focuses on entrepreneurship and accepts bitcoin for tuition.
+
+During my visit to Boost, I talked with Hockenhull and heard his perspective on Mt. Gox, regulation and what the future of bitcoin might look like.
+
+CoinDesk: Are you seeing a lot of business with what has been going on with Mt. Gox?
+
+Kinnard Hockenhull: It’s really hard to say. There’s no way for us to do analytics on that sort of thing. We did conduct a survey and we found that most of our users have used one other bitcoin exchange before. It’s probably not always Mt. Gox, but my guess is more often than not, it is.
+
+What is your competitive advantage as a bitcoin exchange?
+
+KH: That’s kind of complicated and that’s where my job gets very difficult because we’re not actually an exchange. Being an exchange is just one of the things that we do. Some of the other things we are doing are a little bit more nascent and are in the works. From the beginning, our intention has been to build a firm that is vertically integrated into the economy. The reason why we chose to do an exchange first is one of the problems we saw was that people needed to get bitcoin.
+
+One of the biggest problems in bitcoin is still actually obtaining it.
+
+KH: There are things going on here at Boost that are going to make getting bitcoin a lot easier. We’re working with Gliph (another Boost startup), for example, to try and make it easier.
+
+You indicate on your website that you are FinCEN compliant. What does that actually entail?
+
+KH: You basically have to go to the FinCEN website and register as a money transmitter.
+
+That’s it?
+
+KH: It’s actually a fairly straightforward process. The complexity comes in on the state level, if the states do decide to consider bitcoin exchanges as money transmitters. There is a huge misconception that just because you’re a money transmitter on the federal level that doesn’t make you one on the state level. That’s where the difficulty and the massive regulatory costs come in.
+
+Because you’d have to do something for every single state, based on whatever their laws are.
+
+KH: Right, and pay a lot of money.
+
+Is that a threat?
+
+KH: Well, I think that I wouldn’t call it a threat, but I think it’s very much an impediment to doing business. Especially for startups. So coming up, for me, is what we estimate to be a $1.5 million cost to get money transmitter licenses in the states where it’s required, which is kind of absurd.
+
+Just to start a business.
+
+KH: Right, exactly. We’re not doing that much business yet. And the way the laws have been written, they are not commensurate with the amount of business that you’re doing. Even if you’re just doing $1,000 of business, you still need to go and get the $100,000 bond. So there’s a little bit of a disconnect there.
+
+You introduced me to the company Standard Treasury. Banks are into something like that, aren’t they?
+
+KH: Standard Treasure is still new. They just had a demo day a few weeks ago. So, we’ll see. But yes, hopefully they do like it, because otherwise dealing with them (banks) will be like hopping on a time machine. For example, the Internet Archive Credit Union: while they were very friendly to bitcoin companies initially, their technology was not a pretty sight.
+
+It was old?
+
+KH: Yes. It presents problems when you’re trying to do a service at scale. When you’re doing hundreds of deposits a day, or potentially more, you can’t enter them all by hand and provide a good service to your clients. The interfaces that exist right now broadly across the banking industry are not sufficient.
+
+Why wouldn’t a bank just hire someone like Charles Lee, the founder of Litecoin, and build a system just like Bitcoin inside of the bank?
+
+KH: I think that there is the potential for that sort of thing. I’ve actually talked to some people at the US Treasury about something called Fedcoin but what it really comes down to is that bitcoin is a currency of choice and people will only use it if they find value in it. So I think there are certain issues that could come up as a result of a government having an unfair advantage.
+
+Do you think that bitcoin is actually something that I’m going to be able to go down to the store and use without having to think about it? Or is the banking system going to go, “This is a good idea, let’s use that money-moving component of it”?
+
+KH: Banks may not have that choice. Most of the world’s population at this point is unbanked. And more and more of these people are going to have cell phones. They aren’t going to need a bank. They aren’t going to ever imagine getting on the time machine and going back to the period where they would need a bank. Africa is probably the best example.
+
+[All of the Boost VC startups will be having their demo day on September 19. Thanks to Kinnard Hockenhull of BitBox for taking the time to give this interview. – Ed]
+
+What do you think about bitcoin and the banking industry? Do you think that banks and bitcoin can coexist? What about the challenges that bitcoin startups face when working with the banking industry?

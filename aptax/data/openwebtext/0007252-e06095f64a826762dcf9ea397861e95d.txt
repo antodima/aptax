@@ -1,0 +1,25 @@
+Have you been having trouble casting videos or other content to your Chromecast or Android TV device lately? You're not alone - we've been getting tips for the last day from all over the Android world about casting failures, and based on threads on Reddit, XDA, Google's support forums, and even NVIDIA's SHIELD forums, the issue has been affecting hundreds and possibly thousands of people. Various culprits have been suspected, from a recent Marshmallow update for the Nexus Player to compatibility tweaks for the new Chromecast model. According to a Reddit user claiming to be a member of Google's Cast on Android TV team, it isn't either of those.
+
+Luckily there's a quick solution, at least for Android TV users: just install the latest version of the Cast Receiver app to fix it. Updated APKs for both standard ARM devices and x86 hardware (Nexus Player) have been posted to the Play Store. You might not see the new version of the app right away thanks to Google's usual staggered release, but civic-minded users of our sister site APK Mirror have already posted both of them for others to manually download. You should see casting return to normal after the update. Of course there's no way to manually update a Chromecast, but we're expecting to see an automatic update come for both the old and new versions very soon.
+
+Here are the downloads, ARM followed by x86 - you only need the x86 download if you're on the Nexus Player. If you've never installed an Android TV APK manually before, download ES File Explorer from the Play Store. It's compatible with Android TV and includes a cloud storage tool for Google Drive and Dropbox.
+
+Download (ARM)
+
+The APK is signed by Google and upgrades your existing app. The cryptographic signature guarantees that the file is safe to install and was not tampered with in any way. Rather than wait for Google to push this download to your devices, which can take days, download and install it just like any other APK.
+
+File Name: com.google.android.apps.mediashell_1.16.45911-459111_minAPI21(armeabi-v7a)(nodpi).apk
+
+Version: 1.16.45911 (459111)
+
+MD5: d53d6ad55a8ce1c67f8eb184be8a4ce4
+
+Download (x86)
+
+The APK is signed by Google and upgrades your existing app. The cryptographic signature guarantees that the file is safe to install and was not tampered with in any way. Rather than wait for Google to push this download to your devices, which can take days, download and install it just like any other APK.
+
+File Name: com.google.android.apps.mediashell_1.16.45911-459112_minAPI21(x86)(nodpi).apk
+
+Version: 1.16.45911 (459112)
+
+MD5: 0b9434cd5c101d6ac307bc7a44e3b9eb

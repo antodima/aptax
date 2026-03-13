@@ -1,0 +1,21 @@
+Facebook ads are typically meant to sell you something. Tracking whether or not they actually work can be tricky, since people use Facebook on lots of different devices and often shop somewhere else altogether — like in an actual, physical retail store.
+
+To fix that problem, Facebook on Tuesday released an ad update specific to offline shopping. Facebook advertisers can now include an interactive map displaying their physical store locations as part of a carousel ad so users can find, and maybe even visit, the actual stores.
+
+Facebook will then use the phone’s location services to track how many users who saw the ad actually visited the store. Advertisers will then get that data to see if their Facebook ads attract shoppers to their brick-and-mortar stores.
+
+The final piece is connecting these shoppers with in-store purchases, which Facebook also wants to do. A new Facebook API, called the Offline Conversions API, works with a number of in-store sales systems from companies like Square and IBM to match their customer data with Facebook’s advertising data. The goal is to try and connect your in-store purchases back to an ad you may have come across in News Feed.
+
+The obvious incentive is that if Facebook can prove its ads drive sales, it will be able to sell more of them. And while lots of consumers shop online, most shopping still happens in brick-and-mortar stores. The U.S. Census Bureau found that e-commerce retail sales accounted for less than 8 percent of all retail spending in Q1 2016.
+
+So even though Facebook still wants to drive online sales, offline sales aren't bad business either.
+
+Whether or not these ads will actually work, or how accurately Facebook will be able to track them, is still a mystery. Last summer the company announced it was handing out beacons to retailers in the hopes of sending users info about those retailers as they walked past them.
+
+This new retail ad effort is not related, said Maz Sharafi, director for monetization product marketing at Facebook, who said that the beacon effort was about disseminating information, like reviews from your friends, but not advertisements. But Facebook clearly has interest in connecting with your local retailers in the real world, whether these efforts are intertwined now, or simply down the road.
+
+Update: Facebook isn’t the only company trying to get this offline purchase data, of course. Google is also measuring in-store visits, and has been for some time. Its employees want to remind you of that.
+
+Google's measured over 1B Store Visits in the 18 months since we've launched. Welcome to the store visits party @FB. https://t.co/jmWSi28Nfw — Jason Spero (@Speroman) June 14, 2016
+
+Google has far greater local data for advertisers and than anyone else, which is why Facebook’s efforts around local matter to Google. Local search results are an important part of Google’s business! So you can bet Google is watching Facebook’s moves closely.

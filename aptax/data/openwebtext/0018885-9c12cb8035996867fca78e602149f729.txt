@@ -1,0 +1,85 @@
+Why Bitcoin Will Get Scaling Without Segwit or Large Blocks
+
+Jimmy Song Blocked Unblock Follow Following Feb 20, 2017
+
+If you’re like me, you’re pretty sick of the bitcoin scaling debate. On the one side, you have the big blockers who want 2MB blocks, entertaining the notion of a network fork to do so. On the other, you have the small blockers, who want to keep the 1MB block limit, but add more scaling through segwit, lightning network and so on. This debate has been going on for literally, years, and there really isn’t an end in sight. Segwit signalling began back in December, and hasn’t even reached 30% of mined blocks signaling (95% is required). Similarly, the current favorite among big blockers is Bitcoin Unlimited, which similarly has consistently less than 30% of mined blocks signaling (it needs 75%).
+
+The reality of the situation is that neither side are going to reach their goals and given that this split in the community has lasted a few years already, I don’t see this being resolved anytime soon. What’s curious to me is that neither side really is planning on anything but winning. The big blockers seem intent on getting 2MB blocks, breaking the stranglehold that Core has on development and move on to even larger block sizes in the future with a hard fork. The small blockers seem intent on crushing the dangerous hard-fork intentions of the Bitcoin Unlimited folks, get Segwit out and work on stuff that depend on Segwit like Schnorr signatures and the Lightning Network. Essentially, both sides seem to be planning for a parade when a stalemate for years seems like the much greater possibility.
+
+This is why I’m writing this article. I’m going to go through a thought experiment of what will happen in a future where neither side wins (hint: that’s the most likely result at this point). Note that this is mainly a thought experiment and the things I am speculating about may or may not come to pass.
+
+Feeeeees!!!
+
+If you haven’t heard by now, there are a lot of transactions floating in the mempool that don’t seem to be getting into blocks. The main complaint of the big blockers is how hard it is to use bitcoin when their transactions aren’t confirmed for 12 hours or more. The usual response by small blockers is something like “then you should get miners to signal for Segwit”, which usually devolves into another small blocker vs. big blocker shouting match.
+
+At this point in bitcoin’s history, the fees for a 250 byte transaction are about $0.50. Now you may say this is too expensive or too cheap, but one thing you can’t deny is that fees have gone up compared to last year. This is largely due to more transactions that want to get in, but having fees not high enough. This market of transactions that need inclusion in blocks and what they should pay is what bitcoiners call the fee market.
+
+Many people have speculated that the fees will just keep going up linearly as more and more transactions get stuck, more and more transactions stay in the mempool and so forth and that we’d be facing $5+ fees in a few years’ time. This may happen, and though I don’t know the future, allow me to map out what I think is the most logical sequence of events that flow from our current situation.
+
+At some point, even with 1MB blocks and no Segwit, transactions will move dramatically off-chain. How is that possible without Segwit or lightning network, you ask? First, notice that a lot of transactions already happen off-chain. Xapo claims that they do more off-chain transactions than on-chain. Coinbase, Localbitcoins, Purse.io, most bitcoin exchanges and services have some type of off-chain transactions service already.
+
+A significant number of the on-chain transactions are actually between these services. In a typical example, perhaps someone wants the Purse.io discount and goes to Coinbase to move from dollars to bitcoins, transfers that to the Purse.io wallet and buys something from Amazon. There is one on-chain bitcoin transaction in this scenario, one between Coinbase and Purse that probably happens many times a day.
+
+A Modest Improvement
+
+Once fees are high enough and transactions between them frequent enough, Coinbase and Purse will want to form a bilateral agreement. For example, Purse.io can open a business account with Coinbase where they can deposit or withdraw bitcoins. Whenever some bitcoin is being sent out from Coinbase, Coinbase can ask Purse, hey, is this an address you control? If so, Purse can respond with cryptographic proof that it does and instead of putting that transaction on chain, Coinbase can simply credit Purse.io’s account and let Purse.io know so they can credit the customer. No need to transfer on-chain, no need to wait for confirmations, no money spent on fees, and instant credit of bitcoin on Purse for the customer.
+
+Notice that everybody wins in this scenario. Coinbase gets to keep bitcoins on its system, Purse gets to credit the customer instantly and the customer doesn’t have to pay any fees on chain nor leak more privacy by having the transaction on chain. The same thing can happen for transactions going in the other direction. When someone is sending bitcoins out of Purse, Purse can ask Coinbase, is this an address you control? If Coinbase sends back cryptographic proof that it does, Purse can ask for a debit to its account at Coinbase and credit the account associated with the address instead of an on-chain transaction. Again, there is no transaction necessary on the blockchain, no fees spent, no need to wait for confirmations for the customer. In short, a win for everybody.
+
+Now every once in awhile, it would be in Purse’s interest to withdraw large balances from Coinbase on-chain so that Purse doesn’t risk losing bitcoins should Coinbase go under. Similarly, it would be in Coinbase’s interest to demand Purse deposit some bitcoins when the balance is low, but all three of Coinbase, Purse and the customer transferring between them get the benefits of such an arrangement.
+
+Notice that if there’s significant volume between Coinbase and Purse, you can essentially compress many off chain transactions into a single on-chain transaction. If these two companies typically do 1001 transactions per day back and forth on-chain before this system and settle instead on the blockchain once per day, the savings per day is 1000 fees, or about $500/day at current transaction fee rates. Such an arrangement would also relieve transaction congestion on-chain, so it’s not only a win for the three parties here, but also for the entire Bitcoin Network!
+
+If this sounds familiar, it should. It’s basically what bidirectional payment channels are in bitcoin, except we’re making our own ad-hoc payment channel using an account at Coinbase instead of using bitcoin’s more restrictive and complicated, though more secure, payment channel. Furthermore, the agreement between these two companies can have loan agreements should a balance fall below 0, legal contracts to protect each company and perhaps even insurance should one party fail in some way. In other words, such a bilateral agreement is a lot more useful and tailored to the needs of the companies involved than a bidirectional payment channel is.
+
+So why hasn’t this happened already? Perhaps it has and we don’t know since such transactions would by definition be off-chain. More likely, however, is that the fees are not high enough where it’s worth it for companies to make such agreements, not to mention the cost of updates to their software to make this happen. As fees get higher, we can expect agreements like this between popular bitcoin services to put downward pressure on fees as more transactions start happening off-chain.
+
+The Start of a Network
+
+Now as more companies agree to bilateral agreements, someone will notice that if A has a bilateral relationship with B and B has a bilateral relationship with C, A can send or receive bitcoins to C using B off-chain without a direct bilateral agreement between A and C. B may or may not agree to cooperate, and in order to incentivize B to cooperate, A and C should agree to pay B something lower than the on-chain cost of the transaction.
+
+In fact, the bilateral agreement path can be fairly long. If A has a bilateral relationship with B, B with C, C with D and D with E, A can do off-chain transactions with E if B, C and D all agree to facilitate the transaction for a cost lower than the on-chain cost. The bilateral relationships form a network of relationships where any one participant can send to any other connected participant.
+
+If this sounds familiar, it should. This is how the Lightning Network is supposed to work, except the relationships I’m describing are based on ad-hoc bilateral agreements. And indeed, some sort of ad-hoc routing through a network of bilateral relationships like this will be the obvious next step so A can send to C without having a bilateral agreement in place.
+
+The Inevitable Consolidation
+
+As the network of bilateral relationships grows, the natural incentives for each new participant will be such that they will want bilateral relationships with parties that are well-connected, that is, they’ll want to have bilateral relationships with companies that have more bilateral relationships with others. In general, companies will want to open as few bilateral relationships as possible (each bilateral relationship has a cost), but will want each bilateral relationship to route to the most nodes as possible.
+
+The incentives then naturally grow towards a specific network topology called a hub-and-spoke network, where a large number of nodes (spokes) have a direct relationship with a central node (hub). This minimizes the number of bilateral relationships (1 per spoke) and maximizes the network reach (access to the entire hub-and-spoke encompassing at most 2 bilateral agreements). You can think about hub-and-spoke transactions as two customers of a bank that want to transfer money between each other. The bank facilitates a transfer by moving money on their ledger from one customer’s account to another, sometimes for a fee, but sometimes free. In fintech parlance, this central hub is what’s called a clearing house. Such a clearing house, instead of transferring cash would transfer bitcoins off-chain.
+
+The benefits of this arrangement would be proportional to the fees on-chain. You would have instant transfers between most services, no on-chain record and most importantly no fees on-chain. Notice that this is a win for the bitcoin services, for the customers and for the Bitcoin Network. And this should reduce the congestion still further as really the only transactions left are to/from bitcoin services not on this network and user wallets.
+
+The main drawback to hub-and-spoke is that there’s a central authority/single point of failure since the hub suddenly becomes a chokepoint for regulation, which brings us to the next evolution.
+
+The Final Step
+
+At some point, the risk of a centralized network will become an issue, perhaps even before the hub-and-spoke network comes to pass. But how can we take out centralization from a network? How can we have a ledger that’s not controlled by a single company? In order to mitigate the risks of a central authority, what the collective of bitcoin services will want is a distributed ledger that can keep track of who has how much and be able to transfer value quickly and not in the control of a single entity. In essence, they will want a multi-lateral agreement providing a permissioned ledger without a central authority.
+
+If this sounds familiar, it should, because it’s what’s been unfairly mocked as nonsensical: private blockchains. Private blockchains are itself a big topic, but the main features are that there is no central authority and there is a ledger based on cryptographic proofs.
+
+The main difference between this private blockchain and bitcoin is the way immutability of the ledger is handled. In Bitcoin, proof-of-work mining is used. In this private blockchain, we’ll most likely use signatures from a supermajority of members. Using signatures as the basis of immutability is feasible since the participants are known and the agreement underwritten by insurance and/or backed by legal contracts. Each member of the consortium will be able to add money to their account on this ledger by sending bitcoins to a multisig address. Each member will be able to withdraw on-chain by having the supermajority sign off, providing an on-ramp and off-ramp between this chain and Bitcoin.
+
+The main benefit of this second-layer network will be frequency, reliability and scalability. Since this second layer network is controlled by the members of the network, the network can scale to the limits of the members’ hardware and bandwidth capacity. Classes of possible problems like selfish mining and indeterminable waits for confirmation disappear since there’s no proof-of-work. And given that the costs of running this network are likely much less than paying transaction fees, each member can do a very large chunk of business on this chain.
+
+And this won’t be a bad thing. Most transactions on credit cards or banks are on systems that most consumers have no clue about. What’s important is that this ledger has a lot of desirable properties (no central authority, permissioned transfers of ownership) and uses the bitcoin network for net amounts. What’s more, this second-layer network will relieve the congestion on the Bitcoin Network massively and allow the number of transactions to scale without requiring any scaling changes to the bitcoin network.
+
+The Future
+
+What I’ve described is a private blockchain for a commercial bitcoin network. It’s the natural progression of the status quo because it will give both the small blockers and big blockers what they want, though not in the form of changes to bitcoin. Small blockers get to avoid a hard fork. Big blockers get a network that’s much faster and has more transaction capacity. This scenario may not be what each side wants now, but a future where bitcoin is the bottom layer of a larger system seems very likely.
+
+What’s interesting is that there’s no reason why the same type of distributed ledger can’t work for other assets besides bitcoin. Bitcoiners are getting frustrated at $0.50 fees per transaction and 3 hours to settle, imagine how securities people feel paying $10 per transaction and 3 days to settle! The evolution of many financial transaction networks has followed a very similar path to what I’ve been predicting for bitcoin in this article.
+
+Conclusion
+
+So what does this mean for bitcoin?
+
+First of all, the doom and gloom coming from both sides of this debate about how we need to scale right now is a lot of hot air. Large demand is often the fertile ground from which innovation sprouts. Demand for block space will allow businesses and individuals a chance to create solutions.
+
+Second, on-chain fees will not be increasing linearly. If anything, there will be times when transaction fees go down, not up, as large numbers of transactions move off-chain. Thus, any predictions of future transaction fees are speculative at best and we should not be paying much attention to them.
+
+Third, the dream of paying for everything on-chain is dead. No, you’re not going to pay for your coffee every morning with an on-chain transaction. There will be more convenient services designed with better user experiences in mind that use bitcoin to transfer value off-chain, though.
+
+In short, bitcoin is maturing and the market is starting to define what bitcoin is going to be. I’m sure there are people on both sides of the debate that won’t like what it’s going to become, but that’s what you get with a decentralized currency.
+
+Want to get curated Technical Bitcoin News? Sign up for the Bitcoin Tech Talk newsletter!

@@ -1,0 +1,55 @@
+Get the biggest daily news stories by email Subscribe Thank you for subscribing We have more newsletters Show me See our privacy notice Could not subscribe, try again later Invalid Email
+
+The faces of murderers or rapists could be 'recreated' from DNA left at the scene of the crime, according to new research.
+
+Scientists have identified the genes that shape the extraordinary variation in the human face.
+
+Many features, such as nose size and face width, stem from specific mutations, say researchers.
+
+Previous studies have suggested they are controlled by genes , but this is the first to shed light on how variants contribute to the range of different forms we see.
+
+The findings published in PLOS Genetics may also help researchers to learn how facial birth defects arise.
+
+And they could even have applications in forensics, helping police construct more accurate faces of dangerous criminals being hunted for murders, rapes and robberies.
+
+The discovery of the genes that determine human facial shape could provide valuable information about a person's appearance using just DNA left behind at the scene of a crime.
+
+They are based on a DNA analysis of 20 facial characteristics measured from 3D images of 3,118 healthy volunteers of European ancestry and almost a million mutations, or SNPs (single base pair) variations.
+
+(Image: Getty)
+
+Dr John Shaffer, of the University of Pittsburgh , said: "There is a great deal of evidence genes influence facial appearance.
+
+"This is perhaps most apparent when we look at our own families, since we are more likely to share facial features in common with our close relatives than with unrelated individuals.
+
+"Nevertheless, little is known about how variation in specific regions of the genome relates to the kinds of distinguishing facial characteristics that give us our unique identities, e.g., the size and shape of our nose or how far apart our eyes are spaced.
+
+"In this paper, we investigate this question by examining the association between genetic variants across the whole genome and a set of measurements designed to capture key aspects of facial form.
+
+"We found evidence of genetic associations involving measures of eye, nose, and facial breadth.
+
+"In several cases, implicated regions contained genes known to play roles in embryonic face formation or in syndromes in which the face is affected.
+
+"Our ability to connect specific genetic variants to ubiquitous facial traits can inform our understanding of normal and abnormal craniofacial development, provide potential predictive models of evolutionary changes in human facial features, and improve our ability to create forensic facial reconstructions from DNA."
+
+Facial width, the distance between the eyes, the size of the nose and the distance between the lips and eyes all had statistically significant associations with certain SNPs.
+
+The researchers also considered results from two similar studies and confirmed certain previous findings.
+
+Until recently, virtually nothing was known about the genes responsible for facial shape in humans.
+
+(Image: Getty)
+
+Added co author Dr Seth Weinberg: "Our analysis identified several genetic associations with facial features not previously described in earlier genome wide studies.
+
+"What is exciting is many of these associations involve chromosomal regions harbouring genes with known craniofacial function.
+
+"Such findings can provide insights into the role genes play in the formation of the face and improve our understanding of the causal factors leading to certain craniofacial birth defects."
+
+Several of the genetic regions contributing to face shape detected contain genes known to play a role in facial development and abnormalities.
+
+In the future, the scientists hope to identify genetic risk factors that lead to anomalies such as cleft lip and palate.
+
+But they warned it is important to keep in mind these findings likely represent only a small fraction of the genes influencing the size and shape of the human face.
+
+Many of the genes influencing facial features are likely to have small effects, so successfully mapping a large number of these genes will require much greater sample sizes and a more comprehensive approach to quantifying those of interest.

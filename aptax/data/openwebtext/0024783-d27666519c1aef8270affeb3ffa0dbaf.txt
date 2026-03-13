@@ -1,0 +1,51 @@
+Zeronet Wants to Replace the Dark Web by Marrying Bitcoin to Bittorrent Over Tor
+
+A little over two years ago a Hungarian named Tamas Kocsis put together a completely decentralized internet alternative called Zeronet. Using the underlying cryptography behind Bitcoin, every Zeronet ‘website’ address is a Bitcoin public key, so any visitors can send bitcoin directly to the site owner, even if they have not set up a wallet yet. Bitcoin.com talked to Kocsis about his project and its current status.
+
+Also Read: A Decentralized Money Needs A Distributed Web for Maximum Freedom
+
+The Birth of A Private, Decentralized Internet
+
+When the project launched in January 2015, the one-man effort had limited functionality with a blogging system and a chatroom board. However, it could soon use the Tor network for privacy, and the ability was there from the start for anyone to make other kinds of websites inside Zeronet, including social sites with dynamically-updating content.
+
+Today, many useful Zeronet websites called ‘zites’ have been designed to mimic popular websites and apps like Facebook, Reddit, Twitter, and Popcorntime. The utility of the whole system is now far higher with additions like zite search, a private email client, a file manager, and the Zeronet-wide newsfeed that keeps track of your conversations across all zites.
+
+Using Bitcoin to Solve Big Problems
+
+The way Zeronet hosts these private zites in a decentralized manner is simple but effective. Each is treated as a Bittorrent shared file, named by its Bitcoin public key. A user visiting a zite would instantly download it from nearby peer and start seeding for other users to visit. Unlike their Bittorrent counterparts, however, Zeronet files can be updated by anyone visiting the zite, so they can make comments on blog posts or upvote other people’s comments.
+
+The end result is a slightly slower internet through a Zeronet browser window that never goes to any domain on the internet; all files are served locally from the folder they were downloaded to. To ensure that each file really came from the site owner intact, and is not edited by someone else on another peer, Kocsis turned to Bitcoin. He explained to Bitcoin.com:
+
+Zeronet uses the exact same cryptography and mathematical calculations as the Bitcoin network to verify if the wallet owner started the transaction or not.
+
+Network Usage and Growth
+
+The network of zites is steadily growing, and Kocsis sees most new, active users arrive “from countries where the Internet censorship affects their daily life. Like Russia and China”. The developer noted that there is “also significant interest for Europe and North America”, but he believes that the latter users are more interested in the technology itself, unlike the others that need Zeronet for its decentralization offering freedom of speech.
+
+Government crackdown is unlikely to have much effect on Zeronet, according to the network’s creator. Not only is the whole system fully Tor enabled, the nature of the network is, much like with Bitcoin addresses, for every zite to survive until every copy of it on every peer has been deleted. “Even if someone starts attacking these computers”, Kocsis mentioned, “then he or she only delay the updates, so I think it will not be so spectacular that make it worth doing it”.
+
+When opening up the Zeronet browser, which automatically connects through Tor if available, all users go to the ‘Hello’ page, which is a launch pad to all other zites and displays the feed of all your interactions on Zeronet. The number of users on the system connected is also shown on that page, and this is the only user statistic Kocsis has, he told Bitcoin.com. “There are currently around 1019 user serving the homepage of Zeronet (1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D) 560 of them are using the Tor network”.
+
+Five of the zites available from the page were also made by Kocsis and other developers for Zeronet, including the official Zeronet Blog, the private mail system, a reddit-like forum, a simple chatroom, and Zerome, which is a social network somewhere in between a Facebook wall and Twitter feed.
+
+Most zites are spartan versions of their old-net counterparts, with fewer pictures and less colors overall in order to keep file sizes small. Inside Zeronet, finding other users’ content can be done through the zite search or by browsing directories, like the largest one called 0list.
+
+One of the first zites most people run across is Zeroplay, which uses Webtorrent to display Bittorrent movies (mostly pirated) right in the browser window, like the controversial Popcorntime app. TV shows and music versions exist as well.
+
+Upcoming Plans and Additions
+
+Future plans for expansion include several speed-boosting solutions such as an “archiving solution for bigger sites”, and large-file support that “will allow direct audio and video file sharing” between peers, instead of through Bittorrent.
+
+A Bitmessage integration has also been crowdfunded by the Zeronet community. Kocsis is currently looking for someone familiar with the project to help out. “There is a 1BTC bounty on this task”, he said. Once included into Zeronet, the integration “would allow the Zeronet sites to send and receive messages using the BitMessage protocol”, he added. “For example, placing orders in webshops, reporting users to moderator and similar use cases”.
+
+Darknet Marketplace 2.0
+
+It’s already possible to build an ecommerce zite selling goods and services for bitcoin, although it would be a challenge to create it in that environment, well out of reach for non-developers. However, Openbazaar (OB) integration will be easily accomplished once Openbazaar 2.0 launches with its full Tor integration, and there is no reason an OB marketplace cannot be useful to Zeronet zites today due to their Hidden Listings feature. Marking an item as ‘hidden’ inside Openbazaar stores allows “vendors to create private listings that are only visible to people they give the listing address”, Openbazaar’s blog explains.
+
+Posting hidden listing links inside Zeronet would effectively create the full Dark Web experience in the newer network, with hidden sites and marketplaces like the Silk Road running as private Openbazaar stores. When asked if there is any advantage for users to do this instead of directly through a Tor browser, Kocsis said that Zeronet would give these admins and users of these marketplaces “higher anonymity, because every peer is equal on ZeroNet, so it’s very hard to find out who is only a visitor and who is the site owner”.
+
+Would you like to see the Dark Web moved to Zeronet? Let us know in the comments section below.
+
+Images courtesy of Shutterstock, Openbazaar and Zeronet
+
+Bitcoin.com is a unique online destination in the bitcoin universe. Buying bitcoin? Do it here . Want to speak your mind to other bitcoin users? Our forum is always open and censorship-free. Like to gamble? We even have a casino

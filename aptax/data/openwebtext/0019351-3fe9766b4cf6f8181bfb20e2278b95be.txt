@@ -1,0 +1,137 @@
+This week at the House of Lords the Road Danger Reduction Forum presented an award to West Midlands Police—in particular Pc Mark Hodson and Pc Stephen Hudson—for their Operation Close Pass initiative, which targets drivers who pass too close to people cycling when overtaking them. I was invited along to see them receive the well-deserved award and hear more about the details of the operation, as well as about how it has been adapted for use in Camden.
+
+The award
+
+This was the first time in its 23 year history that the RDRF has given a genuine award: the sole previous occasion was a wooden spoon in 2012, in recognition of the West Sussex Gazette’s use of the phrase “a collision involving a car and a tree”. (Personally, I’m not sure that constitutes even a blip on the contemporary scale of dreadful reporting.) And this is some measure of the esteem in which Operation Close Pass is held: it was described by Cycling UK as “the best cyclist safety initiative by any police force, ever” and I’ve yet to see anyone dispute that. Importantly in this context, it aligns well with the RDRF’s underlying principle of danger reduction at source and quite explicitly steps away from common misconceptions about the extent to which people on pedal cycles or on foot can prevent themselves from being hit by other people in motor vehicles.
+
+Motivation
+
+One crucial aspect of the conception of Operation Close Pass was careful consideration of evidence beforehand. WMP looked at the STATS19 data for the area and came to some interesting conclusions, which are summarised in a seminal blog post, “Junction Malfunction and a New Dawn” (if you’ve not read it, you absolutely should, now—it is something of a tectonic shift in aligning the police’s view with a number of points that most cycling and walking campaigners have been making for many years).
+
+The basic point is that the evidence suggests that, in terms of public harm cause by cycling casualty collisions, little is due to environmental factors, little is due to the behaviour of people on bikes, and much is due to behaviour of people in cars. This is unsurprising when you consider the principle of road danger: the cause of it is not so much poor behaviour itself, but the combination of poor behaviour and a vehicle which allows that behaviour to pose great danger. It’s why we let children ride bikes but not drive cars.
+
+The major casualty risk manifests itself at junctions by way of drivers’ failure to observe people on bikes. As Pc Hudson says in his blog:
+
+75% of KSI [killed or seriously injured] RTCs [road traffic collisions] involving cyclists in the West Midlands from 2010 to 2014 occurred within 20 metres of a junction, involving a cyclist and another vehicle. Further analysis (I won’t bore you with the figures, tables etc.) showed that the majority of KSI RTCs in the West Midlands involving cyclists occur when a car has pulled out of a junction in front of a cyclist that is mid- junction because the car driver has failed to spot the cyclist.
+
+So why the focus on close passing?
+
+One reason is that it is something which can, unlike poor observation at junctions, be detected and proven relatively easily (using video evidence) and without waiting for a collision to have occurred. Another is that it cements in drivers’ minds the need to look for people on bikes, which may well improve observation at junctions. The fact that this is a covert operation is important: WMP understand that the feeling of possibly being caught is the most powerful aspect of traffic enforcement in terms of behaviour change, and key to that is the sensation that being caught could happen anywhere. But the third reason is perhaps the most interesting.
+
+If you ask anyone who cycles what they are most concerned about, the majority will say “close passes by drivers” (in the blog it is cited as “the most common complaint we receive from cyclists”). If you ask anyone who has given up cycling why they gave it up, many will say the same, as will many when asked why they never even started cycling. Certainly WMP seem to have found that to be the case, and this has influenced the prioritisation of the operation: the aim is in no small part to foster an environment in which more people feel able to cycle.
+
+But how does this fall within the remit of the police, who are there primarily to reduce crime rates and reduce public harm? Even though it’s a commendable objective for all sorts of reasons that are in the wider public interest, getting more people on bikes may not be an obvious police goal.
+
+I asked Pc Hodson about this and his explanation was refreshingly straightforward.
+
+In any situation where the general public feel unable to do certain things because of fear arising through the behaviour of others, the police would be involved. To use a somewhat stereotyped analogy: if elderly people felt unable to walk to the local shops on their own because of groups of youths behaving threateningly, the police would apply the law in order to reduce the threatening behaviour and create a safe environment where people felt safe doing what they wanted to do. Tackling one group’s imposition of fear on others, inhibiting their ability to conduct themselves freely, is a community policing matter. The fact that it happens to involve the highway is really of no significance: it merely means a different piece of legislation is referred to when dealing with the threatening behaviour.
+
+So how does the operation work?
+
+Operation Close Pass
+
+The operation, which has been deployed nine times so far, involves an officer cycling in plain clothes on a bike equipped with both front and rear facing cameras. When they experience a close pass, two uniformed officers further up the road (one on foot, one on a motorcycle) are notified and will pull the driver over and explain why they’ve been stopped.
+
+The explanation is not merely “a quick word”. It is a 15 minute demonstration of how and where people should cycle (ie well away from the kerb) and the dangers not just of close passes, but of passes at particularly problematic locations such as at pinch points, on pedestrian crossings and when approaching parked vehicles. In all, 130 drivers have so far been through this process and WMP report that only one of those reacted negatively to it (note that the police frequently cite The Attitude Test: fail this and you’re suddenly rather more likely to be prosecuted than educated).
+
+The explanation involves a few props, central to which is a mat which shows a road layout with distances marked on it. WMP were keen to point out that these distances are illustrative only and that the discussion is really about more humanly recognisable metrics: the width of a car door and the length of an outstretched arm are both used to illustrate the discussion. It’s worth noting that the officers unanimously saw the idea of a distance-based passing law as actively disadvantageous, on the basis that it actually provides more opportunity to undermine a prosecution. Much mention was made of the standards expected in the driving test: drivers are, for instance, required to leave sufficient clearance for a fully open car door when passing stationary vehicles. Driving test faults are equated to failure to meet the standard that is “expected of a competent and careful driver”, as specified by the definition of careless driving. This is, essentially, the yardstick: would you pass your test with driving like that?
+
+The operation has also brought numerous other offences to light, including several seatbelt violations and instances of mobile phone use, but also one of a driver who—even with his prescription glasses—could only read a number plate at 7.5 metres. Unsurprisingly, his licence was immediately revoked before he became the next Ronald Finney. But this shows that the operational model is not excessively specific: it is a good way to catch a variety of dangerous behaviours. This can, of course, include people jumping red lights on bikes, or riding at night without lights.
+
+Resourcing
+
+One of the key operational features of the initiative is that it is cost neutral. Which is not to say that it is zero cost, but that it is simply a new area on which to focus existing resources: there is no additional spend on either materials or manpower, and no reduction in visible policing. The mat used for education was paid for by Birmingham Cycle Revolution (which also provides the lights given out by WMP to unlit cyclists; it is part of Birmingham City Council which has a stated aim of seeing 10% of all journeys being made by pedal cycle by 2033).
+
+However, it’s possible to adapt Close Pass to reduced levels of resourcing. The approach taken by Sgt Nick Clarke in Camden is an example of that: it uses no mat and it is deployed on a relatively opportunistic basis, at times when other demands on the officers on the street are low. It also serves as a demonstration that whilst an understanding of cycling is important, there is no specific need for traffic police: in Camden it is very much a community policing operation.
+
+As Pc Hodson remarked, the lowest-resource option would be for a plain clothes officer to cycle around with a pair of cameras on their bike, process the footage and then send out NIPs to anyone shown to be driving below the expected standard.
+
+Of course, there is an even lower-resource option. There are plenty of people already cycling around with cameras on their bikes: the public. And, on this subject, WMP made some illuminating comments. The most notable was that everything they’d received via public video submissions was indeed evidence of prosecutable driving. The public, they said, appeared to use the same criterion that they did when considering whether to take action: simply, “was this obviously bad driving?”
+
+All of this becomes particularly interesting when one starts looking at some other forces.
+
+Such as Hampshire.
+
+Outdated policing
+
+West Midlands’ approach to the dangers faced by those on pedal cycles could scarcely be more different to that of Hampshire. While WMP are spending a few hours every so often enforcing safe passing and explaining why people ride bikes in a certain way and so on, Hampshire Police are out collaring the people on bikes.
+
+Recently they staged three such operations, stopping 480 cyclists. Of these, 34 were dealt with for failing to display lights, which rather implies that the remaining 446 were cycling perfectly legally. A reminder: Operation Close Pass only stops drivers who have committed an offence, it doesn’t stop 13 law-abiding road users for each offending one.
+
+So… Three recent @HantsPolRoads operations, stopping 446 people cycling legally. But a real reluctance to address bad driving. pic.twitter.com/r0cdIMprAz — Bez (@beztweets) October 31, 2016
+
+But notice the other part of that tweet above: Hampshire “will only pursue allegations of poor driving if the circumstances meet the legal definition of dangerous driving or if the driver is a prolific or repeat offender.”
+
+Compounding this, Hampshire Police’s definition of dangerous driving is rather interesting. Take a look at the CPS guidelines and Hampshire’s own guidelines and spot the difference. In case it’s not obvious, let me help you out.
+
+So, in Hampshire, several factors fall into place to prevent action being taken against close passing. You can’t get an offence dealt with if it’s not committed a repeat offender, and since offences aren’t dealt with it’s kind of hard to become a repeat offender. You can’t get an offence dealt with if it’s not dangerous driving, and since close passing has been curiously erased from the guidelines for dangerous driving it’s kind of hard to get close passing seen as an offence. It’s quite a neat closed loop.
+
+The justification that Hampshire Police give is that “we only have limited resources at our disposal”.
+
+Of course they’re limited resources. All resources are limited. West Midlands Police also have limited resources.
+
+But the operations stopping cyclists evidently involve multiple officers and, given that on average 160 cyclists are “engaged with” (as Hampshire euphemistically phrase it) each time, they clearly aren’t brief deployments either. It’s quite obvious that per deployment the operation requires a similar level of resourcing to WMP’s Operation Close Pass as it has been run thus far, notwithstanding the fact that Close Pass can be run with significantly less resource.
+
+The issue is not the finite nature of resources, it is that those resources have been deployed to do other things: namely handing out fluorescent beanie hats to cyclists.
+
+This is a straight choice in how to deploy resources: you could have Operation Close Pass for the same resource as consumed by the hat giveaway.
+
+Hampshire are not even reviewing video evidence, the letter makes clear. The least resource-intensive distillation of Operation Close Pass is not even on Hampshire’s to-do list. When WMP can not only confidently state that near enough every video they receive shows prosecutable driving, but consistently take action as a result, Hampshire’s stance is made to look shameful.
+
+#OpClosepass has now reached 78 prosecutions using 3rd party footage, here's a couple of the latest #GiveSpaceBeSafe #vulnerableroadusers pic.twitter.com/NjsERi7wUY — CMPG – Road Policing (@Trafficwmp) October 21, 2016
+
+78 prosecutions during Operation Close Pass, and it hasn’t even been running long. Why not try sending a Freedom of Information request to Hampshire, or indeed any other force, to see how many NIPs—let alone actual prosecutions—they’ve issued to drivers on the basis of third party video evidence, ever.
+
+And that was four weeks ago. They’re still going.
+
+Taking every opportunity to protect vulnerable road users from dangerous drivers, 3 of this week's many 3rd party footage based prosecutions pic.twitter.com/ipr5FLULDL — CMPG – Road Policing (@Trafficwmp) November 14, 2016
+
+But let’s not forget West Midlands’ approach prior to deploying Operation Close Pass, which was to analyse data to see what the evidence pointed to in terms of causative factors.
+
+Maybe we should see what the data says in Hampshire.
+
+Checking the facts
+
+Between 2005 and 2015 there were 1663 cycling KSI collisions in Hampshire, 40 of which were fatal.
+
+Of these, “rider wearing dark clothing” was cited as a “very likely” (as opposed to merely “possible”) factor in just 34 cases, only one of which was fatal. Of these, 13 coincided with failure to display lights, from which it’s probably reasonable to infer that if a causative factor had indeed been lack of conspicuity then in several cases lights may well have sufficed, rendering clothing irrelevant. The second most commonly coincident factor, in 8 of the 34 cases, is a driver’s failure to look—in which case, again, is clothing relevant? (This is the great lie of the “be safe, be seen” culture which Hampshire, among others, promulgate dogmatically: no-one has control over being seen.)
+
+So, even giving the benefit of doubt, there are probably a couple of dozen cases in which dark clothing may have been a factor. For all Hampshire’s efforts they are targeting roughly two serious injuries per year.
+
+Two.
+
+Yet, despite having consistently applied this level of resource to these operations for some years (as far as I can see they go back as far as 2009), they don’t seem to be doing very well at it. In the three years 2005-2007 there were three KSI collisions where dark clothing was cited as a likely factor. In the latest three years, 2013-2015, there were ten.
+
+The best part of a decade has been spent handing out yellow vests instead of tackling poor driving in a progressive manner, and in that time injuries attributed to lack of yellow vests have tripled. Stop and think about that for a moment.
+
+And no, that rise isn’t caused by there being more people cycling. In most parts of Hampshire, cycling levels have fallen (see table CW0103).
+
+An entirely plausible hypothesis is that there is simply an increased tendency within Hampshire to record dark clothing as a factor, rather than it being a factor. It rather suggests a victim-blaming culture.
+
+Let’s not forget that it was Hampshire Police’s collision investigator who said that high-visibilty clothing “may have acted as camouflage” when Lauren Paul drove into lollipop man Ray Elsmore on a pedestrian crossing, inflicting fatal injuries. Ever get the feeling you can’t win?
+
+Looking at all KSI cases in Hampshire, by far the most prevalent contributory factor is drivers’ failure to look. So why spend so much time focusing on the appearance of the thing that those drivers are failing to look at, and shifting drivers’ expectations of others’ conspicuity higher, when this can only serve to reduce their propensity to look more carefully?
+
+Meantime, back to that figure of 1663 cycling KSIs. They’re not evenly spread: they’re rising. Significantly. The dashed orange KSI trend line below shows roughly a 150% increase over the 11 year period. (For what it’s worth, I plotted this graph for several forces. Hampshire was comfortably one of the worst performers: of those I looked at, only Devon and Cornwall—the force which for some time disbanded its roads policing unit altogether—was worse.)
+
+So, Hampshire’s approach is failing on both fronts: cycling is declining, while KSIs are increasing at a higher rate than almost anywhere in the country. And while the same data show where the problem lies, Hampshire Police continue to appear either oblivious to what the data say or to actively ignore it.
+
+“Failure to look” is a problem indeed.
+
+When asked what would be perceived as a mark of Operation Close Pass’s success, Pc Hodson remarked that although a reduction in casualties was what everyone would like to see, a perfectly valid successful result would be to see a significant increase in cycling levels without a significant increase in casualty figures.
+
+I agree; in fact I think the latter is the more important goal at this point in time, and this returns to the earlier point about how important it is to establish the link between tackling behaviourally threatening uses of vehicles which restrict people’s freedoms, because it is this that cements the police’s role in helping to establish an environment in which people can choose socially benign forms of transport.
+
+And West Midlands’ actions, together with Hampshire’s data, highlight how ineffective—nay, counterproductive—it is to focus on the more vulnerable and to believe that the colours that they wear have any significant effect on whether they are injured. This view is demonstrably misguided. It is outdated. And policing based on it is similarly outdated.
+
+Replication
+
+Fortunately, numerous forces have started knocking on WMP’s door looking to replicate Operation Close Pass. Even forces from abroad—Finland, Denmark and even Australia—have sought them out.
+
+The crucial aspect of this, though, will be not only how this operational model can be adapted to other territories, and to urban and rural areas, but how effectively the education can be delivered. One thing that is entirely clear from Operation Close Pass, and which binds it together, is the ability of Pcs Hodson and Hudson to deliver the material to drivers. Of course we await measurable results, but from everything seen so far it is indisputable that they have not only a thorough understanding of all of the pertinent issues but an exemplary ability to explain those issues to people whose viewpoint has never extended to experiencing roads by bicycle, both of which are essential if any educational process is to be effective.
+
+But, in order to see how well that can be replicated, other forces must first try to replicate it. And, thus far, not all have beaten a path to West Midlands’ door.
+
+No matter where you are, there can be no harm in adding your voice in encouraging your local force to look into Operation Close Pass, because the alternative is clear: it’s bright yellow clothes, declining levels of cycling, and rising casualty figures.
+
+Use of resources is a choice. And, as choices go, this should be an easy one.

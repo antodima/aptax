@@ -1,0 +1,71 @@
+As a reaction to the whole Heartbleed thing two years ago, The Linux Foundation started its Core Infrastructure Initiative (CII for short) with the intention to help track down well used but still poorly maintained projects or at least detect which projects that might need help. Where the next Heartbleed might occur.
+
+A bunch of companies putting in money to improve projects that need help. Sounds almost like a fairy tale to me!
+
+Census
+
+In order to identify which projects to help, they run their Census Project: “The Census represents CII’s current view of the open source ecosystem and which projects are at risk.”
+
+The Census automatically extracts a lot of different meta data about open source projects in order to deduce a “Risk Index” for each project. Once you’ve assembled such a great data trove for a busload of projects, you can sort them all based on that risk index number and then you basically end up with a list of projects in a priority order that you can go through and throw code at. Or however they deem the help should be offered.
+
+Which projects will fail?
+
+The old blog post How you know your Free or Open Source Software Project is doomed to FAIL provides such a way, but it isn’t that easy to follow programmatically. The foundation has its own 88 page white paper detailing its methods and algorithm.
+
+Risk Index
+
+A project without a web site gets a point
+
+If the project has had four or more CVEs (publicly disclosed security vulnerabilities) since 2010, it receives 3 points and if fewer than four there’s a diminishing scale.
+
+The number of contributors the last 12 months is a rather heavy factor, which thus could make the index grow old fairly quick. 3 contributors still give 4 points.
+
+Popular packages based on Debian’s popcon get points.
+
+If the project’s main language is C or C++, it gets two points.
+
+Network “exposed” projects get points.
+
+some additional details like dependencies and how many outstanding patches not accepted upstream that exist
+
+All combined, this grades projects’ “risk” between 0 and 15.
+
+Not high enough resolution
+
+Assuming that a larger number of CVEs means anything bad is just wrong. Even the most careful and active projects can potentially have large amounts of CVEs. It means they disclose what they find and that people are actually reviewing code, finding problems and are reporting problems. All good things.
+
+Sure, security problems are not good but the absence of CVEs in a project doesn’t say that the project is one bit more secure. It could just mean that nobody ever looked closely enough or that the project doesn’t deal with responsible disclosure of the problems.
+
+When I look through the projects they have right now, I get the feeling the resolution (0-15) is too low and they’ve shied away from more aggressively handing out penalty based on factors we all recognize in abandoned/dead projects (some of which are decently specified in Tom Calloway’s blog post mentioned above).
+
+The result being that the projects get a score that is mostly based on what kind of project it is.
+
+But this said, they have several improvements to their algorithm already suggested in their issue tracker. I firmly believe this will improve over time.
+
+The riskiest ?
+
+The top three projects, the only ones that scores 13 right now are expat, procmail and unzip. All of them really small projects (source code wise) that have been around since a very long time.
+
+curl, being the project I of course look out for, scores a 9: many CVEs (3), written in C (2), network exposure (2), 5+ apps depend on it (2). Seriously, based on these factors, how would you say the project is situated?
+
+In the sorted list with a little over 400 projects, curl is rated #73 (at the time of this writing at least). Just after reportbug but before libattr1. [curl summary – which is mentioning a very old curl release]
+
+But the list of projects mysteriously lack many projects. Like I couldn’t find neither c-ares nor libssh2. They may not be super big, but they’re used by a bunch of smaller and bigger projects at least, including curl itself.
+
+The full list of projects, their meta-data and scores are hosted in their repository on github.
+
+Benefits for projects near me
+
+I can see how projects in my own backyard have gotten some good out of this effort.
+
+I’ve received some really great bug reports and gotten handed security problems in curl by an individual who did his digging funded by this project.
+
+I’ve seen how the foundation sponsored a test suite for c-ares since the project lacked one. Now it doesn’t anymore!
+
+Badges!
+
+In addition to that, the Linux Foundation has also just launched the CII Best Practices Badge Program, to allow open source projects to fill in a bunch of questions and if meeting enough requirements, they will get a “badge” to boast to the world as a “well run project” that meets current open source project best practices.
+
+I’ve joined their mailing list and provided some of my thoughts on the current set of questions, as I consider a few of them to be, well, lets call them “less than optimal”. But then again, which project doesn’t have bugs? We can fix them!
+
+curl is just now marked as “100% compliance” with all the best practices listed. I hope to be able to keep it like that even with future and more best practices added.

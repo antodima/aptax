@@ -1,0 +1,41 @@
+Bitcoin Press Release: The blockchain application platform Lisk now has its digital currency LSK listed on various exchanges and financial services like ShapeShift, Yuanbao, or CoinPayments. Adoption is steadily growing through payment processors and online merchants.
+
+June 30, 2016 Aachen, Germany – Lisk, the open source blockchain application platform, is proud to announce that the digital currency LSK is evolving at a tremendous speed. A large part of this evolution is mass adoption by many services, including conversion services and exchanges.
+
+One of the services now accepting LSK, ShapeShift.io, allows the exchange of one digital currency into another, without the need to create an account or fill an open order. Other providers offering a similar service for the LSK currency include Changer.com and Changelly.com.
+
+In terms of regular exchanges, Lisk has seen steadily increasing adoption throughout the past few weeks. Recently, CEO Max Kordek visited China and met with many Chinese exchanges. This face to face relationship drove these exchange owners to believe in the currency and adopted Lisk for trade on their service. These services included Yuanbao.com and Jubi.com, two of the biggest altcoin exchanges in China. Additionally, BitBays.com, and Touzibi.com also listed the currency.
+
+The Polish exchange BitBay.net has added many different currency pairs for LSK. These pairs included LSK/USD, LSK/BTC and LSK/EUR. The new exchange RAWX.io will launch soon and Lisk sits at the top of the poll to determine which coins will be added.
+
+Looking further back many different exchanges are already supporting the LSK token. These exchanges include Poloniex.com, Bittrex.com, YoBit.net, BitMEX.com, Livecoin.net, OpenLedger.io, Cryptomic.com, Bloombit.com, and ChameleonBit.trade. On the leading edge of this group is Poloniex, one the largest exchanges in the world, which added a LSK/ETH. This pairing is unprecedented on the exchange as previous pairs were pegged to BTC and USDT.
+
+Lastly, Lisk can now be used in online transactions. This is due to the payment processor and gateway CoinPayments.net adding support for the currency. The service provides digital currency integration for nearly all popular web shopping carts used today. This allows Lisk to be used with a myriad of online shops, all of which are ready to accept LSK.
+
+Please use all exchanges, websites, services, tools, and clients being linked to in this press release at your own risk! Please do your own due diligence.
+
+About Lisk
+
+Lisk is a blockchain application platform that offers JavaScript development tools to deploy sidechains and build decentralized applications on top of them. It connects various different decentralized technologies to enable developers to build useful, powerful applications for the real world. Lisk was started earlier this year by Max Kordek and Oliver Beddows.
+
+Learn more about Lisk at – https://lisk.io
+
+Get started with Lisk at – https://lisk.io/get_started
+
+Lisk Documentation is available at – https://lisk.io/documentation?i=lisk-docs/README
+
+Media contact
+
+Name: Max Kordek
+
+Email: [email protected]
+
+City and Country Location: Aachen, Germany
+
+
+
+Lisk is the source of this content. Virtual currency is not legal tender, is not backed by the government, and accounts and value balances are not subject to FDIC and other consumer protections. This press release is for informational purposes only.
+
+About Bitcoin PR Buzz:
+
+Bitcoin PR Buzz has been proudly serving the PR and marketing needs of Bitcoin and digital currency tech start-ups for over 2 years. Get your own professional Bitcoin and digital currency Press Release. Click here for more information.

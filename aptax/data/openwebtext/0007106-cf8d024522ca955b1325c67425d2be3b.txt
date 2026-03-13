@@ -1,0 +1,85 @@
+As crowdfunding becomes more accepted, it’s moving into new areas. One with a lot of promise: commercial real estate, where deals under $10 million are not worth the efforts of big investors, says Dan Miller, co-founder of Fundrise. These large investors do not want to have a lot of “$1 million investments, they won’t be able to manage it.” That has left an opening for crowdfunding firms like his. In this Knowledge@Wharton interview, Miller explains how his firm has exploited it.
+
+An edited of the conversation transcript follows:
+
+Knowledge@Wharton: We’re joined today by Dan Miller, co-founder and president of Fundrise, a crowdsourcing company in the real estate sector. This is a fairly new idea. Tell us how it works and how you got involved?
+
+Dan Miller: My brother and I launched Fundrise in 2010.… Initially, we built the platform to fund our own real estate transactions, so we were buying and developing properties in Washington, D.C., creating the platform to let anybody invest with us in a single deal for as little as $100. This is the first crowdfunded transaction, and now we fund other real estate companies — so we scaled from doing our own projects to now projects all over the country.
+
+Knowledge@Wharton: When people hear that number, $100, they’re probably thinking a very small scale. But it’s not necessarily small scale. Tell us what size the projects are, and are they residential, commercial?
+
+Miller: It’s mostly commercial projects in urban areas under $30 million — a little below institutional scale. We’re normally providing about $2 million to $5 million per deal. Three years ago, that was $300,000, last year it was … $600,000, $700,000. So it’s growing very quickly. Crowdfunding allows people to distribute investments online, take a lot of very small investors and pool those together into a larger check. So just because there’s small minimums doesn’t mean the sum doesn’t add up to a large amount.
+
+Knowledge@Wharton: You have people, you put a project on your website and you say, “We want to buy and develop this building, would you like to invest?” And you can invest any amount you want? You get investors up to $1 million? What is the average?
+
+Miller: About $10,000. We source deals, we underwrite deals. We have offices around the country. So that process is like traditional real estate sourcing and underwriting. You have people work the markets. They meet real estate developers. They discuss our platform and then we put the deals together. The innovative part is putting it on the site and allowing anybody to be part of the investment.
+
+Knowledge@Wharton: And the investor, what is it that they get out of it? What kind of return? Why would they want to do that rather than some other kind of deal?
+
+Miller: Well, the real value is that you have technology cutting out middlemen Twitter , that we’re direct between the investor and the real estate company, as opposed to having private equity funds or other groups in the middle. And so that way, you’ll be able to have double-digit returns for investors, which is still the cheaper cost of capital for real estate companies. Generally, we’re doing preferred equity investment, so junior to bank debt in the deal, but senior to equity in the deal. It’s a kind of high term or high fixed yield, relatively short term during the transition or development of the real estate asset.
+
+Knowledge@Wharton: If someone didn’t know your company, how would they know that their money was secure?
+
+Miller: They watch and see. That’s what we’ve seen on consumer behavior. People sign up for the site — they rarely invest in the first 120 days. They sign on regularly. They look at deals. They check them out. They see that we’re raising the funds, that they closed, and then they invest $5,000, and then they start getting distributions on that deal, and then they might invest $10,000 and $25,000.
+
+“The real value is that you have technology cutting out middlemen, that we’re direct between investor and the real estate company, as opposed to having private equity funds or other groups in the middle.”
+
+So we’ve really seen that type of consumer behavior happen, which I think is similar to what e-commerce was — the first time you bought something online, you weren’t sure if it was safe to put your credit card [number] in. You didn’t know when the box was going to arrive. And now it’s instantaneous — same-day delivery. I see similar consumer behavior patterns because you’re serving them a product they’ve never invested in before through a mechanism online that they haven’t [used] for that many different types of investments.
+
+Knowledge@Wharton: Interestingly, you have a niche here when it comes to the size of projects. You’re not investing in or developing $200 million office towers. You’re investing in a certain size of project, which those with large amounts to invest tend to not be interested in so much. Explain how that dynamic works?
+
+Miller: That’s where we begin. With institutional investors, they’ll rarely write a check of less than $10 million of equity, and that’s not because the deal doesn’t make sense if it’s smaller. It’s because they have a multibillion dollar fund. They can put it out in so many increments. If they have a lot of $1 million investments, they won’t be able to manage it. And so it creates this artificial barrier where the small enterprise, the mid-sized real estate operator, who’s established, who has a real track record, if they bring a deal that’s $15 million to $20 million of value, it’s very hard for them to get that financed. We plug [in] what technology tends to be efficient in the mid-market space for real estate operators, and provide them capital to deals that are often ignored by institutional investors.
+
+Knowledge@Wharton: What kinds of projects have you completed so far?
+
+Miller: We’ve done projects in 15 different markets. The highest profile was we raised $5 million for Three World Trade Center. We sold $5 million of the senior bond, the senior construction loan on that deal. We’ve done about half of our business between Washington, D.C. and New York, and just launched offices in Los Angeles and San Francisco. Most of our deals are between $5 million to $25 million in size. Again, we’re funding another real estate company. They come to us. We’re funding a portion of that deal. And most of them are urban areas in transition. So buying apartment buildings, upgrading the units, then selling or refinancing. There are lots of different types of projects, but always in some development or transition.
+
+Knowledge@Wharton: In addition to finding investors through the use of technology … and finding people who wouldn’t have been able to invest this way before, you mentioned earlier cutting out the middleman — cutting costs quite a bit. Could you explain how that cost cutting works? How much of the costs do you cut out? I assume that’s a big part of the business model.
+
+Miller: And that’s the real value that we’re able to deliver: cheaper capital to the real estate operator and better investments to the real estate investors. Ultimately, if that’s not the value proposition, then there is no business here. And our comparison is often to a private equity fund. We charge 0.5% per year to the investor for asset management and to service the investments. A private equity fund only charges a 2% a year management fee and 20% of the upside over a preferred return. We kind of use a mock sample deal, a three-year investment, 12% annual return. We charge 1.5% over those three years. A typical private equity fund will charge 8.4% over those three years. So there’s really a huge spread that then gets split between the real estate company and the investor.
+
+Knowledge@Wharton: So we hear a lot about disruptive technologies. And you’re just talking about disrupting private equity in the real estate space. Do you think that that’s a scalable model, at least at the level of project that you’re talking about, which is under $30 million.
+
+“The business model is called ‘marketplace lending….’ You have borrowers, you have investors. You connect the two. You also use your own capital to guarantee the funding so that … you make the two stick together.”
+
+Miller: It’s going to change. What you’ve seen in other businesses, when you look at digital media, blogs, Twitter, Facebook — they started out relatively small and then became large and institutional. I think the most efficient place to start is the ignored portion of the market that institutions have difficulty serving because of their scale. But I think it really will shift. It’s about creating efficiency for private commercial real estate transactions.… It’s a huge market. But you have a deal, you make some phone calls, you try to raise some funding. There’s not an efficient way to put the deal together…. [Our] platform standardizes it. I think it’s going to bring efficiency to all parts of the market. It’s just going to take time to go to different sectors.
+
+Knowledge@Wharton: So it’s a little bit like an Airbnb, or an Uber, where you’re the conduit that’s connecting the person with the need with the person who can fulfill that need.
+
+Miller: Right.
+
+Knowledge@Wharton: And that’s creating less overhead and that sort of thing. Is that the idea?
+
+Miller: Right. The business model is called “marketplace lending” at this point. Lending clubs invest…. You have borrowers, you have investors. You connect the two. You also use your own capital to guarantee the funding so that you … make the two stick together. And by creating that standardization you have efficiency on both sides.
+
+What we’ve seen is, with the decentralized model, it can operate much more efficiently at much cheaper cost. It doesn’t have all the centralized infrastructure that big [bank] branches have with big offices and corporate overhead. I think as you see crowdfunding get larger, and the sums of capital are bigger, I think you’re going to see it challenge the existing banking infrastructure, which is very centralized with a lot of overhead and additional costs.
+
+Knowledge@Wharton: But it’s not just bank infrastructure. It’s not just bank buildings. It’s also the cost of going out and finding investors, which I guess is labor-intensive and involves a lot of meetings, and lunches and hand holding. You’re basically saying that is not necessarily anymore, at least in projects of this size.
+
+Miller: Yes. We think of ourselves like an outsourced capital markets division for a lot of these firms. Mid-sized real estate operators don’t have a full-time person on the capital markets desk, and we’re arranging financing, we’re giving them a sense of what their quotes for different capital is going to be. We’re giving them a connection to the investors, but we’re handling the investor relations, the distributions and the tax documents. So it’s very much centralized in that role, letting the real estate developer focus on their job: sourcing deals, developing deals, while we manage the entire capital-raising infrastructure.
+
+Knowledge@Wharton: You’re cutting out the middle man. What percentage of fees and costs are you cutting out?
+
+Miller: Generally, somebody who syndicates equity will charge 3% to 5%, minimum, potentially higher for them to corral and raise the capital. Private equity funds will charge 2% to 20%. So you have, on the investor side at least, a 5% to 10% fee that the investor indirectly or directly pays. Private REITS [real estate investment trusts] are another market that’s similar for private real estate transactions. That’s a 15% up-front fee when you enter the investment. So you’re talking about pretty huge fees that we think technology is going to [help bring down].
+
+Knowledge@Wharton: And your company’s fee would be what?
+
+Miller: Just 0.5% per year. And then we charge — to borrow — 1.5% at closing. So, for the borrower, it’s cheaper capital, for the investors it’s more access to investments and it also opens up a new part of the market. Traditionally with a real estate syndication, you’re limiting it to people investing $100,000 or more, and so you’re talking about a huge unmet part of the market that hasn’t been able to invest in single real estate transactions [because of such high minimums].
+
+Knowledge@Wharton: There’s something else about this also, about the kinds of projects that you do, where the people that invest often have some connection to it. Maybe it’s in their neighborhood, or maybe they know somebody that’s involved in that building somehow.
+
+Miller: That’s where we began. We were developing urban projects leasing to chefs and restauranteurs that people knew locally, or converting old historic buildings that people were very excited about. We always had people come and talk to us about “what are you doing and why — what are these projects looking like and how are they coming out?”
+
+“As you see crowdfunding get larger, and the sums of capital be bigger … you’re going to see it challenge the existing banking infrastructure, which is very centralized with a lot of overhead and additional costs.”
+
+We thought, why don’t we go out to those investors, let them invest in it? They might own a home in the neighborhood. They’ve already understood the real estate. They have a lot of other data around it that makes them excited to invest [for reasons] that might not be purely financial, but that doesn’t mean it’s wrong. We just did our first project in Detroit. We’re going to raise capital for the old Tigers Stadium redevelopment. And in the same way, it’s an old baseball stadium, everyone in Detroit’s been to it, they want to be part of revitalizing that area and bringing it back. I think you’re seeing what we’re able to do is because you’re selling these investments to retail investors. They’re buying a product that has more texture as opposed to just a 16% ROI. There are other components that they’re able to evaluate.
+
+Knowledge@Wharton: How big of a project is that and what percentage of that amount will you be able to help raise?
+
+Miller: That project’s about $30 million. And it’s going to be about 20% equity. We’ll raise between one half million to $1 million. And we now fund with our own balance sheets, so we guarantee the funds at closing with our own cash and then put it up on the site. So for the real estate company, they’re not taking the risk of raising the money online. That’s been one of the big things that’s shifted, that we centralized the asset management, we centralize the investor reporting, and we make sure that the funds are there at the appropriate time.
+
+Knowledge@Wharton: Is this the part of commercial real estate development that’s going to be changing big time in your estimation? What parts will remain the same?
+
+Miller: Yes — deal sourcing, we’ve seen most of our deals come offline with our regional offices, people being in market, knowing the neighborhoods, meeting the developers in person. We’ve done very few deals where we haven’t met the developer or where they originated online.
+
+We’re finding that putting the deals together is a very offline process. We’re finding underwriting due diligence. There’s certain information that needs to be collected, has to be ordered from these third-party groups, appraisals, environment surveys, and somebody has to centrally underwrite it. Two functions that we’re looking at there to use the people more efficiently is kind of crowdsourcing that aspect, where if a broker or somebody brings us a deal, they can upload it and share fees with us, or maybe start to have experts in certain markets who underwrite the deal until the crowd becomes a credible third party group. But right now, it’s us handling all those aspects. So I would say the sourcing, underwriting and closing is very old school. It’s the distributing, the investment, the marketing of it online — the investor reporting — that’s where we’ve had a fundamental shift.

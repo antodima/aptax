@@ -1,0 +1,73 @@
+CUSTOMIZER CHALLENGE CONTEST WINNER - Artistic Category This is a 100% printed customizable music box! Only 3D printed parts are used in the design and it can be assembled and disassembled via printed snapping mechanisms. The project originated when a friend of mine said that he'd only be interested in 3D printing once he can print a music box ;) Videos http://youtu.be/LUlovenI9xQ http://youtu.be/K_c3p24RRtQ (made by banthafodder7400) http://youtu.be/exNeQDz7f3g I'll try to keep the .scad file on this page updated but to help me to manage the design and to make it easier for others to contribute: https://github.com/wizard23/ParametrizedMusicBox
+
+Updates
+
+2018-03-28 Updated URL to generate parameters (was offline)
+
+2016-09-20 Spreadsheet to help you to get the parameters right: https://goo.gl/sKWWDk (created by: Ben Horner)
+
+2013-11-24 Updated link to generator page (old webserver is offline)
+
+2013-03-10 (V3) Added optional Name of Song on top/bottom of MusicCylinder; fixed build plate positioning of pulley that messed up smaller customized versions; cleanup and clarification of descriptions; implemented work around for customizer hickup when strings start with a '.'
+
+2013-03-08 (V2) removed "work in progress status", fully test printed
+
+It's very important to put the music box on a sounding box to get good sound quality. I found that large cardboard boxes and some tables make good sounding boxes. A guitar or a piano should work even better!
+
+A complete music box consists of 6 parts:
+
+Case: the large thin walled part that holds the vibrating teeth and holds everything together
+
+Music Cylinder: the large cylinder with the pins (that encode the music) sticking out
+
+Transmission gear: sits between the crank gear and the music cylinder
+
+Crank gear: drives everything, connects to crank (insert it through the round hole in the case)
+
+Crank: for manually driving the box, connects to crank gear and crank pulley
+
+Pulley: for holding the crank while turning it
+
+With the default parameters you get a complete building plate that can play one full octave range (13 half notes from C to C) in a medium footprint that should fit in most printers. You can enable each part individually to make smaller print plates.
+
+I customized a "FrÃÂÃÂ¨re Jacques" music cylinder that is compatible with the default parameters: http://www.thingiverse.com/thing:59242
+
+How to adapt the snapping mechanisms
+
+I printed this in PLA. So if you print it in ABS (or if your printer is differently calibrated than mine) you might have to adapt the snap fit:
+
+If one of the gears are too hard to snap in you have to lower "crankAxisHolderH", "midAxisHolderH" or "musicAxisHolderH" depending on which gear causes the problem.
+
+If one of the gears seem to sit too loose once they are snapped in you have to lower "snapAxisSlack"
+
+Ways to get notes that you can then use in Customizer
+
+1. Manual (read this anyway to understand how the music is encoded)
+
+The "pins" variable contains characters that encode the pins on the music cylinder. These pins pluck long teeth that then vibrate and emit a certain note. The number of available different notes/vibrating teeth is given in "pinNrX". The number of time slots/length of the song is given by "pinNrY". For each time slot the "pins" string contains "pinNrX" many characters that determine if a pin should be generated for this specific note at this specific time slot. If the character is an 'X' there will be a pin (and the note will be played) any other character means: no pin. The actual frequency of the vibrating teeth are described in "teethNotes".
+
+Be careful with long songs: If the pins are spaced too close together, i.e. if you try to fit a long song on a cylinder with small radius (derived from the number of teeth of the gear on the bottom of the music cylinder) then the closely spaced pins collide with the teeth and you hear a snare sound. While it's an interesting sound effect you generally want to avoid it by adapting the size of the music cylinder to the length of the song ("pinNrY"). For the default parameters I recommend at least 5mm distance from pin to pin. Tune this distance by adapting "musicCylinderTeeth".
+
+A tip if you want to make a new Music Cylinder for an already printed music box: Don't change any other parameter except the "pins" and "pinNrY"! Well some other parameters can be changed but it's tricky...
+
+2. JavaScript to generate the Pins-String
+
+Stefan (the mentioned friend of mine) wrote this nice little JavaScript application for converting Tabs to the format described above. Here is an example of what I mean with tabs:
+
+C4
+
+C#4
+
+C4 E4 G4
+
+try it out (sound output quality might vary from browser to browser) at:
+
+http://musicbox.magicshifter.net/musicbox.html
+
+For tuning the instrument you simply cut away material from the side of the vibrating tooth. Don't cut away material from the tip since that would change the way it interaction with the pin. If you want it to get a higher frequency remove material from the side of the tip (therefore making it lighter). If you want it lower the frequency remove material from the bottom (making it more flexible).
+
+Credits
+
+The gears I use are adapted versions of the ones made by emmett for his Automatic Transmission Gear Model so I added this as an ancestor. I really love this sharing of ideas on thingiverse :)
+
+For calculating the lengths of the vibrating teeth I used the formulas from this Wikipedia article: http://de.wikipedia.org/wiki/Durchschlagende_Zunge#Berechnung_der_Tonh.C3.B6he (sorry it's in German). I don't think I chose the right material properties for PLA. But it sounds right to me at least relatively. To get exactly the right frequencies one would have to measure the real frequencies by somehow running a fourier transformation over an recording of the picked teeth. Then one could adapt the density and modulus parameter up or down and try again. A simple test cylinder would be one that just plays some notes sequentially so that we can make a recording for comparing the modeled to the measured frequencies. So I included such a test music cylinder (defined in the "Pins" and the "TeethNotes" default parameters) which just plays each note available and some accords.

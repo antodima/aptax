@@ -1,0 +1,13 @@
+WASHINGTON – Apple Inc. will tell a federal judge this week in legal papers that its fight with the FBI over accessing a locked and encrypted iPhone should be kicked to Congress, rather than decided by courts, The Associated Press has learned.
+
+Apple will also argue that the Obama administration’s request to help it hack into an iPhone in a terrorism case is improper under an 18th-century law, the 1789 All Writs Act, which has been used to compel companies to help law enforcement in investigations.
+
+A lead attorney for Apple, Theodore J. Boutrous Jr., previewed for the AP some of the company’s upcoming arguments in the case. Apple’s chief executive, Tim Cook, has also hinted at the company’s courtroom strategy.
+
+Apple’s effort would move the contentious policy debate between digital privacy rights and national security interests to Congress, where Apple wields considerably more influence. Apple spent nearly $5 million lobbying Congress last year, mostly on tax and copyright issues. Key lawmakers have been openly divided about whether the government’s demands in the case go too far.
+
+U.S. Magistrate Judge Sheri Pym in Riverside ordered Apple last week to create specialized software to help the FBI hack into a locked, county-issued iPhone used by a gunman in the Dec. 2 mass shootings in San Bernardino. Syed Rizwan Farook and his wife, Tashfeen Malik, killed 14 people at an office holiday party in an attack at least partly inspired by Islamic State.
+
+White House spokesman Josh Earnest this week called the government’s request narrow. Earnest said the magistrate judge “came down in favor of our law enforcement” after evaluating arguments by Apple and the FBI. Apple hasn’t yet made any filings in the case because the Justice Department asked the magistrate to rule before Apple had an opportunity to object.
+
+“Sending complicated things to Congress is often not the surest way to get a quick answer,” Earnest said.

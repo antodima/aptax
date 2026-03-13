@@ -1,0 +1,37 @@
+<p>A new study documents the brain activity underlying our strong tendency to infer a structure of context and rules when learning new tasks (even when a structure isn’t valid). The findings, which revealed individual differences, shows how we try to apply task knowledge to similar situations and could inform future research on learning disabilities.</p>
+
+PROVIDENCE, R.I. [Brown University] — In life, many tasks have a context that dictates the right actions, so when people learn to do something new, they’ll often infer cues of context and rules. In a new study, Brown University brain scientists took advantage of that tendency to track the emergence of such rule structures in the frontal cortex — even when such structure was not necessary or even helpful to learn — and to predict from EEG readings how people would apply them to learn new tasks speedily.
+
+Context and rule structures are everywhere. They allow an iPhone user who switches to an Android phone, for example, to reason that dimming the screen would involve finding a “settings” icon that will probably lead to a slider control for “brightness.” But when the context changes, inflexible generalization can lead a person temporarily astray — like a small-town tourist who greets strangers on the streets of New York City. In some developmental learning disabilities, the whole process of inferring abstract structures may be impaired.
+
+“The world tends to be organized, and so we probably develop prior [notions] over time that there is going to be a structure,” said Anne Collins, a postdoctoral scholar in the Department of Cognitive, Linguistic, and Psychological Sciences at Brown and lead author of the study published March 25 in the Journal of Neuroscience. “When the world is organized, you just reduce the size of what you have to learn about by being able to generalize across situations in which the same things usually happen together. It is efficient to generalize if there is structure, and there usually is structure.”
+
+Imagined rules
+
+To measure how the phenomenon plays out in the brain, Collins and her colleagues used arrays of EEG electrodes to record the frontal cortex activity of 35 volunteers while they learned and performed some seemingly simple tasks. All subjects had to do was look at some shapes of different colors and learn the correct buttons to punch in response. Then they moved on to two similar tasks with new sets of colors or shapes.
+
+The experimental trick was that there was no actual structure of context and rules to the original task: People could have just learned which button to press for each unique combination of color and shape. People were free, however, to assume instead that either the dimension of color or shape would signify a particular context for indicating how to act in response to the other dimension. This invented hierarchical structure would allow them to learn the initial task, but the experiment was designed so that learning it in this way would help make learning subsequent tasks easier in some conditions (those that shared the same structure as seen previously) and harder in others.
+
+On the whole, participants tended to infer a rule structure, with about half of them (18 of 35) imagining rules dictated by the context of color, while the other half assumed rules based on the context of shape.
+
+Tangible signals
+
+With these behavioral results, the researchers could then look at the EEG data recorded at the same time and search for activity related to the formation of these rule structures in regions of the frontal cortex. They informed their investigation with a computational model of cognition that predicted the following pattern: Subjects will first formulate their idea of the task’s structure in the prefrontal cortex (closer to the forehead), and later formulate the movement plan to press the presumed correct button in a part of the brain a little further back (the premotor cortex).
+
+The EEG readings confirmed this prediction with precise correlations between the timing (and less precisely the locations) of the brain activity and behavior.
+
+The researchers were able to determine from the EEG readings – not just from the behavioral results – which context subjects were imagining: shape or color.
+
+Individual variation
+
+Not everyone was the same. People showed significant individual variation. The extent of structure forming activity in the brain correlated with the extent to which people applied the structure they imagined to the subsequent tasks.
+
+“There are predictable signatures in the neural data that showed if their brains seemed to be representing the structure in the way that we would predict from our models and the behavioral experiments, then they were more likely to be able to use that when it’s helpful afterwards in novel environments,” said Michael Frank, associate professor of cognitive, linguistic, and psychological sciences and the paper’s corresponding author. “There is something to the organization of the prefrontal cortex that facilitates looking for those structures and the ability to generalize them.”
+
+The study offers new information about the basic neuroscience of cognition and learning, but Frank also hypothesizes that the findings could be valuable if applied to the study of learning disabilities.
+
+“So far we’ve only studied young, healthy people, but there is some potential for using the variance across individuals in the tendency to discover structure and for their brains to be looking for that — [the potential] to understand what happens in some disorders where people often won’t think in more abstract ways that allow them to generalize their behaviors,” Frank said.
+
+In addition to Collins and Frank, the paper’s other author is James Cavanaugh, a former Brown postdoctoral researcher who is now a professor at the University of New Mexico.
+
+The National Institutes of Health and the National Science Foundation supported the research.

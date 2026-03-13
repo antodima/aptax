@@ -1,0 +1,23 @@
+Senator Hillary Clinton is still struggling to connect with a group she refers to, in a grandmotherly way, as “the young people.”
+
+The Democratic presidential hopeful made ever-so-tiny gains with the college crowd during Thursday night’s Democratic candidate debate — but still lags well behind her opponent, Vermont Sen. Bernie Sanders among millennials, according to data released by Yik Yak.
+
+The social media app, popular on college campuses, has been analyzing the conversations around the presidential debates since last October to gauge shifts in sentiment among its users — 98 percent of whom are millennials.
+
+Yik Yak is careful to note that it isn’t a polling organization like Gallop, American Research Group or Rasmussen Reports. But the volume of conversation around the debates and the 2016 presidential election is sizable enough to reflect the sentiment among its users on college campuses.
+
+“We’re very very confident,” said Marsal Gavalda, Yik Yak’s director of machine learning. “There’s less than 1 percent error in characterization of sentiment.”
+
+That’s not great news for Clinton, who saw her approval rating inch up to nearly 13 percent Thursday among Yik Yak’s college users, from 8 percent during the Feb. 4 MSNBC debate before the New Hampshire primary. Her disapproval rate hovers around 55 percent.
+
+Sanders, meanwhile, burnished his reputation as the big man on campus — a group of voters that polls suggest are looking for independence from the Washington establishment, worrying about climate change and jobs, and seeking relief from crushing student debt.
+
+Yik Yak said Sanders saw his approval rating among users rise to 50 percent, from 46 percent a week earlier.
+
+Voters aged 18 to 29 turned out in big numbers in the New Hampshire primary, matching the record-breaking participation in 2008, according to the Center for Information & Research on Civic Learning and Engagement at Tufts University. Some 43 percent of these millennials voted in the primary, helping to propel Sanders to victory in the Democratic primary (83 percent support), as well as Republican primary winner Donald Trump (37 percent support).
+
+Gavalda said Yik Yak developed its own technology for analyzing the sentiment users express in their conversations (known as Yaks), using a combination of machine learning and human spot-checks to improve accuracy. He declined to describe the sample size beyond noting that it is statistically significant.
+
+Yik Yak is used on more than 2,000 college campuses and some have pegged its user base at around 3.6 million people.
+
+A spokesperson for Clinton did not respond to a request for comment.

@@ -1,0 +1,37 @@
+AMD has announced the roadmap for a chunk of its business that's critical to its effort to "transform" the company from its dependence on PCs and x86 servers: the embedded market.
+
+Perhaps one indication of AMD's aggressiveness can be deduced from the code names of its next four embedded parts – they're all named after birds of prey: "Adelaar", "Steppe Eagle", "Bald Eagle", and "Hierofalcon".
+
+For Reg readers – IT types as you are – it's perhaps that fourth ornithological exemplar that may be of most interest: it will be the embedded version of the 64-bit, ARM-based "Seattle" Operton server chip that was unveiled this June.
+
+"Essentially Hierofalcon and Seattle – Seattle is the server product and Hierofalcon is the embedded product – share a lot of lineage," Arun Iyengar, VP and general manager of AMD's Embedded Solutions group, said at an AMD event on Monday. "But Hierofalcon is targeted towards the other elements of a data centre, which are the communications, networking, and storage sides."
+
+AMD's ARM-based chips won't just be used in dense servers (click to enlarge)
+
+While Seattle will feature AMD's Freedom fabric interconnects, which came to the company by way of its acquisition of SeaMicro in February 2012, Iyengar would not be drawn out on whether or not Hierofalcon would include Freedom. "We're not getting into that level of detail today," he responded to a direct question on that subject.
+
+What he would reveal, however, was that Hierofalcon would come with four or eight ARM Cortex-A57 cores, would include 10-gigabit Ethernet and third-generation PCIe, would be baked in a 28-nanometre process, and would have a thermal design point (TDP) of 15 to 30 watts.
+
+Embedded parts have a number of differences from their non-embedded counterparts, not the least of which is how long they will be supported by their manufacturers. Longevity is a big deal to embedded-systems manufacturers, and AMD will commit to seven-year lifecycles for not only Hierofalcon, but also its three birdy brothers.
+
+Next year will be a busy one for AMD as it works to expand into new markets (click to enlarge)
+
+Among the four parts announced on Monday, Hierofalcon is the only all-new line for AMD. Adelaar, a discrete GPU, will be a follow-on to AMD's Radeon E6460/E6760 parts, will be the first embedded GPU to be built around AMD's "Graphics Core Next" architecture unveiled at the company's Fusion Summit in June 2011, and will double the 1GB of GSDDR5 memory in the E6460/E6760 to 2GB.
+
+The low-power Steppe Eagle is a follow-on to the G-Series SoC line that AMD rolled out this April and updated in July with a lower-power part, the GX-210JA. This raptor, like the G-Series, will have two or four AMD "Jaguar" cores, but they will be "enhanced," Iyengar said, and the TDP of the lowest-power part in this line will drop to 5 watts from the 6 watts of the GX-210JA.
+
+The 28nm Bald Eagle APU/CPU will be the highest performing part in the quartet, and will be the successor to AMD's 32nm R-Series embedded chips. Baldy will update its two or four compute cores from the E-Series' "Piledriver" to the newer "Steamroller", and its GPU will be upgraded from a Radeon HD 7000 Series to HD 9000.
+
+Iyengar – and, for that matter, CEO Rory Read and the entire AMD braintrust – is putting a lot of stock in the company's aggressive push into the embedded market. The company has publicly stated that just a few years from now, around 50 per cent of its revenue will be from markets other than PCs and traditional servers.
+
+And their embedded division headman appears confident that such a goal is realistic, considering the new and expanding markets from which those revenues will come.
+
+"The specific point that we've made in terms of 50 per cent of our revenues coming from non-PC type [processors]," Iyengar said, "is it does include things such as the dense server – that's a new application, that's part of the new 50 per cent. It includes embedded, and it also includes new form factors within the client space – that's part of the new 50 per cent."
+
+Looked at that way – and considering that "embedded" includes everything from industrial to military to medical to digital signage to slot machines to networking to communications to thin clients and more – AMD may again emerge as a potent competitor to Intel in the low-power marketplace.
+
+But AMD is not out of the woods yet – execution, of course, will be the deciding factor. ®
+
+Bootnote
+
+Just how important is ARM to AMD's future? The number of chips – not cores, but chips – in which ARM designs appeared during 2012 gives an idea of that company's reach. ARM VP of embedded marketing Charlene Marini, who was also at the Monday event, told The Reg that 8.7 billion ARM-based chips were shipped last year. Of those, 4.1 billion were for embedded systems, the remainder being for mobile.

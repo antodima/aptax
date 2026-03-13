@@ -1,0 +1,1801 @@
+Build with Static in Clojure © 2011-2018
+
+Benedikt Terhechte
+
+{:keyword-tags (:swift), :projects ({:project "Sarbatka", :link "/electronic-music.html"}), :postlist ({:title "Blogstrapped.", :url "/2011/12/01/blogstrapped/", :tags "entrepeneurship blog", :keyword-tags (:entrepeneurship :blog), :date "Thu, 1 Dec 2011", :keywords "entrepeneurship videro fear unknown stylemac", :keyword-keywords (:entrepeneurship :videro :fear :unknown :stylemac)} {:title "Fast NSDictionary traversal in Objective-C", :url "/2011/12/07/fast-nsdictionary-traversal-in-objective-c/", :tags "objective-c ios cocoa", :keyword-tags (:objective-c :ios :cocoa), :date "Wed, 7 Dec 2011"} {:title "How the iPad can improve focus", :url "/2011/12/09/how-the-ipad-can-improve-focus/", :tags "opinion", :keyword-tags (:opinion), :date "Fri, 9 Dec 2011"} {:title "Use VIM as an Xcode alternative", :url "/2013/01/29/use-vim-as-xcode-alternative-ios-mac-cocoa/", :tags "cocoa objective-c ios", :keyword-tags (:cocoa :objective-c :ios), :date "Tue, 29 Jan 2013"} {:title "Now Running Clojure", :url "/2014/01/20/now-running-clojure/", :tags "clojure blog", :keyword-tags (:clojure :blog), :date "Mon, 20 Jan 2014"} {:title "Debugging entitlement issues in Maps, iCloud, In-App, Keychain, or GameCenter", :url "/2014/01/21/debugging-entitlement-maps-icloud-gamecenter-issues/", :tags "ios cocoa", :keyword-tags (:ios :cocoa), :date "Tue, 21 Jan 2014", :keywords "ios cocoa entitlements", :keyword-keywords (:ios :cocoa :entitlements)} {:title "Clojure/Enlive Static Site Generator that keeps your HTML intact", :url "/2014/01/22/clojure-enlive-static-site-generator-that-keeps-html-intact/", :tags "blog clojure", :keyword-tags (:blog :clojure), :date "Wed, 22 Jan 2014", :keywords "clojure static site generator jekyll html enlive", :keyword-keywords (:clojure :static :site :generator :jekyll :html :enlive)} {:title "Finding a good URL Partitioning Scheme for PostgreSQL", :url "/2014/01/24/finding-url-partitioning-scheme-postgres/", :tags "postgresql clojure", :keyword-tags (:postgresql :clojure), :date "Fri, 24 Jan 2014", :keywords "clojure postgresql partitioning scheme", :keyword-keywords (:clojure :postgresql :partitioning :scheme)} {:title "An Emacs Lisp tooling tutorial, writing a bulk mailer", :url "/2014/01/29/emacs-lisp-tooling-tutorial-writing-bulk-mailer/", :tags "emacs", :keyword-tags (:emacs), :date "Wed, 29 Jan 2014", :keywords "emacs lisp bulk mailer tutorial email vim vimscript evil", :keyword-keywords (:emacs :lisp :bulk :mailer :tutorial :email :vim :vimscript :evil)} {:title "Creating a Swift syntax extension: the Lisp 'cond' function", :url "/2014/06/08/writing-simple-syntax-extensions-in-swift/", :tags "swift ios cocoa", :keyword-tags (:swift :ios :cocoa), :date "Sun, 8 Jun 2014", :keywords "clojure lisp swift cond syntax macro extension cocoa ios feature", :keyword-keywords (:clojure :lisp :swift :cond :syntax :macro :extension :cocoa :ios :feature)} {:title "Swift optionals made simple", :url "/2014/06/13/swift-optionals-made-simple/", :tags "swift ios cocoa", :keyword-tags (:swift :ios :cocoa), :date "Fri, 13 Jun 2014", :keywords "lisp swift optional scala simple optionals switch chaining feature", :keyword-keywords (:lisp :swift :optional :scala :simple :optionals :switch :chaining :feature)} {:title "Generic method overloading by protocol in Swift", :url "/2015/06/17/swift-method-overloading-by-protocol/", :tags "swift ios cocoa", :keyword-tags (:swift :ios :cocoa), :date "Wed, 17 Jun 2015", :keywords "swift optional simple overloading method protocol extensions generics feature", :keyword-keywords (:swift :optional :simple :overloading :method :protocol :extensions :generics :feature)} {:title "Using try / catch in Swift with asynchronous closures", :url "/2015/06/19/swift-try-catch-asynchronous-closures/", :tags "swift ios", :keyword-tags (:swift :ios), :date "Fri, 19 Jun 2015", :keywords "swift try catch errortype closure async result feature", :keyword-keywords (:swift :try :catch :errortype :closure :async :result :feature)} {:title "Debugging advanced compilation errors in ClojureScript", :url "/2015/07/02/debugging-clojurescript-advanced-compilation/", :tags "clojure", :keyword-tags (:clojure), :date "Thu, 2 Jul 2015", :keywords "debugging clojure clojurescript externs", :keyword-keywords (:debugging :clojure :clojurescript :externs)} {:title "Tuples in Swift, Advanced Usage and Best Practices", :url "/2015/07/19/tuples-swift-advanced-usage-best-practices/", :tags "swift", :keyword-tags (:swift), :date "Sun, 19 Jul 2015", :keywords "swift tuples generics feature", :keyword-keywords (:swift :tuples :generics :feature)} {:title "Match Me if you can: Swift Pattern Matching in Detail.", :url "/2015/08/20/swift-pattern-matching-in-detail/", :tags "swift ios cocoa", :keyword-tags (:swift :ios :cocoa), :date "Thu, 20 Aug 2015", :keywords "feature lisp swift optional scala simple optionals switch chaining for pattern matching clojure haskell", :keyword-keywords (:feature :lisp :swift :optional :scala :simple :optionals :switch :chaining :for :pattern :matching :clojure :haskell)} {:title "Optional throw via try? in Swift 2 beta 6", :url "/2015/08/25/optional-throw-swift/", :tags "swift", :keyword-tags (:swift), :date "Tue, 25 Aug 2015", :keywords "swift error throw result either rethrow try syntax swift2", :keyword-keywords (:swift :error :throw :result :either :rethrow :try :syntax :swift2)} {:title "Getting your iPhone 6s Chip Foundry from Swift", :url "/2015/09/30/getting-iphone6s-foundry-from-swift/", :tags "swift", :keyword-tags (:swift), :date "Wed, 30 Sep 2015", :keywords "swift iphone6s iphone tsmc samsung gestalt private api foundation", :keyword-keywords (:swift :iphone6s :iphone :tsmc :samsung :gestalt :private :api :foundation)} {:title "Advanced and Practical Enum usage in Swift", :url "/2015/10/17/advanced-practical-enum-examples/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Sat, 17 Oct 2015", :keywords "feature swift enum algebraic caseclass union case switch pattern simple practical advanced example", :keyword-keywords (:feature :swift :enum :algebraic :caseclass :union :case :switch :pattern :simple :practical :advanced :example)} {:title "The Swift Reflection API and what you can do with it", :url "/2015/10/24/swift-reflection-api-what-you-can-do/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Sat, 24 Oct 2015", :keywords "feature swift reflection struct class displayType mirror api reflecting any anyobject", :keyword-keywords (:feature :swift :reflection :struct :class :displayType :mirror :api :reflecting :any :anyobject)} {:title "Reduce all the things", :url "/2015/11/30/reduce-all-the-things/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Mon, 30 Nov 2015", :keywords "feature swift reduce map filter group partition split interpose chunk functional programming flatMap", :keyword-keywords (:feature :swift :reduce :map :filter :group :partition :split :interpose :chunk :functional :programming :flatMap)} {:title "Swift Package Manager: Create and Use a X11 package on Linux", :url "/2015/12/08/swift-ubuntu-x11-window-app/", :tags "swift linux", :keyword-tags (:swift :linux), :date "Tue, 8 Dec 2015", :keywords "linux x11 swift libx11 xserver xorg", :keyword-keywords (:linux :x11 :swift :libx11 :xserver :xorg)} {:title "Hirundo: Comfortably follow Swift Mailing Lists on OSX", :url "/2016/02/02/hirundo-mac-app-swift-mailing-lists/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Tue, 2 Feb 2016", :keywords "swift mac cocoa mailing list swift-dev swift-eveolution swift-users reading macosx", :keyword-keywords (:swift :mac :cocoa :mailing :list :swift-dev :swift-eveolution :swift-users :reading :macosx)} {:title "Three tips for concise Swift using the Guard statement", :url "/2016/03/29/three-tips-for-clean-swift-code/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Tue, 29 Mar 2016", :keywords "swift mac cocoa guard let enum pattern matching patterns", :keyword-keywords (:swift :mac :cocoa :guard :let :enum :pattern :matching :patterns)} {:title "Using Git Hooks to prevent commiting test code", :url "/2016/04/04/prevent-accidental-test-code-commits/", :tags "git", :keyword-tags (:git), :date "Mon, 4 Apr 2016", :keywords "git hook commit debug test code", :keyword-keywords (:git :hook :commit :debug :test :code)} {:title "Force optionals in multi-unwrapped \"guard let\" or \"if let\"", :url "/2016/04/14/force-optionals-in-guard-or-let-optional-binding/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Thu, 14 Apr 2016", :keywords "swift guard let unwrap bind binding unwrapped optional some none optionals", :keyword-keywords (:swift :guard :let :unwrap :bind :binding :unwrapped :optional :some :none :optionals)} {:title "Raw value initializers for enums with associated types", :url "/2016/04/23/associated-types-enum-raw-value-initializers/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Sat, 23 Apr 2016", :keywords "swift optional enum raw value initializers associated type", :keyword-keywords (:swift :optional :enum :raw :value :initializers :associated :type)} {:title "SwiftWatch", :url "/2016/04/28/swiftwatch/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Thu, 28 Apr 2016", :keywords "swift hackernews reddit designernews lamernews socialnews swiftlang programming community post vote comment", :keyword-keywords (:swift :hackernews :reddit :designernews :lamernews :socialnews :swiftlang :programming :community :post :vote :comment)} {:title "Data in Swift 3 parsing a Doom WAD File", :url "/2016/07/15/swift3-nsdata-data/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Fri, 15 Jul 2016", :keywords "swift doom wad lumps data nsdata swift3 binary bytes", :keyword-keywords (:swift :doom :wad :lumps :data :nsdata :swift3 :binary :bytes)} {:title "Value Types for Simple Difference Detection", :url "/2017/09/30/value-types-for-simple-difference-detection/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Sat, 30 Sep 2017", :keywords "swift value types uitableview uicollectionview valuetypes struct class equatable tuple", :keyword-keywords (:swift :value :types :uitableview :uicollectionview :valuetypes :struct :class :equatable :tuple)} {:title "Taming SourceKitService for Less Xcode Memory Consumption", :url "/2017/10/08/taming-sourcekitd/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Sun, 8 Oct 2017", :keywords "xcode sourcekit swift SourceKitService", :keyword-keywords (:xcode :sourcekit :swift :SourceKitService)} {:title "Patterns for Working With Associated Types", :url "/2017/12/10/patterns-for-working-with-associated-types/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Sun, 10 Dec 2017", :keywords "swift protocol protocols associated associatedtype typealias pattern pat", :keyword-keywords (:swift :protocol :protocols :associated :associatedtype :typealias :pattern :pat)} {:title "Useful Optional Extensions", :url "/2018/01/10/optional-extensions/", :tags "swift cocoa ios", :keyword-tags (:swift :cocoa :ios), :date "Wed, 10 Jan 2018", :keywords "swift protocol optional optionals extensions", :keyword-keywords (:swift :protocol :optional :optionals :extensions)} {:title "Expanding Swift's Reach", :url "/2018/05/03/expanding-swifts-reach/", :tags "swift linux", :keyword-tags (:swift :linux), :date "Thu, 3 April 2018", :keywords "swift linux server opensource", :keyword-keywords (:swift :linux :server :opensource)} {:title "An interactive Git Status client, written in C", :url "/2019/01/24/interactive-git-status-written-in-c/", :tags "c linux", :keyword-tags (:c :linux), :date "Thu, 24 Jan 2019", :keywords "c linux macos ncurses git libgit", :keyword-keywords (:c :linux :macos :ncurses :git :libgit)} {:title "Cleaner Classes with Structs and Tuples", :url "/2019/02/24/anonymous-tuple-structs/", :tags "ios macos swift", :keyword-tags (:ios :macos :swift), :date "Sun, 24 Feb 2019", :keywords "ios macos swift tuples classes structs", :keyword-keywords (:ios :macos :swift :tuples :classes :structs)}), :tags "benedikt, c, clojure, clojurescript, cocoa, feature, generics, html, ios, javascript, mac, objective-c, photodesk, research, stylemac, swift, terhechte, tuples", :type :post, :keywords "swift tuples generics feature", :title "Tuples in Swift, Advanced Usage and Best Practices", :author "Benedikt Terhechte", :summary "Tuples are one of Swift's less visible language features. They occupy a small space between Structs and Arrays. In addition, there's no comparable construct in Objective-C (or many other languages). Finally, the use of tuples in the standard library and in Apple's example code is sparse. The following guide tries to give a more comprehensive overview of tuples with best ", :categories ({:tag "blog", :url "/tags/blog/index.html", :count 3} {:tag "c", :url "/tags/c/index.html", :count 1} {:tag "clojure", :url "/tags/clojure/index.html", :count 4} {:tag "cocoa", :url "/tags/cocoa/index.html", :count 20} {:tag "emacs", :url "/tags/emacs/index.html", :count 1} {:tag "entrepeneurship", :url "/tags/entrepeneurship/index.html", :count 1} {:tag "git", :url "/tags/git/index.html", :count 1} {:tag "ios", :url "/tags/ios/index.html", :count 22} {:tag "linux", :url "/tags/linux/index.html", :count 3} {:tag "macos", :url "/tags/macos/index.html", :count 1} {:tag "objective-c", :url "/tags/objective-c/index.html", :count 2} {:tag "opinion", :url "/tags/opinion/index.html", :count 1} {:tag "postgresql", :url "/tags/postgresql/index.html", :count 1} {:tag "swift", :url "/tags/swift/index.html", :count 24}), :url "/2015/07/19/tuples-swift-advanced-usage-best-practices/", :blog-index nil, :watching nil, :site-title "Appventure", :keyword-keywords (:swift :tuples :generics :feature)} [{:keyword-tags (:swift), :tags "swift", :date "Sun, 19 Jul 2015", :footnotes nil, :meta {:title "Tuples in Swift, Advanced Usage and Best Practices", :keyword-tags (:swift), :tags "swift", :keyword-keywords (:swift :tuples :generics :feature), :keywords "swift tuples generics feature", :summary "Tuples are one of Swift's less visible language features. They occupy a small space between Structs and Arrays. In addition, there's no comparable construct in Objective-C (or many other languages). Finally, the use of tuples in the standard library and in Apple's example code is sparse. The following guide tries to give a more comprehensive overview of tuples with best "}, :content "<div id=\"table-of-contents\">
+
+<h2>Table of Contents</h2>
+
+<div id=\"text-table-of-contents\">
+
+<ul>
+
+<li><a href=\"#org6ab2617\">1. The absolute basics</a>
+
+<ul>
+
+<li><a href=\"#org0d93045\">1.1. Creating and Accessing Tuples</a></li>
+
+<li><a href=\"#orgd04d000\">1.2. Tuples for pattern matching</a></li>
+
+<li><a href=\"#org2d6db9e\">1.3. Tuples as return types</a></li>
+
+<li><a href=\"#org6cea3e6\">1.4. Tuple Destructuring</a></li>
+
+</ul>
+
+</li>
+
+<li><a href=\"#org8050dfb\">2. Beyond the basics</a>
+
+<ul>
+
+<li><a href=\"#org09d2ea6\">2.1. Tuples as anonymous structs</a></li>
+
+<li><a href=\"#orge42ad7f\">2.2. Private State</a></li>
+
+<li><a href=\"#orgc671b7e\">2.3. Tuples as Fixed-Size Sequences</a></li>
+
+<li><a href=\"#orgde0c6e0\">2.4. Tuples for Varargs Types</a></li>
+
+</ul>
+
+</li>
+
+<li><a href=\"#orgf881831\">3. Advanced Tuples</a>
+
+<ul>
+
+<li><a href=\"#org06df462\">3.1. Tuple Iteration</a></li>
+
+<li><a href=\"#org5e6cddb\">3.2. Tuples and Generics</a></li>
+
+<li><a href=\"#orgcc3ccdf\">3.3. Define a Specific Tuple Type</a></li>
+
+<li><a href=\"#org0bc394d\">3.4. Tuples as function parameters</a></li>
+
+<li><a href=\"#orgda0ede1\">3.5. Tuples to reorder function parameters</a></li>
+
+</ul>
+
+</li>
+
+<li><a href=\"#org2aee4c2\">4. Tuple impossibilities</a>
+
+<ul>
+
+<li><a href=\"#org27733ac\">4.1. Tuples as Dictionary Keys</a></li>
+
+<li><a href=\"#org159b3d1\">4.2. Tuple Protocol Compliance</a></li>
+
+</ul>
+
+</li>
+
+<li><a href=\"#org8bc7213\">5. Addendum</a></li>
+
+<li><a href=\"#org9655ad2\">6. The code, suitable for use in a playground</a></li>
+
+<li><a href=\"#org3af435a\">7. Changes</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+<h6><a href=\"http://swift.gg/2015/10/10/tuples-swift-advanced-usage-best-practices/\">An older version of this post is also available in <b>🇨🇳Chinese</b></a><span> Thanks to </span><a href=\"http://swift.gg/tags/APPVENTURE/\">SwiftGG</a></h6>
+
+
+
+<p>
+
+Tuples are one of Swift's less visible language features. They occupy a small space between Structs and Arrays. In addition, there's no comparable construct in Objective-C (or many other languages). Finally, the usage of tuples in the standard library and in Apple's example code is sparse. One could get the impression that their raison d'être in Swift is pattern matching, but I disgress.
+
+</p>
+
+
+
+<p>
+
+Most tuple explanations concentrate on three tuple use cases (pattern matching, return values, destructuring) and leave it at that. The following guide tries to give a more comprehensive overview of tuples with best practices of when to use them and when not to use them. I'll also try to list those things that you can't do with tuples, to spare you asking about them on stack overflow. Let's dive in.
+
+</p>
+
+
+
+<div id=\"outline-container-org6ab2617\" class=\"outline-2\">
+
+<h2 id=\"org6ab2617\"><span class=\"section-number-2\">1</span> The absolute basics</h2>
+
+<div class=\"outline-text-2\" id=\"text-1\">
+
+<p>
+
+You probably already know most of this, so I'll keep it concise.
+
+</p>
+
+
+
+<p>
+
+A tuple can combine different types into one. Tuples are value types and even though they look like sequences they aren't sequences, as there's no direct way of looping over the contents. We'll start with a quick primer on how to create and use tuples.
+
+</p>
+
+</div>
+
+
+
+<div id=\"outline-container-org0d93045\" class=\"outline-3\">
+
+<h3 id=\"org0d93045\"><span class=\"section-number-3\">1.1</span> Creating and Accessing Tuples</h3>
+
+<div class=\"outline-text-3\" id=\"text-1-1\">
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">// Constructing a simple tuple
+
+let tp1 = (2, 3)
+
+let tp2 = (2, 3, 4)
+
+
+
+// Constructing a named tuple
+
+let tp3 = (x: 5, y: 3)
+
+
+
+// Different types
+
+let tp4 = (name: \"Carl\", age: 78, pets: [\"Bonny\", \"Houdon\", \"Miki\"])
+
+
+
+// Accessing tuple elements
+
+let tp5 = (13, 21)
+
+tp5.0 // 13
+
+tp5.1 // 21
+
+
+
+let tp6 = (x: 21, y: 33)
+
+tp6.x // 21
+
+tp6.y // 33
+
+
+
+</pre>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-orgd04d000\" class=\"outline-3\">
+
+<h3 id=\"orgd04d000\"><span class=\"section-number-3\">1.2</span> Tuples for pattern matching</h3>
+
+<div class=\"outline-text-3\" id=\"text-1-2\">
+
+<p>
+
+As already mentioned above, this feels like the strongest use case for tuples.
+
+Swift's <code>switch</code> statement offers a really powerful yet easy way to define complex conditionals without cluttering up the source code. You can then match for the type, existence, and value of multiple variables in one statement:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">
+
+// Contrived example
+
+// These would be return values from various functions.
+
+let age = 23
+
+let job: String? = \"Operator\"
+
+let payload: Any = [\"cars\": 1]
+
+
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+In the code above, we want to find the persons younger than 30 with a job and a Dictionary payload. Imagine the payload as something from the Objective-C world, it could be a Dictionary or an Array or a Number, awful code somebody else wrote years ago, and you have to interact with it now.
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">
+
+typealias AnyDictionary = Dictionary<AnyHashable, Any>
+
+
+
+switch (age, job, payload) {
+
+case (let age, _?, _ as AnyDictionary) where age < 30:
+
+print(age)
+
+default:
+
+break
+
+}
+
+
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+By constructing the switch argument as a tuple <code>(age, job, payload)</code> we can query for specific or nonspecific attributes of all tuple elements at once. This allows for elaborately constrained conditionals.
+
+</p>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-org2d6db9e\" class=\"outline-3\">
+
+<h3 id=\"org2d6db9e\"><span class=\"section-number-3\">1.3</span> Tuples as return types</h3>
+
+<div class=\"outline-text-3\" id=\"text-1-3\">
+
+<p>
+
+Probably the next-best tuple use case. Since tuples can be constructed on the fly, they're a great way to easily return multiple values from a function.
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">func abc() -> (Int, Int, String) {
+
+return (3, 5, \"Carl\")
+
+}
+
+</pre>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-org6cea3e6\" class=\"outline-3\">
+
+<h3 id=\"org6cea3e6\"><span class=\"section-number-3\">1.4</span> Tuple Destructuring</h3>
+
+<div class=\"outline-text-3\" id=\"text-1-4\">
+
+<p>
+
+Swift took a lot of inspiration from different programming languages, and this is something that Python has been doing for years. While the previous examples mostly showed how to easily get something into a tuple, destructuring is a swifty way of getting something out of a tuple, and in line with the <code>abc</code> example above, it looks like this:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">let (a, b, c) = abc()
+
+print(a)
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+Another example is getting several function calls into one line:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">let (a, b, c) = (a(), b(), c())
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+Or, an easy way to swap two values:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">var v1: Int
+
+var v2: Int
+
+(v1, v2) = (5, 4)
+
+(a: v1, b: v2) = (a: v2, b: v1) // swapped: v1 == 4, v2 == 5
+
+(v1, v2) = (5, 4)
+
+(a: v1, b: v2) = (b: v1, a: v2) // swapped: v1 == 4, v2 == 5
+
+
+
+</pre>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-org8050dfb\" class=\"outline-2\">
+
+<h2 id=\"org8050dfb\"><span class=\"section-number-2\">2</span> Beyond the basics</h2>
+
+<div class=\"outline-text-2\" id=\"text-2\">
+
+</div>
+
+<div id=\"outline-container-org09d2ea6\" class=\"outline-3\">
+
+<h3 id=\"org09d2ea6\"><span class=\"section-number-3\">2.1</span> Tuples as anonymous structs</h3>
+
+<div class=\"outline-text-3\" id=\"text-2-1\">
+
+<p>
+
+Tuples as well as structs allow you to combine different types into one type:
+
+</p>
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">let user1 = (name: \"Carl\", age: 40)
+
+// vs.
+
+struct User {
+
+let name: String
+
+let age: Int
+
+}
+
+let user2 = User(name: \"Steve\", age: 39)
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+As you can see, these two types are similar, but whereas the tuple exists simply as an instance, the struct requires both a struct declaration and a struct initializer. This similarity can be leveraged whenever you have the need to define a temporary struct inside a function or method. As the Swift docs say:
+
+</p>
+
+
+
+<blockquote>
+
+<p>
+
+Tuples are useful for temporary groups of related values. (…) If your data structure is likely to persist beyond a temporary scope, model it as a class or structure (…)
+
+</p>
+
+</blockquote>
+
+
+
+<p>
+
+As an example of this, consider the following situation where the return values from several functions first need to be uniquely collected and then inserted:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">func zipForUser(userid: String) -> String { return \"12124\" }
+
+func streetForUser(userid: String) -> String { return \"Charles Street\" }
+
+let users = [user1]
+
+
+
+// Find all unique streets in our userbase
+
+var streets: [String: (zip: String, street: String, count: Int)] = [:]
+
+for user in users {
+
+let zip = zipForUser(userid: user.name)
+
+let street = streetForUser(userid: user.name)
+
+let key = \"\\(zip)-\\(street)\"
+
+if let (_, _, count) = streets[key] {
+
+\tstreets[key] = (zip, street, count + 1)
+
+} else {
+
+\tstreets[key] = (zip, street, 1)
+
+}
+
+}
+
+
+
+// drawStreetsOnMap(streets.values)
+
+for street in streets.values { print(street) }
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+Here, the tuple is being used as a simple structure for a short-duration use case. Defining a struct would also be possible but not strictly necessary.
+
+</p>
+
+
+
+<p>
+
+Another example would be a class that handles algorithmic data, and you're moving a temporary result from one method to the next one. Defining an extra struct for something only used once (in between two or three methods) may not be required.
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">// Made up algorithm
+
+func calculateInterim(values: [Int]) -> (r: Int, alpha: CGFloat, chi: (CGFloat, CGFloat)) {
+
+return (values[0], 2, (4, 8))
+
+}
+
+func expandInterim(interim: (r: Int, alpha: CGFloat, chi: (CGFloat, CGFloat))) -> CGFloat {
+
+return CGFloat(interim.r) + interim.alpha + interim.chi.0 + interim.chi.1
+
+}
+
+
+
+print(expandInterim(interim: calculateInterim(values: [1])))
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+There is, of course, a fine line here. Defining a struct for one instance is overly complex; defining a tuple 4 times instead of one struct is overly complex too. Finding the sweet spot depends on various factors.
+
+</p>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-orge42ad7f\" class=\"outline-3\">
+
+<h3 id=\"orge42ad7f\"><span class=\"section-number-3\">2.2</span> Private State</h3>
+
+<div class=\"outline-text-3\" id=\"text-2-2\">
+
+<p>
+
+In addition to the previous example, there are also use cases where using tuples beyond a temporary scope is useful. Following Rich Hickey's \"If a tree falls in the woods, does it make a sound?\", as long as the scope is private and the tuple's type isn't littered all over the implementation, using tuples to store internal state can be fine.
+
+</p>
+
+
+
+<p>
+
+A simple and contrived example would be storing a static UITableView structure that displays various information from a user profile and contains the key path to the actual value as well as a flag noting whether the value can be edited when tapping on the cell.
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">let tableViewValues = [
+
+(title: \"Age\", value: \"user.age\", editable: true),
+
+(\"Name\", \"user.name.combinedName\", true),
+
+(\"Username\", \"user.name.username\", false),
+
+(\"ProfilePicture\", \"user.pictures.thumbnail\", false)]
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+The alternative would be to define a struct, but if the data is a purely private implementation detail, a tuple works just as well.
+
+</p>
+
+
+
+<p>
+
+A better example is when you define an object and want to add the ability to add multiple change listeners to your object. Each listener consists of a name and the closure to be called upon any change:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">typealias Action = (_ change: Any?) -> Void
+
+func addListener(name: String, action: @escaping Action) { }
+
+func removeListener(name: String) { }
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+How will you store these listeners in your object? The obvious solution would be to define a struct, but this is a very limited scope, and the struct will only be internal, and it will be used in only three cases. Here, using a tuple may even be the better solution, as the destructuring makes things simpler:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">
+
+class ListenerStuff {
+
+
+
+typealias Action = (_ change: Any?) -> Void
+
+
+
+var listeners: [(String, Action)] = []
+
+
+
+func addListener(name: String, action: @escaping Action) {
+
+\tlisteners.append((name, action))
+
+}
+
+
+
+func removeListener(name: String) {
+
+\tif let idx = listeners.index(where: { $0.0 == name }) {
+
+\t listeners.remove(at: idx)
+
+\t}
+
+}
+
+
+
+func execute(change: Int) {
+
+\tfor (_, listener) in listeners {
+
+\t listener(change as Any?)
+
+\t}
+
+}
+
+}
+
+
+
+var stuff = ListenerStuff()
+
+let ourAction: ListenerStuff.Action = { x in print(\"Change is \\(x ?? \"NONE\").\") }
+
+stuff.addListener(name: \"xx\", action: ourAction)
+
+stuff.execute(change: 17)
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+As you can see in the <code>execute</code> function, the destructuring abilities make tuples especially useful in this case, as the contents are directly destructured into the local scope.
+
+</p>
+
+</div>
+
+</div>
+
+
+
+
+
+<div id=\"outline-container-orgc671b7e\" class=\"outline-3\">
+
+<h3 id=\"orgc671b7e\"><span class=\"section-number-3\">2.3</span> Tuples as Fixed-Size Sequences</h3>
+
+<div class=\"outline-text-3\" id=\"text-2-3\">
+
+<p>
+
+Another area where tuples can be used is when you intend to constrain a type to a fixed number of items. Imagine an object that calculates various statistics for each month in a year. You need to store a certain Integer value for each month separately. The solution that comes to mind first would of course be:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">var monthValuesArray: [Int]
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+However, in this case we don't know whether the property indeed contains 12 elements. A user of our object could accidentally insert 13 values, or 11. We can't tell the type checker that this is a fixed size array of 12 items<sup><a id=\"fnr.1\" class=\"footref\" href=\"#fn.1\">1</a></sup>. With a tuple, this specific constraint can easily be put into place:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">var monthValues: (Int, Int, Int, Int, Int, Int, Int, Int, Int, Int, Int, Int)
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+The alternative would be to have the constraining logic in the object's functionality (say via a <code>guard</code> statement); however, this would be a run time check. The tuple check happens at compile time; your code won't even compile if you try to give 11 months to your object.
+
+</p>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-orgde0c6e0\" class=\"outline-3\">
+
+<h3 id=\"orgde0c6e0\"><span class=\"section-number-3\">2.4</span> Tuples for Varargs Types</h3>
+
+<div class=\"outline-text-3\" id=\"text-2-4\">
+
+<p>
+
+Varargs i.e. variable function arguments are a very useful technique for situations where the number of function parameters is unknown.
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">// classic example
+
+func sum(of numbers: Int...) -> Int {
+
+// add up all numbers with the + operator
+
+return numbers.reduce(0, +)
+
+}
+
+
+
+let theSum = sum(of: 1, 2, 5, 7, 9) // 24
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+A tuple can be useful here if your requirement goes beyond simple integers. Take this function, which does a batch update of <code>n</code> entities in a database:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">func batchUpdate(updates: (String, Int)...) {
+
+self.db.begin()
+
+for (key, value) in updates {
+
+\tself.db.set(key, value)
+
+}
+
+self.db.end()
+
+}
+
+
+
+// We're imagining a weird database
+
+batchUpdate(updates: (\"tk1\", 5), (\"tk7\", 9), (\"tk21\", 44), (\"tk88\", 12))
+
+</pre>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-orgf881831\" class=\"outline-2\">
+
+<h2 id=\"orgf881831\"><span class=\"section-number-2\">3</span> Advanced Tuples</h2>
+
+<div class=\"outline-text-2\" id=\"text-3\">
+
+</div>
+
+<div id=\"outline-container-org06df462\" class=\"outline-3\">
+
+<h3 id=\"org06df462\"><span class=\"section-number-3\">3.1</span> Tuple Iteration</h3>
+
+<div class=\"outline-text-3\" id=\"text-3-1\">
+
+<p>
+
+In the above descriptions, I've tried to steer clear of calling tuples sequences or collections because they aren't. Since every element of a tuple can have a different type, there's no type-safe way of looping or mapping over the contents of a tuple. Well, no beautiful one, that is.
+
+</p>
+
+
+
+<p>
+
+Swift does offer limited reflection capabilities, and these allow us to inspect the elements of a tuple and loop over them. The downside is that the type checker has no way to figure out what the type of each element is, and thus everything is typed as <code>Any</code>. It is your job then to cast and match this against your possible types to figure out what to do.
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">let t = (a: 5, b: \"String\", c: Date())
+
+
+
+let mirror = Mirror(reflecting: t)
+
+for (label, value) in mirror.children {
+
+switch value {
+
+case is Int:
+
+\tprint(\"int\")
+
+case is String:
+
+\tprint(\"string\")
+
+case is NSDate:
+
+\tprint(\"nsdate\")
+
+default: ()
+
+}
+
+}
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+This is not as simple as array iteration, but it does work if you really need it.
+
+</p>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-org5e6cddb\" class=\"outline-3\">
+
+<h3 id=\"org5e6cddb\"><span class=\"section-number-3\">3.2</span> Tuples and Generics</h3>
+
+<div class=\"outline-text-3\" id=\"text-3-2\">
+
+<p>
+
+There's no <code>Tuple</code> type available in Swift. If you wonder why that is, think about it: every tuple is a totally different type, depending on the types within it. So instead of defining a generic tuple requirement, you define the specific but generic incarnation of the tuple you intend to use:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">func wantsTuple<T1, T2>(_ tuple: (T1, T2)) -> T1 {
+
+return tuple.0
+
+}
+
+
+
+wantsTuple((\"a\", \"b\")) // \"a\"
+
+wantsTuple((1, 2)) // 1
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+You can also use tuples in <code>typealiases</code>, thus allowing subclasses to fill out your types with details. This looks fairly useless and complicated, but I've already had a use case where I need to do exactly this.
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">class BaseClass<A,B> {
+
+typealias Element = (A, B)
+
+func add(_ elm: Element) {
+
+\tprint(elm)
+
+}
+
+}
+
+class IntegerClass<B> : BaseClass<Int, B> {
+
+}
+
+let example = IntegerClass<String>()
+
+example.add((5, \"\"))
+
+// Prints (5, \"\")
+
+</pre>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-orgcc3ccdf\" class=\"outline-3\">
+
+<h3 id=\"orgcc3ccdf\"><span class=\"section-number-3\">3.3</span> Define a Specific Tuple Type</h3>
+
+<div class=\"outline-text-3\" id=\"text-3-3\">
+
+<p>
+
+In many of the earlier examples, we rewrote a certain tuple type like <code>(Int, Int, String)</code> multiple times. This, of course, is not necessary, as we could define a <code>typealias</code> for it:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">typealias Example = (Int, Int, String)
+
+func add(elm: Example) { }
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+However, if you're using a certain tuple construction so often that you think about adding a typealias for it, you might really be better off defining a struct.
+
+</p>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-org0bc394d\" class=\"outline-3\">
+
+<h3 id=\"org0bc394d\"><span class=\"section-number-3\">3.4</span> Tuples as function parameters</h3>
+
+<div class=\"outline-text-3\" id=\"text-3-4\">
+
+<p>
+
+<a href=\"https://github.com/apple/swift-evolution/blob/master/proposals/0029-remove-implicit-tuple-splat.md\">Swift 3 removed the tuple splat feature</a>, which used to be described in this section.
+
+</p>
+
+
+
+<p>
+
+If you pass a tuple as a parameter to a function, it always works as you would expect: the tuple is available as an immutable variable in the function.
+
+</p>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-orgda0ede1\" class=\"outline-3\">
+
+<h3 id=\"orgda0ede1\"><span class=\"section-number-3\">3.5</span> Tuples to reorder function parameters</h3>
+
+<div class=\"outline-text-3\" id=\"text-3-5\">
+
+<p>
+
+<a href=\"https://github.com/apple/swift-evolution/blob/master/proposals/0029-remove-implicit-tuple-splat.md\">Swift 3 removed the tuple splat feature</a>, which was the basis for tricks discussed in this section.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-org2aee4c2\" class=\"outline-2\">
+
+<h2 id=\"org2aee4c2\"><span class=\"section-number-2\">4</span> Tuple impossibilities</h2>
+
+<div class=\"outline-text-2\" id=\"text-4\">
+
+<p>
+
+Finally, we reach the list of some of the things that are impossible to achieve with tuples.
+
+</p>
+
+</div>
+
+
+
+<div id=\"outline-container-org27733ac\" class=\"outline-3\">
+
+<h3 id=\"org27733ac\"><span class=\"section-number-3\">4.1</span> Tuples as Dictionary Keys</h3>
+
+<div class=\"outline-text-3\" id=\"text-4-1\">
+
+<p>
+
+If you'd like to do the following:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">let p: [(Int, Int): String]
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+Then this is not possible, because tuples don't conform to the Hashable protocol. Which is really a bummer, as the example above has a multitude of use cases. There may be a crazy type checker hack to extend tuples of varying arities to the Hashable protocol, but I haven't really looked into that. If you happen to know if this works, feel free to contact me via <a href=\"http://twitter.com/terhechte\">twitter</a>.
+
+</p>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-org159b3d1\" class=\"outline-3\">
+
+<h3 id=\"org159b3d1\"><span class=\"section-number-3\">4.2</span> Tuple Protocol Compliance</h3>
+
+<div class=\"outline-text-3\" id=\"text-4-2\">
+
+<p>
+
+Given the following protocol:
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">protocol PointProtocol {
+
+var x: Int { get }
+
+var y: Int { get }
+
+}
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+You can't get the type checker to accept the tuple <code>(x: 10, y: 20)</code> as implementing that protocol.
+
+</p>
+
+
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">func addPoint(point: PointProtocol)
+
+addPoint(point: (x: 10, y: 20) as PointProtocol) // doesn't work.
+
+</pre>
+
+</div>
+
+
+
+<p>
+
+The compiler complains,
+
+\"'(x: Int, y: Int)' is not convertible to 'PointProtocol'; did you mean to use 'as!' to force downcast?
+
+(Answer: no.)
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-org8bc7213\" class=\"outline-2\">
+
+<h2 id=\"org8bc7213\"><span class=\"section-number-2\">5</span> Addendum</h2>
+
+<div class=\"outline-text-2\" id=\"text-5\">
+
+<p>
+
+That's it. I probably forgot one or another thing. Things may also be wrong. If you find a factual error, or if there's something else I forgot, feel free to <a href=\"http://twitter.com/terhechte\">contact me</a>.
+
+</p>
+
+</div>
+
+</div>
+
+
+
+<div id=\"outline-container-org9655ad2\" class=\"outline-2\">
+
+<h2 id=\"org9655ad2\"><span class=\"section-number-2\">6</span> The code, suitable for use in a playground</h2>
+
+<div class=\"outline-text-2\" id=\"text-6\">
+
+<div class=\"org-src-container\">
+
+<pre class=\"src src-Swift\">import AppKit
+
+
+
+// * Creating and Accessing Tuples
+
+
+
+// Constructing a simple tuple
+
+let tp1 = (2, 3)
+
+let tp2 = (2, 3, 4)
+
+
+
+// Constructing a named tuple
+
+let tp3 = (x: 5, y: 3)
+
+
+
+// Different types
+
+let tp4 = (name: \"Carl\", age: 78, pets: [\"Bonny\", \"Houdon\", \"Miki\"])
+
+
+
+// Accessing tuple elements
+
+let tp5 = (13, 21)
+
+tp5.0 // 13
+
+tp5.1 // 21
+
+
+
+let tp6 = (x: 21, y: 33)
+
+tp6.x // 21
+
+tp6.y // 33
+
+
+
+
+
+// * Tuples for pattern matching
+
+
+
+// Contrived example
+
+// These would be return values from various functions.
+
+let age = 23
+
+let job: String? = \"Operator\"
+
+let payload: Any = [\"cars\": 1]
+
+
+
+typealias AnyDictionary = Dictionary<AnyHashable, Any>
+
+
+
+switch (age, job, payload) {
+
+case (let age, _?, _ as AnyDictionary) where age < 30:
+
+print(age)
+
+default: ()
+
+}
+
+
+
+
+
+// * Tuples as return types
+
+
+
+func abc() -> (Int, Int, String) {
+
+return (3, 5, \"Carl\")
+
+}
+
+
+
+
+
+// * Tuple Destructuring
+
+
+
+let (a, b, c) = abc()
+
+print(a)
+
+
+
+func f1() -> Int { return 1 }
+
+func f2() -> Int { return 2 }
+
+func f3() -> Int { return 3 }
+
+
+
+let (r1, r2, r3) = (f1(), f2(), f3())
+
+
+
+var v1: Int
+
+var v2: Int
+
+(v1, v2) = (5, 4)
+
+(a: v1, b: v2) = (a: v2, b: v1) // swapped: v1 == 4, v2 == 5
+
+(v1, v2) = (5, 4)
+
+(a: v1, b: v2) = (b: v1, a: v2) // swapped: v1 == 4, v2 == 5
+
+
+
+
+
+// * Tuples as anonymous structs
+
+
+
+let user1 = (name: \"Carl\", age: 40)
+
+// vs.
+
+struct User {
+
+let name: String
+
+let age: Int
+
+}
+
+let user2 = User(name: \"Steve\", age: 39)
+
+
+
+func zipForUser(userid: String) -> String { return \"12124\" }
+
+func streetForUser(userid: String) -> String { return \"Charles Street\" }
+
+let users = [user1]
+
+
+
+// Find all unique streets in our userbase
+
+var streets: [String: (zip: String, street: String, count: Int)] = [:]
+
+for user in users {
+
+let zip = zipForUser(userid: user.name)
+
+let street = streetForUser(userid: user.name)
+
+let key = \"\\(zip)-\\(street)\"
+
+if let (_, _, count) = streets[key] {
+
+\tstreets[key] = (zip, street, count + 1)
+
+} else {
+
+\tstreets[key] = (zip, street, 1)
+
+}
+
+}
+
+
+
+// drawStreetsOnMap(streets.values)
+
+for street in streets.values {
+
+print(street)
+
+}
+
+
+
+
+
+// Made up algorithm
+
+func calculateInterim(values: [Int]) -> (r: Int, alpha: CGFloat, chi: (CGFloat, CGFloat)) {
+
+return (values[0], 2, (4, 8))
+
+}
+
+func expandInterim(interim: (r: Int, alpha: CGFloat, chi: (CGFloat, CGFloat))) -> CGFloat {
+
+return CGFloat(interim.r) + interim.alpha + interim.chi.0 + interim.chi.1
+
+}
+
+
+
+print(expandInterim(interim: calculateInterim(values: [1])))
+
+
+
+
+
+// * Private State
+
+
+
+let tableViewValues = [
+
+(title: \"Age\", value: \"user.age\", editable: true),
+
+(\"Name\", \"user.name.combinedName\", true),
+
+(\"Username\", \"user.name.username\", false),
+
+(\"ProfilePicture\", \"user.pictures.thumbnail\", false)]
+
+
+
+
+
+class ListenerStuff {
+
+
+
+typealias Action = (_ change: Any?) -> Void
+
+
+
+var listeners: [(String, Action)] = []
+
+
+
+func addListener(name: String, action: @escaping Action) {
+
+\tlisteners.append((name, action))
+
+}
+
+
+
+func removeListener(name: String) {
+
+\tif let idx = listeners.index(where: { $0.0 == name }) {
+
+\t listeners.remove(at: idx)
+
+\t}
+
+}
+
+
+
+func execute(change: Int) {
+
+\tfor (_, listener) in listeners {
+
+\t listener(change as Any?)
+
+\t}
+
+}
+
+}
+
+
+
+var stuff = ListenerStuff()
+
+let ourAction: ListenerStuff.Action = { x in print(\"Change is \\(x ?? \"NONE\").\") }
+
+stuff.addListener(name: \"xx\", action: ourAction)
+
+stuff.execute(change: 17)
+
+
+
+
+
+// * Tuples as Fixed-Size Sequences
+
+
+
+var monthValuesArray: [Int]
+
+
+
+
+
+var monthValues: (Int, Int, Int, Int, Int, Int, Int, Int, Int, Int, Int, Int)
+
+
+
+
+
+// * Tuples for Varargs Types
+
+
+
+// classic example
+
+func sum(of numbers: Int...) -> Int {
+
+// add up all numbers with the + operator
+
+return numbers.reduce(0, +)
+
+}
+
+
+
+let theSum = sum(of: 1, 2, 5, 7, 9) // 24
+
+print(theSum)
+
+
+
+func batchUpdate(updates: (String, Int)...) {
+
+//self.db.begin()
+
+for (key, value) in updates {
+
+\tprint(\"self.db.set(\\\"\\(key)\\\", \\(value))\")
+
+\t//self.db.set(key, value)
+
+}
+
+//self.db.end()
+
+}
+
+
+
+// We're imagining a weird database
+
+batchUpdate(updates: (\"tk1\", 5), (\"tk7\", 9), (\"tk21\", 44), (\"tk88\", 12))
+
+
+
+
+
+// * Advanced Tuples
+
+
+
+// ** Tuple Iteration
+
+
+
+let t = (a: 5, b: \"String\", c: Date())
+
+
+
+let mirror = Mirror(reflecting: t)
+
+for (label, value) in mirror.children {
+
+switch value {
+
+case is Int:
+
+\tprint(\"int\")
+
+case is String:
+
+\tprint(\"string\")
+
+case is NSDate:
+
+\tprint(\"nsdate\")
+
+default: ()
+
+}
+
+}
+
+
+
+// ** Tuples and Generics
+
+
+
+func wantsTuple<T1, T2>(_ tuple: (T1, T2)) -> T1 {
+
+return tuple.0
+
+}
+
+
+
+let tr1 = wantsTuple((\"a\", \"b\")) // \"a\"
+
+let tr2 = wantsTuple((1, 2)) // 1
+
+
+
+
+
+class BaseClass<A,B> {
+
+typealias Element = (A, B)
+
+func add(_ elm: Element) {
+
+\tprint(elm)
+
+}
+
+}
+
+class IntegerClass<B> : BaseClass<Int, B> {
+
+}
+
+let example = IntegerClass<String>()
+
+example.add((5, \"\"))
+
+// Prints (5, \"\")
+
+
+
+
+
+// ** Define a Specific Tuple Type
+
+
+
+typealias Example = (Int, Int, String)
+
+func add(elm: Example) { }
+
+
+
+
+
+// ** Tuples as Dictionary Keys
+
+
+
+
+
+// let p: [(Int, Int): String] // doesn't compile
+
+
+
+
+
+// ** Tuple Protocol Compliance
+
+
+
+protocol PointProtocol {
+
+var x: Int { get }
+
+var y: Int { get }
+
+}
+
+
+
+func addPoint(point: PointProtocol) {
+
+print(point)
+
+}
+
+
+
+// addPoint(point: (x: 10, y: 20) as PointProtocol) // doesn't work.
+
+// The compiler complains,
+
+// \"'(x: Int, y: Int)' is not convertible to 'PointProtocol'; did you mean to use 'as!' to force downcast?
+
+</pre>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+<div id=\"outline-container-org3af435a\" class=\"outline-2\">
+
+<h2 id=\"org3af435a\"><span class=\"section-number-2\">7</span> Changes</h2>
+
+<div class=\"outline-text-2\" id=\"text-7\">
+
+<p>
+
+<b><b>07/23/2015</b></b> Added section on tuples as function parameters
+
+</p>
+
+
+
+<p>
+
+<b><b>08/06/2015</b></b> Updated the Reflection example to the latest Swift beta 4. (It removes the <code>reflect</code> call)
+
+</p>
+
+
+
+<p>
+
+<b><b>08/12/2015</b></b> Updated the <b>Tuples as function parameters</b> with a couple more examples and more information.
+
+</p>
+
+
+
+<p>
+
+<b><b>08/13/2015</b></b> Fixed a couple of bugs..
+
+</p>
+
+
+
+<p>
+
+<b><b>10/28/2015</b></b> Fixed bugs and added a new section on parameter reordering.
+
+</p>
+
+</div>
+
+</div>
+
+<div id=\"footnotes\">
+
+<h2 class=\"footnotes\">Footnotes: </h2>
+
+<div id=\"text-footnotes\">
+
+
+
+<div class=\"footdef\"><sup><a id=\"fn.1\" class=\"footnum\" href=\"#fnr.1\">1</a></sup> <div class=\"footpara\">Interestingly, something that C can do just fine</div></div>
+
+
+
+
+
+</div>
+
+</div>", :keywords "swift tuples generics feature", :title "Tuples in Swift, Advanced Usage and Best Practices", :filename "2015-07-19-tuples-swift-advanced-usage-best-practices.org", :id -132652514, :url "/2015/07/19/tuples-swift-advanced-usage-best-practices/", :javadate #inst "2015-07-18T22:00:00.000-00:00", :keyword-keywords (:swift :tuples :generics :feature)}]

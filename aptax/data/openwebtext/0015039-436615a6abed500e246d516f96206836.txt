@@ -1,0 +1,27 @@
+The first piece of software to show the potential of quantum computing has finally been run on a real machine, 20 years after it was initially dreamed up. Although it doesn’t do anything useful on its own, implementing the algorithm could lead to more practical computers powered by the strange properties of quantum mechanics.
+
+Quantum computers should be much faster than ordinary ones, but only at tasks for which there is a quantum algorithm – software that takes advantage of the computer’s quantum nature. Without these algorithms, quantum computers are just regular computers that are much harder to build.
+
+One of the best-known pieces of quantum software is Shor’s algorithm, which factorises large numbers into their prime components – a notoriously slow and difficult problem to solve classically. Shor’s algorithm has been run in a limited way using photons sent through the air and on silicon chips – but a full-blown quantum computer capable of running it could threaten online encryption, which relies on large primes.
+
+Designing an algorithm that takes advantage of a quantum computer is tricky, so there aren’t many around. In 1994, Daniel Simon, then at the University of Montreal, Canada, came up with one of the earliest examples. Crucially, his was the first that showed a quantum computer could solve a problem exponentially faster than an ordinary computer. Previous algorithms had only shown a slight speed boost, or none at all.
+
+Advertisement
+
+Sceptical
+
+Simon was a quantum computing sceptic, but in attempting to prove they would never be useful, he stumbled across a problem that showed the exact opposite. Imagine you feed a string of bits, like 0101, into a black box and get another string, like 1100, out in return. There are a finite number of possible outputs, but you don’t know how the black box produces them. Simon’s problem asks: does the black box give a unique output for every possible input, or do some inputs give a common output? The problem doesn’t show up in any real-world applications, but Simon’s algorithm for solving it inspired the more useful Shor’s algorithm and the field of quantum computing as a whole.
+
+“It has a kind of special place in the history of the development of quantum algorithms,” says Mark Tame at the University of KwaZulu-Natal in Durban, South Africa. “However, despite being the first to show that an exponential gap exists, it was surprisingly never experimentally realised in all the years since.”
+
+That’s why Tame and his colleagues have now run Simon’s algorithm for the first time. They used a one-way quantum computer, so-called because it uses up some of the qubits, or quantum bits, during calculation. The computer used six photons as qubits to solve a two-qubit version of Simon’s problem, the simplest possible. The algorithm is probabilistic, meaning you have to run it multiple times to get an answer.
+
+Completed jigsaw
+
+Tame’s quantum computer needed an average of two runs to succeed, while an ordinary computer needed an average of eight-thirds runs – the first step in an exponential speed-up in line with theoretical predictions. “For me it has been like finding the missing piece of a jigsaw and putting it in its place to complete the picture,” he says.
+
+“I don’t think I ever really thought about anyone bothering, since it’s not of practical value in itself,” says Simon, who now works in computer security at Microsoft. But Tame says running the algorithm has helped test the team’s one-way quantum computer, and they now hope to build more advanced versions. “The demonstration was more a proof of principle,” says Tame.
+
+“It’s great that someone finally got around to doing this,” says Scott Aaronson at the Massachusetts Institute of Technology, though he isn’t convinced the speed-up itself matters. “The right question is not what ‘speed-up’ you’re getting today, but what experimental advances you’ve made that could lead to a real speed-up in the future.”
+
+Reference: arxiv.org/abs/1410.3859, accepted to Physical Review Letters

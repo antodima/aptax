@@ -1,0 +1,55 @@
+If you're still hesitating if RoR is the best choice for you, here are top 10 famous websites built with Ruby on Rails. Feel inspired!
+
+If you’re still hesitating if RoR is the best choice for you, here are top 10 famous websites built with Ruby on Rails. Feel inspired!
+
+1 - Twitter (in its early days)
+
+We’re putting Twitter on our list as it was originally built with Ruby on Rails in 2006. With the growth of its popularity, after five years, founders have switched from RoR to Java server.
+
+I guess there’s no need to introduce ;-)
+
+3 - Yellow pages
+
+Famous book with business directories and telephones stepped into the virtual world, known as the Internet Yellow Pages or IYP. Ruby on Rails based website, the biggest one that IT&T runs.
+
+4 - Hulu
+
+Add-supported online video service, a favorite site of almost every Family Guy fan. Founded in 2007, offers a wide selection of TV shows, etc. Sort of free TV on your computer.
+
+5 - Slideshare
+
+E-learning platform that allows you to upload and share presentations. Created in 2006, it took only one year to hit 3 million unique visitors. Impressing one.
+
+6 - Github
+
+Our favorite. Social network platform for developers. Essential tool for every code lover. The most popular code hosting service in the world with over 9 million users and 21.1 million repositories. (in 2015)
+
+7 - Shopify
+
+E-commerce shop that allows users to build an online store. Necessity is the mother of invention - it was created in 2004 by Tobias Lütke, Daniel Weinand, and Scott Lake as the already existing e-commerce sites were unsatisfying.
+
+8 - Groupon
+
+Well known to every bargain hunter. The website which main idea is to offer coupons for deals to its local or international subscribers. Launched in 2008 in US, quickly spread and gained popularity, all over the world.
+
+9 - Urban Dictionary
+
+Crowdsourced online dictionary of slang, founded in 1999 and powered by Ruby on Rails. The must-visit website for contemporary human-being ever called ‘nerd’.
+
+10 - AirBnb
+
+A web service for everyone who want to rent a holiday accommodation. Founded in 2008, it connects hosts and travellers all over the world.
+
+
+
+
+
+Impressed? So how about staying behind such tech success by yourself?
+
+Join our series of free tutorials and learn how to make your own SaaS application in a full-stack, easy-to-approach Rails framework.
+
+Rails Rocks!
+
+
+
+Photo by: gratisography.com

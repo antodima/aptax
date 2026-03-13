@@ -1,0 +1,45 @@
+Today’s distributed denial of service attacks are different than the kinds that we saw at the dawn of the millennium when the threat emerged. They’re becoming more nuanced, and subtle – and they could result in a lot more than a downed web server.
+
+In the early days of DDoS, volumetric attacks were all the rage. Politically or financially motivated attackers would launch thousands of clients against a particular target, overwhelming their servers. Such attacks are still common, but increasingly they’re giving way to another kind of more sophisticated DDoS attack: "dark" DDoS, or as Andy Shoemaker likes to call them, smokescreen attacks.
+
+“This is where the attacker is using the denial of service as a way to distract the IT administrators from the real attack, which is really trying to steal data,” said Shoemaker, who runs Nimbus DDoS, a consulting firm that researches and simulates DDoS attacks for clients.
+
+In this model, attackers don’t use the denial of service traffic to extort or to take revenge on their targets. Instead, it is simply a means to an end. The attacker launches the attack for two reasons. Firstly, they can misdirect the target’s administrative staff, taking up valuable time and resources and blinding them to other events occurring inside their network.
+
+“It’s an attack on people rather than infrastructure,” said Nathan Dornbrook, the chief technology officer at ECS, an IT and security consulting firm in the UK, who cut his teeth experimenting with DDoS mitigation techniques. The point is to tie up the target’s people for as long as possible, which is a great way of neutralising competent staff in a security operations centre, he said.
+
+Dark DDoS attacks will often be just severe enough to knock out a target’s network visibility, Shoemaker explained. “A lot of times, the overwhelming traffic on the network equipment will make it so that of the tools that detect the other bad behaviour might not work as effectively, or at all,” he said. “Sometimes those devices have thresholds where if there’s too much traffic they can’t handle it, so their default behaviour is to pass traffic through unfiltered.”
+
+Dark skills
+
+Ian Trump, security Lead at global cloud-based IT service management firm LOGICNow, said that a dark DDoS attack is often the hallmark of a more sophisticated criminal. It takes some knowledge to engineer one attack while misdirecting the target with another. If performed well, it can yield impressive results by forcing administrators at the target company to alter their infrastructure as they struggle to address the traffic problem. “In some cases network operations personnel or security personnel will actually degrade their security in the process,” he said.
+
+Unlike traditional attacks, the dark DDoS attacker is unlikely to try and bring the target down altogether in a catastrophic flood of traffic. Taking it offline would work against the attack. Instead, the characteristics of dark DDoS attacks often differ from the big-splash volumetric attacks that we sometimes see hitting companies, warned Bogdan Botezatu, senior e-threat analyst at Bitdefender. They are often sub-1Gbit/sec attacks, he said, designed to generate a large number of events and effectively masking a breach.
+
+This is leading to a gradual change in the way that DDoS attacks operate. We still see attacks in the hundreds of Gbits/sec, but increasingly they’re far smaller, more targeted, and last for shorter periods. DDoS mitigation firm Corero Network Security said that the vast majority of DDoS attacks it saw on its customers last year were under 1 Gbit/sec. More than 95% of the attacks lasted for 30 minutes or less, it said.
+
+"The danger in partial link saturation attacks is not the ‘denial of service’ as the acronym describes, but the attack itself," according Dave Larson, COO Corero Network Security. “The attack is designed to leave just enough bandwidth available for other sophisticated multi-vector attacks with data exfiltration as the main objective, to fly in under the radar, while the distracting DDoS attack consumes resources."
+
+“Considering that this technique dodges common DDoS mitigation techniques that are designed to deal with volumetric traffic, it’s safe to assume that Dark DDoS should be considered a serious threat,” Botezatu said.
+
+Inside a dark DDoS attack
+
+What do these attacks look like in practice? Most attempts to compromise a system start with scanning of the entire network to find potential ingress points. That scanning behaviour is pretty obvious, so the smokescreen attack can be used to obscure it, said Shoemaker.
+
+The attacker will also use the smokescreen to obscure their activities once inside the network, he explained. “The attacker doesn’t truly know what the exact imprint on the target environment is. They’re making a guess.” A criminal can make themselves conspicuous if they try to extract customer databases and other large pieces of intellectual property from a target’s network. A blanket of obfuscating traffic can help.
+
+Even then, you’ll find that attackers will switch techniques while inside a target’s network, he warned. “They’re trying to find out what’s most effective in an environment, but also keep shifting the behaviour so that it’s harder for the people protecting the system to mitigate against it.”
+
+The Reg explored a dark DDoS attack a couple of years ago, in which attackers launched a DDoS attack on a bank to distract admins as they pilfered money from compromised accounts using fraudulent ACH transfers.
+
+Keeping a watchful eye
+
+Dark DDoS attacks are detectable if you know what to look for, explained Dornbrook.
+
+“The truth is that if you understand your network service, you’ll understand what normal traffic looks like,” he said, adding that IT staff can be trained to spot a low-bandwidth DDoS attack, and use it as a flag to check for suspicious activity.
+
+Financial institutions are taking the brunt of these dark DDoS attacks, Shoemaker warned. They’re typically the most capable customers, having sunk significant resources into protecting lots of personal information. However, this isn’t the only industry to reportedly suffer significantly at the hands of shadowy DDoS attackers.
+
+One of the most public examples of a dark DDoS attack was the October 2015 TalkTalk breach, in which the telecommunications company, in a confusing series of statements, claimed that attackers flooded the company’s website with traffic to render it unusable. This then made it more vulnerable to an attack that enabled criminals to steal customer data. A few months earlier in August, Carphone Warehouse lost the personal details of 2.4 million customers after attackers inundated it with traffic.
+
+DDoS attacks are growing up, and whereas before they were an end in themselves, now they’re merely one step toward a bigger goal. Companies must prepare themselves to be extra watchful when they see DDoS activity. Simply kyboshing the corporate network may not be the attacker’s only goal: it may simply be the sign of something far nastier and more damaging lurking underneath.

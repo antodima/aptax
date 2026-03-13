@@ -1,0 +1,31 @@
+I am having a difficult time recovering from a HD failure. Essentially my SSD drive I was using to run Windows 7 for gaming has gone completely haywire. I am trying to resize an NTFS partition on a SATA drive and keep running into issues.
+
+Currently I am following this document - http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu to make a start up USB Disc which I plan to boot off of then resize the NTFS Partition with the ultimate goal of running Windows off this new NTFS Partition.
+
+I've downloaded the Ubuntu 14.04 ISO from ubuntu.com and follow the instructions to step 6 however when I go to select Make Startup Disk the option is still greyed out.
+
+Some information on the situation and my setup.
+
+Other than a work Windows 7 Laptop with no Admin rights I have no other machines available to me to assist in this process unfortunately.
+
+I tried resizing the partition with the Windows Boot device but it only give's me an option to format the partition not resize.
+
+DVD Rom died in the same day as my HD (could be a bigger issue here I am not aware of yet or could be a coincidence).
+
+Booting of a SATA 3TB Drive
+
+1TB Ext4 running Ubuntu 14.04
+
+2TB NTFS Partition used to store media, documents etc. This this is the partition I want to resize and create a 2nd NTFS partition to put Windows 7 on and dual boot this way moving forward until I purchase a new SSD Drive.
+
+USB Device is ADATA Elite S102 Pro which I had previously tested and created a Windows USB Start up disk to install Windows. The device seems to be working fine.
+
+I've formatted the USB Device using NTFS and Ext4 however I receive the same results (not being able to take the final step to begin the process of creating the USB Ubuntu Boot device.
+
+I've tried to use the "Erase" option in the Startup Disc Creator however I get the following error (same error when the device is formatted in NTFS or Ext4).
+
+"org.freedesktop.DBus.Python.gi._glib.GError: Traceback (most recent call last): File "/usr/lib/python3/dist-packages/dbus/service.py", line 707, in _message_cb retval = candidate_method(self, *args, **keywords) File "/usr/share/usb-creator/usb-creator-helper", line 239, in Format block.call_format_sync('dos', GLib.Variant('a{sv}', {'erase': GLib.Variant('s', '')}), None) gi._glib.GError: GDBus.Error:org.freedesktop.UDisks2.Error.Failed: Error synchronizing after initial wipe: Timed out waiting for object"
+
+Any advice, suggestions and or help would be great I am really stumped right now and burning to play the new Civilizations game. Am I going about this the wrong way? Am I a just being a newb here? I've searched through Ask Ubuntu / Google and have not found this particular scenario discussed which makes me feel like I am doing something incorrectly here.
+
+Thank you for your time.

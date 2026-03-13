@@ -1,0 +1,37 @@
+If you visit BoilingSteam once in a while, you’ll know this is not the place for 24/7 news. There are better websites for that, either GamingonLinux, or even the subreddit linux_gaming among other options. Still, there’s a bunch of things that have occurred in the past few weeks that I don’t want you guys to miss, and instead of rephrasing all these news in a painful way, we will go at it bullet-point style.
+
+New Upcoming Games
+
+New Games that May be Coming for Linux
+
+Linux Milestones
+
+MESA-dev has recently implemented tessellation, getting closer to GL4.x support.
+
+Game Engines News
+
+Games Updates
+
+DOTA2: Reborn Open beta will be delayed for linux a couple of weeks.
+
+Civilization V Mods are now available for Linux. Thanks Aspyr!
+
+Geometry Wars 3 is now 1080p capable and multiplayer should work. It was about time!
+
+Dying Light has now better performance on Linux. Time to split zombies in two.
+
+Planetary Annihilation has apparently a much better single player mode now.
+
+Looks like Shadow of Mordor is a little late (since we now officially in Summer). No biggie.
+
+Looks like Skullgirls may not be too far away anymore.
+
+Oddworld New’n Tasty now has better controller support for Linux. I still have issues though.
+
+Hardware & Steam Machines
+
+Additionally, don’t forget that the Steam Summer Sale is going on with many titles heavily discounted. It may be a good chance to get some Linux games if you are on a budget.
+
+Finally, just a quick reminder that BoilingSteam is running a big Survey to better understand who we are as a Linux Community of Gamers. You can go and fill your answers on Google Forms if you have not done so yet! (Google login NOT required).
+
+At BoilingSteam, we strongly dislike ads and that is why you won't find any during your visit. If you like what we do, please consider signing up to our newsletter (No Spam!). Register to our RSS feed also works. We are on Mastodon and on IRC too (Freenode, channel #boilingsteam). You can reach us anytime via the contact form for feedback, ideas and news tips. We are always looking for more editors/contributors - feel free to candidate!

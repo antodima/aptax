@@ -1,0 +1,11 @@
+By Chris Scott Barr
+
+Back before the whole world went nuts about Twilight there was another set of books/movies which drove tweens wild. I am of course speaking of Harry Potter. Sure, there are still a pair of movies to be released, but I’d say the excitement has died down considerably. That didn’t stop one creative individual from crafting a magical artifact from the Potter universe using muggle technology.
+
+The Weasley family had a peculiar clock which instead of telling time, informed you where each individual was located. So how would one get a timepiece to display such information? Through the magic of Twitter, of course.
+
+The face of the clock has a dozen locations written on it (technically 11 places, and one which says “read me”) and four hands with pictures of each family members. A Seeeduino microcontroller board and wireless router are used to monitor Twitter updates and move the hands. If a Twitter update contains one of the locations on the face, the hand moves appropriately. If an update does not contain one of these, the hand will move to “read me.”
+
+This is one of the more creative projects that I have seen in recent history. Taking something purely magical and crafting it from available technology is just awesome. Thankfully the creator took the time to document his work so you can make your own if you choose.
+
+[ TheMagicClock ] VIA [ Technabob ]

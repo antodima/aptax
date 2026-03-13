@@ -1,0 +1,73 @@
+From Quanta Magazine (find original story here).
+
+Modern birds descended from a group of two-legged dinosaurs known as theropods, whose members include the towering Tyrannosaurus rex and the smaller velociraptors. The theropods most closely related to avians generally weighed between 100 and 500 pounds — giants compared to most modern birds — and they had large snouts, big teeth, and not much between the ears. A velociraptor, for example, had a skull like a coyote’s and a brain roughly the size of a pigeon’s.
+
+For decades, paleontologists’ only fossil link between birds and dinosaurs was archaeopteryx, a hybrid creature with feathered wings but with the teeth and long bony tail of a dinosaur. These animals appeared to have acquired their birdlike features — feathers, wings and flight — in just 10 million years, a mere flash in evolutionary time. “Archaeopteryx seemed to emerge fully fledged with the characteristics of modern birds,” said Michael Benton, a paleontologist at the University of Bristol in England.
+
+To explain this miraculous metamorphosis, scientists evoked a theory often referred to as “hopeful monsters.” According to this idea, major evolutionary leaps require large-scale genetic changes that are qualitatively different from the routine modifications within a species. Only such substantial alterations on a short timescale, the story went, could account for the sudden transformation from a 300-pound theropod to the sparrow-size prehistoric bird Iberomesornis.
+
+But it has become increasingly clear that the story of how dinosaurs begat birds is much more subtle. Discoveries have shown that bird-specific features like feathers began to emerge long before the evolution of birds, indicating that birds simply adapted a number of pre-existing features to a new use. And recent research suggests that a few simple change—among them the adoption of a more babylike skull shape into adulthood—likely played essential roles in the final push to bird-hood. Not only are birds much smaller than their dinosaur ancestors, they closely resemble dinosaur embryos. Adaptations such as these may have paved the way for modern birds’ distinguishing features, namely their ability to fly and their remarkably agile beaks. The work demonstrates how huge evolutionary changes can result from a series of small evolutionary steps.
+
+A Phantom Leap
+
+In the 1990s, an influx of new dinosaur fossils from China revealed a feathery surprise. Though many of these fossils lacked wings, they had a panoply of plumage, from fuzzy bristles to fully articulated quills. The discovery of these new intermediary species, which filled in the spotty fossil record, triggered a change in how paleontologists conceived of the dinosaur-to-bird transition. Feathers, once thought unique to birds, must have evolved in dinosaurs long before birds developed.
+
+Sophisticated new analyses of these fossils, which track structural changes and map how the specimens are related to each other, support the idea that avian features evolved over long stretches of time. In research published in Current Biology last fall, Stephen Brusatte, a paleontologist at the University of Edinburgh in Scotland, and collaborators examined fossils from coelurosaurs, the subgroup of theropods that produced archaeopteryx and modern birds. They tracked changes in a number of skeletal properties over time and found that there was no great jump that distinguished birds from other coelurosaurs.
+
+“A bird didn’t just evolve from a T. rex overnight, but rather the classic features of birds evolved one by one; first bipedal locomotion, then feathers, then a wishbone, then more complex feathers that look like quill-pen feathers, then wings,” Brusatte said. “The end result is a relatively seamless transition between dinosaurs and birds, so much so that you can’t just draw an easy line between these two groups.”
+
+Yet once those avian features were in place, birds took off. Brusatte’s study of coelurosaurs found that once archaeopteryx and other ancient birds emerged, they began evolving much more rapidly than other dinosaurs. The hopeful monster theory had it almost exactly backwards: A burst of evolution didn’t produce birds. Rather, birds produced a burst of evolution. “It seems like birds had happened upon a very successful new body plan and new type of ecology—flying at small size—and this led to an evolutionary explosion,” Brusatte said.
+
+The Importance of Being Small
+
+Though most people might name feathers or wings as a key characteristic distinguishing birds from dinosaurs, the group’s small stature is also extremely important. New research suggests that bird ancestors shrank fast, indicating that the diminutive size was an important and advantageous trait, quite possibly an essential component in bird evolution.
+
+Like other bird features, diminishing body size likely began long before the birds themselves evolved. A study published in Science last year found that the miniaturization process began much earlier than scientists had expected. Some coelurosaurs started shrinking as far back as 200 million years ago—50 million years before archaeopteryx emerged. At that time, most other dinosaur lineages were growing larger. “Miniaturization is unusual, especially among dinosaurs,” Benton said.
+
+That shrinkage sped up once bird ancestors grew wings and began experimenting with gliding flight. Last year, Benton’s team showed that this dinosaur lineage, known as paraves, was shrinking 160 times faster than other dinosaur lineages were growing. “Other dinosaurs were getting bigger and uglier while this line was quietly getting smaller and smaller,” Benton said. “We believe that marked an event of intense selection going on at that point.”
+
+The rapid miniaturization suggests that smaller birds must have had a strong advantage over larger ones. “Maybe this decrease was opening up new habitats, new ways of life, or even had something to do with changing physiology and growth,” Brusatte said. Benton speculates that the advantage of being pint-size might have emerged as bird ancestors moved to trees, a useful source of food and shelter.
+
+But whatever the reasons may be, small stature was likely a useful precursor to flight. Though larger animals can glide, true flight powered by beating wings requires a certain ratio of wing size to weight. Birds needed to become smaller before they could ever take to the air for more than a short glide.
+
+Baby Face
+
+In 2008, Arkhat Abzhanov, a biologist at Harvard University, was elbow deep in alligator eggs. Since alligators descend from a common ancestor with dinosaurs, they can provide a useful evolutionary comparison to birds. (Despite their appearance, birds are more closely related to alligators than lizards are.) Abzhanov was studying alligators’ vertebrae, but what struck him most was the birdlike shape of their heads; alligator embryos looked quite similar to chickens. Fossilized skulls of baby dinosaurs show the same pattern—they resemble adult birds. With those two observations in mind, Abzhanov had an idea. Perhaps birds evolved from dinosaurs by arresting their pattern of development early on in life.
+
+To test that theory, Abzhanov, along with Mark Norell, a paleontologist at the American Museum of Natural History in New York, Bhart-Anjan Bhullar, then a doctoral student in Abzhanov’s lab, and other colleagues, collected data on fossils from around the globe, including ancient birds, such as archaeopteryx, and fossilized eggs of developing dinosaurs that died in the nest. They tracked how the skull shape changed as dinosaurs morphed into birds.
+
+Over time, they discovered, the face collapsed and the eyes, brain and beak grew. “The first birds were almost identical to the late embryo from velociraptors,” Abzhanov said. “Modern birds became even more babylike and change even less from their embryonic form.” In short, birds resemble tiny, infantile dinosaurs that can reproduce.
+
+This process, known as paedomorphosis, is an efficient evolutionary route. “Rather than coming up with something new, it takes something you already have and extends it,” said Nipam Patel, a developmental biologist at the University of California, Berkeley.
+
+“We’re seeing more and more that evolution operates much more elegantly than we previously appreciated,” said Bhullar, who will start his own lab at Yale University in the fall. “The umpteen changes that go into the bird skull may all owe to paedomorphosis, to one set of molecular changes in the early embryo.”
+
+Why would paedomorphosis be important for the evolution of birds? It might have helped drive miniaturization or vice versa. Changes in size are often linked to changes in development, so selection for small size may have arrested the development of the adult form. “A neat way to cut short a developmental sequence is to stop growing at smaller size,” Benton said. A babylike skull in adults might also help explain birds’ increased brain size, since baby animals generally have larger heads relative to their bodies than adults do. “A great way to improve brain size is to retain child size into adulthood,” he said.
+
+(Indeed, paedomorphosis might underlie a number of major transitions in evolution, perhaps even the development of mammals and humans. Our large skulls relative to those of chimpanzees could be a case of paedomorphosis.)
+
+What’s more, paedomorphosis helped to make the skull a blank slate on which selection could create new structures. By erasing the snout, it may have paved the way for another of birds’ most important features: the beak.
+
+Birth of the Beak
+
+The problem with studying something that occurred deep in evolutionary time is that it’s impossible to know exactly what happened. Scientists can never precisely decipher how birds evolved from dinosaurs or which set of features was essential for that transformation. But with the intersection of three fields—evolution, genetics and developmental biology—they can now begin to explore how specific features might have come about.
+
+One of Abzhanov’s particular interests is the beak, a remarkable structure that birds use to find food, clean themselves, make nests, and care for their young. He theorizes that birds’ widespread success stems not just from their ability to fly, but from their amazing diversity of beaks. “Modern birds evolved a pair of fingers on the face,” he said.
+
+Armed with their insight into bird evolution, Abzhanov, Bhullar and collaborators have been able to dig into the genetic mechanisms that helped form the beak. In new research, published last month in Evolution, the researchers show that just a few small genetic tweaks can morph a bird face into one that resembles a dinosaur.
+
+While most other dinosaur lineages were growing, the line that gave rise to birds began to shrink nearly 200 million years ago. Olena Shmahalo/Quanta Magazine. Dinosaur silhouettes are based on the following illustrations: Monolophosaurus by Jordan Mallon, Deinonychus by Emily Willoughby, and Velociraptor by Matt Martyniuk.
+
+In modern birds, two bones known as the premaxillary bones fuse to become the beak. That structure is quite distinct from that of dinosaurs, alligators, ancient birds and most other vertebrates, in which these two bones remain separate, shaping the snout. To figure out how that change might have arisen, the researchers mapped out the activity of two genes that are expressed in these bones in a spectrum of animals: alligators, chickens, mice, lizards, turtles and emus, a living species reminiscent of ancient birds.
+
+They found that the reptiles and mammals had two patches of activity, one on either side of the developing nasal cavity. Birds, on the hand, had a much larger single patch spanning the front of the face. The researchers reasoned that the alligator pattern could serve as a proxy for that of dinosaurs, given that they have similar snouts and premaxillary bones. The researchers then undid a bird-specific pattern of gene expression in chicken embryos using chemicals to block the genes in the middle of the face. (For ethical reasons, they did not allow the chickens to hatch.)
+
+The result: The treated embryos developed a more dinosaurlike face. “They basically grew a bird embryo back into something that looked more like the morphology of extinct dinosaurs,” said Timothy Rowe, a paleontologist at the University of Texas, Austin, who has previously collaborated with Abzhanov.
+
+The findings highlight how simple molecular tweaks can trigger major structural changes. Birds “use existing tools in a new way to create a whole new face,” Abzhanov said. “They didn’t evolve a new gene or pathway, they just changed control of an existing gene.”
+
+Like the studies of Brusatte and others, Abzhanov’s work challenges the hopeful monster theory, and it does so on a genetic scale. The creation of the beak didn’t require some special evolutionary jump or large-scale genetic changes. Rather, Abzhanov showed that the same forces that shape microevolution — minor alterations within species — also drive macroevolution, the evolution of whole new features and new groups of species.
+
+Specifically, small changes in how genes are regulated likely drove both the initial creation of the beak, which evolved over millions of years, and the diverse shape of bird beaks, which can change over just a few generations. “We show that simple regulatory changes can have a major impact,” Abzhanov said.
+
+Bhullar and Abzhanov plan to dig deeper into the question of how the beak and bird skull evolved, using the same approach to manipulate different features of skull and brain development. “We have just scratched surface of this work,” Bhullar said.

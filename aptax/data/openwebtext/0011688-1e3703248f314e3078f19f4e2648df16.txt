@@ -1,0 +1,57 @@
+These are the notes for the Struts 2.3.16 distribution.
+
+For prior notes in this release series, see Version Notes 2.3.15.3
+
+If you are a Maven user, you might want to get started using the Maven Archetype.
+
+Another quick-start entry point is the blank application. Rename and deploy the WAR as a starting point for your own development.
+
+Maven Dependency <dependency> <groupId>org.apache.struts</groupId> <artifactId>struts2-core</artifactId> <version>2.3.16</version> </dependency>
+
+You can also use Struts Archetype Catalog like below
+
+Struts Archetype Catalog mvn archetype:generate -DarchetypeCatalog=http://struts.apache.org/
+
+Staging Repository <repositories> <repository> <id>apache.nexus</id> <name>ASF Nexus Staging</name> <url>https://repository.apache.org/content/groups/staging/</url> </repository> </repositories>
+
+Internal Changes
+
+Merged security fix from version 2.3.15.1, 2.3.15.2 and 2.3.15.3
+
+Merged security fix from version 2.3.15.1, 2.3.15.2 and 2.3.15.3 Defined new factory interfaces to simplify extending ObjectFactory, see WW-4158
+
+New interface ParamNameAwareResult was defined, see WW-4144
+
+was defined, see WW-4144 Solved problem with global "error" result in the Convention Plugin, see WW-4100
+
+Solved problem with global "error" result in the Convention Plugin, see WW-4100 RolesInterceptor was extended to allow check defined roles and also precedent was changed that disallowedRoles are examined in the first place, see WW-4118
+
+are examined in the first place, see WW-4118 New parameter was added to <s:param/> tag to allow suppress empty parameters, see WW-4088
+
+tag to allow suppress empty parameters, see WW-4088 During devMode user can explicit disable XML reloading, I18N reloading and any other, see devMode page
+
+user can explicit disable XML reloading, I18N reloading and any other, see devMode page The action: and method: prefixes are be by default excluded and changed order to first check excludeParams and then acceptedParams in ParametersInterceptor, see WW-4023
+
+The and prefixes are be by default excluded and changed order to first check and then in ParametersInterceptor, see WW-4023 Restored previous behaviour where both ParamatersInterceptor AND ParameterNameAware must accept parameter - there is no more precedence
+
+Restored previous behaviour where both AND must accept parameter - there is no more precedence Added proper support for multiple ActionMapper 's used with PrefixBasedActionMapper , see PrefixBasedActionMapper and WW-4131
+
+Added proper support for multiple 's used with , see PrefixBasedActionMapper and WW-4131 New DeprecationInterceptor was added, to warn users about unknown/deprecated options, see WW-4232
+
+<s:debug/> tag was improved and now works properly under Jetty, see WW-4223
+
+tag was improved and now works properly under Jetty, see WW-4223 New PostbackResult was defined, see WW-4229
+
+Improved extending theme mechanism to allow override single template in parent theme, see WW-4145 and Extending Themes
+
+Solved problem with creating empty map entries via Ognl, see WW-3603
+
+Solved problem with creating empty map entries via Ognl, see WW-3603 org.apache.struts2.views.TagLibrary was split into two separated interfaces to allow moving Velocity support into plugin, see was split into two separated interfaces to allow moving Velocity support into plugin, see WW-4243
+
+and other small improvements
+
+Issue Detail
+
+Issue List
+
+Other resources

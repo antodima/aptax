@@ -1,0 +1,91 @@
+Online gamers received quite the scare last week when Blizzard announced it would require message board posters to use their real names. This was to be done in order to fight the scourge of online anonymity. The Internet freaked out, of course, so much so that Blizzard eventually changed its mind. I mention this up to not open old wounds, but to take the time to remind you of this: there are other MMOs in the world besides World of Warcraft. In fact, I’ve been playing one such MMO, the outer space-themed Eve Online (developed by Iceland’s CCP Games), for several days now. Come, let us enter a world (universe, really) of spaceships, cross-galaxy pirate raids, and Astronomical Units!
+
+I’m almost positive you’ve already heard of Eve Online, if only because it has a reputation for being completely impossible to play. If someone were to compile a list of the most difficult games to get into, Eve Online would have to be right up there.
+
+And with good reason, since that’s the way the developers like it. No hand-holding here.
+
+I spoke to Senior Producer Arnar Gylfason on Monday and, to my credit, got him to say Eyjafjallajökull right off the bat. Awesome.
+
+“Eve Online is an open world, sandbox MMO,” he says. “We provide the tools and the players provide the content. That means we provide the game’s mechanics, and we invite players to take part in that. They usually find new and exciting ways to do so.”
+
+The game begins much like any other MMO: you create a character. There’s four main races, and each race is broken down into further sub-units called Bloodlines. It’s standard RPG fare: there’s warlike races, races obsessed with making money, a more spiritual race, etc. Different races have different stats, but different Bloodlines within a race have the same stats.
+
+I created a Caldari Achura, a stargazer. I liked the idea of stargazing. I named him FernandoZorres, which has become my go-to name of late. You may have noticed.
+
+A few seconds later and I’m floating in the middle of outer space. I have no idea what to do or where to go. Hopefully I don’t fly into a black hole. That would be inconvenient.
+
+Before you know it, up pops a tutorial.
+
+And thus begins our journey.
+
+There’s two thing you immediately notice.
+
+The first is that you’re just a ship—there’s no body or “avatar” in Eve Online. Well, not right now at least, but that’s something CCP Games is working on. The character you created moments ago is merely a portrait in the upper corner of the screen. You know, where the spiders make their webs and so forth.
+
+The second thing you notice is the genuine sensation of being in outer space. Unlike in, say, Mass Effect, where the feeling is more akin to playing with a Lego Star Wars set than actually floating around the universe, in Eve everything sorta makes sense. You approach a planet at 300 m/s for five minutes (real life minutes, that is) and still feel like you haven’t moved an inch—the planet is still as large (or small) as it was when you first started approaching it. To visit far-away planets or space stations you need to activate a sort of warp speed, which cranks your velocity into terms of Astronomical Units per second. Suddenly driving around the Nürburgring in some fancy Aston Martin in Forza Motorsport 3 or Need for Speed: Shift doesn’t seem all that impressive.
+
+When people say that Eve is hard they don’t mean that the game is difficult. It’s really no more difficult than any other game you’ve played. It’s not Ninja Gaiden or anything. No, what’s difficult about Eve is figuring out what to do and how to do it. After the brief tutorial, which teaches you the basics of flight and travel, combat, and picking a career path, the game essentially says: OK, you’re on your own, have fun! To quote Brian Regan, “This is not what I’m used to.”
+
+So here you are, in the middle of outer space, with nothing but a small spaceship and a hope in your heart. It’s completely different from the Blizzard approach to things, where the developers leave little bread crumbs for you to follow from level 1 all the way to level 80. (The starting zones are even more noob-friendly in Cataclysm, let me tell you.) That’s not a bad thing, of course, but that’s not the way that CCP Games wants to go about doing things.
+
+“Instead of providing players with what we call the ‘theme park approach,’ we’d rather they explore on their own, figure out what they want to do, and find their niche and settle into that,” says Gylfason.
+
+In other words, there’s a bit of a learning curve.
+
+“Ah, yes, the learning cliff,” he says.
+
+I laugh because someone has actually gone out of their way to illustrate that metaphor.
+
+“There’s two axes to that graph,” says Gylfason. “One of them is simply the complexity of the game. You have all these things, including conversations with other players. But that’s not really too different from any other MMO out there. There’s a lot of stuff to do, obviously. There’s all these things you have to realize like health bars, weapons systems, travel times, and stuff like that. The other part of it is maybe the sheer size of the Eve universe and the options that are available to you.”
+
+As he’s saying this, I’m nodding my head in agreement like a total nerd.
+
+Gylfason continues.
+
+“There are so many different kinds of things that you can be doing that people sort of, well, some people sort of get lost. They don’t really know where to go after the tutorial ends. Should I go for PVP? Should I be going to mining, or maybe industry?”
+
+“I’m an explorer!” I shout. Really loudly, too, judging by the fact that my headphones nearly blew out while listening to this interview again.
+
+It’s not easy being an explorer in Eve Online. Well, again, not that it’s hard, difficulty-wise, but that the game world is so vast you almost feel overwhelmed. There’s a lot on your plate.
+
+But maybe that’s how you should feel? Being an honest-to-goodness explorer probably isn’t the easiest thing to do. (Meanwhile, typing words every day about the iPhone 4 is cake. Dull cake, but cake nonetheless.) Can you imagine being one of the first Portuguese explorers charged with sailing around the Cape of Good Hope? You’d probably be a little nervous. You’d probably say to your men, “Well, let’s hope we make it back home, eh boys?”
+
+I like an RPG with a little bit of meat to it.
+
+Not to get too specific about my own character, being an explorer entails traveling around the universe and discovering different anomalies, then reporting them to an Agent at a space station. Then you get paid. The further you progress, the further you’ll have to go to find new, uncharted territory. No worries, though: there’s more than 5,000 solar systems in the game to keep you busy. More are added all the time.
+
+“So yeah, there’s a lot to do,” says Gylfason. “Just picking where to go next can induce a sort of amazement in people in how many options there are.”
+
+And that’s the word to use, “amazement.”
+
+“The game is definitely the best representation of outer space that I’ve ever seen,” I tell Gylfason, clearly marking out. (Note: I don’t know if “marking out” translates well into Icelandic.) “It’s just so big. There’s definitely the feeling sometimes of, ‘Wow, I have no idea where I need to go’.”
+
+Now, while I may not mind the feeling of having no idea where to go next, Gylfason says that CCP Games is trying to find a happy medium between the aforementioned “theme park approach,” where you know, step by step, where to go and what to do, and letting the player know, “Trying going that way. There might be some good stuff yonder…”
+
+“Well, that may be one of the areas where we need to improve,” says Gylfason. “We may not be doing a good enough job of hinting to people where they could go next. We absolutely don’t want to lead players into specific routes or specific locations. That would be against the open world, sandbox feel. But that may be one of the problems Eve faces, figuring out how to guide players to new content without specifically pushing them in one direction or another.”
+
+So, maybe there’s a thing or two Eve could learn from Blizzard with respect to introducing players to new content. What CCP Games has no intention of emulating? A Real ID-type meltdown.
+
+“I can understand where Blizzard was coming from,” he says. “It’s really easy to be anonymous on the Internet and say whatever you want, flame people, incite fear. But their method of doing so, with Real ID and real names, I’m not sure that’s the best way to do things. I’m not saying I know the correct answer here, but that didn’t seem like the best idea.”
+
+During that whole mess, one of the things that Real ID objectors suggested was to somehow link message board alts with a main character. This would prevent people from creating a throwaway character in the game and flaming/trashing/being a jerk on the message board with that character. You can’t needlessly trash another player as a level 1 alt if people see your “true” in-game character’s name. No more (well, less) flaming without having to having to resort to using actual, real names. I’d be fine with that. Then again, I was fine with Real ID, too, primarily because I don’t post on the Blizzard forums. That, and my real name is visible every single day.
+
+Gylfason agrees. Not that this is being planned for Eve or anything, but it’s interesting to hear other game’s take on the subject.
+
+“[Linking alts to mains] would certainly be more relevant to an in-game setting. It should accomplish most of what Blizzard was trying to accomplish without having to resort to real life drama.”
+
+I should probably mention that you can download Eve Online for free, and there’s a free 14-day trial. That way, you can see if the game agrees with you at all. So if you’re so mad at Blizzard, you know, you have options.
+
+What does the future hold for Eve Online Many things!
+
+For one, CCP Games has been working on a new avatar system. That means, sometime in the future, you’ll actually be able to see your character in the game world and not just your spaceship. Some Eve veterans aren’t exactly thrilled with the idea, but Gylfason says you really can’t claim to be a complete outer space simulator if you can’t feel like you’re a living, breathing part of the world.
+
+Another thing that recently rocked the game world was changes made to the PLEX system. Gylfason says that players are perhaps overreacting. More importantly, they’re clever.
+
+Long story short, and very much simplified, there’s an in-game item called PLEX that you can buy with real world money. The item grants you extra playing time in the game—30 extra days of playing time, to be specific. Before yesterday, you weren’t able to transport PLEX around the in-game world inside your spaceship. Now you can. That means some no-good space pirate can attack you, destroy your ship, and destroy your PLEX. So, CCP Games has made money by selling you PLEX without having to actually provide you extra playing time.
+
+“Our players are inherently smart, they’re inherently clever,” says Gylfason. “I don’t think players will put PLEX in their cargo hold, undock from a space station, then wait for pirates to come and shoot at them. Even if they do, the few PLEXes that are going to get lost due to piracy or ganging or whatever, as soon as you convert the ETC to PLEX, PLEX being an in-game item, you’ve already fulfilled your purchase. You’ve converted it to an in-game item that holds a similar value to other items, be it an armor repair or a shield booster or something. Currently that price is around 300 million ISK. And for 300 million ISK you can buy a type 2 battleship and lose that to piracy or ganking.”
+
+Bottom line? Just like you’d be a fool to drive a car without a seatbelt, you’d be a fool purposefully risking PLEX by placing it in your cargo hold.
+
+That is, unless you enjoy the thrill of transporting valuable items across space-time.

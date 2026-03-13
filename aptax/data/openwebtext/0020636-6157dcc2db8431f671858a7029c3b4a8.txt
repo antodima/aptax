@@ -1,0 +1,147 @@
+April 9, 2014
+
+This post has moved to my new blog! Find it at http://seandoig.com/heartbleed-should-bleed-x509-to-death
+
+I’m not a cryptographer; nor am I a hard core C guru; nor have I invented some brilliant library that gives me street cred to talk about this stuff. I’m a nobody.
+
+But I’m a nobody who cannot help but see the blinding reality of the vastness of the hole we have dug and continue to dig for ourselves.
+
+For the unfamiliar, X.509 is the mechanism by which your web browser decides whether or not to make your padlock turn green on secure sites. Heartbleed is a recently exposed bug that has, and as of writing continues to, leak secrets from web servers all over the world - most of them, in fact. Secrets leaked include the very secrets attackers would use to trick that padlock into turning green when it should turn very red.
+
+X.509 is bloody stupid
+
+Let’s just recap how this whole thing works (in a conceptually, if not technically, accurate way).
+
+Public key cryptography
+
+Public key cryptography, in a nutshell, allows you to ask a web site (for example) this question:
+
+“Tell me something only the real you could know.”
+
+That’s it. It’s very clever. You ask, they tell, you check and if all is good you get a green padlock.
+
+Public key crypto can be implemented a few different ways. The prevailing way for websites is X.509, the mechanics of which go a little something like this.
+
+There are certificate authorities (CA’s) which are Queen certificates - their job is to sit safely in the hive and have babies. The babies they have are typically intermediate certificates - Princess certificates - and their job is to serve the Queen’s court and have more babies; sometimes they have more Princesses, and sometimes the King comes to them with an order from someone like you demanding a baby for mysecuresite.com. They duly cooperate, have the baby, email it to you, and you shove it inside your server.
+
+When you visit your site, your server-baby dishes up a copy of it’s DNA profile, and a copy of it’s mother’s DNA profile. Your computer checks to see if indeed your server-baby actually is the child of the mother it claims. But how to trust the mother? Well your operating system/program you’re using comes with a list of trusted Queen DNA profiles, and it then goes off to check that the Princess is the child of a trusted Queen.
+
+Faking a DNA profile is so hard it may as well be impossible, and so we’ve answered the question: only a legitimate child of the Queen/Princess lineage could have come up with a DNA profile that fits.
+
+This is retarded
+
+Why? Because the whole security of the system is based on external trust.
+
+All of this boils down to that list of Queen DNA profiles that just so happens to have been put on your computer by somebody you will almost certainly never know a thing about. You have to do it this way, because if you try to be your own CA and dish out copies of your own Queen DNA profile, every web browser on the planet will show a big old warning page saying “Something’s not right here”. Some won’t even allow you to override it. You’ve just reduced your sites user base to power users who know how to properly install CA’s on their machine. Fab. He who controls a Queen can make functionally equivalent copies of every Princess and Princess-baby in the Queen’s lineage. They have the skeleton keys to your ‘secure’ kingdom and could at any time decide to become a fraud factory and dish out copies of your keys to whomever they fancy.
+
+To be secure you have to trust that whomever put that list in (1) on your machine didn’t put any rogue entries in. You can inspect this if you look hard enough, but when was the last time you did? Even so, would you even know what to look for? Oh, and these things tend to be auto-updated by the OS/program maintainers - so your verification routine has now become a never-ending process.
+
+And fundamentally you have to trust that they who hold the Queens aren’t dishing out copies of your certificates. You needn’t know this had happened, especially if they’d given it to someone who would use it only selectively with very little chance of anyone ever noticing like oh, say, the NSA or GCHQ.
+
+Who exactly are these gatekeepers, anyway? Those brave warriors we have all paid good money to, so that they can keep our secrets safe?
+
+Gatekeeper % internet secured Symantec (including VeriSign, Thawte, Geotrust) 38.1% Comodo 29.1% GoDaddy 13.4% GlobalSign 10% Others 9.4% Total 100%
+
+Source: W3Techs via Wikipedia
+
+4 companies controlling 90.6% of the internet’s secrets. This is fucking insane. Do you have any reason to trust this lot with anything, no less the security of 90.6% of all your ‘secure’ internet traffic? Do you honestly believe that the NSA/GCHQ didn’t see this and say “Well that could be a lot worse”?
+
+What we have done here is fitted our doors with some mega heavy duty locks, and given the master keys to a loyal little dog. Sure, he barks at you with a smile, but can you ever be sure he won’t be distracted by an appealing steak from your worst enemy? Of course not, he’s a fucking dog. We’ve seen two-faced dogs before - one was called RSA. They just loved that NSA steak.
+
+But this has nothing to do with Heartbleed
+
+Oh yes it bloody well does.
+
+Heartbleed means that all of our server-babies are effectively broken. There is no way for us to know if they’ve been copied, so to assume they have not is not an option. Fabled cryptographer Bruce Schneier thinks it’s safe to assume “that every target has had its private keys extracted by multiple intelligence agencies”. You’re the target by the way.
+
+This means to go ‘back’ to a ‘secure’ state we have to replace every single server-baby out there, which can only come from the gatekeepers.
+
+Herein lies the rub: to get your Queen DNA profile onto those trusted lists and become a gatekeeper you have to spend a staggering amount of money, put in an ungodly number of hours, and comply with a vast sea of regulation. It is expensive and hard, and it is privatised.
+
+Expensive, difficult entry conditions + private enterprise = ?
+
+Anyone? Economists? Correct. Monopoly. Or rather, oligopoly.
+
+Oligopolies are well studied and well known. Here’s a few feature bugs:
+
+They maximise profits above all else, because they can, and they will because their investors demand a return
+
+They set market prices, instead of being demand-led, because they can, and they will because their investors demand a return
+
+Participants tend to collude because the mathematical truths of game theory almost always mean that they can all make more money working together to rip you off than if they fought each other, and they tend to do this because they can and their investors demand a return
+
+So to get back to the woefully broken state of ‘security’ provided by X.509, you can and should expect to dish out some moolah for the privilege. They’ll position themselves to look like they’re your guardian angel, rushing to your aid, but owing to “the current high demand” they will have “no choice” but to levy a “small processing fee” to offset the “increased capacity” or some other such bullshit.
+
+There are servers under my control now shitting out memory in 64KB chunks to whomever asks, most likely including my army of server-baby DNA profiles, and the very thought of having to solve this through an SSL provider is so deeply off-putting that I haven’t done it yet. Good thing there’s nothing worth stealing on any of them.
+
+I will, of course, get round to it. But there are many who won’t for a long time. As of today, that green padlock no longer means what it once did. And the reason for that is because of the business conditions of gatekeepers. Not that the green padlock really ever meant what you wanted it to mean anyway.
+
+Let me reiterate - everybody who was ever taught anything about that green padlock - grandmothers, bosses, school kids, web devs, everyone - now thinks that it means something it doesn’t, and won’t mean what they think again until all those server-babies are replaced.
+
+Some of you may be thinking that the this is the reason there are mechanisms for certificate revocation: there are methods available for the gatekeepers to mark certificates as invalid. And break all their customers’ sites in the process. And face a million law suits for lost revenues. Yeah, call me when that happens
+
+A new way
+
+I have been deeply mistrusting of this model since I first properly grokked the mechanisms that drive it, but it looked to be so entrenched in the fabric of the internet that any battle to change things appeared a foregone conclusion. This, because of the woeful state of the symbology of the green padlock, is no longer the case.
+
+If we tasked ourselves to build web security from scratch today, hell would freeze over and the NSA would willingly disband and incarcerate themselves before we came up with X.509 and said “That’s it! Centralised authority nobody can practically trust and business conditions that will cause everyone to spend a tonne more money than they have to. Fuck me we’ve cracked it! Good job boys, let’s go to the pub.”
+
+Here’s an opportunity: we’ve spent decades educating the world on that green padlock. We’ve taught them to think it means something it never did, and certainly doesn’t anymore, but could we make it so that it did actually mean what we’ve been teaching? I think we can.
+
+The Dawn of PGP
+
+Here is where my arrogant ‘this is fact’ commentary stops and my speculative commentary begins. Maybe PGP isn’t the solution, maybe there are better ones out there or yet to be discovered, but this is what I know and it looks good from here.
+
+PGP is to trust what Bitorrent is to file sharing, Bitcoin is to currency, and Tor is to anonymity, that is to say it is a web.
+
+Applying PGP to websites
+
+Here’s an example: I believe that my best mate Bob is who his certificate says he is because he had it tatooed on his chest and I painstakingly transcribed it into my computer (ok, maybe not, but this level of verification is entirely possible with, say, a phone call). I also trust Bob with my life. Bob trusts his certificate for our shared bank, HSBC, completely, because he verified it from a bronze plaque hung in every HSBC branch worldwide. So all I have to do is tell my computer that I trust Bob with my life and lo and behold my computer automatically trusts HSBC, provided HSBC identifies itself with the same certificate Bob checked from the plaque.
+
+Look at that. It is a beautiful solution. There is no money involved and I control who I trust - which is the very essence of security, online or off.
+
+This system already works wonders for the few that use it to secure emails, chat messages, and drug transaction details on the darknet. It was invented a very long time ago and is thoroughly battle tested. It is a golden egg waiting to be picked up and we have so far largely ignored it.
+
+But we’ve ignored it for a reason.
+
+The pitfalls of PGP
+
+The problems with PGP, as far as I can tell, boil down to 2 core issues:
+
+User interface Identity verification (or key exchange)
+
+User interface
+
+PGP is conceptually challenging to understand in its entirety, and current implementations make little effort to cover up the nitty gritty details of using it. Give it a shot and you’ll be answering questions like “do you want 2048- or 4096-bit key, and do you want RSA, DSA, or Elgamal encryption with that? What’s your email address? Any comments to add? Oh and by the way, warning, good signature from xx@yy.com, but no trusted keys were found, we have no way of knowing anything aaarrghhh”
+
+There is no need for all of this though. PGP is a library with a decent command line, all we have to do is knock our heads together with some designers and come up with a sane way of dishing this up to laymen. We can tackle this.
+
+Key exchange
+
+The problem most people in the know jump to when discussing the idea of using PGP is key exchange. Back in the day they had this idea about ‘key exchange parties’ where a bunch of people got together in a room and exchanged cryptographic hashes - fingerprints (in name and meaning) - of their public keys. That way you could go home, download your new friend’s key from a keyserver, verify that you got the right one by comparing its fingerprint with the one you got in person, sign it to say you vouch for the authenticity of this key, reupload it to the keyserver, assign a trust level to your new friend, and be happy.
+
+What a palava.
+
+90% of that guff can be automated and hidden underneath a good UI, but can we dispense with the need for key exchange parties? Absolutely we can.
+
+This way of going about things was necessary back in the day when we didn’t have a Heartbleed-shaped rocket up our arses spurring many people into adoption, but if everybody (or a lot of people) were to do this all at once then the number of connections you have make as an individual to build the global web of trust reduces dramatically. Geeks like me would take to verifying banks and ecommerce institutions etc., and I already know a vast swathe of people who would then trust my judgement, and I know a vast swathe of geeks I would trust, so all those laymen on the periphery who may trust me and me alone already have the necessary connections at their disposal to securely access an enormous chunk of the web.
+
+And it’s not just the geeks who would make good introduction points. I’d sooner trust, say, the University of St Andrews’ Computer Science department than Symantec - and I have genuine real-world trust that those boys that I could walk up to and visit right now would only make trusting relationships with genuinely trustworthy entities.
+
+Other PGP benefits
+
+If everyone is using PGP then modifying email clients to have it as a standard, default feature is trivial. Almost every email client out there has a PGP plugin, and once everyone’s using it things like phishing and even spam could become things of the past very swiftly.
+
+There are more - a bit of light Googling will show you the way.
+
+Conclusion
+
+We have a problem. We’ve always had this problem, and finally we have a good reason to go through the short-term pains of solving it. The tech community has to have a discussion about this. The technical challenges are moderate but look how far we’ve come - we can manage this. Baking PGP into the web is not a challenge nearly as hard as some of the feats we see on the front page of Hacker News every single day; GnuTLS already supports PGP certificates, but unfortunately no web browser would know what to do with them. Yet.
+
+We need to make this a ‘thing’ so that the ball gets rolling and the discussion can grow to the point where standards bodies, browser vendors, and OS vendors take it seriously as an idea. The only way we can get to that stage inherently involves the full exposure of the architectural problems of X.509 and once we’ve done that - and had the resulting collective moment of clarity - I’d bet my ass that even if PGP isn’t rolled out as our saviour, something that isn’t X.509 will be. It’s just too broken to brush over and bury.
+
+I guarantee you that in 50 years, X.509 will not be the prevailing paradigm for web security. It’s fucked and deep down we’ve known that all along. A day will come when we get round to dealing with it - why can’t it be today?
+
+Part 2: Should we make a working group to kill X.509?
+
+1,864 Kudos

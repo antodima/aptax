@@ -1,0 +1,366 @@
+From VASSAL
+
+Publisher Fantasy Flight Games Era Fantasy Year 2012 Topic Science Fiction Players 1-6 Scale Miniatures Length varies
+
+‎
+
+Files and Module Information
+
+Filename Filetype Size Date Compatibility Developer Other Contributors 8.4.1 Star_Wars_X-Wing_Miniatures_Game-8.4.1.vmod module 61.58 MB 3.2.17 8.4.0 Star_Wars_X-Wing_Miniatures_Game-8.4.0.vmod module 61.57 MB 3.2.17 8.3.0 Star_Wars_X-Wing_Miniatures_Game-8.3.0.vmod module 61.51 MB 3.2.17 8.2.5 Star_Wars_X-Wing_Miniatures_Game-8.2.5.vmod module 57.9 MB 3.2.17 8.2.0 Star_Wars_X-Wing_Miniatures_Game-8.2.0.vmod module 47.97 MB 3.2.17 8.1.0 Star_Wars_X-Wing_Miniatures_Game-8.1.0.vmod module 75.88 MB 3.2.17 8.0.9 Star_Wars_X-Wing_Miniatures_Game-8.0.9.vmod module 75.77 MB 3.2.17 8.0.8 Star_Wars_X-Wing_Miniatures_Game-8.0.8.vmod module 75.68 MB 3.2.17 8.0.5 Star_Wars_X-Wing_Miniatures_Game-8.0.5.vmod module 88.13 MB 3.2.17 8.0.0 Star_Wars_X-Wing_Miniatures_Game-8.0.0.vmod module 87.19 MB 3.2.17 7.7.1 Star_Wars_X-Wing_Miniatures_Game-7.7.1.vmod module 67.93 MB 3.2.17 7.7.0 Star_Wars_X-Wing_Miniatures_Game-7.7.0.vmod module 81.64 MB 3.2.17 7.5.2 Star_Wars_X-Wing_Miniatures_Game-7.5.2.vmod module 65.41 MB 3.2.17 7.5.1 Star_Wars_X-Wing_Miniatures_Game-7.5.1.vmod module 72.14 MB 3.2.17 7.5.0 Star_Wars_X-Wing_Miniatures_Game-7.5.0.vmod module 65.4 MB 3.2.17 7.4.3 Star_Wars_X-Wing_Miniatures_Game-7.4.3.vmod module 63.79 MB 3.2.17 7.4.1 Star_Wars_X-Wing_Miniatures_Game-7.4.1.vmod module 62.13 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 7.1.2 Star_Wars_X-Wing_Miniatures_Game-7.1.2.vmod module 75.62 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 7.1.0 Star_Wars_X-Wing_Miniatures_Game-7.1.0.vmod module 75.34 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 7.0.8 Star_Wars_X-Wing_Miniatures_Game-7.0.8.vmod module 74.65 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 7.0.7 Star_Wars_X-Wing_Miniatures_Game-7.0.7.vmod module 73.72 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 7.0.5 Star_Wars_X-Wing_Miniatures_Game-7.0.5.vmod module 73.23 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 7.0.3 Star_Wars_X-Wing_Miniatures_Game-7.0.3.vmod module 72.4 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 7.0.1 Star_Wars_X-Wing_Miniatures_Game-7.0.1.vmod module 71.96 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 6.5.3 Star_Wars_X-Wing_Miniatures_Game-6.5.3.vmod module 71.59 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 6.5.2 Star_Wars_X-Wing_Miniatures_Game-6.5.2.vmod module 71.56 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 6.5.0 Star_Wars_X-Wing_Miniatures_Game-6.5.0.vmod module 71.34 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 6.4.0 Star_Wars_X-Wing_Miniatures_Game-6.4.0.vmod module 71.33 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.17 6.3.2 Star_Wars_X-Wing_Miniatures_Game-6.3.2.vmod module 67.89 MB 3.2.17 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.16 6.3.0 Star_Wars_X-Wing_Miniatures_Game-6.3.0.vmod module 64.33 MB 3.2.16 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.16 6.2.6 Star_Wars_X-Wing_Miniatures_Game-6.2.6.vmod module 64.03 MB 3.2.16 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.16 Imperial_Ships_Update_6-2-6.zip vlog 573 KB 3.2.16 Rebel_Ships_Update_6-2-6.zip vlog 573 KB 3.2.16 6.2.4 Star_Wars_X-Wing_Miniatures_Game-6.2.4.vmod module 62.4 MB 3.2.16 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.16 Scum_and_Villiany_Ships_Update_6-2-4.zip vlog 532 KB 3.2.16 6.2.3 Star_Wars_X-Wing_Miniatures_Game-6.2.3.vmod module 62.08 MB 3.2.16 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.16 6.2.2 Star_Wars_X-Wing_Miniatures_Game-6.2.2.vmod module 61.43 MB 3.2.16 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.16 Scum_and_Villainy_Ships_Update_6-2-2.zip vlog 1.06 MB 3.2.16 Imperial_Ships_Correction.zip vlog 872 KB 3.2.16 6.2.0 Star_Wars_X-Wing_Miniatures_Game-6.2.0.vmod module 60.55 MB 3.2.16 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.16 Rebel_Ships_Update_6-2-0.zip vlog 2.23 MB 3.2.16 Scum_and_Villainy_Update_6-2-0.zip vlog 567 KB 3.2.16 HotAC_Vassal_2.1.vmdx Heroes of the Aturi Cluster campaign 23.59 MB 3.2.16 6.1.0 Star_Wars_X-Wing_Miniatures_Game-6.1.0.vmod module 59.64 MB 3.2.16 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.16 Imperial_Ships_Update_6-1-0.zip vlog 511 KB 3.2.16 Rebel_Ships_Update_6-1-0.zip vlog 3.7 MB 3.2.16 Scum_and_Villainy_Ships_Update_6-1-0.zip vlog 6.14 MB 3.2.16 HotAC_Vassal_v2.vmdx Heroes of the Aturi Cluster campaign 23.34 MB 3.2.16 6.0.2 Star_Wars_X-Wing_Miniatures_Game-6.0.2.vmod module 49.42 MB 3.2.16 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.16 Rebel_Ships_6-0-0.zip vlog 9.07 MB 3.2.16 Scum_And_Villiany_6-0-0.zip vlog 6.36 MB 3.2.16 6.0.0 Star_Wars_X-Wing_Miniatures_Game-6.0.0.vmod module 49 MB 3.2.16 Universal_Map_Pack_1.0.vmdx MapExtension 16.22 MB 3.2.16 Starting_Layout_6-0-0.vlog vlog 110 KB 3.2.16 Imperial_Ships_6-0-0.zip vlog 10.13 MB 3.2.16 Rebel_Ships_6-0-0.zip vlog 9.07 MB 3.2.16 Scum_And_Villiany_6-0-0.zip vlog 6.36 MB 3.2.16
+
+For Older files and version history see the modules' archives here
+
+If you want some help getting started with the module, go here
+
+If you're looking for the critical damage card text and effect (standard and huge ships), go here
+
+IMPORTANT v8.0.0 and future versions can't play with prior versions because of a totally revamped filename system.
+
+IMPORTANT - since v5.0.0, only the main module file is needed to play. In addition, you may get the map pack (Universal map pack v1.0) if you are tired of seeing black backgrounds and the basic 3x3 starfield map. Getting the single ship module extensions (e.g. X-Wing, TIE Interceptor, etc.) is NO LONGER NECESSARY. Also optional, the faction files that lets you get logfiles of ships set up with stats, cards and dials, 1 ship type per logfile.
+
+Version 8.4.1
+
+Escrow Squad feature showstopping bug fixed
+
+Squad Points upon spawning
+
+Version 8.4.0
+
+Escrow Squad feature
+
+New mouse interface. ctrl-left click on a ship while it's on the map to activate AND interact with the buttons. This is only a very rough, very early demo
+
+Version 8.3.0
+
+Brand New Dial (2.0 style)
+
+Reveal+automove
+
+Version 8.2.5
+
+Massive optimization of the launching process with the content self-check
+
+Autospawn squads with URLs again
+
+Say 'set' button in player windows
+
+Tons of fixes
+
+Version 8.2.0
+
+The Full 2nd edition is now playable with this module
+
+Backward compatibility with 1st edition is fully maintained as well
+
+The 1st edition art assets were stripped out to save space. To get them back, go to the Content Checker and download it all back
+
+Version 8.1.0
+
+2 new playable 2.0 lists (autospawned) from some Worlds 2018 demo games, featuring Vader + 3x Black Ace and Boba Fett + Joy Rekkoff + Zealous Recruit
+
+Version 8.0.9
+
+Autospawn bug fixed - you can now give it a squad URL again
+
+Version 8.0.8
+
+Playable 2.0 lists (autospawned) from the team covenant demo game, featuring Captain Feroph + 3x Black Ace + Maarek vs Edrio + Benthic + Jek + Gray Sq Bomber
+
+Tallon Roll 1 uses a new shortcut to avoid a conflict with +1 hull
+
+More work continued on the 2.0 elements
+
+Version 8.0.5
+
+Autospawn bug fixes (dual cards possible again; U-Wings can flip again; stats alteration due to cards again; ordnance + illicit tokens again, etc.)
+
+S-Foils work the same way (ALT-U) and alters the gfx of the x-wing a bit
+
+Content Checker is now the only way to get new content and flashes red when stuff is available
+
+Some work started on the 2.0 elements
+
+Version 8.0.0
+
+New automated update system; no need to download a new module every time a few cards or ships come out (unless there's a brand new mechanism or new tokens)
+
+Barrel roll and decloak templates now appear for all players and observers if spawned in open space, instead of just the initiator.
+
+Version 7.7.1
+
+Sheathipede-class now shows correctly rotated ship action (shift-a, etc.)
+
+Many ships which can have the forward launch ability can now launch these bombs with the CTRL-SHIFT-B frontal bomb spawner
+
+Chopper astromech is now correctly counted as 1 squad point during autospawn
+
+Some issues with illicit and extra munitions token in the same list during autospawn is now resolved
+
+TIE Silencer maneuver ref card now shows bank 3 as green instead of white.
+
+Version 7.7.0
+
+M12-L Kimogila Fighter (wave 12) is now fully playable
+
+Sheathipede-class Shuttle (wave 12) is now fully playable
+
+TIE Silencer (wave 13) is now fully playable
+
+B/SF-17 Resistance Bomber (wave 13) is now fully playable
+
+Autorange is now possible for all types of arcs, adding front aux arc, mobile turret arc and bullseye arc + bug fixes for older autoranges
+
+Autorange toggled on will now be visible to all players and observers
+
+Bombs can now use the Forward 5 maneuver template for Bomb Launching
+
+Cargo Debris will now be involved correctly in an overlap event even if it's rotated
+
+Version 7.5.2
+
+The Lancer-class Pursuit Craft arc graphics will now rotate with the ship's orientation
+
+Version 7.5.1
+
+Barrel rolling into empty space no longer only works for the player performing the roll
+
+Alpha-class Star Wing now has side action icons
+
+Lancer-Class now has better options for firing arc toggling
+
+Version 7.5.0
+
+Alpha-class Star Wing (wave 12) is now fully playable
+
+In-Arc (front and back) autorange finder is now available, toggled with CTRL-SHIFT-F and CTRL-SHIFT-V respectively
+
+Illicit, Extra Munitions tokens spawn on their respected cards during autospawn.
+
+Nastah Pup can autospawn with the right pilot skill if Hound's Tooth title is equipped
+
+Lancer-Class Pursuit Craft has a simpler arc toggle graphic shortcut (CTRL-F used for all 4 directions)
+
+Overlap events now display the red flash for both players
+
+Version 7.4.3
+
+Cards from wave 12 and 13 preview articles
+
+Bomb Spawner now deletes for every player when used to deploy bombs, not just for the owner
+
+Deathrain style front bombing now has all the same options regular bombing has
+
+3 new maps from the vassal league s5 sponsors
+
+Version 7.4.1
+
+Templates and ships can self-detect an overlap with obstacles/ships with 'c' for templates and 'alt-c' for ships
+
+Repositioning with barrel rolls and decloaks, as well as weird versions of these (with banks or fwd 2) can self detect an obstacle
+
+Bomb spawner once more completed with hard turn 1 and bomblet token
+
+Autorange finder with CTRl-SHIFT-L with turrets or target locks, with obstruction detection
+
+Version 7.1.2
+
+New StarViper pilots, illicit and condition cards
+
+TIE Aggressor can have side actions, dial no longer has fwd 5
+
+Anti-cheat dial message is now less trigger happy
+
+Version 7.1.0
+
+TIE Aggressor fully playable, wave XI complete
+
+TIE Aggressor can now Tallon Roll
+
+Anti-cheat measures makes this update mandatory
+
+Version 7.0.8
+
+Scurrg H-6 Bomber fully playable
+
+A few more tokens appear with autospawn with certain cards (ie ps12)
+
+Version 7.0.7
+
+Auzituck Gunship fully playable
+
+Bug affecting 7.0.5 ships moving in a map with pre-7.0.5 obstacles is now fixed
+
+Version 7.0.5
+
+C-Roc cruiser is now fully playable
+
+Bug affecting certain ships who no longer triggered the overlap (like they did in 7.0.1 but no longer could in 7.0.3) event has been fixed
+
+Flipped obstacles (CTRL-S) now work with overlaps
+
+Version 7.0.3
+
+Cards from TIE Aggressor and Guns for Hire previews
+
+Popup informing you of new version to download, with clickable link
+
+No more reports of ship movement/overlap in your player hand
+
+Lorrir + StarViper Mk.II style barrel roll now work for StarVipers, changed shortcuts (see "How To & Shortcut" in the module under Weird Ships #1, or right click on the ship)
+
+Version 7.0.1
+
+Overlap detection: ship on ship, ship on obstacle/mines, ship fleeing the map, template on obstacles/mines
+
+Cards from wave 11 and Jabba previews
+
+Maneuvers redone in java - must update
+
+News about tournaments/leagues upon logging
+
+
+
+Version 6.5.3
+
+AutoSpawn bug fix for 6 cards from "Hit and Run" preview article
+
+U-Wings now spawn with a focus token
+
+Version 6.5.2
+
+AutoSpawn moved to player window, restricts usage to player # owning the window
+
+AutoSpawn layout changed to regroup ships up top
+
+6 new cards added from Hit and Run preview article (scyk pilots, etc)
+
+AutoBump bugs fixed: straights no longer leave gaps, range rulers no longer crash it
+
+Dual cards spawned with autospawn now warn user of decision to make
+
+Version 6.5.0
+
+Autobumping with the 'c' shortcut
+
+Autospawn improved
+
+Sabine's TIE Fighter can drop bombs
+
+Version 6.4.0
+
+Squad AutoSpawn from web
+
+TIE Striker can now segnor's loop
+
+Modified OpenDial graphics for TIE Advanced and TIE/fo fighter (missing 5 forward move)
+
+Version 6.3.2
+
+Upsilon shuttle is now playable
+
+All cards up to C-ROC announcement are now added, Wave 10 100% in
+
+Sabine's TIE Fighter can now drop bombs
+
+Graphic helpers to let you use or anticipate BoShek crew's effect
+
+Version 6.3.0
+
+U-Wing and TIE Striker now 100% complete and bug free
+
+4 dials were changed (for BoShek functionality): Aggressor, JumpMaster5000, StarViper and Quadjumper. Please respawn
+
+Custom S&V pilot card, custom upgrade card and Full Dial revised under Pieces/Missions
+
+Version 6.2.6
+
+U-Wing now playable
+
+TIE Striker now playable
+
+Revised helper graphics in "How To & Shortcuts"
+
+Version 6.2.4
+
+Draw a specific card is done via the Observer player window instead. Bring your cards to it and select-draw a card there.
+
+Basic maneuever helper reference image has been updated with the newer moves
+
+Version 6.2.3
+
+Quadjumper is now playable
+
+New added cards from the Fly Backward article
+
+Heroes of the Resistance cards (last 3) are now fully added
+
+Ability to draw a specific card from the main damage deck
+
+Version 6.2.2
+
+New added cards from the Suppressive Fire and Fanatical Devotion articles
+
+YV-666 aux arc (CTRL-N) has been slightly fixed
+
+Version 6.2.0
+
+Heroes of the Resistance is now fully in
+
+New added dice results are complete, can be set to other faces manually, can be rerolled
+
+Shadow Caster has a cyan hue instead of red for its mobile turret, also has visible right click shortcut for orientation changes
+
+Version 6.1.0
+
+Protectorate Starfighter is now playable
+
+Lancer-Class Pursuit Craft is now playable
+
+ARC-170 is now playable
+
+Cards from first wave 10 preview
+
+Special Forces TIE Fighter can now do a segnor's loop (bug fix)
+
+Version 6.0.2
+
+Special Forces TIE Fighter is now playable
+
+Cards from wave SF T/F preview
+
+Huge ships no longer have crippling lag as time progresses
+
+CR90 and Raider even have an ultra fast no-stats versions for their ship tokens
+
+Version 6.0.0
+
+Complete overhaul of ship (small, large) arcs
+
+Cards from wave 9 preview and ARC-170 preview
+
+Screen Shots
+
+Players
+
+AidenDouglass
+
+hendersondayton
+
+littlebull76
+
+Parakitor
+
+KickinAces
+
+TrevorGoodchild
+
+18thAngel
+
+Azrael909
+
+Tortello
+
+Pieter
+
+
+

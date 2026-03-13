@@ -1,0 +1,17 @@
+The Navy has successfully tested a laser weapon, with a warship successfully crippling a smaller boat by burning through its engine and igniting it. The test, conducted by the Office of Naval Research (ONR), is an important step toward mounting high-energy lasers on ships as weapons.
+
+Wednesday's test saw the USS Paul Foster take aim at a motoboat and then hit it with a 15-kilowatt (kW) pulse from a solid-state high-energy laser (HEL). Despite four-foot waves and high humidity (which can degrade laser output), the laser managed to hit the boat's engine and ignite it (see video of the test below).
+
+"This is the first time a HEL, at these power levels, has been put on a Navy ship, powered from that ship, and used to defeat a target in a maritime environment," says Peter Morrison, program officer at the ONR, in a press release. "We are learning a ton from this program—how to integrate and work with directed energy weapons."
+
+Such ship-mounted laser cannons could be helpful to ships in situations that require more finesse than today's armaments allow. While typical explosive munitions can be messy and possibly more destructive than necessary, a laser has the advantage of precise targeting and more control over the amount of damage. That could be potentially useful when facing small targets like pirates and aircraft.
+
+The HEL will need to be more powerful for it to be truly effective, though, and the goal of the program is to eventually mount lasers on ships with a destructive output of 100 kW. But for larger targets, like opposing navies, there are even more ambitious plans. The Navy is working on a megawatt laser that's intended to cut through an incredible 2,000 feet of steel per second. The first prototype of that monster won't be ready until 2018, the ONR says.
+
+Unlike the solid-state laser in the recent test, the megawatt laser would be a free-electron design, a much more flexible technology. So far, though, the Navy has only demonstrated an electron injector for the design, which is said to be as large as a football field— making it impossible to mount on any vessel smaller than an aircraft carrier.
+
+Ultimately, the ONR says lasers will serve to complement a warships other weapns, not replace them. In addition, entirely new battle tactics will have to be developed for ship captains to use them effectively.
+
+"From a science and technology point of view, the marriage of directed energy and kinetic energy weapon systems opens up a new level of deterrence into scalable options for the commander," says Chief of Naval Research Rear Adm. Nevin Carr. "There is still much work to do to make sure it's done safely and efficiently."
+
+For the top stories in tech, follow us on Twitter at @PCMag.

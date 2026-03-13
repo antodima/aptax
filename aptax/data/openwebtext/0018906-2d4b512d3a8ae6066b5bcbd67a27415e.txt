@@ -1,0 +1,47 @@
+IXT Token Distribution
+
+Insurex Team Blocked Unblock Follow Following Jul 23, 2017
+
+23 July 2017
+
+We are pleased to announce that our IXT tokens have been generated. Tokens that were bought during our regular crowdsale are now transferrable.
+
+We would like to take the opportunity to thank you for all your contributions, support and patience.
+
+If you participated in the regular crowdsale your wallet should already contain the IXT tokens. You would typically need to add IXT as a custom token with your own description for it to be displayed correctly. For example, in MyEtherWallet, click on Add Custom Token then enter:
+
+Address: 0xfca47962d45adfdfd1ab2d972315db4ce7ccf094
+
+Symbol: IXT
+
+Decimals: 8
+
+Presale Tokens
+
+Those who participated in our presale will now be able to claim their tokens with the 56% bonus (1 Ether = 1758 IXT). Please follow the instructions below.
+
+Make a transaction from the same account you made the first deposit. Your tokens are transferred to this account instantly.
+
+Note: For those who used a different contract please replace the address below with the address you used.
+
+Amount to send: 0 ETH
+
+Address: 0x914774D266f39100b56C53C0563C3792f9403e0c (OR THE CONTRACT ADDRESS YOU USED).
+
+Gas Limit: 250000
+
+Data: 0xd1058e59
+
+Note: Please make sure you set the Gas Limit and Data values correctly!
+
+Please email support@insurex.co if you have any questions.
+
+Scam Victims
+
+If you fell victim of the scam caused by the Twitter or Intercom problem, you can claim the IXT by filling in the form below. Unfortunately there are people who are trying to take advantage of the scam and we want to protect our contributors and community and minimise the impact.
+
+Note: We will only pay out to the original addresses who sent transactions to the scam contract. A 30 second Skype chat will be required before claims are paid out.
+
+Bounty Hunt Tokens
+
+We have generated the bounty hunt tokens and they will be distributed according to the records we keep in BitcoinTalk. We will receive the final data shortly and start the distribution accordingly.

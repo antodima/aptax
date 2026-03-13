@@ -1,0 +1,65 @@
+MIT electrical engineering and computer science professor Anant Agarwal was a guest on Comedy Central’s “The Colbert Report” a few years ago. He told host Stephen Colbert about his online learning site, edX, saying, “You can take these great courses from MIT, from Harvard … and it’s free.”
+
+The comedian quipped, “[If] I go to an elite university — let’s say I go to your Harvards or your MITs or your Berkeleys out there — I get to say ‘I went to Harvard.’ That’s half of what you’re paying for!”
+
+Humor aside, the exchange touched on a controversy that has been raging for years now about distance learning programs.
+
+About a decade ago, MOOCs (Massive Open Online Courses) generated tremendous excitement over the idea that anyone with an Internet connection could learn anything they wanted for free. The hype eventually gave way to hard questions about quality and effectiveness. Studies done in 2013 by the University of Pennsylvania’s Graduate School of Education and by the U.K.’s Open University reported MOOC course completion rates at only around 4% to 7%. But more recently, pundits have been opining that the low completion rates don’t really matter if people are still benefitting from substantial amounts of the content.
+
+Big questions remain, however: Is it better to learn online for free than break the bank (or your parents’ bank) to go to college? Is higher education about acquiring knowledge and skills, or about acquiring an elite university degree that can get you a foot in the door with an employer?
+
+“The power of technology, the power of software, is that we can give it away for free. Free is powerful.”
+
+At the recent Reimagine Education conference at Wharton, Agarwal said that edX — a non-profit online learning destination founded in 2012 by Harvard and MIT — is trying to take MOOCs to a new level, and represents the future of education. In addition to being the CEO of edX, Agarwal is a serial entrepreneur, having co-founded several companies including Tilera Corporation, which created the Tile multicore processor. In 2012, he was included in Forbes’ list of the top 15 education innovators.
+
+Free Education All Over the World?
+
+Agarwal himself taught the first edX course — an MIT class on circuits and electronics –which drew 155,000 students. (He noted that 155,000 is “larger than the total number of alumni of MIT in its 150-year history.”) Today, according to Agarwal, edX has six million learners, “from every single country in the world,” and more than 19 million course enrollments. Currently offered in several languages are 838 courses in 31 subject areas, from architecture and business to physics and the social sciences.
+
+“We partner with great institutions all over the world to offer content,” said Agarwal. edX’s 100-plus institutional partners make up an impressive, global list that includes Berkeley, Columbia, Cornell, Dartmouth, Georgetown, Princeton, the University of Chicago, the University of Pennsylvania, Australian National University, Delft University of Technology, McGill, Peking University, Seoul National University, and the Sorbonne, to name a few.
+
+edX makes its platform freely available as open-source. Agarwal noted that several countries have adopted it to build national infrastructures for online learning, including France, Saudi Arabia, Jordan, China, Hong Kong and Korea. “Most excitingly … Russia in early September launched Open Edu.ru, which is Russia’s national platform using Open edX. How cool is that?”
+
+Agarwal emphasized that there is no charge to use edX. “These courses can be taken by people all over the world, and the cost per incremental learner per course is virtually zero,” he said. He was asked about edX’s overall expenses as a non-profit organization, and acknowledged that substantial fixed costs do exist. “That’s true for software as well,” he commented. “It’s extremely expensive to produce software, but the cost to stamp out a download is virtually zero.”
+
+He said that having a low marginal cost per student means that the current in-person higher educational model — in which each student typically shells out thousands of dollars for an education — can be completely changed. “The power of technology, the power of software, is that we can give it away for free. Free is powerful Twitter ,” he said.
+
+Agarwal talked about some of his “favorite students,” including a 25-year-old Pakistani woman who was married when she was in ninth grade and had to leave school. “She discovered these courses and she tells us that she’s now been learning online…. Her husband is very supportive.” He noted that the first course she took was “Justice,” an introduction to moral and political philosophy that is considered one of the most famous courses taught at Harvard.
+
+“These courses can be taken by people all over the world, and the cost per incremental learner per course is virtually zero.”
+
+Another notable learner was a former American soldier who wanted to continue his education after two tours of duty. He also took a Harvard course, edX’s Introduction to Computer Science. With the help of LaunchCode, an edX partner in St. Louis that places people with non-traditional credentials in technology jobs, he got a job at the creative studio Yellow Brick. He directly credits the edX course for helping him get the position, said Agarwal.
+
+Instant Gratification for a Younger Generation
+
+Commentators speculate on whether online learning can ever measure up to traditional on-campus education. But in Agarwal’s view, it might actually be better, especially for younger people.
+
+He said it’s important to consider how our children are learning today and how it differs from years ago. “[Kids are] used to 140-character conversations; Snapchat — where, unless you look at something, it instantly goes away; WhatsApp, YouTube, the list goes on and on.” These sites provide the user with instant information and instant gratification, he said.
+
+He contrasted this with the conventional educational system. “When I went to school, I would do my work, and if I was lucky, two weeks later I would get some grades back…. Think about how we tolerated that and how we still tolerate it.” He said that today’s technologies give learners quick feedback that can improve educational outcomes.
+
+Moreover, the technology continues to improve, yielding possibilities that Agarwal said he could not have anticipated when the organization was founded only four years ago. “These technologies are not your grandfather’s online learning. We have gone so well past [just] videos and multiple choice, it’s not even funny.”
+
+He said a videotaped lecture, for example, could be replaced by a “a learning sequence”: a series of short videos interweaved with interactive exercises such as quizzes, discussions and other forms of interaction between the instructor and the students, or even among the students. edX also offers gamification and virtual labs. “Students can come in and sketch out molecules … play around and get graded for things like that. It enables students to learn by physically doing things.”
+
+Electronic grading itself is evolving, too, said Agarwal. “With technology we can do all kinds of grading. We can grade formulaic responses … we have drag and drop; we have image response.” What about essays? edX uses peer evaluation. “The beauty of peer evaluation is that for each student who comes in to write an essay, that student may also serve as a grader,” he said. “So in some sense, each customer also becomes a supplier. And using this crowdsourcing technique, you can then get scale.”
+
+In the testing phase now is a second technique: AI grading. He explained that in this scenario, the professor grades the first 100 submitted essays using a rubric. That process serves to train a machine learning model so that all subsequent essays can be graded by the computer.
+
+“These technologies are not your grandfather’s online learning. We have gone so well past [just] videos and multiple choice, it’s not even funny.”
+
+Agarwal and his colleagues have some other ideas and improvements in the works. One is “teams,” or study groups that could bring together students from all over the globe virtually. Another is cohorts, such as alumni from a particular university or employees in a corporation, who might receive special material from the professor and have a private shared discussion area. This could be a potential revenue stream for edX, he noted.
+
+The Final Frontier: Academic Credits
+
+edX is just now beginning to launch courses that grant academic credit for students who pass. Agarwal characterized this as “the one big driver for us…. Credit is that ultimate threshold.”
+
+For a while now, the organization has also been awarding certificates. Agarwal described the impact that change had on users. He noted that when edX first got started, the pass rate was only 6%. Then the platform introduced verified certificates: For a fee of about $50, people would receive a certificate if they passed the course. (Certificates can be used, for instance, to “highlight skills on your resume or LinkedIn profile,” according to the edX site.)
+
+The pass rate of people signed up for that benefit shot up to 60%. “This is the [same as the] average six-year pass rate for all the universities across the U.S. Not a bad number,” says Agarwal. To date, over 580,000 certificates have been earned.
+
+All this was well and good, commented one audience member, but would employers ever come to accept micro-credentials — individual certificates of digital accomplishment — in place of a bachelor’s or master’s degree?
+
+“Large employers are looking at these credentials as a way to either promote people or hire people,” Agarwal responded. He noted that edX has collaborated with organizations such as Aspiring Minds, an Indian company that connects learners to employment. Plus, he said, MIT is in discussion with a number of employers who are interested in the idea of a “micro-master’s” credential.
+
+He said that to truly alter the educational and employment ecosystem, edX would need to increase its successes, demonstrate that the course quality was good and show that learners were “learning about the same, or more, or close enough to what they would get in a campus education…. Once the press begins talking about it, and cost pressures continue beating up on everybody, I think there is a path forward.”

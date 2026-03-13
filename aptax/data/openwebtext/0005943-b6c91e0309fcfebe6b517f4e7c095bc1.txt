@@ -1,0 +1,43 @@
+Customers should ensure that they are not using the same passwords elsewhere on the web.
+
+Earlier this week I wrote about the UK Automobile Association’s shambolic response to a reported data breach of its online accessories store which saw some customers’ personal information and partial credit card data exposed.
+
+The company appeared to be living in denial of the facts, claiming that no credit card data had been compromised…
+
+…even though it clearly had been…
+
+Things took a rather absurd twist when Edmund King, the President of the AA, contacted me suggesting I remove the above graphic as it might be “in breach of the Computer Misuse Act”.
+
+You can listen to the latest episode of the “Smashing Security” podcast to hear just what I thought of that…
+
+Smashing Security #032: ‘The iPhone 8, a data breach at the AA , and a mystery no show’ Your browser does not support this audio element. Listen on Apple Podcasts | Google Podcasts | Other… | RSS
+
+Anyway, the important thing now is that on Friday evening the AA finally admitted that it was wrong. Some payment card information was exposed, as well as other personal information and “encrypted” passwords.
+
+Customers would be wise to be on their guard against scammers, and you would be sensible to ensure that you are not reusing the same password anywhere on the net.
+
+Here is the full text of the AA’s apology:
+
+Important information about our AA Accessories Shop on-line customers’ personal data We’re sorry. We are aware of concerns that we fell short in our handling of reports that some personal data from the AA Shop on-line had been compromised. We accept the criticism that the issue should have been handled better. We are grateful for the support of the information security community in flagging issues to us. Some of our customers’ personal data, given to us when they shopped online at our AA shop, became insecure when our service provider made an error with its computer systems leaving backup data exposed. We took steps to correct this when we were notified of this issue and then commissioned an investigation by external experts. This is ongoing, but we can now share the following information: We have notified the relevant authorities.
+
+We have emailed all of the customers affected with more details. Some emails may still be going through.
+
+The data affected in all cases included names, addresses, phone numbers and email addresses.
+
+For some customers who shopped with us prior to October 2014 it will also have included partial payment card information.
+
+We do not believe customers who only shopped with us after January 2017 to have been affected at all.
+
+Some encrypted passwords were included in the data. Whilst we do not believe that customer accounts at our AA shop were accessed, we are reminding customers of industry advice that they should consider changing their password if they used it on other sites. We will offer support to our customers. Similarly, while there is no information from customers or our specialist advisors that any data has been used for fraudulent activity, we have reminded customers that they should always look out for phishing and other scams.
+
+shop were accessed, we are reminding customers of industry advice that they should consider changing their password if they used it on other sites. We will offer support to our customers. Similarly, while there is no information from customers or our specialist advisors that any data has been used for fraudulent activity, we have reminded customers that they should always look out for phishing and other scams. This incident originated from third party systems outside our own network and did not affect main AA systems such as those processing insurance or membership information.
+
+systems such as those processing insurance or membership information. Nonetheless, it is clear that our supplier’s security safeguards in this instance fell short of the high standards that we and our customers rightly expect. We know that our customers and the information security community expect and trust us to keep information safe and secure, and apologise wholeheartedly for what has happened. We will continue to work hard to keep customer data as safe as possible. We again thank those of you with an interest in these important matters for your cooperation in helping us improve our data security. Thank you.
+
+Edmund Edmund King OBE
+
+AA president
+
+What a difference in attitude a few days makes.
+
+Clearly the data breach notification could have been handled much better. In particular, users should have been informed when the breach was first brought to the AA’s attention in April rather than seemingly swept under the carpet. Still, better late than never I guess…

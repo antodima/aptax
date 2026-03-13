@@ -1,0 +1,21 @@
+WASHINGTON — A Colorado company that said last year it had achieved a technological breakthrough in space transportation has decided to shut down, citing the high costs and risks associated with further development.
+
+Escape Dynamics of Broomfield, Colorado, announced on its website recently that it decided to wind down its operations because its “external propulsion” technology was not attractive enough to potential investors to fund its continued development.
+
+“While microwave propulsion is feasible and is capable of efficiency and performance surpassing chemical rockets, the cost of completing the R&D all the way through operations makes the concept economically unattractive for our team at this time,” the company stated in a brief note posted on its website.
+
+“We also concluded that at current stage technical risks and uncertainty about the cost and timeline are still very high and are not attractive to private investors,” the statement continued. “Therefore, we decided to discontinue the operation of Escape Dynamics and stopped the R&D effort at the end of 2015.”
+
+The company did not disclose additional details about its decision, and did not respond to an email inquiry Feb. 2. It’s unclear how many employees lost their jobs when the company decided to shut down, but an undated group photo on the site included 20 people.
+
+Escape Dynamics had been working on microwave propulsion technology, where a transmitter on the ground beams microwaves to a vehicle ascending into space. The microwaves heat a propellant such as helium or hydrogen to generate thrust.
+
+Beamed propulsion technology offers the potential of simpler and more efficient launch vehicles, and therefore less expensive access to space. Tests by Escape Dynamics indicated that microwave propulsion had a specific impulse, a measure of rocket engine efficiency, higher than the most energetic chemical propellants in common use today.
+
+“Microwave-powered launch is the next giant leap in spaceflight because it has the capability to produce specific impulse above the threshold needed for single-stage-to-orbit operations,” said company president Laetitia Garriott de Cayeux in a presentation last July at the NewSpace 2015 conference in San Jose, California.
+
+At the conference, Garriott announced that Escape Dynamics had completed a small-scale test of microwave propulsion in its lab, using microwaves to heat up helium propellant and generating thrust. The tests demonstrated the effectiveness of overall technology, she said.
+
+The company had plans to scale up the tests over the next few years, conducting tests in the field using hydrogen propellant. It eventually planned to develop a reusable single-stage launch vehicle using microwave propulsion to carry payloads weighing up to 200 kilograms into orbit at about one percent the cost of current launch systems.
+
+“We are three years into an eight-year plan,” Garriott said in July. The company did not disclose how much it had raised, or how much it expected its full development program to cost.

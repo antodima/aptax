@@ -1,0 +1,13 @@
+A new type of electronic paper display has leaped several bounds ahead of its e-ink brethren. In a paper published in Applied Physics Letters, the company Gamma Dynamics describes a new type of "e-paper" that can update the display at a video-level refresh rate and sustain a significantly brighter image than most e-ink displays—all without using any power.
+
+E-ink displays have been commonplace in e-readers, like the Kindle, for a few years now. They have some drawbacks—a painfully slow refresh rate, for instance—that some manufacturers are looking to solve.
+
+Gamma Dynamics has created a new setup that displays static images without using power, just like e-ink. Their "e-paper" screen design sandwiches a network of flat electrodes between a layer of oil on top and pigment underneath.
+
+Under an applied voltage, the pigment will flow up to the top surface, and the oil below, creating a pigmented area where there wasn't one before. Likewise, a different voltage will send the oil flowing to the top and make the pigment recede, turning it blank again.
+
+The electrodes in the screen are reflective, so the areas not obscured by pigment are bright, almost like an LCD. The e-paper screen can reflect up to 75 percent of ambient light (e-ink reflects 40 percent, and electrowetting displays up to 30). This way, the brightness is automatically cranked up in brighter areas without using any power other than what is needed for refreshing the image.
+
+The e-paper is able to refresh its whole image at a rate of 20 milliseconds, or 50Hz. Their current design only works well in grayscale, but the company has had limited success experimenting with color inks using the same setup.
+
+Applied Physics Letters, 2010. DOI:10.1063/1.3494552 (About DOIs).

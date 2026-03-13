@@ -1,0 +1,41 @@
+For the past two weeks you have been sharing your awesome ideas for the decks with us. Now the time has come to conclude which ideas are the best.
+
+This time the task was to make use of ranged keyword — a mechanic that does not see much play on the ladder and competetive scene. We will start by analyzing the mechanic and then provide a few deck examples — our Metashaker finalists! Alright, let's begin!
+
+Ranged — Keyword Analysis
+
+The ability to attack enemies from afar without taking damage back is very strong. The game of Faeria focuses on board control, the player who places his creatures in the right position where he can attack enemy creatures has an advantage. This is why mobility tricks like Syland Horsemaster, Flash Wind and Sagami Grovecaller are valued so high by the players as well as creatures with jump and charge like Windstorm Charger and Triton Warrior.
+
+But ranged might be very strong not only because ranged creatures have massive area they control but also because they don't take damage back whenever they attack from afar — like if you cast Safeguard every time you attack. Sounds too good, right? The mere presence of ranged creatures on the board forces your opponent to change his entire strategy including developing lands to respond to this threat.
+
+However, the strong points end here. Since ranged is that useful, ranged creatures naturally are very weak. The 4 faeria 2/2 with ranged Hilltop Archer might be able to do some work only if he won't be removed immediately which can be done countless number of ways: Seifers Wrath, Soul Drain, Deepwood Stalker and many others. Other ranged creatures are not too much better, the only exceptions are Windstorm Archer and probably Yakkapult which requires 6 lands and is kinda slow. I have only mentioned removals from hand but there is a bigger problem. With their low stats ranged creatures are extremely vulnerable in close combat and once your opponent develops lands close to you and starts summoning his creatures there your archers may become useless.
+
+To sum up, ranged creatures may be extremely effective in the right deck and hands but playing them involves very high risk. If you want to expand on this topic, I suggest you to read Aquablad's Oversky Card Spotlight — Ranged Creatures where he ranks his top 5 ranged creatures and attaches a deck list to each one.
+
+Now we proceed to the contest results! There were so many different good decks this time that it was very hard to choose the top 3 — and here is what we have come up with. Meet the Metashaker #10 finalists!
+
+Ranged Rush
+
+The first deck is made by Reath. It's strategy is to play a ranged creature in front of your orb and start hitting the enemy orb as early as possible. Hilltop Archer, Siege Engine and Boulder Thrower all can be played on turn 2 (gain +1 faeria instead of building a land if necessary). Keep your archers alive with green buffs. As soon as your opponent develops lands close to you, you will be at a disadvantage. However, by the time he manages to do so he will most likely be at low health which enables you to finish him off with Flame Burst, Rebel Slinger and Siefers Wrath making up for the ranged creatures weakness.
+
+For the 1st place Reath recieves 5000 gold. Congratulations!
+
+GB Enchantment feat. Yakkapult
+
+The second deck is made by GNU_Linux and it is a GB Enchantment deck with the addition of Yakkapult. GB Enchantment decks usually tend to play defensively summoning their healthy creatures in the back and threatening the opponent with a possibility of playing Gabrian Enchantment. With the addition of Yakkapult you can now start pressuring your opponent much sooner. Your opponent will struggle to break through your healthy creatures to kill your Yakkapults so you can easily launch yaks to the enemy orb. You can also use Elderwood Embrace with Gabrian Enchantment to buff your ranged creature to 9/9 for a two turn kill. Yakkapults perfectly fit in the deck being a great win condition for it whereas the rest of the deck fully supports the ranged creature covering its weaknesses.
+
+For the 2nd place GNU_Linux recieves 2500 gold. Congratulations!
+
+Yellow Rush
+
+The last deck is made by Ramora and features Oradrim Sagittarius in Yellow Rush. The description of the card literally screams "I am made for Yellow Rush!" but making a deck with it right is not that simple. Haste creatures work really well together with the archer to gain most value out of its ability. Since you have a lot of small creatures that deal 1-2 damage to the orb including Sagittarius himself, Zealous Crusader is a great addition to the deck. Manta Rider is also a good choice because his stickiness to the board may help you trigger Sagittarius' ability and Khalims Prayer an extra time. Besides, its 3 desert requirement works well together with ranged creatures. Usually by the time you develop a 3rd desert you don't have any good spots for the land — 2 lands near the opponent orb might be enough. However, in this deck the 3rd desert is not wasted since you need one in front of your orb to summon your archers there (technically it's not the 3rd desert but 1st since you should probably open with the desert in front with this deck).
+
+For the 3rd place Ramora recieves 1000 gold. Congratulations!
+
+Honorable Mentions
+
+Closing words
+
+Thank you everyone for sharing your awesome ideas! While we are taking a small break make sure to take part in other contests: If Yaks Could Talk and Custom Card Creation Contest.
+
+That's it for now. See you later! Check the news on the Hub or offical Faeria discord #tournaments channel if you don't want to miss next Metashaker!

@@ -1,0 +1,9 @@
+Are You Ready for an Ear-refreshing Experience?
+
+Our calibrated noises are truly unique in their ability to compensate for your potential hearing loss, and for your audio equipment and listening environment deficiencies.
+
+Calibration settings will be stored as a browser cookie, and can be recalled any time from the “Your Hearing Curve” setting found in all calibrated noises, under the “Presets” section.
+
+During calibration, if a particular band remains inaudible all across the slider range, back it off to the zero position: it doesn't make sense to work with frequencies you cannot hear anyway, or frequencies your loudpseakers cannot reproduce. Ideally, most sliders should be located in the bottom half of the user interface. If not, simply increase your computer’s sound level and start calibrating again.
+
+Check out our video tutorial on YouTube : Calibration on myNoise.

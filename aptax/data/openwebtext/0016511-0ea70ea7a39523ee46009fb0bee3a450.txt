@@ -1,0 +1,21 @@
+The Bitcoin community was in for a surprise yesterday after one of the leading digital currency startups suddenly announced the discontinuation of its Bitcoin-based services.
+
+The platform in discussion here is Circle, which recently announced that it is diversifying its business model to position itself as a multinational financial services platform.
+
+One of the heavily funded companies in the digital currency sector, Circle will no longer be offering Bitcoin exchange service. In a recent coverage on one of the leading business magazine, the company’s co-founder and chief executive officer Jeremy Allaire has blamed Bitcoin’s scalability issue as the reason behind his company’s drastic measure.
+
+Circle is one of the rapidly expanding financial platforms. As the volume of transactions increase, the application’s backend should be elastic enough to accommodate it. But Bitcoin network’s fixed block size and the delays in accommodating any meaningful scaling solution has made it unattractive to Circle, as the company hints.
+
+However, the platform doesn’t want to entirely wash its hands off Bitcoin. According to Allaire, Circle will continue to offer Bitcoin buy/sell option to its customers through a strategic partnership with Coinbase. It will use cryptocurrency technology in the backend for fiat settlements. In addition, Circle seems to be working on its own distributed ledger technology. The financial platform has made its plans to release a free software — Circle Spark public.
+
+As per the available information, Circle Spark will enable digital payments companies – using blockchain technology – to comply with existing AML and KYC requirements during fund transfer. The statement made by Allaire is a wake-up call for the Bitcoin Core developers and other community members. Unless they act fast to resolve Bitcoin network’s scalability issues, they will start seeing more and more companies following suit.
+
+On the other hand, the contribution of Circle or its developers to Bitcoin community so far is also something to be considered. Being an open source, decentralized platform, anyone can propose improvements to the blockchain. If these proposals are convincing enough, the community can decide whether to pursue it further or not.
+
+In other words, as Andreas Antonopoulos recently tweeted without referring to Circle or anyone in particular,
+
+“Profitable Bitcoin companies that have never contributed anything to Bitcoin dev or open source code have no basis to complain”.
+
+If we gauge Circle with the same yardstick, it should just move on, without pointing fingers at anyone for its decision.
+
+Ref: WSJ | Twitter | Image: NewsBTC

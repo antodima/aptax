@@ -1,0 +1,9 @@
+For all the Deadheads out there…
+
+I made a Grateful Dead version of the tour map that I made for Phish.
+
+I extracted the date and location of every Grateful Dead show from 1965 to 1995. For the purpose of mapping, I removed shows outside of North America (and Jamaica), but have kept all USA and Canada concerts in the database.
+
+The data are mapped to show both the number of concerts per state/province, and the tour path. Six states had over 50 shows: California (884), New York (310), Pennsylvania (101), Massachusetts (85), Illinois (80), and New Jersey (54). The total number of shows in the database is 2,286. The light blue dots identify every city where a concert was played. The light blue path connects the concert locations chronologically, moving from the first show to the last. So if you followed the band and attended every show, this is the route you took.
+
+Data sources: http://www.setlists.net/

@@ -1,0 +1,15 @@
+Even though Google's Android handily tops Apple's iOS in terms of overall smartphone market share, a new report suggests that Apple still wallops it when counting dollars spent on apps.
+
+In a note sent to investors this morning, Piper Jaffray's Gene Munster says Google's Android Market has pulled in about 7 percent of the raw sales that Apple's had since it launched the App Store, with Apple continuing to mop up about 85-90 percent of money spent on mobile apps.
+
+Munster offers that Google is on track to eat into that hefty lead over the "next 3-4" years, with Apple's lead on dollars spent slipping down in the the "70 percent plus" percent range. To validate this, Munster points to a mix of sources, mainly third-party app tracker AndroLib and Apple's disclosures (presumably apps downloaded, and developer payouts--two numbers Apple frequently touts).
+
+So how much does that work out to for Google in terms of app sales? Munster offers a ballpark estimate of about $330 million since the launch of Google's Android Market. That's from 90 million paid app downloads out of Google's 6.75 billion total registered downloads, which means that 1.3 percent of its downloads were paid apps.
+
+Crunching the numbers, Munster has Apple Apple considerably higher with 13.5 percent of its downloads being for paid applications, with Apple pulling in about $4.9 billion in cumulative sales since launching the App Store in 2008.
+
+Piper Jaffray
+
+One area where Google has Apple handily beat, according to Munster's figures, is on the average sale price of its apps, with Google pulling in more per paid app than Apple. For Google that works out to be $3.79 an app, with Apple coming in at a lesser $2.01. Apple's still got Google beat in terms of the number of apps users have installed on their devices, with the average iOS user downloading about 71 apps, versus Android's 34.
+
+Piper Jaffray's report follow's last week's third quarter smartphone market share analysis from Gartner, where the firm noted that Google's Android secured 52.5 percent, more than doubling in the course of a year. That same report had Apple's 16.6 percent share from last year, scaling back to an even 15 percent, and behind Symbian for third place.

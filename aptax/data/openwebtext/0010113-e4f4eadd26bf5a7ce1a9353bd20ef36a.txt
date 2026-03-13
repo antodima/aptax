@@ -1,0 +1,5 @@
+Here's Squad, a standalone commercial game from the makers of Battlefield 2 mod Project Reality. In a stark departure from that project, this game is "an online, team-based military themed first-person-shooter where high levels of teamwork and communication are crucial to success". Wait, did I say 'stark departure'? What I meant was 'basically the same deal, only in Unreal Engine 4'.
+
+In Squad, players will form squads of up to nine people—those squads coming together to form teams of up to 50. As the developers put it, "systems honed over years of experience with the Project Reality series draw the focus away from the lone-wolf player and much more on the cooperation with other members".
+
+As with the Battlefield game, Squad will feature large-scale environments, but with a heavier focus on realistic simulation of things like ballistics and damage. There's also a base-building component that puts a heavier focus on coordinated teamwork and leadership. For more information, head over to Squad's Greenlight page.

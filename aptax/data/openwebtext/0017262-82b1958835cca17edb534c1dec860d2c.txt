@@ -1,0 +1,41 @@
+Wednesday, April 15, 2015
+
+While FDA’s tobacco products “deeming rule” is pending, the Agency issues Warning Letters to e-cigarette and e-liquid companies for the first time.
+
+The US Food and Drug Administration (FDA or the Agency) is not waiting to finalize the “deeming rule” before taking enforcement action against electronic cigarette (e-cigarette) and e-liquid companies. As discussed in our previous LawFlash on the subject,[1] FDA issued the proposed “deeming rule” almost a year ago, which for the first time establishes federal regulatory authority over e-cigarettes, cigars, pipe tobacco, dissolvable tobacco products, and nicotine gels (deemed tobacco products).[2]
+
+In a news release announcing these enforcement actions, the Agency was careful to explain that the alleged violations are specific to the FDA-related claims made by the recipient firms (i.e., misleading consumers into believing that the products are approved by FDA, safe for use, and/or less harmful based on oversight or inspection by the Agency) and are “unrelated to the FDA’s proposal to regulate these products under its tobacco product authorities in Chapter IX of the FD&C Act” (i.e., unrelated to the deeming rule).
+
+Interestingly, the Agency relied on its authority under section 301(tt) of the Federal Food, Drug, and Cosmetic Act (FD&C Act or the Act) in issuing these Warning Letters. FDA asserted that each of the firms receiving the letters made statements or representations regarding tobacco products that would mislead consumers into believing that their e-cigarette and e-liquid products are approved by the Agency, safe for use, and/or less harmful based on oversight or inspection by the FDA, in violation of section 301(tt). However, FDA’s deeming rule has yet to be finalized, and under section 901 of the Act, the Agency has authority over cigarettes, roll-your-own tobacco, and smokeless tobacco only. Per section 901, the Agency would have to first issue a regulation that deems other tobacco products (e.g., e-cigarettes) subject to its authority before regulating such products.
+
+FDA’s position in these Warning Letters seems to be that it is taking enforcement action based on the misleading statements and representations of the recipient e-cigarette and e-liquid companies rather than claiming that the products that the companies sell are tobacco products. Based on the language of section 301(tt), which relates to statements or representations with respect to a “tobacco product,” it seems likely that the Agency will finalize the deeming rule before taking enforcement action related to e-cigarettes and e-liquids under that section of the Act.
+
+As discussed in a previous LawFlash on Federal Trade Commission enforcement action related to e-cigarettes,[3] manufacturers, distributers, and retailers need to be aware of their e-cigarette and related products’ FDA compliance responsibilities while the deeming rule is pending.
+
+Key Takeaways from FDA Warning Letters
+
+FDA recently issued Warning Letters to Vaperz Ltd., Knoxville Vapor, and Dr. K for making FDA-related claims on their websites regarding their e-cigarette or e-liquid products.[4]
+
+Each of the three companies received a Warning Letter for violations of section 301(tt) of the Act, which prohibits companies from making certain statements or representations directed to consumers about tobacco products that, among other things, would mislead consumers into believing that the product is
+
+approved by the Agency;
+
+safe for use; and/or
+
+less harmful based on oversight or inspection by FDA.
+
+Knoxville Vapor claimed to have FDA lab certification, whereas Vaperz Ltd. and Dr. K claimed to be registered with and their products approved by the Agency, all in violation of section 301(tt) of the Act, according to FDA.
+
+Beyond firms that manufacture e-cigarette and e-liquid products, retailers and distributers should also be aware of their responsibilities under the FD&C Act, even while the deeming rule is pending.
+
+History of FDA E-Cigarette Enforcement Action
+
+To put the Agency’s recent enforcement actions related to these products into context, it is worth reflecting briefly on FDA’s previous attempt to regulate e-cigarettes as drug/device combination products. Between 2008 and 2010, the Agency determined that certain e-cigarettes were unapproved drug/device combination products and detained and/or refused admission to those offered for import. However, Sottera Inc. challenged that determination in court (See Sottera, Inc. v. Food & Drug Administration, 627 F.3d 891 (D.C. Cir. 2010)). The US Court of Appeals for the District of Columbia held that e-cigarettes and other products made or derived from tobacco can be regulated as “tobacco products” under the Act and are not drugs/devices unless they are marketed for therapeutic purposes (e.g., smoking cessation claims). In essence, the Sottera decision states that products made or derived from tobacco can be regulated under the FD&C Act, as amended by the Family Smoking Prevention and Tobacco Control Act unless they are “marketed for therapeutic purposes,” in which case they are regulated as drugs and/or devices.
+
+As noted above, the Agency cited section 301(tt) of the Act in its recent Warning Letters to e-cigarette and e-liquid firms. However, it would seem that FDA should finalize the deeming rule (which extends FDA’s tobacco authority to e-cigarettes and e-liquids) before the Agency can take enforcement action against firms related to such products.
+
+[1.] Morgan Lewis LawFlash, “FDA Proposes Tobacco Products Rule; E-Cigarettes, Cigars to be Regulated,” Apr. 25, 2014, available here. Among other things, the “deeming rule” would ban the sale of e-cigarettes, cigars, pipe tobacco, and other products to those under age 18; require warning statements on product packages and in advertisements; and require manufacturers to register and list products with the Agency and to submit new products for premarket review.
+
+[2.] Deeming Tobacco Products To Be Subject to the Federal Food, Drug, and Cosmetic Act, as Amended by the Family Smoking Prevention and Tobacco Control Act; Regulations on the Sale and Distribution of Tobacco Products and Required Warning Statements for Tobacco Products, 79 Fed. Reg. 23,142 (proposed Apr. 25, 2014) (to be codified at 21 C.F.R. pts. 1100, 1140, 1143), available here.
+
+[3.] Morgan Lewis LawFlash, “While FDA’s Proposed E-cigarette Rule is Pending, FTC Mulls Enforcement Action,” Mar. 24, 2015, available here.

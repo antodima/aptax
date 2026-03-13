@@ -1,0 +1,17 @@
+Thanks. Yeh its a nice little case if you need a small, good looking machine.
+
+
+
+Yes it can fit a PCI card but it has to be half height or you have to remove the bracket (this is what i did as i added a 2 port intel nic. The issue is that the pci slot when filled will block the top fan. Depending on how big your card is, this will likely impact the air exhaust. My card is about 3 inches wide and 7 inches deep. After adding, my avg temps increased 2C so acceptable. If you were to put a GFX in there, probably worse.
+
+
+
+My CPU fan is variable but regardless even at its max 1500 rpms, its very quiet. the Zalman is a nice SFF cooler. The included fans are very quiet as they max at 1000 rpms. Depending on your cooling needs, you may benefit a lot by replacing these (120mm) with fans that more more air (but are prob louder).
+
+
+
+I have no issues with cooling now that i have "fixed" my 4790K. These had an issue with overheating and turns out it was the default settings in the BIOS (as was case with many other MB brands).
+
+
+
+I think the biggest design decision is the CPU cooler vs PSU. If you want the SFF PSU like the Silverstone, you will need a cooler that is about 3-4mm smaller that the Zalman. If i ever have power issues i may look at this but so far, its been great.

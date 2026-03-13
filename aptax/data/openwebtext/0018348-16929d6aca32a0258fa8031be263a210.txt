@@ -1,0 +1,53 @@
+SEO is important for almost any site, and React sites are no exception.
+
+The problem with a React site is that the content is often generated on the client. This means that search engines may not index your content, which means users won't find your pages.
+
+Server-side rendering is one solution, but it doesn't work for everybody (for instance if your backend is already built and it's not running node).
+
+The good news is that even if you are only rendering client-side, Google might already be crawling your React components.
+
+Read on to find out how to tell if the Googlebot is crawling your React components. In case it isn't, we'll cover how to make it do so.
+
+Fetch as Google
+
+Google provides a great tool called Fetch as Google. You can use it to check if Google has found your rendered React components.
+
+The directions are in this Google support link, but before they will work, you need to access Google's Search Console. Fortunately, Google provides Search Console for free, and you can sign up at google.com/webmasters.
+
+So, to iterate this two-step process:
+
+Sign up for Search Console.
+
+Use Search Console's Fetch as Google feature to check your site.
+
+Once you get into Fetch as Google , be sure to use the Fetch and Render button to get a visual indication of whether or not Google is seeing your content. It looks like this:
+
+The Results
+
+I went ahead and tried Fetch as Google on my starter project search tool and this was the result. On the left it shows what the crawler sees, and the on the right it shows what users see. We want them to match:
+
+My images don't match... in fact, there's a big blank spot where my React components should be. Uh oh! This means Google won't add any of that missing content to their index. This could negatively impact my SEO.
+
+So wait, why don't they match? Googlebot is limited in how long it will allow your page to render. There's no concrete documentation on this, but generally, asyncronous calls like AJAX and setTimeout won't be allowed to finish. The only way to know for sure if it's working is to use Fetch as Google.
+
+The Fix
+
+My starter project search tool was making an AJAX call to get GitHub stars and waiting for the response before rendering any components. The Googlebot won't wait for that.
+
+The fix was to call ReactDom.render first, then make my AJAX call for the GitHub stars.
+
+Here is the result:
+
+It worked! Googlebot (image on the left) is seeing way more content. The GitHub stars didn't load, but I don't need those for SEO.
+
+Caveats & Conclusion
+
+In my research I couldn't find any evidence that Yahoo, Bing, or Baidu support JavaScript in their crawlers. If SEO on these search engines is important to you, you'll need to use server-side rendering, which I'll discuss in a future article.
+
+If SEO on Google is enough, then just:
+
+Render your components before doing anything asynchronous.
+
+Test each of your pages with Fetch as Google to ensure that the Googlebot is finding your content.
+
+Then enjoy the flood of new users coming in from Google!

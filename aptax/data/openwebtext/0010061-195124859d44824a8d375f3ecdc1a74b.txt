@@ -1,0 +1,21 @@
+Brief: Apparently, Open Source alternatives to Microsoft Office is not good enough for Brazil and thus they are reverting to proprietary Microsoft Office and other Microsoft tools.
+
+The latest trend in Europe and developing countries was to ditch proprietary Microsoft Office and adopt an Open Source solution such as OpenOffice or LibreOffice. The move was more concerned with cost saving than for the love of Open Source. Whatever may be the reason, at least several government organizations have started to look beyond Microsoft.
+
+But perhaps the euphoria died for some of them. Brazil that had opted for an open source policy is now reverting to Microsoft in an attempt to “generate cost efficiencies and standardize the IT applications portfolio across departments”, reported ZDNet.
+
+Yes, you read that right. Brazil is opting for Microsoft for ‘cost efficiency’. It’s actually a deal with Microsoft that will allow the Brazilian government to buy Microsoft product licenses as per their requirement in the next 12 months, at a previously negotiated price.
+
+And it’s not just Microsoft Office that they are getting. The deal includes Windows 10 and Windows Server (huh!!).
+
+With this massive deal, Brazil departs from their Open Source policy put in place in the year 2003. The idea behind the open source switch was to reduce licensing costs and allow local IT companies to develop products for the government but apparent ‘lack of skills and interest’ led to the demise of this policy as the government struggled to get quality software.
+
+Not just Brazil
+
+It’s not just Brazil that is going back into the arms of Microsoft. Remember Italian region Emilia-Romagna switching to OpenOffice? Well, they are also going back to Microsoft Office, though, it’s not specified to be Microsoft but a proprietary cloud-based solution.
+
+The open source move was already criticized by some of our readers and I had my suspicion as well. OpenOffice has not been in active development mode for last few years. In fact, OpenOffice has started indicating that it might be discontinued.
+
+LibreOffice would have been the better choice here to replace MS Office. But the governments being the government, opted for the wrong Open Source solution. I do believe that had they opted for LibreOffice, things would have been better, specially considering that LibreOffice has worked a lot on its cloud solution.
+
+These are not good news for us Open Source enthusiasts but I am rooting for the further success of LibreOffice so that it becomes the de facto alternative to MS Office and a ‘better one’ than that.

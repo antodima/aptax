@@ -1,0 +1,19 @@
+17 Year old Girl Invents Web App that detects Breast Cancer, Makes Everyone Else Feel Inadequate
+
+If you feel like you’ve accomplished something great today, then you should probably ignore this story about a 17 year old girl who invented a web app to help detect breast cancer.
+
+Brittany Wenger, a student at Florida high school, was disappointed in the number of non-invasive procedures used to detect breast cancer, along with their relatively inconclusive results. As you do when you’re faced with a problem, you find a solution, and boy did she ever do that.
+
+“I taught the computer how to diagnose breast cancer,” she says. Talk about an understated statement of fact.
+
+Brittany took first place in this year’s Google Science Fair for this achievement. At the age of 17, she has achieved something no ordinary physician, scientist, or computer engineer could have done.
+
+The web app utilizes artificial neural networks, which are basically coded computer programs that are trained to think like the human brain. What sets them apart from the human brain though is that they can detect patterns that are “too complex for mere humans,” Brittany says. The more and more data these networks process, the better and more accurate they get.
+
+While the inner workings of how this process is done are highly confusing to most of us, people are recognizing Brittany for the incredible job she’s done with this project. With so many doctors utilizing iPads and iPhones in the hospital, this development could prove to be a boon for a number of patients in early detection, which is so crucial when it comes to any types of cancer.
+
+If you’d like to check out the web app yourself, called Cloud4Cancer Breast Cancer Detection, please do so yourself. In the meantime, let’s hope that Brittany continues her work, and that she inspires a multitude of young minds to carry on in her footsteps.
+
+
+
+Share on Facebook.

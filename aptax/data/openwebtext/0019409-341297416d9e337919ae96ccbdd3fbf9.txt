@@ -1,0 +1,17 @@
+Police believe they have nabbed a key figure behind a series of online extortion attacks that have taken place around the world over the last 18 months.
+
+Operation Pleiades, a joint operation by police forces from around the world, led to the arrest of a "main target" and the detention of another suspect, Europol said Tuesday.
+
+The denial-of-service attacks on webservers and the like made by group going by the name DD4BC (Distributed DoS for Bitcoin), are followed by an email threatening that the attack will be stepped up unless a payment is made in bitcoin.
+
+Attackers using the name DD4BC have targeted businesses large and small -- and also email addresses leaked from the Ashley Madison website.
+
+The timing of the attacks suggested that whoever was behind them was in Europe, while the grammar and spelling of the ransom demands suggested a non-native-English speaker, according to a report by Neustar Engineering analyzing the attacks.
+
+The U.K.'s Metropolitan Police Cyber Crime Unit came to the same conclusion, identifying key members of the network in Bosnia and Herzegovina.
+
+Police there, working with others from Austria, Germany and the U.K., conducted joint raids on Dec. 15 and 16, arresting one suspect and detaining another as evidence was seized following a series of property searches.
+
+Europol deployed a mobile office as part of the action, giving investigators access to its forensic tools and databases.
+
+The operation was supported by authorities in Australia, France, Japan, Romania, and Switzerland. Interpol, the U.S. Federal Bureau of Investigation and the U.S. Secret Service also helped coordinate the operation, Europol said.

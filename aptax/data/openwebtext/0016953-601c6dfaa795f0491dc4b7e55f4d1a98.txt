@@ -1,0 +1,173 @@
+If you’ve been following our summer camp posts, you know that we’re sad to call this series a wrap — we’ve learned so much over the past couple months from our featured expert interviews. We’ve talked with 16 of the most trusted experts we know, enjoyed perspectives from across the organization, learned a lot about how marketing overlaps with different areas of expertise, and how marketers can help. And above all, we strove to answer one important question:
+
+How can you improve your marketing?
+
+So there you have it: below you’ll find all 16 interviews with tactical, how-to advice. Check out the topics that most interest you, and be sure to scan down and grab a copy of our Complete Guide to B2B Marketing Success for even more hands-on advice!
+
+
+
+How to Boost Sales with Marketing Automation
+
+Sales manager Phil Simpson shares his insights on the challenges that B2B sales reps face, how he uses marketing automation on a daily basis, and how marketers can help his team accomplish their goals. Phil answers questions like:
+
+what are the biggest issues faced by B2B sales reps today?
+
+what features of marketing automation are most useful to sales?
+
+how can marketing help sales hit their numbers?
+
+How to Keep Your Customers Smiling
+
+Client Advocate Manager Ginny Richardson tells a few of her secrets for building a successful customer advocacy program that keeps customers feeling appreciated and satisfied. Ginny shares:
+
+the difference between customer advocacy and customer support.
+
+how customer advocacy keeps customers smiling.
+
+advice for businesses looking to start a similar program of their own.
+
+How to Secure Lifelong Customers with Effective Training
+
+Anna Sims and Scott Konkol give a behind-the-scenes look at the Pardot training team, share their expert thoughts on the industry as a whole, and give actionable advice to other businesses trying to put an effective training program in place. Learn:
+
+how to improve customer retention rates with effective training.
+
+why every startup needs a training program.
+
+how to get started with your own.
+
+
+
+How to Build a Successful Video Marketing Strategy
+
+Digital Learning Specialist (and video expert) Seth Hathcock explains his process for thinking through Pardot’s video strategy — even before he starts rolling the camera. Read on to learn:
+
+how to keep video production costs low.
+
+what’s coming up next for video trends.
+
+how to build your own video series.
+
+An Inside Look at Developing the Pardot Product
+
+Chris Kelly, Software Engineering Manager and mountain biking aficionado, talks shop about what it takes to manage product development at a growing company, how to prioritize the wants and needs of other departments, customers, and customers-to-be, and more, including:
+
+how Pardot’s product gets built.
+
+some cool projects in the pipe.
+
+how you can get involved.
+
+How to Successfully (& Gracefully) Settle Support Issues
+
+Rachel Newcity, Technical Support Manager, describes how her team ensures that the post-implementation customer experience is top notch and draws some important parallels between customer support and customer-centric marketing. Learn:
+
+the key to effective customer support.
+
+where content plays a role.
+
+how to measure success — and improve.
+
+How to Ensure Your B2B Website is Effective and User-Friendly
+
+Cliff Seal, a prominent expert in the Atlanta tech community and a tenured member of the Pardot team, discusses an area of User Experience (UX) that is particularly pertinent to B2B marketers: website effectiveness and lead generation. Find out:
+
+how to optimize your website for lead generation.
+
+what makes for an effective landing page or form.
+
+what steps to take if you’re redesigning your website.
+
+How to Get Ramped Up with Marketing Automation
+
+Susan Spicknall, Senior Implementation Specialist and a long-time Pardot veteran, talks about getting started with marketing automation: how you can prepare, tips for getting started, and ways you can take your marketing to the next level. Learn:
+
+how to prepare for implementation.
+
+how to take your approach up a notch.
+
+Susan’s favorite tips and tricks.
+
+How to Take On Dreamforce 2015
+
+If you’re planning to join the wonderful madness that is Dreamforce on September 15th, you can’t afford to miss Suzy Matus’ advice for getting the most out of this incredible opportunity to connect with your peers and get more out of your investment — as an attendee or as a sponsor. Find out:
+
+tips for first-time attendees.
+
+how sponsors can see more value.
+
+how marketing automation can help.
+
+How to Build a Successful Lead Nurturing Program
+
+Maureen Flaherty, Pardot’s Email Marketing and Campaigns Specialist, steps up to the plate to answer important questions about putting a successful nurturing program in place. You’ll learn:
+
+tips for building your first campaign.
+
+how to choose your nurturing content.
+
+top lead nurturing tips and tricks.
+
+How to Get the Most out of Marketing Automation & Your CRM
+
+Rob Phillips, CRM Engineer at Pardot, joins us to share his expertise on the marketing automation and CRM integration process: what to expect, how to prevent common roadblocks, and how to get the most out of your new system. Find out:
+
+what to expect during implementation.
+
+how to prevent common roadblocks.
+
+how to get the most out of your integration.
+
+How to Start Reporting with Marketing Automation
+
+
+
+Marketing Operations Specialist Isaac Payne shares what he’s learned from building and analyzing Pardot campaigns and reporting — a very important topic that many marketers still struggle with. He discusses:
+
+common obstacles that marketers face in getting started with reporting.
+
+how to overcome these obstacles.
+
+a few basic reports to get started.
+
+How to Make Sure Your Customers Feel Heard
+
+For this interview, we’re joined by Kyle Coleman, a manager on Pardot’s Product team who helps to act as the voice of the customer within the engineering organization. Kyle explains:
+
+how she listens to client needs as a product manager and makes customers feel heard.
+
+how marketing can — and should — help with this endeavor.
+
+how product and marketing can work together.
+
+How to Build the Perfect Campaign with Marketing Automation
+
+Demand Generation Manager Ryan Johnston shares his expertise on building and managing campaigns — from kicking off your strategy as a novice to seeing more success as an experienced marketing automation user. You’ll get:
+
+advice on how to get started with a campaign.
+
+crucial questions to ask yourself.
+
+access to Ryan’s case studies on previous Pardot campaigns.
+
+How to Plan and Conduct Successful User Testing
+
+Usability Analyst Matt Miller shares a little bit about what it takes to plan and conduct successful user testing — and how usability differs from user experience. Find out:
+
+why every marketer should care about usability.
+
+how marketers can help.
+
+how to use results from user testing.
+
+How to Use Marketing Automation with a Small Marketing Team
+
+For our grand finale, meet Laura Horton, Pardot’s very first marketing hire and the fearless leader of our content team. Laura’s shares her experiences in watching Pardot grow from a small startup to a division of a Fortune 500 company — and how she used the Pardot product all along the way. Learn:
+
+how Pardot uses Pardot.
+
+how we saw success early on.
+
+how other small teams can do the same.
+
+What topics did you find most interesting? Are there any topics we didn’t cover that you would find helpful? Let us know in our comments section! Still looking for tactical advice? Check out 80 pages of (free) best practices and worksheets in our Complete Guide to B2B Marketing Success!

@@ -1,0 +1,25 @@
+Donald Trump and his aides are expressing skepticism at how quickly the FBI was able to review hundreds of thousands of emails in the latest probe in the Hillary Clinton email investigation.
+
+The FBI revealed Sunday that it had found nothing new in the emails from top Clinton aide Huma Abedin that were found on the laptop belonging to her estranged husband, Anthony Weiner. In a letter to lawmakers on Capitol Hill, Comey said he was not changing his recommendation from July that no charges should be brought against Clinton.
+
+During a rally Sunday, however, Trump said it’s not possible that the FBI was able to review so many emails in just nine days.
+
+“You can’t review 650,000 new emails in eight days,” He continued. “You can’t do it, folks.”
+
+A report from Wired, however, said that Trump is wrong and that the FBI can review that amount in just a week, if not sooner.
+
+“This is not rocket science,” Jonathan Zdziarski, a forensics expert who’s consulted for law enforcement, told Wired. “Eight days is more than enough time to pull this off in a responsible way.”
+
+The technology news outlet also interviewed an anonymous former FBI forensics experts who said the agent reviewed larger collections of data even faster than the current case.
+
+“You can triage a dataset like this in a much shorter amount of time,” the agent told Wired, according to the report. “We’d routinely collect terabytes of data in a search. I’d know what was important before I left the guy’s house.”
+
+The former agent also said that the FBI has tools that can sift out classified documents, which the agent said is similar to software used to detect plagiarism.
+
+Both sources told Wired that investigations can filter out emails by targeting “to” and “from” as well as filtering out duplicates.
+
+The review of the emails found in the new batch found that most were duplicates, CBS News confirmed Sunday.
+
+“The Department of Justice and the FBI dedicated all necessary resources to conduct this review expeditiously,” a Justice Department spokesperson said in a statement.
+
+Even NSA leaker Edward Snowden proposed his own method on Twitter of sifting through such a large batch after a journalism professor asked him how it could be done.

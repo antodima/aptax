@@ -1,0 +1,129 @@
+Did you miss this Kickstarter campaign? Please check our website for how you can pre-order your Dive Computer Buddy!
+
+Overview
+
+Hello Kickstarters, We are back!
+
+We are the DiveNav team.
+
+Last spring we brought you bluebuddy - the wireless data logger for scuba divers. Then, at the end of the summer, we brought you Nitroxbuddy - the world first Smartphone Oxygen Analyzer for scuba divers.
+
+Both projects were successful and the resulting products are now available at your local dive store or they can be purchased directly from our online store.
+
+We REALLY like the Kickstarter community :-)
+
+In the past 12 months we received several requests from fellow scuba divers asking basically two things: Can you design something to connect my dive computer to a tablet or a smartphone, such as an iPad or an iPhone? And, can I keep using my preferred third party dive log App?
+
+We have been listening. And now we are bringing to you Dive Computer Buddy.
+
+Product Description
+
+Dive Computer Buddy (aka DCbuddy) is a wireless accessory for scuba divers that allows a diver to retrieve logs from his/her dive computer using a tablet and/or a smartphone.
+
+Dive Computer Buddy uses Bluetooth 4.0 low energy technology and it is powered by a user replaceable CR2032 battery that should last for almost one year.
+
+Dive Computer Buddy connects to a model-specific dive computer using a custom, model-specific cable or an infrared link. See Rewards section for more info.
+
+Dive Computer Buddy can be used with any tablet or smartphone that supports Bluetooth 4.0 low energy technology and it is equipped with our divePAL App (or any third party diving App compatible with Dive Computer Buddy). See App sections for more info.
+
+Product Benefits
+
+Dive Computer Buddy's primary benefit is to make it easy and fun for you to log and share your dive memories as soon as you get out of the water:
+
+Connect DCbuddy to your model-specific dive computer.
+
+Launch the divePAL App (or any third party App compatible with DCbuddy).
+
+Retrieve dive profile.
+
+Add info to the log.
+
+Share it with your friends.
+
+If you are a dive instructor you could use DCbuddy as a teaching aid. Equip each one of your students with a dive computer supported by DCbuddy, then, at the end of a dive, review their dive profile with them right away and use it to point out any area that might need improvements, such as a better buoyancy control or a slower ascent rate.
+
+Apps and supported model-specific Dive Computers
+
+On the App front, our plan is to integrate support for DCbuddy and several families of dive computers into our existing divePAL App.
+
+Please note that divePAL is already available for iPad, iPhones and Android smartphones. Additionally we have already included in divePAL support for Bluetooth 4.0 le devices such as our bluebuddy wireless data logger.
+
+We expect to release versions of divePAL that support model-specific dive computers as per following schedule:
+
+June 2014:
+
+Suunto Cobra family (Cobra, Cobra 3, HelO2, Vyper, Vyper Air, and Zoop).
+
+Suunto D family (D4, D6, D9, D4i, D6i, D9Tx and Dx).
+
+July 2014:
+
+Aeris Atmos family (XR2, Atmos AI, Elite T3, A300, A300 AI and A300XT)
+
+Aeris Manta family ( Manta and Epic)
+
+Oceanic Geo family (Geo, Geo 2, Atom 2 and Atom 3)
+
+Oceanic Veo family (Veo180, Veo180Nx, Veo 2, Veo 3, Veo 250, VT3, VT4, Pro Plus 2 and Pro Plus 3)
+
+Oceanic OC family (OC1, OCS and OCi)
+
+Sherwood Amphos family (Amphos and Amphos Air)
+
+Sherwood Wisdom family (Wisdom 2 and Wisdom 3)
+
+Tusa Zen family (Zen and Zen Air)
+
+August 2014:
+
+Mares Puck family (Puck, Puck Air and Puck Pro)
+
+September 2014:
+
+Cressi Leonardo family (Leonardo and Giotto)
+
+ScubaPro family (Galileo Sol, Galileo Luna, Aladin 2G, Aladin Square, Meridian and Chromis)
+
+SubGear family (XP10 and XP-H).
+
+Additionally, we plan to license our DCbuddy APIs to selected third party developers of diving log Apps so they can integrate support for our DCbuddy device into their own branded products.
+
+During the Kickstarter campaign we have entered into agreements with 2 well known developers: More Mobile Software; the developer of the Dive Log App for iOS devices and the Dive Log DT / Dive Log Manager programs for MacOS devices and Mint Software, the developer of the well known MacDive 2 digital dive log for Mac OS X.
+
+Please check directly with individual third party developers on their plans to support DCbuddy and their schedule.
+
+Project Status
+
+We started working on this project almost one year ago. We had a proof of concept last summer and we made several demonstrations at DEMA 2013 last November in Orlando.
+
+After DEMA we moved forward with the productization phase and we now have several functional prototypes of the circuit board and its related firmware, 3D printed prototypes of the housing and several type of family-specific interface cables.
+
+We also have developed a test App that allows us to extract relevant information from each model-specific dive computer we plan to support.
+
+Manufacturing Plan
+
+Upon the successful completion of the Kickstarter campaign, we will place production orders for enough kits to accommodate Kickstarter backers. We are also planning to launch a second, and larger, production lot to support our market launch. After that, we will progressively increase manufacturing volumes based on market demand.
+
+Rewards
+
+LIKE: $1 Reward - We like You too!
+
+LIKE LIKE: $5 Reward - Same as above plus we will mention your name on our website.
+
+DCBUDDY - Do It Yourself: $70 Reward - This reward includes a fully assembled Dive Computer Buddy unit and a male/female couple 2.5 mm audio jack connectors so you can create your own interface cable by modifying an existing dive computer download cable. Please note that you should select this reward ONLY if: a) you know how to solder, and b) you already have a download cable for any of the following dive computers: Aeris A300, A300AI, A300XT, Atmos AI, XR2 or Elite T3, Oceanic Veo180, Veo180Nx, Veo 250, Veo 2, Veo 3, VT3, VT4, OC1, OCS, OCi, Pro Plus 2 or Pro Plus 3, Sherwood Wisdom 2 or Wisdom 3, Suunto D4, D4i, D6, D6i, D9, D9Tx, DX. We will provide detailed instruction on how to modify and test the interface cable. Please note that you will have to modify the cable yourself and at your own risk. Please note that modifying the cable might void your dive computer warranty. Please check with the manufacturer of your dive computer. Also, please check the App section for schedule on when a model-specific dive computer will be supported. Please check out this video for more info on this reward:
+
+DCBUDDY - Suunto Cobra family: $90 Reward - This reward includes a fully assembled Dive Computer Buddy unit and a custom interface cable for the Suunto Cobra family of supported dive computers (Cobra, Cobra 3, HelO2, Vyper, Vyper Air, and Zoop). Please check the App section for schedule on when a model-specific dive computer will be supported.
+
+DCBUDDY - Suunto D family: $90 Reward - This reward includes a fully assembled Dive Computer Buddy unit and a custom interface cable for the Suunto D family of supported dive computers (D4, D6, D9, D4i, D6i, D9Tx and Dx). Please check the App section for schedule on when a model-specific dive computer will be supported.
+
+DCBUDDY - Oceanic Veo family: $90 Reward - This reward includes a fully assembled Dive Computer Buddy unit and an interface cable for the Oceanic Veo family of supported dive computers (Veo 2, Veo 3, Veo180, Veo180Nx,Veo 250, VT3, VT4, Pro Plus 2 and Pro Plus 3). This reward can also be used with the following dive computers: Aeris XR2, Atmos AI, Elite T3, A300, A300 AI and A300XT and Sherwood Wisdom 2 and Wisdom 3.Please check the App section for schedule on when a model-specific dive computer will be supported.
+
+DCBUDDY - Oceanic Geo family: $90 Reward - This reward includes a fully assembled Dive Computer Buddy unit and an interface cable for the Oceanic Geo family of supported dive computers (Geo, Geo 2, Atom 2 and Atom 3). This reward can also be used with the following dive computers: Aeris Manta and Epic, Sherwood Amphos and Amphos Air. Please check the App section for schedule on when a model-specific dive computer will be supported.
+
+DCBUDDY - Oceanic OC family: $90 Reward - This reward includes a fully assembled Dive Computer Buddy unit and an interface cable for the Oceanic OC family of supported dive computers (OC1, OCS and OCi). Please check the App section for schedule on when a model-specific dive computer will be supported.
+
+DCBUDDY - Mares Puck family: $95 Reward - This reward includes a fully assembled Dive Computer Buddy unit and an interface cable for the Mares Puck family of supported dive computers (Puck, Puck Air and Puck Pro). Please check the App section for schedule on when a model-specific dive computer will be supported.
+
+DCBUDDY - IR family: $100 Reward - This reward includes a fully assembled Dive Computer Buddy unit and a special Infrared interface that supports dive computers equipped with IR (such as Cressi Leonardo and Giotto, ScubaPro Galileo Sol, Luna and Aladin 2G, and SubGear XP10). Please check the App section for schedule on when a model-specific dive computer will be supported.
+
+DCBUDDY - Developer Package: $1,500 Reward - This reward is for selected App developers that would like to add support for Dive Computer Buddy to their diving apps.This reward includes one basic unit (in April) and one IR unit (in August), several interface cables (as they become available), detailed information on how to program our Dive Computer Buddy device and 10 hours of technical support. ALL GONE!!!

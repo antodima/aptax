@@ -1,0 +1,45 @@
+Who said Unity developers have all the fun? From building virtual hands in Three.js to browser-based virtual reality, we’re also developing new tools to enable truly 3D interaction on the web. This week, we’re happy to announce LeapJS Widgets – basic UI elements can be used in a wide variety of experiences. It’s a brand new library, simple enough to be used with just a few lines of code, but with near-infinite possibilities for experimentation and customization.
+
+In this post, we’ll take a look at a couple of new demos on our Developer Gallery featuring these fundamental building blocks, plus a shadows demo that embodies some key best practices. The LeapJS Widgets library is designed for both desktop and VR, and while these demos are designed for desktop, they can be easily upgraded to VR by following the LeapJS + VR guide. You can find leap-widgets.js (including documentation) at github.com/leapmotion/leapjs-widgets.
+
+Button
+
+Much like the Unity Button Widget, this demo provides a clean, simple interface for trigger-based interactions – with buttons that can be moved along their own Z-axis. The buttons can be pushed by your virtual fingertips or other joints on your hand.
+
+var button = new PushButton( new InteractablePlane(buttonMesh, Leap.loopController) ).on('press', function(mesh){ mesh.material.color.setHex(0xccccff); }).on('release', function(mesh){ mesh.material.color.setHex(0xeeeeee); });
+
+To make the widget easy to customize, we’ve created a small Button API that provides you with the following options:
+
+whether the button stays pressed in after being pressed
+
+how far the button will go when pressed
+
+how far the button will go when returning while locked/engaged
+
+Plane
+
+One of the key building blocks for LeapJS Widgets is the InteractablePlane API, which allows you to interact with an existing Three.js plane with your hands. Plus, by parenting buttons and planes to a rotated object, you can orient them in any direction. With the Plane Widget demo, InteractablePlane makes it possible to move a plane on its X and Y axes.
+
+var planeMesh = new THREE.Mesh( new THREE.PlaneGeometry(0.1, 0.2), new THREE.MeshPhongMaterial() ); scene.add(planeMesh); var plane = new InteractablePlane(planeMesh, Leap.loopController);
+
+InteractablePlane is triggered whenever the bone lines in your virtual hand intersect the plane, so you can even manipulate more than one at a time! This approach can be used to easily sort and explore content, like in our recent VR Collage demo for Mozilla’s Firefox VR beta:
+
+There’s a lot more to LeapJS Widgets than just these two small examples – check out the full documentation on GitHub! We’re really excited to see how you adapt the default configurations provided with your own meshes, and incorporate these elements into your own projects.
+
+(By the way, one new mesh tool that we’re really excited about is DOM2three. Developed by the Mozilla WebVR team, it allows you to convert HTML layout elements into a mesh. In turn, this can then be added to a Three.js scene. While the project is still in its nascency, we believe that DOM2three is going to be a really important part of designing the 3D web – and it’s already immensely useful.)
+
+In this next demo, we’ll see the InteractablePlane API used again. This time, it’s to show how light and shadow can be used as essential visual cues to make interactions feel more intuitive and accessible.
+
+Shadows
+
+Shadows are an incredibly powerful visual cue for 3D experiences. Not only do they make your demos look and feel more realistic, we naturally understand how they relate to the objects that create them. By using shadows in your own projects, you can give users an intuitive sense of depth, distance, and perspective – reducing the cognitive load needed to figure out how objects in a scene relate to each other in 3D space.
+
+To show how you can build more intuitive experiences for desktop and VR, we’ve created a simple Shadows demo, featuring a white screen, a floating cube, and a light source. Reach out and see how your hands cast shadows on the screen – making it easier to tell where they are compared to the cube.
+
+As with all things Three.js, Shadows is built on the shoulders of giants; in this case, the shadow mapping technique available through WebGL. You can find out more about using shadow casting in this how-to article. Depending on what type of experience you want to build, shadows are also potentially very useful in developing realistic buttons with the Button Widget.
+
+What’s next? Tell us your crazy ideas
+
+In many ways, the current generation of widgets reflects interactions that we’ve ported over from 2D interfaces. But of course the 3D web is still unknown territory, and we’re just beginning to explore the wild frontiers of VR. We can take LeapJS Widgets beyond 2D ways of thinking about interaction design, and it starts with imagination.
+
+So, we’d love to know – how do you use the current Widgets, and what would you like to do with them? Taking it even further, what crazy things should be added to this library? Maybe you squeeze an object and it deforms to activate a trigger. Maybe you grab a tesseract and manipulate multiple dimensions at once. Whatever it is, let us know in the comments!

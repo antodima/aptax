@@ -1,0 +1,79 @@
+How Much Water Should You Drink?
+
+With all of the tools out there to track and improve performance, why aren’t we paying closer attention to measuring hydration - one of the most important driving factors of health and athletic performance? Water is the most abundant element in our body – it makes up 70% of our muscles, lubricates our joints, and delivers nutrients to our body. However, most of us don’t know how much water we drink every day and, more importantly, how much we should drink.
+
+Trago is a patent-pending water bottle that accurately measures how much you drink. It connects to your smart phone, and other wearable devices, and allows you to set, and measure, intelligent hydration goals. Optimal hydration is both art and science, and it’s different for everyone. Trago helps you pinpoint the perfect amount for you.
+
+Trago's vision is to change the way people think about hydration. #hydratesmarter
+
+How much should you drink? Hydration directly effects athletic performance. Research shows that everyone’s optimal level of hydration is different depending on physical, environmental, and activity level factors. Until now, only professional athletes had access to this type of information. With Trago, and a few initial inputs – like you gender, age, and activity level – The mobile app builds a personal hydration profile specific to you, and then helps you stay on track to hit your goals!
+
+Trago comes with a great bottle of it's own, but is designed to fit on any standard wide-mouth water bottle including Nalgene’s, Camelbak’s, and Hydro Flasks. So feel free to take the cap off our bottle, and put it on yours!
+
+We designed Trago to work out of the box. A few simple inputs to our app, and you are on your way to hydrating smarter. Just sync Trago to our free app and drink up – That’s it!
+
+Trago uses patent-pending ultrasonic technology to measure precise water consumption data. You can think of it as similar to “sonar,” or “echo-location”. Trago knows when you’re drinking, when you refill, and even when the bottle is in a backpack/gym-bag (understanding when not to measure). As a result, Trago can take accurate measurements and conserve battery power accordingly.
+
+Trago automatically syncs with your smart phone, mobile health applications, and other wearable devices adjusting your optimal hydration level along the way. If your activity level increases, or the weather that day is particularly hot and humid, Trago will adjust your water consumption recommendations accordingly. Not only that, Trago will also automatically update your water consumption data on platforms like Myfitnesspal, Apple Health, and Under Armour Record.
+
+Who wants to charge their water bottle? No One! We designed Trago to run for approximately 6 months on a common replaceable battery that can be found at your local drug/grocery store.
+
+The Trago mobile app easily allows you to create teams and private groups – giving coaches, trainers and parents the ability to monitor their athlete’s hydration. Why? Because proper hydration begins long before game-time.
+
+Over 27 billion plastic water bottles are trashed each year; and only ~17% recycled. The Trago App counts how many disposable plastic water bottles you save, and rewards you for your positive impact on the environment. Through our partnership with 1% for the Planet, we will give 1% of our revenues to fund clean water projects and organizations that are dedicated to ending plastic water bottle pollution. Start measuring your impact today!
+
+Manufacturing a hardware product is incredibly challenging and it makes having the right team even more paramount to the process. Our lead mechanical engineer, Tom Johannsen, has over 40 years worth of experience in getting over 200 products through manufacturing. Andre’ LaMothe, our embedded systems engineer, has over 30 years of experience and his varied career has allowed him to master all aspects of electronics development from the research, design, firmware, sourcing and design for manufacture.
+
+We’ve been working on Trago for over a year. During that time, we’ve gone through many iterations, evaluated many ways to measure water consumption, religiously studied hydration, assembled a market leading team, and created a strong network of manufacturers to form a solid supply chain. With your help, we can initiate the timeline below to bring Trago to you.
+
+Jac Saltzgiver – CEO: Jac played lacrosse for Wake Forest University, and understands the importance of hydration. Prior to starting Trago, Jac worked in business development and sales where he was an early employee at Bazaarvoice (NASDAQ: BV), High Brew Coffee, and Square Root. Jac understand what it takes to grow a business and believes in forming long lasting partnerships. With his vision, and leadership, Trago will change the way people across the globe stay healthy and hydrated.
+
+Davis Saltzgiver – Head of Product: Davis is a mechanical engineer by trade, inventor at heart, and the mastermind of Trago. He is a mechanical genius, and never settles for anything less than perfection. His passion for data, the scientific method, and continuous improvement will key in realizing Trago’s vision.
+
+Tom Johannsen – Mechanical Engineer: Tom has over 40 years of experience, working on over 200 products, for a wide and varied list of customers ranging from wearable devices to the medical field. He is an expert at getting products through the many trials of manufacturing and into customers hands. He is passionate about quality design and will be a key force in navigating Trago through the manufacturing process.
+
+Chase White – Design: Chase is an experienced designer with a background in product design and brand development. Chase has experience working with companies like AT&T, Shiner, South by Southwest, and The Wall Street Journal. In his spare time, Chase can be found climbing, swimming, biking, running, lifting and training as an adventure athlete.
+
+Andre LaMothe – Electrical/Embedded Engineer: André is a Computer Scientist and Embedded Engineer with over 30 years experience in product design, development and manufacturing. His current research areas include Wearable Devices, Evolutionary Computing, and Machine Learning.
+
+Since day one, we’ve been talking to potential customers, athletes, coaches, hydration specialists, and industry experts to understand how to make Trago the best it could be. This product is only the beginning in our mission to revolutionize hydration, and we’ve spent the last 10 months designing and engineering Trago to get the important parts right.
+
+Industrial Design drawings by waltercastrodesign@gmail.com
+
+Why ultrasonic sensors are the best way to measure water consumption:
+
+We tested every option imaginable for tracking how much fluid one could drink out of a bottle. We tried using weight, accelerometers, pressure strips, capacitance level transmitters, infrared, lasers, magnets and even flow meters, but found that all of these methods were either extremely inaccurate, or left you with a laundry list of things you couldn’t do. We hated these limits, so we invented a completely new way to measure your water intake using ultrasonic sensors.
+
+The benefits of ultrasonic sensors:
+
+Very accurate (within .5 oz). Measures any liquid type. All tech is in cap, so it works with multiple bottles. Easy to clean. Allows for future designs with or without straws Durable/shock resistant. The sensors work by using sound waves above human hearing to measure the distance from the cap to the fluid – In effect, recording the change in the water level. You can think of it as echo-location. Using proprietary algorithms, data from the ultrasonic sensors combine with data from the accelerometer and gyroscope allowing us to calculate exact water consumption data.
+
+Motion-Sensing:
+
+In order to increase accuracy and battery life we’ve added motion-sensing technology to Trago’s electronics. Knowing how the bottle moves allows Trago to understand important events. For example, when someone is taking a drink, unscrewing the cap to re-fill, stowing the bottle in a gym bag, or simply sitting idle by your bed.
+
+Replaceable battery:
+
+When deciding how to power Trago, we knew one thing for sure - we didn’t want one more device to charge, especially our water bottle! That’s why we designed Trago with a common replaceable battery that you can pick up at your local grocery/drug store.
+
+A big part of our vision is to help coaches and trainers monitor the hydration of their groups to get a leg up on the competition. With a replaceable battery that can last all season, these leaders can make sure every athlete’s hydration data is tracked effortlessly, rather than nagging them to recharge their cap.
+
+Flexibility:
+
+We read hundreds of reviews, and asked everyone we know to answer the simple question: “what makes your water bottle awesome?”
+
+The responses we got were as wide and varied as the people we asked. Some people prefer to drink from a straw with a large bottle, others prefer a wide-mouth spout with a bottle that fits in a cup holder. Rather than putting our product in a box where only a few people were as excited as we are, we have designed Trago to fit any wide-mouth bottle. Simply use Trago's Cap on your favorite “sticker magnet” and select the model of your bottle in the app.
+
+Trago is versatile, and the technology in the cap allows us to utilize almost any cap design, including those with OR without straws. So while we need to focus on nailing this first design at the moment, you can bet that we will come out with other great designs in the future.
+
+At Trago, we are looking forward to changing the way people think about hydration. We are excited to develop additional models, bottles and cap styles along the way. However, we can’t do it without your help!
+
+Only YOU have the power to make this vision a reality, and we appreciate your consideration in joining the mission to #hydratesmarter - Not to mention ending disposable plastic water bottle consumption along the way!
+
+Stretch Goals:
+
+1.) $100,000 - BPA-Free Plastic Bottle
+
+2.) $500,000 - Trago Cap with Straw Spout
+
+Contact us & share Trago with your friends, family and co-workers:

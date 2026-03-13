@@ -1,0 +1,39 @@
+The Chinese have suffered a problem during the launch of the Indonesian Palapa-D communications satellite via a CZ-3B Chang Zheng-3B (CZ3B-12) launch vehicle. The launch took place at the Xi Chang Satellite Launch Center, in Sichuan Province on Monday at 09:28 UTC, but failed to place the spacecraft in the required orbit – due to an issue with the CZ-3B’s third stage.
+
+The Palapa-D satellite was scheduled to replace the Palapa-C2 (23864 1996-030A) satellite – which is due to come to the end of its life in 2011 – at 113.0 degrees East. It is unknown at this time if the spacecraft can be saved, though this is unlikely.
+
+Latest reports from the Chinese State media – which appeared to undergo a news blackout for several hours after launch – claim the problem is related to a failure of third stage ignition.
+
+The new satellite was ordered to Thales Alenia Space in July 2007 and is based on the Spacebus 4000B3 platform – which has a larger capacity than the Palapa-C2. It is equipped with 24 standard C-band, 11 extended C-band and 5 Ku-band transponders, and will cover Indonesia, ASEAN countries, Asia, Middle East and Australia.
+
+See Also Chinese Forum Section
+
+60 Launch Vehicle Manuals (L2)
+
+Click here to Join L2 Palapa-D has a launch mass of 4,100 kg, a payload power of 6 kW and a service life time of 15 years.
+
+The launch of Palapa-D is – or was as the case may be – part of a commitment drive by the Indonesian communications industry to provide services that include TV broadcasters, VSAT providers and other corporate customers.
+
+The satellite was set to be used to support other services such as cellular communications, fixed voice telecommunications and fixed data services. The cost for the development and launch of the Palapa-D is between US$200 million and US$300 million.
+
+China’s return to their launch manifest – after a four month lull – came via their most powerful vehicle in the fleet, the CZ-3B Chang Zheng-3B.
+
+The CZ-3B features enlarged launch propellant tanks, better computer systems, a larger 4.2 meter diameter payload fairing and the addition of four strap-on boosters in the core stage for additional boost during the first phase of the launch.
+
+The rocket is capable of launching a 11200 kg satellite to a low Earth orbit, or a 5100 kg cargo to a geosynchronous transfer orbit. The vehicle has a total length of 54.84 meters and a core diameter of 3.35 meters.
+
+The first launch of the CZ-3B took place on February 14, 1996 but ended in what is now known has the “St. Valentine’s Day Massacre”.
+
+That failure occurred when the first CZ-3B stage suffered a problem just two seconds after lift-off, resulting in the vehicle listing heavily off the pad. With no range safety on board, the vehicle flew almost sideways for around a minute, before nose-diving into a nearby town, killing an untold amount of people. Recently unearthed raw video (30mb) of the launch, impact, and the aftermath are available on L2.
+
+The first successful launch took place on August 19th, 1997 when the second CZ-3B orbited the Agila-2 ‘Mabuhay’ (24901 1997-042A) communications satellite. Palapa-Ds launch was the 13th use of the CZ-3B.
+
+This was the 119th launch for the Chinese, the 118th launch of a Chang Zheng launch vehicle and the 51st orbital launch from the Xi Chang Satellite Launch Centre.
+
+The Xi Chang Satellite Launch Centre is situated in the Sichuan Province, south-western China and is the country’s prime launch site for geosynchronous orbital launches.
+
+Equipped with two launch pads (LC2 and LC3), the centre has a dedicated railway and highway lead directly to the launch site. The Command and Control Centre is located seven kilometers south-west of the launch pad, providing flight and safety control during launch rehearsal and launch.
+
+Other facilities on the Xi Chang Satellite Launch Centre are the Launch Control Centre, propellant fuelling systems, communications systems for launch command, telephone and data communications for users, and support equipment for meteorological monitoring and forecasting.
+
+The first launch from Xi Chang took place at 12:25 UTC on January 29, 1984, when the CZ-3 Chang Zheng-3 (CZ3-1) was launched the Shiyan Weixing (14670 1984-008A) communications satellite into orbit.

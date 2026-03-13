@@ -1,0 +1,33 @@
+NEW! KanjiDamage Anki Deck
+
+An official KanjiDamage deck is now available for Anki , a popular flashcard program. Many thanks to miwuc, KD user and great coder! This KanjiDamage deck contains all of KD's kanji plus stroke order diagrams. Please check it out here!
+
+Things we have the others don’t:
+
+All words ranked by usefulness. Over 100 bogus JOYO kanji cut!
+
+Every kanji broken down into its components, math stylezzz.
+
+Over 800 hints to tell look-a-like kanji apart
+
+Over 18 ‘tags’ for things like odd spellings, usu. hiragana, formal, rude, etc.
+
+Over 1,700 mnemonics which include the meaning, radicals, AND onyomi.
+
+Particles taught WITH the words.
+
+Nuances of synonyms explained (i.e. 硬い、堅い、and 固い).
+
+Radicals link to all kanji which include them.
+
+Getting started:
+
+Improved Search!
+
+There is a search box in the menu bar (upper right), and here:
+
+Previously, you could look up a kanji by searching on the English meaning, or the original kanji. You can now search kanji by entering the phonetic transliteration, either onyomi or kunyomi. For example, searching on 'sun' will find two kanji which mean 'sun', two with matching kunyomi (suna, sunareru), and one with an onyomi of SUN. The search box also accepts kana; searching on すな will find すな and すなれる.
+
+Support us!
+
+Please help us improve the accuracy, site design, and Yo Mama jokes here.

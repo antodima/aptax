@@ -1,0 +1,39 @@
+The KS Experiment series is a new type of blog entry where we feature a different, new, or innovative method for Kickstarter projects to be more attractive to backers and creators. We’re not advocating these ideas–we’re just putting them out there to get feedback in the polls and comments.
+
+I’ve been having some interesting, inspiring conversations with one of the owners of Cool Mini or Not, Chern, today in the comments of this blog entry and this one (his insights are definitely worth reading).
+
+For a while now I’ve been toying around with a new model for Kickstarter projects in terms of early birds, exclusives, premium options, and pricing structures, and Chern’s insights have made me want to delve deeper into them.
+
+I currently don’t have a Kickstarter project in the works, so it seems like a good time to get your thoughts on this model (see polls and comments below). It’s an amalgamation of a bunch of different ideas and mostly applies to board games, but it could work for other project categories too.
+
+Please note that I’m neither for or against any of these ideas–at this point I’m just gauging the wisdom of my readers to see what they think.
+
+Picture this stretch goal chart on a project page (obviously it would be much prettier):
+
+Here’s what’s going on in this chart:
+
+Pricing Based on Current Stretch Goals
+
+Basically, it’s a different type of early bird structure. Instead of being based purely on time, it’s based on stretch goals. Every time you reach a big stretch goal, the Kickstarter price goes up by $2 to both reflect the increase in price and to reward backers who bought into the game when it didn’t include extra stuff (regardless of when you pledge, all KS copies include all stretch goals). I would close the $39 reward level and open a new reward at $41. You could add extra copies of games for the same price as your reward level, so there’s a big benefit to locking in the best price early on.
+
+There is still an element of timing to the pricing structure, but it’s in the hands of the backers (note that I didn’t even consider limiting price to a certain number of backers–I don’t see any reason to do that). As soon as the $30,000 stretch goal is reached, the clock starts ticking for the big stretch goal to follow. And even if you aren’t available to pledge until after a stretch goal is reached and the price goes up, it only goes up by $2. If the project does really well, the price could keep going up, but likely I would cap it at $49 so the reward sidebar doesn’t get too cluttered.
+
+One downside to this reward structure is that it would make my beloved premium option very difficult. I’d like to find a way to include it at $59 (some sort of Collector’s Edition), but the gap between $39 and $59 is pretty big, and I wouldn’t want to change the premium option every time I updated the base reward price.
+
+Post-KS Enhancement Pack
+
+There wouldn’t be any KS exclusives, but all stretch goals would be separated into an “enhancement pack” available for $20-$25 directly from Stonemaier Games post-Kickstarter. Also, there would be one constant group/retail pledge level throughout the project at $350, including shipping (it would be for the full KS game with all stretch goals).
+
+Keep in mind that this is a departure from what we’ve done in the past. Usually our stretch goals make every copy of the game better. In this case, backers would be creating additional stuff, but they get it for free, while non-backers have to add it separately. Now that I’ve written it out, it actually isn’t all that different than what we did with Tuscany–non-backers can get all the stuff, but they have to pay more (they get it all together instead of in two separate boxes).
+
+Separate Shipping
+
+The last detail is that all individual shipping costs would be paid separately post-Kickstarter (as inspired by Zombicide Season 3). There are a few reasons for doing this: I think it offers backers the most accurate portrayal of the product value. I know it’s standard on Kickstarter to include US shipping (and for us, Canada, UK, Germany, China, and Taiwan) in the cost of the reward, but the negative side effect is that backers view the product as a $39 game ($60 MSRP), while really they’re getting a $60 MSRP game for $29, then they’re paying $10 shipping. $29 is not an accurate value for a $60 MSRP game. The alternative is to charge $49, but backers are still comparing that price to the $60 MSRP.
+
+If we tried something like that for shipping, I would include a chart very similar to the one we use now that offers set pricing for the each region–it wouldn’t vary based on weight. And it would be very clearly noted in the reward level that shipping costs would be paid post-project via something like BackerKit.
+
+I have a feeling that idea will meet the most resistance, but keep in mind that the reward price will be lower on Kickstarter as a result–you’re not paying more than you usually would. You’re paying the same amount you normally would on our campaign, but the money will be exchanged after the project instead of during it.
+
+Also, as Itai noted in the comments, this function could be completed on Kickstarter by simply asking all backers to add-on shipping during the project (including US backers). I’ve found that many backers have trouble adding funds to their pledge, though.
+
+These are the three ideas, and I’d love to hear your thoughts in the comments and the polls below. Thanks!

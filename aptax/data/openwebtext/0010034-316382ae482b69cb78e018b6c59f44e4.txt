@@ -1,0 +1,13 @@
+Enlarge Image Tyler Lizenby/CNET
+
+Philips Hue's app-enabled, color-changing light bulbs were among the very first smart-home gadgets to sync with Alexa, Amazon's popular voice-activated, virtual assistant. Pair the two up, and you'll be able to turn lights on and off or dim them up and down using simple voice commands. The only problem? Alexa can't do color changes -- which is, you know, kind of a big part of the whole Philips Hue pitch.
+
+Today, that's changing. Kind of.
+
+As part of a whirlwind day that saw Alexa make her debut in the UK and Germany, along with the arrival of a second-gen Amazon Echo Dot mini-speaker that costs just $50, Amazon also unveiled new Alexa controls that allow her to trigger preset smart home scenes for Alexa-compatible gadgets. And, once again, Philips Hue is one of the first to jump on board.
+
+That means that in addition to turning lights on and off and dimming them up and down, you can now tell Alexa to turn on your Philips Hue lighting scenes, even ones that change the colors of your bulbs. For instance, if you make a "sunrise" scene that turns the bulbs in your bedroom orange and red and sets them to fade up to full brightness over 30 minutes, you could trigger that scene by saying, "Alexa, turn on scene sunrise."
+
+Still, it's odd that you can't tell Alexa to change your Hue lights to specific colors. Color-changes aren't a native skill for the virtual assistant, but the Alexa-compatible Hue competitor Lifx found a way around that shortcoming long ago. The trick? An additional Alexa skill for color changes. Enable it, and you can ask Alexa to "tell Lifx" to change a bulb to a specific color. Philips still offers nothing of the sort for Alexa -- though it does offer voice-activated color changes by way of Alexa's chief frenemy, Siri.
+
+All of that said, Alexa scene controls are a nice step forward for the Alexa/Hue duo and a relatively simple way for users to get their voice control and color-change fixes in one fell swoop. Here's hoping for more as Alexa continues to get smarter and better connected.

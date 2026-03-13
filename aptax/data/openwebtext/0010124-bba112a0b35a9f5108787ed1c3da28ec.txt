@@ -1,0 +1,33 @@
+(Image: CNET/CBS Interactive)
+
+Amazon has disclosed how many government data demands it receives -- finally.
+
+Stephen Schmidt, chief information security officer for Amazon Web Services, broke the company's years of silence in a blog post late Friday.
+
+"Where we need to act publicly to protect customers, we do," said Schmidt. "Amazon never participated in the NSA's PRISM program," he added, despite no evidence to date showing that the company had been forced to hand over data through the clandestine surveillance program.
+
+Despite it being known best for its online retail business, its cloud services power millions of apps, sites, and services around the world. But the news couldn't come soon enough. Amazon is the last major technology company in the Fortune 500 to disclose how many times governments have come knocking on its door, demanding customer and user data.
+
+Amazon, known by insiders for being notoriously secretive, was at no point under a legal obligation to report its numbers, but had faced mounting pressure in the face of transparency reports becoming an industry norm.
+
+Schmidt said the report, which covers the six months starting January 1 and ending May 31, will be released biannually.
+
+By the numbers:
+
+Amazon received 813 subpoenas, of which it fully complied with 66 percent;
+
+Amazon received 35 search warrants, of which it fully complied with just over half;
+
+Out of the other 13 other court orders it received, Amazon fully complied with just four;
+
+Amazon received 132 foreign requests, of which it fully complied with 82 percent;
+
+Amazon complied with the one removal orders (like user data) it received
+
+Amazon disclosed that it had received between zero and 249 national security requests, such as a court order issued by the secretive Foreign Intelligence Surveillance Court.
+
+The company could not specifically say whether or not it had received a single classified order.
+
+In the wake of the NSA surveillance scandal, tech companies demanded the right to disclose how many secret data demands they received from the government. The Justice Department eventually relented, allowing those figures to be reported in wide numerical ranges.
+
+The company's second bi-annual report is expected later this year, or early next.

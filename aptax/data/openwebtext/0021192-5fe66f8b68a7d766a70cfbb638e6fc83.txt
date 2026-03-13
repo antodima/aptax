@@ -1,0 +1,15 @@
+Google introduced the screen pinning feature with Android 5.0 which lets you pin a screen into a single view on your phone so that you can easily share your device with anyone without worrying about them messing up with other stuff on your phone. However, screen pinning works on App level. Say you want to show a particular picture to someone but don’t want them to see other pictures on your Gallery, but you can only pin the Gallery app not a particular picture in it. And that’s where the Photo Pinner app comes in, it let’s you pin single photos.
+
+Photo Pinner does no wonders though, the app is just a photo viewer that opens up only a single photo so you can pin it. It works by sharing a picture from Gallery to Photo Pinner app and then press the pin button. That simple.
+
+icon-download Download Photo Pinner
+
+Check out the steps below to see how it really works.
+
+How to Pin Photos
+
+Download and install the Photo Pinner app on your device. Open the photo you want to pin in your Gallery. From Gallery, share the photo you want to pin to the Photo Pinner app The photo will now open in the Photo Pinner app, touch the Pin button in bottom left corner of the screen Select START from the confirmation dialogue, and that’s it. Your photo is now pinned.
+
+How to Unpin Photos
+
+To unpin photos just press and hold the BACK and RCENTS key for a couple of seconds.

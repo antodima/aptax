@@ -1,0 +1,199 @@
+Overview
+
+In this tutorial, learn to use the Debian package management tools to manage the packages on your Linux system. Learn to:
+
+Install, reinstall, upgrade, and remove Debian binary packages
+
+Find packages containing specific files or libraries, even if the package is not installed
+
+Obtain package information like version, content, dependencies, package integrity, and installation status, even if the package is not installed
+
+This tutorial helps you prepare for Objective 102.4 in Topic 102 of the Linux Professional Institute’s Linux Server Professional (LPIC-1) exam 101. The objective has a weight of 3.
+
+Introducing package management
+
+In the past, many Linux programs were distributed as source code, which a user would build into the required program or set of programs, along with the required man pages, configuration files, and so on. Nowadays, most Linux distributors use prebuilt programs or sets of programs called packages, which ship ready for installation on that distribution. In this tutorial, you learn about package management tools that help you install, update, and remove packages. This tutorial focuses on Advanced Package Tool (Apt), the package management system used by Debian and distributions derived from Debian, such as Ubuntu. Another tutorial in this series, “Learn Linux 101: RPM and YUM package management,” covers the Red Hat package management tools.
+
+About this series This series of tutorials helps you learn Linux system administration tasks. You can also use the material in these tutorials to prepare for the Linux Professional Institute’s LPIC-1: Linux Server Professional Certification exams. See ” Learn Linux, 101: A roadmap for LPIC-1” for a description of and link to each tutorial in this series. The roadmap is in progress and reflects the version 4.0 objectives of the LPIC-1 exams as updated April 15th, 2015. As tutorials are completed, they will be added to the roadmap.
+
+From a user perspective, the basic package management function is provided by commands. As Linux developers have striven to make Linux easier to use, the basic tools have been supplemented by other tools, including GUI tools, which hide some of the complexities of the basic tools from the user. In this tutorial and in “RPM and YUM package management,” I focus on the basic tools, although I mention some of the other tools so you can pursue them further.
+
+Prerequisites
+
+To get the most from the tutorials in this series, you need a basic knowledge of Linux and a working Linux system on which you can practice the commands that are covered in this tutorial. Sometimes different versions of a program format output differently, so your results might not always look exactly like the listings and figures shown here. In particular, much of the output I show is highly dependent on the packages that are already installed on my system. Your own output might be different, although you should be able to recognize the important commonalities. The examples in this tutorial come from a 32-bit Ubuntu 14.04 LTS system.
+
+Installing Debian packages
+
+When you install a Linux system, you typically install a large selection of packages. You can customize the set to the intended use of the system, such as a server, desktop, or developer workstation. And at some time, you will probably need to install new packages for added functionality, update the packages that you have, or even remove packages that you no longer need or that have been made obsolete by newer packages. Let’s look at how you do these tasks, and at some of the related challenges such as finding which package might contain a particular command.
+
+Suppose you want to compile a Fortran program and a colleague tells you to use gfortran command. You might try gfortran –help gfortran --help , or you might try which gfortran whichgfortran or type gfortran typegfortran . But if your system can’t find gfortran , you might see output similar to that shown in Listing 1.
+
+Listing 1. Missing gfortran command ian@attic‑u14:~$ gfortran ‑‑help bash: gfortran: command not found ian@attic‑u14:~$ gfortran ‑‑help The program 'gfortran' is currently not installed. You can install it by typing: sudo apt‑get install gfortran ian@attic‑u14:~$ which gfortran ian@attic‑u14:~$ type gfortran bash: type: gfortran: not found Show more Show more icon
+
+If you did not get the helpful suggestion from the second form of output in Listing 1, you can check back with your colleague to find out which package to install. Otherwise, you can just guess that the gfortran command is in the gfortran package. This is often a good guess, but not always the right one. You’ll see later how to find the right package. In this case, you use the gfortran package, and you install it using the apt-get command with the install option as shown in Listing 2. Note that apt-get determines which extra packages you need to satisfy dependencies and then gives you a list of all the packages that will be installed. At that point, you are prompted to continue. In our example, we respond y to install gfortran and the additional required package, gfortran-4.8, libgfortran-4.8-dev, and libgfortran3.
+
+Listing 2. Installing gfortran using apt-get ian@attic‑u14:~$ sudo apt‑get install gfortran Reading package lists... Done Building dependency tree Reading state information... Done The following extra packages will be installed: gfortran‑4.8 libgfortran‑4.8‑dev libgfortran3 Suggested packages: gfortran‑multilib gfortran‑doc gfortran‑4.8‑multilib gfortran‑4.8‑doc libgfortran3‑dbg The following NEW packages will be installed: gfortran gfortran‑4.8 libgfortran‑4.8‑dev libgfortran3 0 upgraded, 4 newly installed, 0 to remove and 23 not upgraded. Need to get 0 B/5,039 kB of archives. After this operation, 17.6 MB of additional disk space will be used. Do you want to continue? [Y/n] y Selecting previously unselected package libgfortran3:i386. (Reading database ... 202395 files and directories currently installed.) Preparing to unpack .../libgfortran3_4.8.4‑2ubuntu1~14.04_i386.deb ... Unpacking libgfortran3:i386 (4.8.4‑2ubuntu1~14.04) ... Selecting previously unselected package libgfortran‑4.8‑dev:i386. Preparing to unpack .../libgfortran‑4.8‑dev_4.8.4‑2ubuntu1~14.04_i386.deb ... Unpacking libgfortran‑4.8‑dev:i386 (4.8.4‑2ubuntu1~14.04) ... Selecting previously unselected package gfortran‑4.8. Preparing to unpack .../gfortran‑4.8_4.8.4‑2ubuntu1~14.04_i386.deb ... Unpacking gfortran‑4.8 (4.8.4‑2ubuntu1~14.04) ... Selecting previously unselected package gfortran. Preparing to unpack .../gfortran_4%3a4.8.2‑1ubuntu6_i386.deb ... Unpacking gfortran (4:4.8.2‑1ubuntu6) ... Processing triggers for man‑db (2.6.7.1‑1ubuntu1) ... Setting up libgfortran3:i386 (4.8.4‑2ubuntu1~14.04) ... Setting up libgfortran‑4.8‑dev:i386 (4.8.4‑2ubuntu1~14.04) ... Setting up gfortran‑4.8 (4.8.4‑2ubuntu1~14.04) ... Setting up gfortran (4:4.8.2‑1ubuntu6) ... update‑alternatives: using /usr/bin/gfortran to provide /usr/bin/f95 (f95) in auto mode Processing triggers for libc‑bin (2.19‑0ubuntu6.6) ... Show more Show more icon
+
+From the output in Listing 2, you see that apt-get has read a package list from somewhere (more on that shortly), built a dependency tree, and determined that gfortran-4.8, libgfortran-4.8-dev, and libgfortran3 are required prerequisites that are not currently installed. You will also notice the suggestion to install several separate packages gfortran-multilib, gfortran-doc, gfortran-4.8-multilib, gfortran-4.8-doc, and libgfortran3-dbg. After some additional summary information, including space usage, you are prompted to continue, and gfortran is installed along with the prerequisite packages. Debian packages usually have an extension of .deb, and you see that the packages are downloaded and unpacked as shown in the lines:
+
+Preparing to unpack .../gfortran‑4.8_4.8.4‑2ubuntu1~14.04_i386.deb ... Unpacking gfortran‑4.8 (4.8.4‑2ubuntu1~14.04) ... Show more Show more icon
+
+Suppose that, instead of installing a package, you want to find out whether the package depends on other packages. You can use the -s (for simulate) option on apt-get . There are several other options with equivalent function, such as --just-print and `–dry-run`. Check the man pages for full details. Listing 3 shows what happens for a simulation of installing the gfortran-doc package.
+
+Listing 3. Simulated or dry-run install of gfortran-doc ian@attic‑u14:~$ sudo apt‑get install ‑s gfortran‑doc Reading package lists... Done Building dependency tree Reading state information... Done The following extra packages will be installed: gfortran‑4.8‑doc The following NEW packages will be installed: gfortran‑4.8‑doc gfortran‑doc 0 upgraded, 2 newly installed, 0 to remove and 23 not upgraded. Inst gfortran‑4.8‑doc (4.8.4‑2ubuntu1~14.04 Ubuntu:14.04/trusty‑updates [all]) Inst gfortran‑doc (4:4.8.2‑1ubuntu6 Ubuntu:14.04/trusty [i386]) Conf gfortran‑4.8‑doc (4.8.4‑2ubuntu1~14.04 Ubuntu:14.04/trusty‑updates [all]) Conf gfortran‑doc (4:4.8.2‑1ubuntu6 Ubuntu:14.04/trusty [i386]) Show more Show more icon
+
+As you see, the gfortran-doc documentation package requires the gfortran-4.8-doc packages. The reverse is not the case. Try it for yourself.
+
+Package locations
+
+In the previous section, you learned how to install a Debian package. But where do the packages come from? How does apt-get know where to download packages from? I mentioned that apt-get reads a package list from somewhere. The starting point for that somewhere is /etc/apt/sources.list. The list tells apt-get where to look for packages, including from a CD-ROM, from your local file system, or over a network using HTTP or FTP. You can add more sources in the /etc/apt/sources.list.d directory.
+
+Listing 4 shows the first few lines of /etc/apt/sources.list on my system. Note that the distribution CD on the first line is commented out (# in position 1). If you need to install several new packages that have not been heavily updated, it is worthwhile to uncomment this and install from your distribution CD or DVD. If you have a broadband network connection or need several updates, it is more efficient to download the additional packages at the latest level from the network sources that follow in /etc/apt/sources.list.
+
+Listing 4. /etc/apt/sources.list ian@attic-u14:~$ cat /etc/apt/sources.list #deb cdrom:[Ubuntu 14.04.2 LTS Trusty Tahr - Release i386 (20150218.1)]/ trusty main restricted # See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to # newer versions of the distribution. deb http://us.archive.ubuntu.com/ubuntu/ trusty main restricted deb-src http://us.archive.ubuntu.com/ubuntu/ trusty main restricted ## Major bug fix updates produced after the final release of the ## distribution. deb http://us.archive.ubuntu.com/ubuntu/ trusty universe deb-src http://us.archive.ubuntu.com/ubuntu/ trusty-updates main restricted deb http://us.archive.ubuntu.com/ubuntu/ trusty-updates-updates main restricted ## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu ## team. Also, please note that software in universe WILL NOT receive any ##review or updates from the Ubuntu security team. deb http://us.archive.ubuntu.com/ubuntu/ trusty universe deb-src http://us.archive.ubuntu.com/ubuntu/ trusty universe deb http://us.archive.ubuntu.com/ubuntu/ trusty-updates universe deb-src http://us.archive.ubuntu.com/ubuntu/ trusty-updates universe## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu ## team, and may not be under a free licence. Please satisfy yourself as to ## your rights to use the software. Also, please note that software in ## multiverse WILL NOT receive any review or updates from the Ubuntu ## security team. deb http://us.archive.ubuntu.com/ubuntu/ trusty multiverse deb-src http://us.archive.ubuntu.com/ubuntu/ trusty multiverse deb http://us.archive.ubuntu.com/ubuntu/ trusty-updates multiverse deb-src http://us.archive.ubuntu.com/ubuntu/ trusty-updates multiverse Show more Show more icon
+
+Apt-get and similar tools use a local database to determine what packages are installed. They can check installed levels against available levels. To do this, information on available levels is retrieved from the sources that are listed in /etc/apt/sources.list and stored on your local system. You use the command apt-get update apt-getupdate to synchronize the information in your local database with the sources specified in /etc/apt/sources.list. You should do this before installing or updating any package, and always after modifying /etc/apt/sources.list or adding files to /etc/apt/sources.list.d.
+
+Removing Debian packages
+
+If you want to remove a package, you can use the remove option of apt-get . A simulated run is shown in Listing 5.
+
+Listing 5. Simulated removal of gfortran ian@attic‑u14:~$ sudo apt‑get remove ‑s gfortran Reading package lists... Done Building dependency tree Reading state information... Done The following packages were automatically installed and are no longer required: gfortran‑4.8 libgfortran‑4.8‑dev libgfortran3 Use 'apt‑get autoremove' to remove them. The following packages will be REMOVED: gfortran 0 upgraded, 0 newly installed, 1 to remove and 23 not upgraded. Remv gfortran 4:4.8.2‑1ubuntu6 Show more Show more icon
+
+Notice that the gfortran-4.8, libgfortran-4.8-dev, and libgfortran3 packages that we installed as a prerequisites for gfortran are not actually removed automatically, although the output tells you they are no longer needed. The autoremove function of apt-get (or the equivalent remove function and the --auto-remove option) removes the requested packages, along with any packages that were installed as dependencies but are no longer required by any installed packages. This can include dependencies installed by packages other than the one or ones you are trying to remove. Listing 6 shows a simulated removal of gfortran and its dependencies. I show how to remove just gfortran, and then use apt-get autoremove apt-getautoremove to clean up the newly orphaned dependencies.
+
+Listing 6. Removing gfortran and dependencies ian@attic‑u14:~$ #Simulate removal of gfortran and dependencies ian@attic‑u14:~$ sudo apt‑get autoremove ‑s gfortran Reading package lists... Done Building dependency tree Reading state information... Done The following packages will be REMOVED: gfortran gfortran‑4.8 libgfortran‑4.8‑dev libgfortran3 0 upgraded, 0 newly installed, 4 to remove and 23 not upgraded. Remv gfortran 4:4.8.2‑1ubuntu6Remv gfortran‑4.8 4.8.4‑2ubuntu1~14.04Remv libgfortran‑4.8‑dev 4.8.4‑2ubuntu1~14.04Remv libgfortran3 4.8.4‑2ubuntu1~14.04ian@attic‑u14:~$ #Remove just gfortran ian@attic‑u14:~$ sudo apt‑get remove gfortran Reading package lists... Done Building dependency tree Reading state information... Done The following packages were automatically installed and are no longer required: gfortran‑4.8 libgfortran‑4.8‑dev libgfortran3 Use 'apt‑get autoremove' to remove them. The following packages will be REMOVED: gfortran 0 upgraded, 0 newly installed, 1 to remove and 23 not upgraded. After this operation, 33.8 kB disk space will be freed. Do you want to continue? [Y/n] y (Reading database ... 202421 files and directories currently installed.) Removing gfortran (4:4.8.2‑1ubuntu6) ... Processing triggers for man‑db (2.6.7.1‑1ubuntu1) ... ian@attic‑u14:~$ #Autoremove unneeded packages ian@attic‑u14:~$ sudo apt‑get autoremove Reading package lists... Done Building dependency tree Reading state information... Done The following packages will be REMOVED: gfortran‑4.8 libgfortran‑4.8‑dev libgfortran3 0 upgraded, 0 newly installed, 3 to remove and 23 not upgraded. After this operation, 17.6 MB disk space will be freed. Do you want to continue? [Y/n] y (Reading database ... 202416 files and directories currently installed.) Removing gfortran‑4.8 (4.8.4‑2ubuntu1~14.04) ... Removing libgfortran‑4.8‑dev:i386 (4.8.4‑2ubuntu1~14.04) ... Removing libgfortran3:i386 (4.8.4‑2ubuntu1~14.04) ... Processing triggers for man‑db (2.6.7.1‑1ubuntu1) ... Processing triggers for libc‑bin (2.19‑0ubuntu6.6) ... Show more Show more icon
+
+As you see, you use the autoremove function of apt-get without any package name, to remove all unused packages that were installed but are no longer required on your system. You can also use the apt-get purge apt-getpurge option to remove configuration information. See the man page for more information.
+
+Updating Debian packages
+
+If you need to update an individual package, use apt-get with the install option again. Listing 7 shows how to update the already installed ghostscript package on my system. Note that the prerequisite packages ghostscript-x and libgs9 will also be upgraded. Remember to run apt-get update apt-getupdate before updating packages to make sure your local database reflects the latest available updates.
+
+Listing 7. Updating a single package ian@attic‑u14:~$ sudo apt‑get install ghostscript Reading package lists... Done Building dependency tree Reading state information... Done The following extra packages will be installed: ghostscript‑x libgs9 Suggested packages: hpijs The following packages will be upgraded: ghostscript ghostscript‑x libgs9 3 upgraded, 0 newly installed, 0 to remove and 20 not upgraded. Need to get 0 B/1,967 kB of archives. After this operation, 0 B of additional disk space will be used. Do you want to continue? [Y/n] y (Reading database ... 202535 files and directories currently installed.) Preparing to unpack .../ghostscript_9.10~dfsg‑0ubuntu10.3_i386.deb ... Unpacking ghostscript (9.10~dfsg‑0ubuntu10.3) over (9.10~dfsg‑0ubuntu10.2) ... Preparing to unpack .../ghostscript‑x_9.10~dfsg‑0ubuntu10.3_i386.deb ... Unpacking ghostscript‑x (9.10~dfsg‑0ubuntu10.3) over (9.10~dfsg‑0ubuntu10.2) ... Preparing to unpack .../libgs9_9.10~dfsg‑0ubuntu10.3_i386.deb ... Unpacking libgs9 (9.10~dfsg‑0ubuntu10.3) over (9.10~dfsg‑0ubuntu10.2) ... Processing triggers for man‑db (2.6.7.1‑1ubuntu1) ... Setting up libgs9 (9.10~dfsg‑0ubuntu10.3) ... Setting up ghostscript (9.10~dfsg‑0ubuntu10.3) ... Setting up ghostscript‑x (9.10~dfsg‑0ubuntu10.3) ... Processing triggers for libc‑bin (2.19‑0ubuntu6.6) ... Show more Show more icon
+
+Updating all packages or upgrading to a new distribution
+
+Rather than updating individual packages, you can update all packages on your system using the apt-get upgrade apt-getupgrade command. Similarly, apt-get dist-upgrade apt-getdist-upgrade helps you migrate to a new level of your distribution.
+
+For more information on other capabilities and options for apt-get , see the man page.
+
+APT configuration—the apt.conf file
+
+The man page for apt-get shows that there are many options. If you use the apt-get command a lot and find the default options are not to your liking, you can set new defaults in /etc/apt/apt.conf. A program, apt-config , is available for scripts to interrogate the apt.conf file. See the man pages for apt.conf and apt-config for more information.
+
+Reconfiguring Debian packages
+
+APT includes a capability called debconf, which configures packages after they are installed. Packages that use this capability (and not all do) can be reconfigured after they are installed. The easiest way to do this is to use the dpkg-reconfigure command. For example, the adduser command might create home directories that are readable by all system users. You might not want this for privacy reasons. Similarly, the tzdata package supports changing the time zone using dpkg-reconfigure tzdata dpkg-reconfiguretzdata . You must run dpkg-reconfigure with root authority.
+
+shows the first question that you are asked if you run sudo dpkg-reconfigure tzdata sudodpkg-reconfiguretzdata . Your preset default might not be America; it reflects your own system. Navigate around this text-mode screen using the Tab key and the cursor movement keys.
+
+Figure 1. Using dpkg-reconfigure to reconfigure time zone
+
+You can also use debconf-show to view the current configuration for a package as shown in Listing 8.
+
+Listing 8. Displaying tzdata configuration using debconf-show ian@attic‑u14:~$ sudo debconf‑show tzdata tzdata/Zones/Pacific: tzdata/Zones/Europe: tzdata/Zones/Indian: tzdata/Zones/Australia: tzdata/Areas: America tzdata/Zones/Arctic: tzdata/Zones/Atlantic: tzdata/Zones/Etc: UTC * tzdata/Zones/America: New_York tzdata/Zones/US: tzdata/Zones/Africa: tzdata/Zones/SystemV: tzdata/Zones/Antarctica: tzdata/Zones/Asia: Show more Show more icon
+
+Debian package information
+
+Now let’s look at some tools for getting information about packages. Some of these tools do other things as well, but the focus here is on how to get information.
+
+Package status with dpkg
+
+Another tool that is part of the APT system is the dpkg tool. This is a medium-level package management tool that can install and remove packages and display status information. You can control configuration of dpkg by /etc/dpkg/dpkg.cfg, and you might also have a .dpkg.cfg file in your home directory to provide further configuration.
+
+The dpkg tool uses many files in the /var/lib/dpkg tree in your filesystem. In particular, the file /var/lib/dpkg/status contains status information about packages on your system. Listing 9 shows the use of dpkg -s to display the status of the tzdata package after we updated it and the gfortran package after we removed it. If configuration remains, which it can in some cases, you can use the purge option to purge downloaded package files from the cache and remove configuration information.
+
+Listing 9. Tzdata package status ian@attic‑u14:~$ dpkg ‑s gfortran tzdata dpkg‑query: package 'gfortran' is not installed and no information is available Package: tzdata Status: install ok installed Priority: required Section: libs Installed‑Size: 1538 Maintainer: Ubuntu Developers <ubuntu‑devel‑discuss@lists.ubuntu.com> Architecture: all Multi‑Arch: foreign Version: 2015d‑0ubuntu0.14.04 Replaces: libc0.1, libc0.3, libc6, libc6.1 Provides: tzdata‑jessie Depends: debconf (>= 0.5) | debconf‑2.0 Description: time zone and daylight‑saving time data This package contains data required for the implementation of standard local time for many representative locations around the globe. It is updated periodically to reflect changes made by political bodies to time zone boundaries, UTC offsets, and daylight‑saving rules. Homepage: http://www.iana.org/time‑zones Original‑Maintainer: GNU Libc Maintainers <debian‑glibc@lists.debian.org> Use dpkg ‑‑info (= dpkg‑deb ‑‑info) to examine archive files, and dpkg ‑‑contents (= dpkg‑deb ‑‑contents) to list their contents. Show more Show more icon
+
+Packages and the files in them
+
+You might want to know what is in a package or what package a particular file came from. These are both tasks for dpkg. Listing 10 illustrates the use of dpkg -L to list the files (including directories) installed by the libparted package. For most packages, you can just give the package name and not worry about specifying a particular version. However, some packages might be available in multiple versions, so you might need to specify a more detailed package name when using dpkg to interrogate the package information.
+
+Listing 10. What is in the libparted package? ian@attic‑u14:~$ dpkg ‑L libparted dpkg‑query: package 'libparted' is not installed Use dpkg ‑‑info (= dpkg‑deb ‑‑info) to examine archive files, and dpkg ‑‑contents (= dpkg‑deb ‑‑contents) to list their contents. ian@attic‑u14:~$ dpkg ‑L libparted0debian1 /. /usr /usr/share /usr/share/doc /usr/share/doc/libparted0debian1 /usr/share/doc/libparted0debian1/changelog.Debian.gz /usr/share/doc/libparted0debian1/copyright /usr/share/lintian /usr/share/lintian/overrides /usr/share/lintian/overrides/libparted0debian1 /lib /lib/i386‑linux‑gnu /lib/i386‑linux‑gnu/libparted.so.0.0.1 /lib/i386‑linux‑gnu/libparted.so.0 Show more Show more icon
+
+To find which package contains a specific file, use the -S option of dpkg, as shown in Listing 11. The name of the package is listed on the left.
+
+Listing 11. What package contains a file? ian@attic‑u14:~$ dpkg ‑S /lib/i386‑linux‑gnu/libparted.so.0 libparted0debian1:i386: /lib/i386‑linux‑gnu/libparted.so.0 Show more Show more icon
+
+Sometimes, a file appears like it doesn’t belong to any package. When this occurs, you need to do some extra sleuthing to find where a package comes from. For example, the installation setup step can perform tasks such as creating symbolic links that are not listed as part of the package contents. A relatively recent addition to Linux systems is the alternatives system, which is managed using the update-alternatives command. Alternatives are frequently created for commands such as java , which might be the openJDK, Oracle or IBM version, among other possibilities.
+
+Listing 12 shows how to use the which command to find what is invoked if we try to run java . Then we use the ls command to see what that java command is symbolically linked to. The link to the /etc/alternatives directory is a clue that we are using the alternatives system, so we use the update-alternatives command to find more information. Finally, we use the dpkg -S dpkg-S command to confirm that the java command comes from the openjdk-7-jre-headless. The setup for the alternatives system would have been done by a post-install script that is part of the openjdk-7-jre-headless package.
+
+Listing 12. A more complex use of dpkg -S ian@attic‑u14:~$ which java /usr/bin/java ian@attic‑u14:~$ dpkg ‑S /usr/bin/java dpkg‑query: no path found matching pattern /usr/bin/java ian@attic‑u14:~$ ls ‑l $(which java) lrwxrwxrwx 1 root root 22 Jul 24 18:06 /usr/bin/java ‑> /etc/alternatives/java ian@attic‑u14:~$ update‑alternatives ‑‑display java java ‑ auto mode link currently points to /usr/lib/jvm/java‑7‑openjdk‑i386/jre/bin/java /usr/lib/jvm/java‑7‑openjdk‑i386/jre/bin/java ‑ priority 1071 slave java.1.gz: /usr/lib/jvm/java‑7‑openjdk‑i386/jre/man/man1/java.1.gz Current 'best' version is '/usr/lib/jvm/java‑7‑openjdk‑i386/jre/bin/java'. ian@attic‑u14:~$ dpkg ‑S /usr/lib/jvm/java‑7‑openjdk‑i386/jre/bin/java openjdk‑7‑jre‑headless:i386: /usr/lib/jvm/java‑7‑openjdk‑i386/jre/bin/java Show more Show more icon
+
+Using aptitude
+
+Earlier, I mentioned that the status for packages is kept in /var/lib/dpkg/status. I also mentioned that dpkg could do more than just display package information. Now, let’s look at the aptitude command, which provides a text-based full-screen interface (using ncurses) to the APT package management functions. You can install aptitude using apt-get if it is not already installed. You can use aptitude to install or remove packages and to control status flags that indicate whether packages should be kept up-to-date or held in their present state, for example. If you run the aptitude command (as root), you see a screen similar to Aptitude 1.
+
+Figure 2. Running aptitude
+
+Press Enter to expand or collapse the various selections, then use ctrl-t to access the menu bar. Aptitude 2 shows that a new kernel version, 3.16.0.43.34, is available for my system, among other available updates. The ‘i’ in the left column indicates that the current status is to install the package. The Help menu item explains the various options you have, including holding a package at its current level rather than updating it, removing it, or marking it as being automatically installed and thus eligible for automatic removal. Remember the autoremove option of apt-get ? Now you know how to examine or control which packages are eligible for automatic removal. Use the keyboard shortcuts described in the Help or use the Package menu item to change the flags.
+
+Figure 3. Running aptitude and examining package flags
+
+You can use the slash (“/”) key to search for packages. For example, if you wanted to reinstall the gfortran package that we removed earlier, simply type “/gfortran” to search for it. If the search takes you to something else with gfortran in it, such as gfortran-doc, press the n key to advance to the next match. Then use the Package menu to mark the package for installation.
+
+When you are finished, select Actions->Install/remove packages (or press G) to apply your selections to the system. You can also click the quit option if you do not want to apply the changes.
+
+For help at any time, use the menu bar or type “ ? ” (question mark) for help, and then press the Q key to exit the help.
+
+You see that aptitude can help you install or remove individual packages and upgrade all the packages on your system to the latest level.
+
+In addition to aptitude, there are several other interactive package management interfaces for Debian systems, including dselect, synaptic, update-manager, gnome-apt, and wajig. Synaptic is a graphical application for use with the X Window System. shows the synaptic user interface with our old friend, the gfortran package, marked for installation.
+
+Figure 4. Installing gfortran using synaptic
+
+The Apply button installs gfortran and updates any other packages that are scheduled for update. The Reload button refreshes the package lists. If you are accustomed to GUI interfaces, you might find synaptic easier to use than apt-get, dpkg, or dselect.
+
+Similarly, you might find that your system includes update-manager , an X Window System application, specifically tailored to help you keep your system up-to-date. If installed, it is likely to be started automatically on a regular basis, so that you don’t forget to update. shows how Update Manager displays the set of updates that you saw in Aptitude 2. As was the case with aptitude, the updates are classified so that you know which updates are important security updates.
+
+Finding Debian packages
+
+In the final topic on Debian package management, I look at ways to find packages. Usually, apt-get and the other tools discussed here already know about any Debian package you might need from the list of available packages. A command that we haven’t used yet is apt-cache , which is useful for searching package information on your system. apt-cache can search using regular expressions (see “Learn Linux, 101: Search text files using regular expressions” for more information on regular expressions). Suppose you wanted to find the name of the package containing the Linux loader. Listing 13 shows how you can accomplish this.
+
+Listing 13. Searching for the Linux loader with apt-cache ian@attic‑u14:~$ apt‑cache search "linux loader" lilo ‑ LInux LOader ‑ the classic OS boot loader lilo‑doc ‑ LInux LOader ‑ Documentation for the classic OS boot loader Show more Show more icon
+
+You saw earlier that aptitude and synaptic also offer search tools. If you use synaptic, note that you have options on the search menu for searching only package names or package descriptions as well.
+
+If you still can’t find the package, you can find it among the list of packages on the Debian site (see the resources at the right side for a link) or elsewhere on the Internet.
+
+Most of the package tools can tell you a lot more about an installed package than about one that you do not yet have installed, such as the list of files within a package. If you need to find what package contains a program that you do not have installed, there are a few ways:
+
+You can guess what package might contain it and download the package without installing. Once you have the package, you can interrogate it.
+
+You can search the Internet.
+
+You can try the command-not-found capability, which is described under Command not found later in this tutorial.
+
+The apt-get command has a -d option to download a package and not install it. There is also a --print-uris option to show where a package would be downloaded from and what its checksum would be. Current checksums are likely to be SHA256 checksums, so you can check the integrity of the downloaded package using the sha256sum command. Note that the URI and checksum information are not displayed if you have already downloaded the package, so you should get this information before downloading the package.
+
+Suppose you want to know whether the gfortran command is really contained in the gfortran package. Listing 14 shows you how to use apt-get to download the gfortran package without installing it.
+
+Listing 14. Using apt-get for download-only ian@attic‑u14:~$ sudo apt‑get install ‑d gfortran Reading package lists... Done Building dependency tree Reading state information... Done The following extra packages will be installed: gfortran‑4.8 libgfortran‑4.8‑dev libgfortran3 Suggested packages: gfortran‑multilib gfortran‑doc gfortran‑4.8‑multilib gfortran‑4.8‑doc libgfortran3‑dbg The following NEW packages will be installed: gfortran gfortran‑4.8 libgfortran‑4.8‑dev libgfortran3 0 upgraded, 4 newly installed, 0 to remove and 20 not upgraded. Need to get 0 B/5,039 kB of archives. After this operation, 17.6 MB of additional disk space will be used. Do you want to continue? [Y/n] y Download complete and in download only mode Show more Show more icon
+
+Once you have the package downloaded, you can use the --info option of dpkg to display the package information, or the --contents option to show what files the package installs. The downloaded file is usually located in /var/cache/apt/archives/. Listing 15 shows how to locate the file you downloaded and find out what binaries it will install (assuming they are installed in a …/bin/… directory).
+
+Listing 15. Using dpkg to list the contents of a .deb ian@attic‑u14:~$ sudo find /var/cache ‑name "gfort*.deb" /var/cache/apt/archives/gfortran_4%3a4.8.2‑1ubuntu6_i386.deb /var/cache/apt/archives/gfortran‑4.8_4.8.4‑2ubuntu1~14.04_i386.deb ian@attic‑u14:~$ sudo dpkg ‑‑contents > /var/cache/apt/archives/gfortran_4%3a4.8.2‑1ubuntu6_i386.deb | > grep "/bin/" drwxr‑xr‑x root/root 0 2014‑04‑07 18:49 ./usr/bin/ lrwxrwxrwx root/root 0 2014‑04‑07 18:49 ./usr/bin/gfortran ‑> gfortran‑4.8 lrwxrwxrwx root/root 0 2014‑04‑07 18:49 ./usr/bin/i686‑linux‑gnu‑gfortran ‑> gfortran‑4.8 Show more Show more icon
+
+If you do find and download a .deb file using something other than apt-get , you can install it using dpkg -i .
+
+If you decide you do not want to install the package you downloaded into the APT archives, you can run apt-get clean apt-getclean to clear out any downloaded package files.
+
+If all else fails, there is another possible source for packages. Suppose you find a program packaged as an RPM rather than a .deb. You can try the alien program, which can convert between package formats. You should read the alien documentation carefully as not all features of all package management systems can be converted to another format by alien. Use what you’ve already learned in this tutorial to help you find the package containing the alien command.
+
+Command not found
+
+Back in Listing 1, you saw a helpful message telling you what package to install to get the gfortran command. How is this done? When the Bash shell searches for a command and does not find it, then the shell searches for a shell function named command_not_found_handle . Listing 16 shows how this is defined on my Ubuntu 14 system.
+
+Listing 16. command_not_found_handle ian@attic-u14:~$ type command_not_found_handle command_not_found_handle is a function command_not_found_handle () { if [ -x /usr/lib/command-not-found ]; then /usr/lib/command-not-found -- "$1"; return $?; else if [ -x /usr/share/command-not-found/command-not-found ]; then /usr/share/command-not-found/command-not-found -- "$1"; return $?; else printf "%s: command not found
+
+" "$1" 1>&2; return 127; fi; fi } Show more Show more icon
+
+If the command_not_found_handle function exists, it is invoked with the original command and original arguments as its arguments, and the function’s exit status becomes the exit status of the shell. If the function is not defined, the shell prints an error message and returns an exit status of 127. The function is usually set in the system /etc/bash.bashrc file. You can see from Listing 16 that the function checks for the existence of /usr/lib/command-not-found and runs it as a Python script if it exists. If it does not exist, perhaps because the command-not-found package that supplies it was removed after the shell session was started, then the function mimics the standard system behavior and returns 127.
+
+PackageKit
+
+No discussion of package installation would be complete without mentioning PackageKit, which is a system designed to be cross platform and to make installing and updating software easier. The intent is to unify all the software graphical tools used in different distributions. PackageKit uses a system activated daemon, which means that the daemon is activated only when needed. PackageKit has versions for Gnome (gnome-packagekit) and KDE (KPackageKit).
+
+There is a lot more to the Debian package management system than covered here. There is also a lot more to Debian than its package management system. See the resources at the right side for additional details and links to other tutorials in this series.

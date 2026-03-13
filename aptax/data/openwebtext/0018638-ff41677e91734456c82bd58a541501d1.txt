@@ -1,0 +1,15 @@
+In an attempt to rearrange the subreddit a bit better and make it easier to read and filter through posts you aren't interested in without having to read the full title, I started setting up flairs today.
+
+There's been a small hick-up since we realized we don't have full permissions as moderators of the subreddit, which means we can't add more users to moderate it and play around with the css of flairs and since I'm the least technical person for this we will have to figure out some other ways. This also means though that we can't sticky important posts or news on top of the subreddit which would've been really needed for important developments and news such as posts from @steemitblog or @steemitdev for visitors of the subreddit.
+
+What you can do now though is set up flairs, we currently only have 4 user flairs that you can choose from: Minnow, Dolphin, Whale and Visitor.
+
+For post flairs we have a selection of this to make it easier for people to read so I recommend anyone posting on the subreddit to set their flairs depending on what your post is about, here is what you can choose from so far and if you have any more recommendations feel free to tell them here in this post.
+
+This means that when you write a submission to the subreddit you can afterwards click on "flair" under your post title and choose one of those corresponding to your post.
+
+Here on the sidebar is where you can find user flairs to choose your own flair, more will be coming soon and made more pleasing to the eye.
+
+I will soon be starting to curate through posts listed on the subreddit as well to grow some activity on there so make sure to create a Reddit account and subscribe to https://www.reddit.com/r/steemit/ in case you haven't done so yet!
+
+Thanks for reading!

@@ -1,0 +1,29 @@
+If creatures exist on planets with twin suns, they would have to be extremely adaptable.
+
+The most detailed look yet at the energy from stellar pairs shows there are more potentially habitable worlds in the galaxy than we thought. But the planets’ denizens must be able to adapt quickly to wild temperature shifts and unpredictable seasons.
+
+Most stars in the galaxy come in pairs or more. Until recently, astronomers assumed the regions around many of these binaries would be too gravitationally chaotic to host planets (see “Binary star apocalypse“).
+
+Now that view has changed. A handful of planets have been discovered orbiting two stars, including some that appear to be in the habitable zone, where liquid water can exist.
+
+Advertisement
+
+“This means we cannot dismiss binary stars as being inhospitable,” says William Welsh of San Diego State University. “That opens up a vast number of possibilities that were previously considered too hostile for life.”
+
+Early models assumed the brightest star in a binary pair was the only one that mattered for habitability, and no one modelled systems in which both stars were equally bright. “What we’ve done for the first time is say, ‘let’s take both stars into account and see what the habitable zone really is’,” says Stephen Kane of the California Institute of Technology in Pasadena. “It becomes much more complicated.”
+
+Kane and Caltech colleague Natalie Hinkel modelled a variety of binary systems and calculated the combined light contributions at every point in the stars’ vicinity. In some systems, they found distinctly lopsided habitable zones, especially when the stars were widely separated (see diagram). “It surprised me how asymmetric some of the habitable zones can be,” Kane says. “Some of them end up looking like peanuts.”
+
+Planets in other systems, including the first confirmed binary world, Kepler 16b, would move in and out of their habitable zones over the course of a year, possibly forcing cycles of freezing and thawing. “The climate is much wilder on these planets than on Earth,” says Welsh, who was not involved in the work. “Life would have to be able to cope with very large and rapid changes in temperature.”
+
+That creates challenges for land walkers, Kane says. “It would be very difficult to predict weather patterns, or when to plant your crops, or anything like that.”
+
+It’s less of an issue if the planet has oceans, says Frank Drake, one of the first researchers to search for extraterrestrial intelligence. It takes a greater energy flux to heat or cool water compared with air, so marine creatures would be protected from quick-change seasons. “The ocean is a wonderful, very cosy blankie for life,” Drake says.
+
+What about the most famous planet with two suns, Tatooine, of Star Wars fame? Kane says that the stars are so far apart they would create a lopsided habitable zone – and the planet wouldn’t be in it.
+
+“If one were to calculate the [habitable zone] boundaries for the Tatooine system based on film footage, there’s a very real possibility that the planetary system as depicted is unphysical,” Kane says. “This would not be a big surprise, since the film was produced far before any of this kind of research took place.”
+
+Journal reference: The Astrophysical Journal, doi.org/j36
+
+Binary star apocalypse Not all two-star systems have stars close enough for one planet to orbit both. In some cases, the stars are so far apart that planets could orbit one star, while the other lurks hundreds of billions of kilometres away. You might think such worlds would be as serene as those around solo stars. But the second star could spell doom, says Nathan Kaib of Northwestern University in Evanston, Illinois. In the outer reaches of our solar system, objects in the Oort cloud are nudged to and fro by galactic tides and the gravity of passing stars. This sends some of them, which we see as comets, careening into our neighbourhood on highly elongated orbits. In a series of simulations, Kaib and his colleagues showed that the same is probably true for widely separated binary stars. At some point, gravitational tweaks will almost inevitably send one star hurtling towards its partner – and the brief encounter would wreak havoc on any planets. In about half of the simulations, at least one planet ended up getting ejected from the star system. In 20 per cent of cases, the star lost all its planets (Nature, doi.org/j56). “You wind up with a naked star,” says Kaib. “It can be very devastating.”

@@ -1,0 +1,17 @@
+The maintainers of the open BitTorrent protocol for file sharing have fixed a vulnerability that allowed lone attackers with only modest resources to take down large sites using a new form of denial-of-service attack.
+
+The technique was disclosed two weeks ago in a research paper submitted to the 9th Usenix Workshop on Offensive Technologies. By sending vulnerable BitTorrent applications maliciously modified data, attackers could force them to flood a third-party target with data that was 50 to 120 times bigger than the original request. By replacing the attacker's IP address in the malicious user datagram protocol request with the spoofed address of the target, the attacker could cause the data flood to hit the victim's computer.
+
+In a blog post published Thursday, BitTorrent engineers said the vulnerability was the result of a flaw in a reference implementation called libuTP. To fix the weakness, the uTorrent, BitTorrent, and BitTorrent Sync apps will require acknowledgments from connection initiators before providing long responses.
+
+"This means that any packets falling outside of an allowed window will be dropped by a reflector and will never make it to a victim," the BitTorrent blog post stated. "Again referring to the diagram above [which appears immediately below in this Ars post], this means that (3) is dropped and (4), (5) and (6) never make it to the victim. Since the mitigation occurs at the libuTP level, other company protocols that can run over libuTP like Message Stream Encryption (MSE) are also serviced by the mitigation."
+
+Referring to the same diagram, here's a more detailed description of the attack and the way the change announced Thursday is intended to lower the bandwidth amplification factor (BAF) it provides:
+
+After the reflector has received the first packet from an attacker it transitions over to a connected state at (1). At this point the reflector has received the connection packet #209, and is expecting #210 next. It lets the victim, V, know of this fact by sending an acknowledgement packet with the next sequence number available to the reflector, for the example I’ve chosen #31.
+
+Soon after, the attacker needs to send the first data payload, this will be the BitTorrent protocol header. To properly build the packet the attacker will need to provide the reflector with acknowledgement number of the last received packet at (2). The flaw in libµTP would allow the reflector to accept any acknowledgement number at (3) allowing the attack to be carried out. A mitigation relies on the fact that it would be fairly difficult for an attacker to guess the acknowledgement number at (2) for a sufficiently large number of reflectors. The intention of the change is to reduce the BAF to as low a value as possible making attacks like this very high-effort. While the attacker will still be able to initiate a connection to the reflector, by dropping the packet at (3) the victim sees only an acknowledgement packet at (2). The first few exchanges of the connection will now look like this: Attacker sends the following to the reflector: 62 bytes for an initial SYN +
+
+130 bytes for the BitTorrent Handshake And the victim receives: 62 bytes to acknowledge the first SYN
+
+There are no indications the BitTorrent weakness was actively exploited. Still, BitTorrent should be commended for taking it seriously and fixing it quickly.

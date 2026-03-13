@@ -1,0 +1,29 @@
+The human hand has 17,000 touch sensors that help us pick things up and connect us to the physical world. A prosthetic hand or foot has no feeling at all.
+
+Zhenan Bao hopes to change that by wrapping prosthetics with electronic skin that can sense pressure, heal when cut, and process sensory data. It’s a critical step toward prosthetics that one day could be wired to the nervous system to deliver a sense of touch. Even before that is possible, soft yet grippy electronic skin would let amputees and burn victims do more everyday tasks like picking up delicate objects—and possibly help alleviate phantom-limb pain.
+
+custom-entrysetcustom-entrysetinnovators-listcustom-entrysetbusiness-reportcustom-entrysetcustom-entryset
+
+To mimic and in some ways surpass the capabilities of the skin on human hands, Bao is rethinking what an electronic material can be. Electronic skin should be not only sensitive to pressure but also lightweight, durable, stretchy, pliable, and self-healing, just like real skin. It should also be relatively inexpensive to manufacture in large sheets for wrapping around prosthetics. Traditional electronic materials are none of these things.
+
+Bao (an MIT Technology Review Innovator Under 35 in 2003) has been working on electronic skin since 2010. She has had to create new chemical recipes for every electronic component, replacing rigid materials like silicon with flexible organic molecules, polymers, and nanomaterials.
+
+Slideshow: A researcher makes a transistor on a stretchy rubber material that acts like a sticker. As the rubber is peeled from the glass, it picks up a layer of semiconducting carbon nanotubes that will form the active area of the electronic switch. Slideshow: A slide is coated with an insulating material that will help turn the stretchy transistor off. Inside this machine, a small platform will spin the slide to make a thin, smooth film. Slideshow: This stretchy transistor is made of carbon nanotubes, electronic polymers, and silver-nanoparticle ink. It could be used in circuits that process data from touch sensors.
+
+Zhenan Bao
+
+Bao’s group uses stretchy rubber materials that are similar to human skin in the way they give and recover. Sometimes her team mixes electronic materials into the rubber; other times they build on top of it. To make a touch sensor, researchers mix in carbon that is electrically conductive. The voltage across this conductive rubber sheet changes when the material is pressed. Bao’s group found that covering these touch sensors with a pattern of microscale pyramids improves their touch sensitivity—much as the whorls of our fingerprints do. Depending on the design, these sensors can be made at least as sensitive as the skin on our hands. Her group also prints transistors, electrical leads, and other components on the rubbery skins to make stretchy circuits that could process data from touch sensors on a prosthetic hand.
+
+On left, an airbrush loaded with silver-nanoparticle ink can be used to print electrical contacts and wires through a stencil.
+
+
+
+On right, Through a microscope, tiny pyramids on a touch sensor are visible. These 50-micrometer-wide features improve sensitivity, just like the ridges of our fingerprints.
+
+Each fingertip on this wooden display hand is fitted with a stretchy touch sensor connected to electrical leads that carry data to a flexible electronic control center on the palm.
+
+Now Bao is working on weirder materials. One polymer she developed is much stretchier than human skin: it can be pulled to 100 times its normal length without breaking. This material also heals when cut, without any heat or other trigger. And it can act as a weak artificial muscle, expanding and contracting when an electric field is applied.
+
+Slideshow: This material mimics two important features of human skin: the ability to stretch and wrinkle, and to heal. Slideshow: A researcher cuts the rubbery material in two. Slideshow: Less than a minute after the cut pieces are put back together, they’ve rejoined. Slideshow: The healed material can be stretched much more than human skin can be without breaking.
+
+With the basic materials and designs in place, she’s working on semiconductors and other electronic materials that have the same healing and stretching prowess. But reinventing the electronic materials won’t be enough: data from these artificial skins has to be delivered to the nervous system in a format that the body can understand. Bao’s group is now working on circuit designs that will send signals to the nervous system, so that electronic skins will one day not only help amputees regain dexterity but also let them feel the touch of their loved ones.

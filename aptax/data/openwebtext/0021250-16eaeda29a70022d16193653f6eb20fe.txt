@@ -1,0 +1,17 @@
+European network providers that want the United Nations to consider a new Internet tax targeting Google, Facebook, Apple, and Netflix today defended their proposal, which was leaked earlier this week.
+
+The idea of requiring content providers to pay fees based on usage is an "innovative" change to the way the Internet currently works and will create a more "fair" environment "where operators' revenues will not be disconnected from the investment needs made necessary by the rapid growth of Internet traffic," the providers said in a statement (PDF).
+
+U.S. House of Representatives
+
+Last night, CNET reported that the European Telecommunications Network Operators Association, or ETNO, a Brussels-based lobby group representing companies in 35 nations, proposed the idea for debate at a December meeting of a U.N. agency called the International Telecommunication Union. ETNO's members, which unanimously approved the idea, include Deutsche Telekom, France Telecom, Telecom Italia, Swisscom, and Spain's Telefonica.
+
+While this is the first time this proposal been advanced, European network providers and phone companies have complained bitterly about U.S. content providers for some time. France Telecom, Telecom Italia, and Vodafone Group want to "require content providers like Apple and Google to pay fees linked to usage," Bloomberg reported last December.
+
+ETNO refers to it as the "principle of sending party network pays" -- an idea borrowed from the system set up to handle payments for international phone calls, where the recipient's network set the per-minute price. If its proposal is adopted, it would spell an end to the Internet's long-standing, successful design based on unmetered "peered" traffic, and effectively tax content providers to reach non-U.S. Internet users.
+
+Today's statement from ETNO says: "It will be possible to establish new interconnection policies based on the 'value' of the traffic (not only on the 'volume'), enabling new business models and implementing an ecosystem where operators' revenues will not be disconnected from the investment needs made necessary by the rapid growth of Internet traffic." It suggests that "operating agencies shall negotiate commercial agreements to achieve a sustainable system of fair compensation for telecommunications services."
+
+The leaked documents (No. 1 No. 2) were posted by the Web site WCITLeaks, which was created by two policy analysts at the free-market Mercatus Center at George Mason University in Arlington, Va, who stress their Wikileaks-esque project is being done in their spare time. The name, WCITLeaks, is a reference to the ITU's December summit in Dubai, the World Conference on International Telecommunications, or WCIT.
+
+In a rare show of bipartisan unity during an election year, both the Obama administration and Republican members of Congress warned last week that secret negotiations at the ITU over an international communications treaty could result in a radical re-engineering of the Internet ecosystem and allow governments to monitor or restrict their citizens' online activities.

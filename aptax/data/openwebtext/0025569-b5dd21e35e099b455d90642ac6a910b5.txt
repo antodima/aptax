@@ -1,0 +1,13 @@
+Very interesting: Install AndroVM in VMware Player/Workstation – YouTube.
+
+The successor is Genymotion “the faster Android emulator”, and seems to have an easier installation path: Run Android on Your Desktop With Genymotion Android Emulator.
+
+One of the drawbacks of going native: the Delphi for Android compiler currently only generates ARM Android code, otherwise this would be a great way to test your apps.
+
+But it works fine if you use Java, Oxygene for Java or MonoDroid: much faster than the emulator (which you cannot run in a VM at all).
+
+There seems to be a way to install ARM translation, so I need to check that out: android – How to install google play service in the genymotion (ubuntu 13.04) .Currently it doesn’t have drag and drop suport – Stack Overflow.
+
+–jeroen
+
+via: Koushik Dutta – Google+ – Even if Microsoft is considering supporting Android apps on….

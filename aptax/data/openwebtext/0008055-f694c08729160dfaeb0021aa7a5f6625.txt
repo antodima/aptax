@@ -1,0 +1,37 @@
+Once upon a time, transactions between people were more or less done in person. The druggist you bought methamphetamine from at the pharmacy (yes, meth) had a name and a face. The chap you bought a car from had a name and a face, too. So did the florist, grocer, doctor, mechanic, and everyone else you might transact with.
+
+This gave rise to a reputation system, and reputations work pretty well at discouraging people from cheating one another. After all, if you cheat one customer, she'll tell all her friends. And those friends might tell their friends. Your business will suffer. The potential losses make it foolish to even consider cheating a customer.
+
+But what if you could run a business, and never reveal either your face or your name? What if the profits of cheating a whole bunch of customers in one shot outweighed the profits of honestly serving them over time? This can only happen if no one knows your face or name – in other words, if you don't have to worry about your reputation.
+
+And this is what the Internet has given us – the opportunity to facelessly and namelessly conduct business. Without personal reputation. And though the ability has been a blessing in some ways, it's been a curse in others.
+
+The recent and massive exit scam at the online market Evolution – in which the site's founders made off with US$12 million of their customers' bitcoins – is just one of several similar examples. Each sad story further suggests that this problem won't go away on its own.
+
+Not without the complete elimination of third parties from the Internet.
+
+But what about multisig?
+
+There has been a novel attempt at a solution in the advent of Bitcoin multisignature transactions. “Multisig”, as it's called, creates a sort of escrow situation in which funds cannot be moved without two of three signatures from buyer, seller, and escrow agent.
+
+But this doesn't eliminate the problem of untrustworthiness in a third party (the escrow agent). If a bad actor, the agent could collude with the seller to split the funds without shipping the product to the buyer. Or he could refuse to sign the transaction entirely, leaving the buyer and seller to sort things out themselves. If the buyer and seller can never agree, the funds will remain frozen indefinitely.
+
+The disgraced Evolution marketplace offered multisignature transactions, but not many customers used them. Even if they had, they'd still have been subject to all the aforementioned risks.
+
+If third parties can't be trusted – and as long as you're talking about humans, they can't – how can you confidently buy and sell online?
+
+Losses: can't be eliminated, but can be minimized
+
+OpenBazaar, a decentralized protocol for buying and selling, is an example of a commerce solution that eliminates third parties. Its developers recently published these five benefits they believe will come from a complete decentralization of online commerce:
+
+Markets are persistent. There’s no central point of control that can be taken down, either by outside actors or internal ones. Funds aren’t centrally controlled. There’s no central authority to trust and no jackpot to steal. Individuals control their funds directly and likely use multisig for transactions. No fees. Trade occurs directly between parties; there’s no site operator to take a cut. No data aggregation. Site operators (and data thieves) profit from aggregation of data on centralized systems, but there’s no single trove of data on decentralized systems. Trust and reputation are dynamic. In a centralized system, you are forced to trust the site operators, and the reputation system is static (as determined by site operators). In a decentralized system, you aren’t forced to trust any parties, and reputation systems can emerge without any control or censorship by central authorities.
+
+Reputation in its rightful (cyber) place
+
+And so it turns out that in a market without central escrow agents, reputation still plays a very important role. Though a seller may not have a name or face, which enables him to cheat without revealing his identity, his incentive to do so is far less when he's not holding US$12 million of other peoples' bitcoins. When he's holding no one's bitcoins but his own, the incentive to behave honestly over the long-term is restored. It's the only way to be profitable.
+
+The decentralized, no-middle-man model has already worked wonders in money just since Bitcoin's release in 2009. And decentralized shopping protocols like OpenBazaar, Nxt Marketplace, and FreeMarket are remaking commerce the way Bitcoin remade money. The likes of Bitnation are even remaking the very notion of governance.
+
+Everything that can be decentralized will be decentralized – what persistent problem will peer-to-peer technology solve next? Internet service, anyone?
+
+Did you enjoy this article? You may also be interested in reading these ones:

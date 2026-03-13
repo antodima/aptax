@@ -1,0 +1,9 @@
+BREAKING NEWS: a study by the institute for distributed investigation of technologies (IDIOT) has found that all NoSQL technologies are essentially just a massive text file combined with the UNIX tool ‘grep’
+
+NoSQL has risen in popularity in recent years as a hipster alternative to relational databases. Technology companies tend to move their entire data management system to a NoSQL backend, before moving it back to a relational database management system less than 12 months later.
+
+“This is a huge shock!” said Dr Rick Slowman of the University of Birmingham. “We’ve all written shitty scripts that grep huge files to link them together, but noone thought an entire tech sector would be based on this!” he continued.
+
+In a related report, IDIOT have confirmed that XML is totally shit.
+
+Advertisements

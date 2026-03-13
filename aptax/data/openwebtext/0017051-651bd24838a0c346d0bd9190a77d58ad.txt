@@ -1,0 +1,19 @@
+Peter has submitted not one or two, but three plugins! He provided the following descriptions:
+
+IDA Sploiter
+
+IDA Sploiter is a plugin for Hex-Rays IDA Pro disassembler designed to enhance IDA's capabilities as an exploit development and vulnerability research tool. Some of the plugin's features include a powerful ROP gadgets search engine, semantic gadget analysis and filtering, interactive ROP chain builder, stack pivot analysis, writable function pointer search, cyclic memory pattern generation and offset analysis, detection of bad characters and memory holes, and many others.
+
+This plugin brings vulnerability research functionality from various debuggers and scripts under a single, powerful and convenient platform.
+
+IDA Patcher
+
+IDA Patcher is a plugin for Hex-Ray's IDA Pro disassembler designed to enhance IDA's ability to patch binary files and memory. The plugin is useful for tasks related to malware analysis, exploit development as well as bug patching. IDA Patcher blends into the standard IDA user interface through the addition of a subview and several menu items.
+
+This plugin exposes many of IDA's internal patch management features using various UI elements.
+
+IDA Pomidor
+
+IDA Pomidor is a fun and simple plugin for the Hex-Ray's IDA Pro disassembler that will help you retain concentration and productivity during long reversing sessions. The plugin uses a Pomodoro Technique©, a popular time management technique.
+
+This plugin helped me survive through long reversing sessions and I hope you will find it useful as well.

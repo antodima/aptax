@@ -1,0 +1,17 @@
+Free Google Apps Sign Up Page Removed — A Sign of New Changes to Come?
+
+It used to be that you could go to the Google Apps front page and easily sign up for a free account. But now it is a bit different.
+
+The Google Apps choice is not available anymore on the Google Apps home page. You can still get a free Google Apps account. But the only way to do that is by signing up for a 30-day free trial to its premium Goole Apps for Business service. What happens after 3o days? We’ve asked Google for comment.
+
+Google Apps is the free service Google offers for companies with ten people or less. Google Apps for Business is for the larger enterprise accounts. The base price is $5 per user per month. It is estimated that about 5 million businesses and 40 million people use Google Apps.
+
+Doing a search for Google Apps is about the only way you can find the form for getting a Google Apps account with no strings attached.
+
+Even the Web address apps.google.con directs to a Google Apps for Business Web page.
+
+Is this a shift in strategy for Google Apps? A move to de-emphasize free accounts? It appears that way. We’ll update when we hear back from Google.
+
+Thanks to Scott Buscemi for the tip.
+
+Update: A Google spokesperson said the change is part of a small trial to help the company better understand customers. It is not visible to all users who are signing up for the Google Apps trial. Customers can downgrade after the trial. Google will continue to experiment with different options in the trial flow.

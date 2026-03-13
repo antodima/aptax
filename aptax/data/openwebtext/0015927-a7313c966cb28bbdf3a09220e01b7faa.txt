@@ -1,0 +1,15 @@
+This blog did not and will not send requests for bitcoin donations.
+
+There seems to be a virus or some sort of malware going around causing blogs to “send out” chat messages to blogs that they follow asking for help with the purchase of certain items through donations of seemingly small amounts using bitcoin and adds a link to the message.
+
+The message goes as following (at least the first message I got went like this): “Hi there buddy. I need help, I’m trying to buy a laptop and I can’t afford it. I’m about 0.36$ short, and I’d really appreciate if you could help me and transfer some money to me via bitcoin using this *link*.”
+
+The small details in the message seems to have a few variations with the greeting, amount and purchased item showing up in different variations from formal to friendly, from 0.016 to 2$ and from a phone case to a laptop among others.
+
+The blogs that are affected send out the messages to blogs that they follow for a long time mostly, so you are most likely to receive the message from a long time, active follower whose name you might recognize or a mutual etc. The blogs that are affected are not spam bots but actual active followers who follow the recipient for months or years and most likely the blogger who “sent” the message is unaware of the message being sent.
+
+DO NOT OPEN THE LINK.
+
+Opening up the link will cause the virus to spread even more and infect your computer/mobile with any sort of malware.
+
+If you have received a message of that sort from this blog please know that it was not sent by me or within my control and ignore/delete the message without clicking the link.

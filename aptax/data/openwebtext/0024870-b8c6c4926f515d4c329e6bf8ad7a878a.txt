@@ -1,0 +1,36 @@
+Image: Cherezoff/Shutterstock
+
+Samsung, the most popular smartphone maker in the world, left millions of customers vulnerable to hackers after it let expire a domain that was used to control a stock app installed on older devices, security researchers say.
+
+If you own an older Samsung smartphone, chances are you have a stock app designed to recommend other popular apps named S Suggest installed on it. The company says it discontinued S Suggest in 2014, and it recently let one of the domains used to control the app—ssuggest.com—expire, according to a security researcher who took over the domain.
+
+By letting the domain expire, Samsung effectively gave anyone willing to register it a foothold inside millions of smartphones, and the power to push malicious apps on them, according to João Gouveia, the chief technology officer at Anubis Labs. Gouveia says he took over the domain Monday.
+
+In a call with Motherboard after this story was first published, Samsung disputed the researchers' claims. The company said that although the domain was taken over, control of the domain "does not allow you to install malicious apps, it does not allow you to take control of users' phones."
+
+Read more: Samsung's Android Replacement Is a Hacker's Dream
+
+Gouveia said that in just 24 hours, he saw 620 million "check ins," or connections, from around 2.1 million unique devices. S Suggests has a bunch of permissions, including rebooting the phone remotely and installing apps or packages.
+
+"Someone with bad intentions could have grabbed that domain and to nasty things to the phones," Gouveia told Motherboard.
+
+The permissions that S Suggests has. (Image: João Gouveia)
+
+If a hacker, instead of Gouveia, had taken over the domain, they could've pushed backdoored or malicious apps directly to millions of Samsung cellphones, according to Ben Actis, an independent security researcher who has studied Android.
+
+"They fucked up," Actis told Motherboard, referring to Samsung. "The app can definitely install other apps."
+
+Given that Samsung lost control of the domain, he added, "someone malicious could install whatever they wanted."
+
+Since the domain is now under the control of Gouveia, Samsung customers with S Suggest on their phones have nothing to worry about (although their phones are likely running old and vulnerable versions of Android). Also, Gouveia told Motherboard that he's willing to give the domain back.
+
+
+
+"Hopefully they won't lose it again ;)," he said.
+
+But this could've been much, much worse. And it's unclear why Samsung even ran the risk of hackers running their discontinued services that are still working for millions of users. For the company, this is yet another security embarrassment just a few weeks after a researcher revealed that Samsung's new mobile operating system, which is called Tizen, was so full of bugs that he defined it "the worst code I've ever seen."
+
+This story has been updated to include comment from Samsung, which disputes the security researchers' claims, and to clarify a quote from Ben Actis. The headline has been updated to attribute the claims to the researchers. Also, an earlier version of this story stated that Samsung was the second most popular smartphone maker in the world, while it is actually the first, according to market share data.
+
+Get six of our favorite Motherboard stories every day by signing up for our newsletter.
+

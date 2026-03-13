@@ -1,0 +1,113 @@
+Scott Leibrand and Dana Lewis on their wedding day, August 1, 2015. Dana Lewis On their first date, Scott Leibrand asked Dana Lewis why she was wearing a pager. This was 2013 after all.
+
+Surprisingly, Lewis did have a pager for work because she was on-call as a communications lead for a healthcare company. But the black box sitting on her waistband was not that.
+
+It was an insulin pump, and it wasn't the only equipment Lewis carried around to manage her diabetes.
+
+Her date couldn't see the other device in her purse that monitored the glucose levels in her blood and would sound an alarm if her levels got dangerously high or low.
+
+An alarm that Lewis slept through all the time.
+
+Moving to Seattle and living on her own had been daunting for Lewis. Her friends and family worried that she would die in the middle of the night, like a number of diabetes patients do, because she wouldn't wake up to correct her levels.
+
+So Lewis and Leibrand, a former Twitter engineer and an expert in networks, did the natural thing for two people versed in programming.
+
+They built an artificial pancreas.
+
+A new pancreas and a new relationship
+
+Diabetes is a condition where there's too much glucose in the blood. Typically, the pancreas produces insulin, a hormone, to balance the glucose and help it get from the food you eat into your cells. If the pancreas doesn't create enough insulin or it doesn't work, the blood sugar levels become too high or too low — a dangerous fluctuation that can lead to death.​
+
+It's a lifelong condition with no cure. Lewis, who was diagnosed with Type 1 diabetes when she was 14, used to manage her diabetes in a way many people do, by pricking her finger 12 times a day to check her blood or wearing a glucose monitor and an insulin pump. She also used a continuous glucose monitor (CGM), which inserts a tiny sensor with a transmitter into the skin and sends data every five minutes to a monitor. If the glucose is too low, it sets off an alarm.
+
+The DIY pancreas project started out as only as a way to make that alarm louder.
+
+"I had recently gotten a CGM in April around the time I started dating Scott, so we had about six months of him watching me use these devices and thinking it was a really stupid way to manage a chronic disease," Lewis said.
+
+Making the alarm on a glucose monitor louder isn't as simple as hooking it up to speakers or transmitting it over Bluetooth. It's like trying to get an alarm on your microwave to sound on your radio.
+
+The breakthrough came in late 2013 when another developer created a way to feed the data off of the glucose monitor and onto a computer. Lewis had always been able to view the data retroactively by uploading files from a USB-like device, but a few new lines of code let Lewis set up a Windows laptop on her nightstand and have the computer instantly read her data and sound the alarms all night long.
+
+"Just shut up everything": An early prototype of the DIYPS shows Dana Lewis' glucose information on the computer. The system let Lewis snooze or input information on the computer screen. On Leibrand's Pebble watch, he could see the basic information on the go. Dana Lewis
+
+They later switched to an iPad with push alerts to notify Leibrand if Lewis had slept through the alarm. If that was the case, he'd drive 20 miles to wake her up. Otherwise, she would click a button to let Leibrand knew she had taken care of it.
+
+"I used to wake up, and I would have been low for hours and hours and hours. That's dangerous and also really frightening," Lewis said. "The immediate benefit was just peace of mind and feeling safe because he had access to my data from afar. If I didn't wake up, he could call me and drive down and check on me."
+
+Push notifications and a louder alarm were just the beginning.
+
+The human guinea pig
+
+Diabetes care has always been a system of trial and error.
+
+For years, Lewis has run the calculations in her head or on a computer of how much insulin she needs. It's a complex math equation involving current blood sugar, activity levels, and whether she's about to eat something.
+
+"What people don't understand is that you're self-dosing insulin 24/7, 365 days a year until the day we get a cure or something else happens," Lewis said. "So people are constantly doing trial and error. Sometimes they're guessing. Sometimes they do tests. Sometimes they don't."
+
+Looking at it from an engineering perspective, Leibrand and Lewis realized it was just an algorithm. They needed the data to train it, and they could get that data from their new alarm system.
+
+"So, being trained as a guinea pig to push these specific buttons, we figured we might as well put in specific commands and say this is exactly what I'm doing: I'm taking insulin, I'm reducing insulin, or I'm eating something, and these are the precise amounts," Lewis said.
+
+As Lewis put in more data, they were able to tweak the algorithm until it got more precise. Still, it took Lewis awhile to trust it, Leibrand said.
+
+"A lot of time people say 'Oh, people with diabetes need to track all this stuff!'" Lewis said. "For the first 11 years, I tracked nothing. I never downloaded my meter. I never logged things."
+
+The original DIYPS, in red, shows how many alarms would go off in the night. When Lewis turned on the closed loop to allow the pump to dose the recommended amounts, the number of alarms fell dramatically. Dana Lewis Leibrand added, "Just like you would figure out how to dose a drug effectively, there's gonna be trial and error in that method. It's just a learning curve of how everyone deals with diabetes."
+
+Soon she was able to put in her blood-glucose levels into the algorithm and get predictions on what her levels would be 30, 60, or 90 minutes out. She could decide if she needed to add more or less insulin — information so valuable that she started taking the system with her during the daytime too.
+
+Initially, Lewis was the safety check herself. If their DIY pancreas system recommended levels too high or too low, she could ignore it and administer what she thought was the correct level. Having self-dosed insulin for more than 11 years, she had an idea of what her body needed.
+
+"There's still a human at the end of the line, making all the decisions, pushing all the buttons, validating that this is what works," Lewis said. "This system actually reduces some of the elements of human laziness because it's going to be precise, really up to date, and it will always work based on available data and not guessing. If you lose an element of data, it will tell you 'I don't have the data to perform this calculation.' That's a lot safer than me just running around doing math in my sleep."
+
+Closing the loop
+
+There wouldn't always be a human at the end of the line, though.
+
+Dana Lewis A year after training the algorithm, Lewis and Leibrand started exploring how the could "close the loop" on their artificial pancreas.
+
+If her blood glucose levels were going too high, the program would instruct the insulin pump to add the recommended insulin level from the algorithm. Lewis wouldn't need to check if that was the correct amount or push the buttons herself — she trusts it.
+
+The only problem was that the DIY pancreas system they had created couldn't give commands to the insulin pump. Whatever it recommended, Lewis still had to push the buttons.
+
+They soon assembled an "artificial pancreas" to manage Lewis' insulin for her.
+
+This isn't a new organ or something inside her body, but a group of electronics that can mimic the functions her pancreas is missing. A Raspberry Pi mini computer takes data from the USB stick and glucose monitor and transfers the recommendation to the insulin pump. It's all online, so Lewis and Leibrand can track it on their watches, although she does have to carry around a stack of electronics.
+
+"We picked August 1 to close the loop because that's our wedding date and because we thought it was funny," Lewis said. "But what was most funny of all is that two weeks later, we got it working."
+
+The one missing piece had been finding a way to command the insulin pump to actually do something. But another engineer had figured out how to exploit a security flaw in an old Medtronic insulin pump that would let someone write commands to it. What the researcher made a big stink of as a cybersecurity scare turned out to be the missing piece for Lewis.
+
+The company had stopped manufacturing the pump, but Lewis found one, and then let the algorithm take over for a night and keep her levels in range.
+
+"The first live test turned into just live using it," Leibrand said. "We didn't actually turn it off after that."
+
+Helping other patients
+
+Like any piece of software, there are always bugs. But delivering the wrong dose of insulin is a bit more serious than a computer game freezing.
+
+A few times, the system hasn't worked. One time it was caught in a loop and reduced her insulin for a period of time, Lewis said. Recently, Leibrand caught the system not updating in the middle of the night. He stayed up debugging a solution with other members of the diabetes community before he was able to reset it.
+
+With the closed loop, Lewis' levels remain in range more and at steadier levels. Here, the system has been running for 12 hours even as Lewis is recovering from jet lag. Dana Lewis "We maybe had two what we would call adverse events with serious concerns like 'that wasn't supposed to happen,'" Lewis said.
+
+"But that's going against like hundreds of bad things that would have happened if we didn't take action," Leibrand added.
+
+To make sure a software glitch doesn't equal death, Leibrand programmed it to have a maximum amount of insulin dispensed in a period. Lewis, too, can always revert to the normal standard of diabetes care if something is wrong with the system.
+
+Her artificial pancreas system is a better normal though, at least for her. Now they want to grow the test beyond one person.
+
+Since February 2015, Leibrand and Lewis have been working on helping others to close the loop, too.
+
+They've built a GitHub repository for the Open Artificial Pancreas System (Open APS) that contains pieces of the code like building blocks (not the full artificial pancreas). Ultimately, the patient has to come up with the algorithm and trust the software before it can be used.
+
+Although there are some closed-loop systems in testing from medical companies, a movement among people with diabetes has spawned Facebook groups and Twitter hashtags to say #Wearenotwaiting. A group of engineers and fathers of children of diabetes created the NightScout project help parents see the glucose levels of their children when they're away at school, for example.
+
+The US Food and Drug Administration is aware of these projects — and none of them are officially approved, although the FDA hasn't taken issue with them either. Lewis and Leibrand are in regular communication with the agency to make sure their work doesn't cross the line of distributing medical devices, but can still help other people with diabetes close the loop and take control of their care.
+
+Scott Leibrand carrying the DIYPS system on their wedding day. Dana Lewis During a trip to Portugal, they found a way to take the system offline and use it without an internet connection — something that would come in handy during their two-week honeymoon.
+
+By the time they reached their wedding day — the deadline for closing the loop — they had already spent eight months trying to help people achieve the same.
+
+Lewis is likely the first person to get married with this type of artificial pancreas. Unlike many insulin-dependent people with diabetes, she didn't have to cut into the lining of her dress to make a pocket for her monitor. It was Leibrand who wore the monitor under his shirt.
+
+"No alarms — no problems," Lewis said. "Diabetes wasn't in the picture during the wedding, and that was exactly how it should be."

@@ -1,0 +1,63 @@
+India does not have laws regarding privacy and data misuse. This could end badly.
+
+Is privacy a fundamental right? Most people would think so. Indeed, it would be axiomatic. Isn’t this why there are locks on bathroom doors?
+
+Is there something wrong with a country whose government argues in all seriousness that privacy is not a fundamental right? Probably.
+
+We’re not talking about North Korea. We’re talking about a country that proudly claims to be the world’s largest democracy. In July 2015, the Attorney General Mukul Rohatgi argued that Indians don’t have a fundamental right to privacy. This was in the Supreme Court. Several petitions had challenged the rollout of the Aadhaar biometric scheme, saying that the collection and storage of personal data may violate the privacy of citizens.
+
+It’s true. The Indian constitution, which is apparently the longest example of such a document (and definitely the most long-winded of documents), does not explicitly mention the Right to Privacy as a Fundamental Right.
+
+That set of petitions referred to above is pending in the Supreme Court, like so many other petitions. Meanwhile, the Aadhaar Bill was passed without debate recently by labelling it as a Money Bill. The bill would make Aadhaar mandatory for a host of services and establish Aadhaar as the primary variable for establishing ID. In effect, it would make life difficult or near-impossible for anybody who did not possess that ID.
+
+(A Money Bill does not need to be presented separately in the Rajya Sabha and therefore, it can be passed by a simple majority in the Lok Sabha. This is commonly used to ensure that the annual Budget is passed. However, is the Aadhaar Bill reasonably classified as a Money Bill? That labelling has been challenged. It is an important constitutional point in itself – there should be objective criteria for labelling a money bill.)
+
+Whatever judgements the Supreme Court makes in these cases, and however the government of the day (it could be delayed for years) implements the SC decision, we have already jumped the shark.
+
+Aadhaar has been rolled out for over a billion people, and is being used as the cornerstone of KYC in all sorts of systems. Private agencies and government departments already have massive databases of individuals (amounting to 100 million or more in the case of telecom service providers and banks) who have been verified using their Aadhaar ID. Those databases contain additional data pertaining to bank accounts, PAN, driving licenses, passports, medical records, financial portfolios, etc. There have already been a spate of incidents where people have suffered due to massive leaks of Aadhaar data. There will be more such incidents.
+
+Aadhaar is insecure and its collection processes cannot be adequately safeguarded. Nothing that involves sharing digital information across a billion individuals can be safeguarded with much degree of safety.
+
+Apart from the fact that biometrics can change, biometric data can be hacked or forged quite effectively on a mass scale. There are multiple ways to fool biometric fingerprint scanners. White hat hackers have even demonstrated that iris scans can be fooled using publicly available high-res pictures.
+
+In effect, the use of Aadhaar for all sorts of things means there are over a billion Indians wandering around with their digital pants off. But it isn’t just a question of a set of insecure databases being used for provisioning important services.
+
+It’s not just about data security. It’s also about privacy.
+
+Arguably, Aadhaar could be patched and the gaps in the security could be plugged, though this looks increasingly unlikely to be even theoretically possible. Arguably, the government could impose a death penalty on the misuse of Aadhaar data and arguably, it might even be efficient enough to stop a few of the leaks. (Sarcasm alert!)
+
+But that still leaves the issue of privacy. Until privacy is acknowledged as a fundamental right, you cannot legislate effectively for data security: the concept of data security starts with the definition of sensitive data and sensitive metadata. That definition depends on an understanding that privacy is a fundamental right.
+
+So, India lacks the two essential legislative elements that are foundational to creating a secure, or semi-secure digital infrastructure. It doesn’t have a Privacy Law and a Data Protection law. And it does have a government that argues that privacy is not a fundamental right.
+
+What could go wrong?
+
+Here are a few possible use cases.
+
+A) A government agency wiretaps and records over 50,000 hours of conversations involving hundreds of individuals, many of whom are extremely well-known. Those conversations are then leaked into public domain and gleefully used by multiple people to smear multiple other people. Many reputations are damaged or destroyed. Mind you, there are no guarantees that the recordings as released were not forged.
+
+Technically those hypothetical recordings are evidence gathered held in police custody. That means there is a chain of responsibility for securely holding onto those recordings: There is a policeman in charge of the archive, that policeman has a boss, the boss reports to the home secretary who reports to the Home Minister. Has anybody ever been hauled up or punished? No.
+
+B) Somebody goes to a medical lab and takes a medical test for HIV. That test is held in an insecure database and downloaded by a random hacker. That person loses his job and suffers social ostracism. Can he sue the medical lab in question? Apparently not.
+
+C) The government is being embarrassed by a human rights activist who has accused certain senior politicians of being involved in communal violence and murder. In retaliation, the activist has faced inquiries into her financial transactions. Apparently that activist has used her credit card to buy liquor, which is in itself, a perfectly legal transaction. Well, you can gleefully tell everybody that this activist is an alcoholic and in fact, release her entire credit card transaction record. Can the activist sue the government for violation of privacy? Of course not. Privacy is not a fundamental right.
+
+Similarly, somebody who eats beef legally in Kolkata and pays for it by card could be lynched if that information is strategically released while the beefeater is travelling in UP.
+
+D) Millions of debit cards are hacked. Cards are blocked by banks and randomly replaced, causing great inconvenience, including inconvenience to people whose cards were not hacked. In other nations, the banking system would have its collective butt sued off. Class action suits would have been brought by users who were inconvenienced. The security gaps would have been plugged. Here, nothing of the sort happens.
+
+E) Take it further. Your mobile company knows your whereabouts 24×7, using simple triangulation to track your mobile. It has a pretty good idea of what you watch and who you contact. If you happen to have GPS switched on, it can narrow down your location to a couple of metres.
+
+That means your mobile service provider can pretty much lay down a daily report on where you go and what you do, minute by minute. Tie this to your financial transactions by card, or mobile wallet, and another layer of data about your life is wide open.
+
+Then start making intelligent guesses. Say, X went onto the Internet and searched for DIY enema kits. Then he bought condoms and enema kits online and checked into a massage parlour where he was in close proximity to Y. Hmm – what conclusions can you draw?
+
+Answer: IT IS NOBODY ELSE’S BUSINESS if you live in a country which considers privacy a fundamental right.
+
+But you see, location is not considered private or sensitive data in India. And, in the absence of a privacy law, anybody who gathers these data and metadata is free to try and monetise it, or do whatever they like. It could be used to send location-specific advertising (“check into this massage parlour”; “watch this movie which fits with your surfing habits”). It could be used to blackmail X and Y (“IPC 377”) .
+
+There’s a pending DNA Bill, which, among other things, proposes that anybody who makes a police complaint needs to submit DNA. The logic: the complainant’s DNA may be important to ascertain if a crime is committed. Fair enough. Now tell me: How long would that DNA be stored? What else could the police do with it? Can the complainant ask for the DNA record to be deleted? There are no answers.
+
+There’s been a Privacy Bill pending since 2012 when Justice AP Shah analysed the state of the art of privacy. The state-of-the-art has changed considerably along with the technology in the next five years.
+
+The need for a privacy bill has become stronger. Successive governments have tried to evade their responsibility in this regard. Obviously, most governments would prefer not to have to bother with laws that might cramp surveillance. The chances are that this evasion will continue until some sort of extremely embarrassing data leak involving politicians happens.

@@ -1,0 +1,35 @@
+What if the battery is not calibrated to begin with?
+
+
+
+You can delete batterystats.bin while its charging.
+
+
+
+Batterystats will get recreated if you were to unplug it.
+
+Otherwise, it get recreated at the boot logo before the animation.
+
+
+
+So you can delete it while it's charging, let it charge it up to 4200mV + 15 minutes or so.
+
+Leave it plugged in.
+
+Shut down, take out the battery, start it up and you get a battery screen with the ? and then pop the battery back in and it will show 60% at first and if it's fully charged, it will show 100% soon enough.
+
+
+
+Not sure if it works on other phones, but on droids and milestones you can boot the phone up without the battery.
+
+This way to calibrate is pretty cool.
+
+
+
+After deleting and charging, reboot phone normally but take the battery out before the logo and the phone keeps on booting.
+
+Then you pop the battery back in at the lock screen and you can monitor everything with battery monitor widget.
+
+
+
+Anyway, full guide in in my signature.

@@ -1,0 +1,41 @@
+tl;dr – Given the challenges around VR graphics performance, the Rift will have a recommended specification to ensure that developers can optimize for a known hardware configuration, which ensures a better player experience of comfortable sustained presence. The recommended PC specification is an NVIDIA GTX 970 or AMD 290, Intel i5-4590, and 8GB RAM. This configuration will be held for the lifetime of the Rift and should drop in price over time.
+
+
+
+The Rift is specifically designed to deliver comfortable, sustained presence – a “conversion on contact” experience that can instantly transform the way people think about virtual reality. As a VR device, the Rift will be capable of delivering comfortable presence for nearly everyone. However, this requires the entire system working well.
+
+Today, that system’s specification is largely driven by the requirements of VR graphics. To start with, VR lets you see graphics like never before. Good stereo VR with positional tracking directly drives your perceptual system in a way that a flat monitor can’t. As a consequence, rendering techniques and quality matter more than ever before, as things that are imperceivable on a traditional monitor suddenly make all the difference when experienced in VR. Therefore, VR increases the value of GPU performance.
+
+At the same time, there are three key VR graphics challenges to note: raw rendering costs, real-time performance, and latency.
+
+On the raw rendering costs: a traditional 1080p game at 60Hz requires 124 million shaded pixels per second. In contrast, the Rift runs at 2160×1200 at 90Hz split over dual displays, consuming 233 million pixels per second. At the default eye-target scale, the Rift’s rendering requirements go much higher: around 400 million shaded pixels per second. This means that by raw rendering costs alone, a VR game will require approximately 3x the GPU power of 1080p rendering.
+
+Traditionally, PC 3D graphics has had soft real-time requirements, where maintaining 30-60 FPS has been adequate. VR turns graphics into more of a hard real-time problem, as each missed frame is visible. Continuously missing framerate is a jarring, uncomfortable experience. As a result, GPU headroom becomes critical in absorbing unexpected system or content performance potholes.
+
+Finally, we know that minimizing motion-to-photon latency is key to a great VR experience. However, the last few decades of GPU advancements have been built around systems with deep pipelining to achieve maximum throughput at the cost of increased latency; not exactly what we want for VR. Today, minimizing latency comes at the cost of some GPU performance.
+
+Taking all of this into account, our recommended hardware specification is designed to help developers tackle these challenges and ship great content to all Rift users. This is the hardware that we recommend for the full Rift experience:
+
+NVIDIA GTX 970 / AMD 290 equivalent or greater
+
+Intel i5-4590 equivalent or greater
+
+8GB+ RAM
+
+The goal is for all Rift games and applications to deliver a great experience on this configuration by default. We believe this “it just works” experience will be fundamental to VR’s success, given that an underperforming system will fail to deliver comfortable presence.
+
+The recommended spec will stay constant over the lifetime of the Rift. As the equivalent-performance hardware becomes less expensive, more users will have systems capable of the full Rift experience. Developers, in turn, can rely on Rift users having these modern machines, allowing them to optimize their game for a known target, simplifying development.
+
+Apart from the recommended spec, the Rift will require:
+
+Windows 7 SP1 or newer
+
+2x USB 3.0 ports
+
+HDMI 1.3 video output supporting a 297MHz clock via a direct output architecture
+
+The last bullet point is tricky: many discrete GPU laptops have their external video output connected to the integrated GPU and drive the external output via hardware and software mechanisms that can’t support the Rift. Since this isn’t something that can be determined by reading the specs of a laptop, we are working on how to identify the right systems. Note that almost no current laptops have the GPU performance for the recommended spec, though upcoming mobile GPUs may be able to support this level of performance.
+
+Our development for OS X and Linux has been paused in order to focus on delivering a high quality consumer-level VR experience at launch across hardware, software, and content on Windows. We want to get back to development for OS X and Linux but we don’t have a timeline.
+
+In the future, successful consumer VR will likely drive changes in GPUs, OSs, drivers, 3D engines, and apps, ultimately enabling much more efficient low-latency VR performance. It’s an exciting time for VR graphics, and I’m looking forward to seeing this evolution.

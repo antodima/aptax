@@ -1,0 +1,27 @@
+Source: Public domain via Pixabay
+
+NOTE: Since I wrote this blog entry initially, a new analysis of this data set by Holger Spamann has become available. This analysis indicates that the effects reported in the original paper by Cho et al. were not as strong as the initial paper suggested. In addition, analysis of a newer data set that includes sentences given from 2004-2016 does not support the conclusion that sleepy judges are harsher judges. On the basis of this analysis, I no longer endorse the conclusions I drew in this earlier blog entry. I am keeping this entry active in case someone who read it previously returns to it in the future.
+
+I should say that science progresses by doing studies and then continuing to examine phenomena. That means that sometimes research results will be published that are later overturned. It is important to be skeptical of new conclusions until the field has had a decade or so to replicate the results and understand them in context.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+There are lots of benefits for getting good . Sleep improves your retention of information and skills you encountered the previous day. Sleep helps your the day after you sleep. Good sleep also helps you to regulate your mood.
+
+All of this data suggests that people should try hard to get a good night’s sleep as often as possible. Sometimes, of course, it is not possible to control your own sleep schedule. People who travel may have to wake up early to catch a flight and then may suffer when they arrive at their destination. Work and may present assignments that lead people to work deep into the night. I am a musician, and my band sometimes plays until the wee hours of the morning.
+
+In the United States, there is also an enforced change in schedule twice a year as we shift from standard time to daylight savings time and back. In the Fall, the clocks are set one hour back early on Sunday morning so that the night has an extra hour. In the Spring, the clocks are set one hour ahead so that the night has one fewer hour. While people could try to adjust their sleep schedules immediately, it is quite difficult to do that, and so people are usually somewhat sleep deprived after the time change in the Spring.
+
+Does that time change have any practical implications?
+
+This question was addressed in an interesting paper by Kyoungmin Cho, Chistopher Barnes, and Cristiano Guanara published in the February, 2017 issue of Psychological Science.
+
+They looked at the sentences handed out by judges in court in the United States using data available from the US Sentencing Commission. They explored the prison sentences handed out between 1992 and 2003. They compared the sentences given out on the Monday after the Spring time change to the sentences given out the week before and the week after on Mondays. The statistical analysis they did also took into account the committed as well as the particular court handing out the sentence (because some judicial districts tend to give out harsher sentences than others).
+
+Overall, judges gave out sentences that were 5% more severe on the Monday after the Spring time change than they did a week before or a week after the time change. By Tuesday, though, the effect went away. So, the effect of sleep deprivation was short-lived.
+
+You might think that this effect has to do with a disruption of schedule rather than sleep deprivation. However, the researchers did a similar analysis for the Fall time change in which the night is an hour longer. The sentences on the Monday after this time change did not differ significantly from the sentences a week before or after.
+
+This finding demonstrates how even a fairly small disruption in sleep can have a big practical impact. It suggests that the kind of emotional disruption caused by lack of sleep can affect the quality of people’s lives. Even though most of us may not be handing out criminal sentences, we may have a negative influence on our and colleagues on the days that we do not sleep well.
+
+This finding is also one more piece of evidence that we should get rid of daylight savings time. It has little practical benefit for most people, and the consequences of the time change can be severe.

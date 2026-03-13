@@ -1,0 +1,19 @@
+Is that Facebook? Or is the U.S. National Security Agency pretending to be Facebook to install malware on your computer? It turns out, that's a question you might have to ask yourself.
+
+According to a report by ex-Guardian journalist Glenn Greenwald at his new muckraking site, The Intercept, the NSA has purportedly developed malware that can infect computers and automatically collect data from computers around the world. The NSA has even pretended to be Facebook at times to install its malware, under a project codenamed TURBINE, according to Greenwald's report, which is based on top-secret documents leaked by ex-NSA contractor Edward Snowden.
+
+Greenwald, and co-reporter Ryan Gallagher, said the classified files contain "new details about groundbreaking surveillance technology the agency has developed to infect potentially millions of computers worldwide with malware 'implants.'"
+
+Greenwald says the documents show that TURBINE, which breaks into targeted computers to vacuum data from internet and phone networks abroad, is set to expand "dramatically" and could "covertly hack into computers on a mass scale." Currently, the program is documented to have deployed between 85,000 and 100,000 implants worldwide, since its inception in 2010.
+
+The implants began as a limited program as early as 2004, that was once reserved for "a few hundred hard-to-reach targets" that eluded traditional wiretap surveillance, but Greenwald says the documents he analyzed now show the NSA has accelerated the malware program beyond a process that was previously run by direct human authority. This would "allow the current implant network to scale to large size (millions of implants) by creating a system that does automated control implants by groups instead of individually," according to the documents.
+
+The NSA has used various methods to infect computers with the data mining malware, including posing as the world's most popular social media network, Facebook. This is known as a "man-on-the-side" attack, where it tricks computers into thinking its accessing Facebook servers, but instead connects to the NSA's network, after which the agency can hack into the computer. Other methods include the kind of thing savvy internet users know to watch out for, including spam emails laced with malware, and corrupted file downloads. The documents say that the malware can be installed as in quickly as eight seconds.
+
+The NSA's various malware programs have a wide range of spying capabilities, according to Greenwald, which include some things only the most paranoid (which, in this day and age, is quickly becoming synonymous with the term privacy conscious) could imagine: recording audio from a computer's microphone, logging Internet browsing history, copying logins and passwords from websites, logging users' keystrokes, vacuuming data from flash drives plugged into infected computers, blocking users from certain websites, and corrupting files that computers attempt to download.
+
+How the NSA Secretly Masqueraded as Facebook to Hack Computers for Surveillance from First Look Media on Vimeo.
+
+A Facebook spokesperson denied the company had any knowledge of the NSA's program and told the National Journal that its new default security HTTPS protocols prevent network disruption of this type. The NSA responded to the report in a statement that said, "Signals intelligence shall be collected exclusively where there is a foreign intelligence or counterintelligence purpose."
+
+For much more technical detail, check out Greenwald's full report at First Look's The Intercept.

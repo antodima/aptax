@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+
+I truly believe in p2p lending as an investment. I don’t just write about it, I am an investor putting my own money to work at Lending Club and Prosper. Every quarter I share my results for the world to see. I have been doing this since the 4th quarter of 2011; you can see all my historical returns here.
+
+Overall Return is Now 10.89%
+
+The second quarter was a good one for my p2p investments. My trailing twelve month (TTM) real return increased from 10.79% in the first quarter to 10.89% in the second quarter. As I have shifted my investment strategy from lower risk loans (mainly B and C grade) to higher risk loans (D and below) I have seen my returns increase every quarter. Eventually these returns will top out somewhere between 11% and 12% I expect.
+
+The table below shows the breakdown of my returns for all six accounts at Lending Club and Prosper.
+
+Account Balance 6/30/12 Additions Balance 6/30/13 Net Interest Average Age XIRR ROI Return on Site Lending Club Main $27,348.17 $- $30,439.93 $3,091.76 19 mths 11.31% 10.96% Lending Club Roth IRA $5,658.63 $- $6,315.99 $657.36 17 mths 11.62% 13.97% Lending Club Trad IRA $62,907.46 $- $69,555.66 $6,648.20 21 mths 10.57% 9.51% Lending Club Roth IRA - PRIME $15,938.10 $- $16,945.46 $1,007.36 21 mths 6.32% 7.63% Prosper Main $42,222.39 $12,000.00 $60,430.69 $6,208.30 12 mths 12.24% 14.14% Prosper - 2 $2,485.45 $- $2,879.93 $394.48 11 mths 15.87% 15.66% Totals $156,560.20 $12,000.00 $186,567.66 $18,007.46 10.89%
+
+When looking at this table you should keep the following points in mind:
+
+All the account totals and interest numbers are taken from my monthly statements that I download each month. The Net Interest column is the total interest earned plus late fees and recoveries less charge-offs. The Average Age column shows how old on average the notes are in each portfolio. Because I am reinvesting all the time this number changes slowly. The XIRR ROI column shows my real world return for the previous 12 months. I believe the XIRR method is the best way to determine your actual return. The Return on Site number is obtained from the platforms on the last day of the quarter.
+
+Now, I will dig a little deeper into each account and provide some commentary on the numbers in the table.
+
+Lending Club Main
+
+This is my oldest p2p lending account that I opened in June 2009. Now, over four years old it has seen many loans mature and my money has been reinvested here several times now. Astute readers will notice that the numbers in the graphic above don’t gel with the table exactly – that is because I took this screenshot this morning and the numbers in the table are all as of June 30, 2013. At 11.31% I am very happy with the returns on this account but I will not be adding to it any time soon. More on that in the next section.
+
+Lending Club Roth IRA
+
+I opened this account with $5,000 in April 2011 and I have only ever invested in the high interest loans with this account. With an average note age of 17 months now, the returns on this account continues to decline due to the impact of defaults. I experienced five new defaults this quarter taking the total to 22, 18 of of which have happened in the past 12 months. So, this account is now at its lowest ROI ever at 11.62% down from a high of 15.18% nine months ago.
+
+I am in the process of rolling over a large Roth IRA account that is invested primarily in the stock market and I expect to make a large addition to this account in the coming quarter. Because of the tax advantages of investing through an IRA I am going to be focusing all new investments in my IRA accounts.
+
+Lending Club Traditional IRA
+
+This is my wife’s IRA account that I rolled over to Lending Club in April 2010. It also happens to be my largest account by dollar amount. For the first 18 months I had this account it was a Lending Club PRIME account and when I took it off PRIME my ROI was 6.99%. Since then, by choosing my own notes and focusing on what I consider to be the highest performing loans I have increased the ROI to 10.57% and it is still increasing every quarter.
+
+Lending Club Roth IRA – PRIME
+
+This is also one of my wife’s accounts and it has remained a PRIME account since it was opened in 2010. As you can see this is my worst performing account – for the last 18 months my returns have fluctuated between 4.5% and 6.5%. I have maintained this account as a PRIME account as an experiment to see what returns I would experience with a hands-0ff investment. But I have decided after more than three years now it is time to end this experiment. This quarter I will be taking this account off PRIME and will be managing all the reinvestments myself.
+
+Prosper Main
+
+I opened my first Prosper account in September 2010 and have added to it consistently since then. My total investment in this account has been $50,000 and that is where it is going to stop. As I said I will be focusing new investments in IRA accounts so I will be opening a new IRA account at Prosper shortly.
+
+This account suffered quite a large drop in returns in the last quarter from 13.99% to 12.24%. Part of that was because of many new defaults and part was my own fault – I let the cash build up. Last quarter Prosper changed their mix of loans and my Automated Quick Invest filters were not picking up many loans. At one stage last quarter I had $10,000 in cash sitting in my account. In late May, I changed some of my criteria and also started using NSR Premium to invest through Prosper’s API. In about five weeks I was able to get that cash balance down to zero which is where I intend to keep it.
+
+Prosper – 2
+
+This smallest account continues to be my best performing account and by a wide margin. It is also my most aggressive account with an average weighted interest rate of 28.1%. I do expect my total return of 15.87% to start coming down. When looking only at the 2011 investments the return is 12.92%, that is a good indication of where returns are heading over the long term. But turning $2,000 into almost $2,900 in two years is quite an achievement (although that does include a $104 sign up bonus).
+
+Final Thoughts
+
+I think returns of 10-12% are sustainable long term with p2p lending. None of my accounts are new any more and I have been through an entire cycle of loans now in most of them. Lending Club and Prosper continue to tweak their underwriting and adjust their rates but astute investors can always beat the average. I will never complain if I can continue to earn double digit returns on my p2p lending investments.
+
+I always like to end these updates with a discussion about interest. All this talk of percentage returns can be useful but it is net interest gained that is the most important number. That continues to grow every quarter for my investments and is now at $18,000 for the past year but less than half of that is earned in tax-sheltered accounts. This is something I intend to address going forward as I focus all new investing in my IRA accounts.

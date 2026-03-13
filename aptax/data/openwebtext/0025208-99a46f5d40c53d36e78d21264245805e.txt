@@ -1,0 +1,55 @@
+(CNN) There's a bit of video that goes around the Internet every so often, showing a couple of clueless 1990s television hosts trying to decipher the mysteries of the Internet.
+
+"What is Internet, anyway?" NBC "Today" show host Bryant Gumbel asks in the 1994 clip after stumbling through an email address that ends in the now-famous .com suffix, as if it's written in some alien language.
+
+How far we've come.
+
+Thirty years ago, the .com Internet domain was born. In case you're not familiar, the companies and organizations that hand out Internet addresses use top-level domains like .com to organize the addresses. There's .gov for government, .edu for education, .mil for the military and .org for organizations. Addresses that end in .com can be registered by anyone, although the suffix stands for "commercial."
+
+Although other domains predate it, officially at least, .com is the one that got the whole online party going, launched the careers of countless millionaires, radically reformed our economy and wormed its way into our everyday language and lives.
+
+Let's look back at one of the grandaddies of domains as it enters its fourth decade, and ahead at what its future might hold.
+
+It didn't explode onto the scene. It was more of a trickle
+
+The first .com domain name -- Symbolics.com -- was registered March 15, 1985. Only five others joined it that year. It would take two years for the first 100 names to be registered, according to Verisign, the company that now manages the extension. But between 1995 and 2000 -- the era of the "dot-com bubble" -- registrations finally did take off, rocketing from 9,005 to more than 20 million.
+
+JUST WATCHED Here comes .apple: Web domain expansion Replay More Videos ... MUST WATCH Here comes .apple: Web domain expansion 03:50
+
+It reshaped our economy
+
+The focus on the commerce inherent in .com turned what started as an academic exercise into a commercial powerhouse.
+
+In by 2010, the Internet had grown to $2.3 trillion in economic impact in the world's 20 biggest economies, according to the Boston Consulting Group (PDF). By 2016, that will nearly double to $4.2 trillion, the firm estimates. Another estimate from 2011 (PDF) placed the Internet's economic impact at $8 trillion. Websites built on .com real estate powered most of that growth: One hundred percent of Fortune 500 companies and all of the world's fastest-growing corporations have a .com presence, Verisign says.
+
+It defined an era
+
+Who could forget the dot-com era, that period of seemingly unbridled growth where anything with a .com attached to it seemed infinitely valuable? The promise of a new economy driven by brash young American entrepreneurs was inescapable. It's this time when "dot-com" became a touchstone. Controversial hacker and Web entrepreneur Kim Schmitz even changed his last name to Dotcom in apparent homage to the thing that had made him rich.
+
+"Before 2000, the term dot-com indicated American innovation and entrepreneurialism, both inside and outside the U.S.," said Stephanie Ricker Schulte, a University of Arkansas communications professor and author of the 2013 book "Cached: Decoding the Internet in Global Popular Culture."
+
+Along the way, it gained some baggage
+
+Investors kept pouring money into tech firms. They kept spending. But one thing was missing: profits. What became known as the "dot-com bubble" burst in 2000, wiping out millions of dollars in valuations and putting an end to speculative firms such as pets.com, whose sock-puppet mascot became a widely ridiculed symbol of the era's failings. Despite its cutesy image, revealed to the country along with a spate of other dot-coms during the 2000 NFL Super Bowl, the company lost $147 million in the first nine months of the year and was dead by November.
+
+JUST WATCHED New domain names to expand web Replay More Videos ... MUST WATCH New domain names to expand web 02:14
+
+"After 2000, after the so-called bubble burst, 'dot-com' came to represent American hubris and greed, especially outside the U.S.," Schulte said. "My favorite example of this is an article published in Germany that described Internet executives washing their car with champagne."
+
+Now, it seems fewer Internet startups or workers define themselves by the dot-com label. Startup seems to be the preferred term.
+
+"It's not a universally good thing," said Andrew L. Russell, an associate professor at the Stevens Institute of Technology in New Jersey. "There's some ambiguity in dot-com."
+
+But it's still going strong
+
+Still, it's hard to argue the dominance of the .com domain. New .com domains are registered at an average of one per second, Verisign says, adding to the 115 million on the books.
+
+And while the headiest days of the Internet domain name gold rush are probably well behind us, domains are still selling for premium prices. The website insure.com, for instance, became the most expensive ever purchased in 2009, at a cost of $16 million, according to most-expensive.com.
+
+What will the future hold?
+
+Today, the undisputed champ is challenged by plenty of eager newcomers. New, more personalized domains are cropping up all the time: .coach, .green and .money are just a few of the latest. Increasingly, e-commerce is being conducted on smartphone apps, making it reasonable to ask whether .com will even be a thing in 10, 20, 50 years.
+
+Will future Fortune 500 execs bellow orders to dismantle the old .com websites as a relic of "quaint" 20th century technology? Maybe, but probably not, says Schulte.
+
+"I think .com will always be present at least in a residual way," she said. "History is important, even in places as seemingly ephemeral as the Internet."

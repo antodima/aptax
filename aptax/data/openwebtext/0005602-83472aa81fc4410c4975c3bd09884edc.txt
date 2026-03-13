@@ -1,0 +1,75 @@
+Introduction
+
+Heyo guys!
+
+I'm here to talk a bit more about the Conversation System which I've spent a little while designing and I hope you will enjoy it!
+
+This system is a bit unique compared to other Conversation Systems you may have encountered so I'm going to explain a few systems before getting onto the goodies.
+
+Familiarity System
+
+One of the core systems which the conversation system heavily relies on is the Familiarity system. This system in itself is composed of different smaller systems which have their own functions.
+
+Two of these subsystems is the one that keeps track of the character's Personality and the other keeps track of Familiars.
+
+The Personality subsystem simply keeps track of the unit's likings, reputation and other various personality traits, such as being sarcastic, evil, cruel, good etc.
+
+The Familiar subsystem keeps track of when a unit is spotted, when such an event occurs a "snapshot" is taken where it saves the body properties, currently equipped gear and inserts that into a list of other snapshots. This data will allow for a very good way of exchanging information both between Player NPC as well as NPC NPC,
+
+Yes, NPCs will be essentially using this data and conversation system to exchange information about the world.
+
+Even if these snapshots save what you're currently wearing doesn't mean that the NPCs will immediately remember the information correctly, this depends on several factors.
+
+A Familiarity score is calculated from variables such as, how many times the unit has been seen before, the time since last seen, the time in between seeing the unit, the time of encounter and the lighting during encounter. These are only a few factors which are needed in order to calculate such a score, obviously talking to an NPC will increase this score of being recognized.
+
+This opens up game mechanics such as being able to commit a crime, change your outfit and possibly fool the people which saw you committing the crime. Or you could possibly stalk an NPC, understand what they were, get similar clothes and commit a crime and later pin it on that unit.
+
+As you can see with such a system it opens up a lot of cool new game mechanics which I think will be quite interesting to explore.
+
+Concept Image of Conversation UI
+
+
+
+Conversations
+
+Now this is the real meat of this post, the Conversation System.
+
+As I mentioned previously and which I hope you've noticed by the Familiarity system explanation that this conversation system is a bit different from similar systems previously.
+
+This system is a bit unique in the sense that it will be dealing with a lot of dynamic data. Anything from various generated area names, town names, towns, NPCs, familiarity data to quests and tasks.
+
+So obviously due to dealing with such a massive amount of dynamic data the conversation system itself has to be fairly dynamic. This includes being able to select more than 2-3 different response messages which most other games uses.
+
+I'd argue that you need to be able to select both the Topic of the conversation and even the Response Type, which is exactly what I started designing the system around. This will allow for having 2-3 different responses per Topic and per Response Type, which is a lot of different conversation responses and which is exactly what an RPG of this size deserves.
+
+Topics
+
+Topics will be selectable in the conversation GUI, these topics will be selected depending on relevance to the current NPC, so for example if the NPC is a good friend of yours in-game, you won't start getting suggested Topics about getting to know the NPC (Such as asking for his/her name etc.).
+
+The relevance will be calculated depending on where you currently are, reputation/standing with an NPC and even time of day etc.
+
+Topics will essentially be a guiding point for your conversation in order to properly interact with the AI in the world and retrieve relevant and necessary information.
+
+Response Type
+
+Being able to choose Topics of the Conversation is good and all, but it'll only get you so far, in order to properly interact in a good way you need to be able to respond in a specific "tone of voice".
+
+Which is why currently the design for Response types will include such types as "Hostile, Friendly, Neutral" but also thinking about types like Sarcastic, Vague in order to properly interact in the way you'd like to.
+
+Concept Image of Conversation UI
+
+
+
+By combining these two concepts I believe it will create quite a unique and interesting way of interacting with the world. It also allows for a fairly cool way of exchanging information, not only between you and the AI but even in an AI AI situation.
+
+By forcing the AI to use this system in order to exchange information you inherently add a delay before everyone in a town knows something, or perhaps you are able to silence the information before it reaches another Unit.
+
+An example of this would be if a unit sees you committing a crime, in regular games you'd be instantly guilty and guards would start chasing you, however by using this system a witness would have to see you and in some way exchange that information, either via screaming or running and telling people.
+
+But due to this inherit latency of information exchange you will be able to silence that victim and stop the spread of information. Which I find adds quite a cool game-play mechanic.
+
+Conclusion
+
+I hope you all enjoyed my explanation of the conversation system or at the very least found it interesting.
+
+Cheers!

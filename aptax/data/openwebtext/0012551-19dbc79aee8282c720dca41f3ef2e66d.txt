@@ -1,0 +1,69 @@
+A little bit of abstraction, a little bit of concrete advice. Usually when reading articles of that type (this type), I think it’s wise to discard the abstraction and see if you can walk away carrying only the practical advice, and form your own abstractions later as needed. No hard feelings. I find the abstract stuff fun to write and fun to think about, hopefully it’s a fun read too.
+
+(Three Degrees of) Freedom in Deck Selection
+
+On the topic of deck selection, friend of the website Adam Barnello recently advised, “I’m a subscriber to the idea that there is very rarely a de facto ‘best deck’ in any environment, but rather a spectrum of decks that are highly competitive; and the individual who is piloting the deck has a significant contribution to the value of the deck itself. In other words, pick the deck that’s best for you out of the group of decks that comprise the best in the field.”
+
+Adam is not the first to express the idea, and many of my readers I suspect independently developed an understanding of this concept if they hadn’t already encountered it.
+
+He’s right that the idea that there is a single best deck (i.e. there are 75 cards that you can say everyone who did not play made a mistake) is probably wrong and even if it’s true in some abstract sense, it is very probably wrong in practice.
+
+Three variables interact when a Pro goes to select their deck:
+
+Metagame evaluation (similar to a Keynesian Beauty Contest but a little different since your strategy doesn’t terminate with playing the most popular decks, but rather goes one step further to play the deck that’s best against the most popular decks), which interacts with The Power level of decks, which interacts with Your ability with the decks (inclusive of the experience you have with the decks and your ability at actually tuning the construction of the decks, as well as and the time you have available to improve).
+
+Between metagame evaluation, power level, and your ability, there are three degrees of freedom. No one or two variables alone gives a Pro enough information to select their deck.
+
+But there is a caveat for the non-top-Pro player: Your ability is also a threshold/gating variable that screens you off from playing decks you aren’t good enough to use. This makes it possible to know only one fact like “The only deck I know how to play is Goblins” and conclude that you should play Goblins. This works, but it doesn’t work well. It helps you select your deck in the same way a “what cards do I own?” algorithm helps you. It might be the best you can do, but if you’re reading these articles I hope you can do better.
+
+The real danger of saying, “play the deck that’s best for you” is that this mindset encourages the aspiring Pro to not learn how to incorporate metagame evaluation and raw power level evaluation into their model for which deck to play. “Do the best exercise for you.” Sure, but don’t do only that. Don’t forget there are other things you could be doing. Don’t skip leg day.
+
+(By the way, if you’re not an aspiring Pro, that’s fine of course, but then serious strategic advice about deck selection is not for you. I know part of Adam’s reasoning is that he wants to have fun, not just win. But for some of us, winning is first on our minds as we prepare, and fun always seems to show up to the same tournaments that winning does. If you’ve noticed that close kinship in your own Magic experience between winning and having fun, keep reading).
+
+Dyson (Power in a Vacuum)
+
+Is there truly an “in-a-vacuum” power level, raw power level, for a deck? Maybe (theoretically, with an alien supercomputer and/or a long timeline, you could build every possible 60-card deck [apologies to JWay] and simulate a round robin-tournament and emerge with a best deck). But probably not in the real world with no equilibrium for deck choices that resembles the arbitrary “every possible 60-card deck” field. In those real-life scenarios, you have to know something about the metagame to know a deck’s power level.
+
+But still, “some decks are more powerful than others” is a better heuristic than “we don’t know which decks are powerful.” The reason is, at the tournament, there will be a metagame that emerged from ordered and predictable processes, even if you don’t know it. The map is not the territory. More specifically, your lack of a map does not mean the terrain is featureless. Some decks have a goal of dealing 20 damage quickly, and are usually (in typical metagames we should expect to face) better at it than other decks with similar goals. Some decks play control, but use cards like Cryptic Command that just tend to be very powerful in the Magic games we usually end up playing. Other decks have less “raw power” because they play a card like Soldier of the Pantheon that is neutralized fairly easily, is often a bad topdeck, is outclassed by something like Wild Nacatl if we’re talking about Modern, and rarely leads to a synergistic deck that can make up for these shortcomings. Does it mean playing these “weaker” decks is wrong? As I’ve already said, no it does not. There are other variables.
+
+In sum, no there is not really a “raw power level,” but as soon as you assume some contours of the likely metagame, those assumptions have implications such that we can reasonably talk about Deck A being more powerful than Deck B (if we agree on the assumptions) in Format Y. If the format has existed for months or years, finding those broad background assumptions about the metagame and agreeing on them is pretty easy—it happens without even knowing it. Thus, we can say that in Modern, Tribal Zoo is a more powerful deck than White Weenie.
+
+The Trade-offs
+
+The more you know about which decks your opponents will likely show up with (metagame evaluation—a skill but also a property of the circumstances like new format vs. old format, recent reliable large events are available or they aren’t), the more you can trade off raw power for rogue choices, well-positioned tier 2 decks, or a deck you just love to play.
+
+The better you are with a deck, the less you have to know about the metagame to select it (remember also that we bundled practice and tuning into “your ability” with the deck).
+
+The more raw power the deck has, the less you have to know about the metagame to select it. Our raw power calculus basically assumes this to be true—it’s how you concluded the deck had raw power. Sounds somewhat circular, but in practice this means that when you are down to two decks, one you regard as “more powerful” and another you think is “better specifically against Decks A, B, and C” you better be pretty sure people are showing up in large numbers with Decks A, B, and C before you pick that latter option.
+
+The True Master Has No Preferences, Only Abilities
+
+If a roman gladiator is more deadly with a spear than a sword, what should he do with his preference for the sword? He should ignore it. Reaching his opponent’s vital organs with the weapon he doesn’t prefer is always preferable to failing to reach the opponent’s vital organs with his favorite weapon. Being optimistic and comfortable before a fight but dead after is a tempting trap.
+
+So too with Goblin Guides and Mana Leaks instead of swords and spears.
+
+Now, if you don’t know whether your gladiator is best with a spear or a sword, you might ask him which he prefers, since the belief and reality correlate positively to some degree. But if you do already know which he is best with, that knowledge removes the need to ask for his preferences before arming him. Your goal as a Magic player is to know your strengths, and listen to your preferences only while you are trying to learn your strengths, but no further.
+
+This part is important but counter-intuitive: what matters is not how close to the deck’s ceiling you are, but how close to the format’s ceiling you are with the deck. Avoid latching on to local maxima when the global maximum is somewhere else.
+
+The problem is, your preferences will naturally tend to track against one or more local maxima, the deck’s ceiling, not the global maximum, the format’s ceiling. This is how people end up playing with Mana Leak when Goblin Guide is best. They’ll understand this intuitively but discard that dissonant intuition with stuff like, “well, if other people make the same choice (mistake) I did, I feel like I’ll have an edge in the mirror.” Maybe, maybe not, but you’ve already failed.
+
+“But,” said the careful reader and Pro Tour history addict, “Guillame Wafo-Tapa is in the Hall of Fame!”
+
+Even if Wafo could play Burn, and Burn was the best deck for the field, he would still be wise to play control given that he is Guillame Wafo-Tapa… Wait a second. Did you catch that? We’re granting allowances to Wafo that I don’t think we’d be willing to grant ourselves if everything written above is true. For all we knew, Wafo was skipping leg day his whole life, but he found enough tournaments where only upper-body strength mattered that he made the Magic Pro Tour Hall of Fame.
+
+I will strongly encourage you, again, to not skip leg day. If you’ve only got time to learn one deck at a time, switch decks every so often to get that core skill set with multiple archetypes.
+
+Maybe Wafo’s run of good fortune where the local control maximum was close to the global format maximum will or has come to an end and Wafo won’t quite win as much at Magic. No big deal, he’s having fun. But remember, I’m writing this for the gladiators. When your opponents figure out how to defend the sword, or Weapons of the Coast stops selling awesome swords, you will be killed.
+
+Maybe the Wafo that follows this article ends up Matt Sperling, a grinder who isn’t the best at any one thing and doesn’t have a HoF resume. But more likely he ends up Wrapter (Josh Utter-Leyton), a versatile HoF-level Pro who you really don’t want to face even on the weeks control isn’t that good. I suspect it’s the latter because all the Magic decks are hard. They’re all hard, trust me. He’s demonstrated skill with some, he’s capable of being good with the others. Wafo in our alternate universe (and maybe in our actual universe, there’s no way for me to know for sure) could still play control when it’s good but he could also play Wild Nacatl when Wild Nacatl is good, or Tempered Steel if Tempered Steel is good (Wrapter has done both).
+
+The Beauty of the Beauty Contest
+
+What you think is the best deck ultimately depends on what you think others will think is the best deck, based on what they think you and others will think is the best deck. The last step of determining how to attack the metagame once you’ve estimated it does involve taking stock of your abilities, but in my experience you will be better served in the medium and long term by reducing the weight you place on the abilities aspect of the decision, which will, by happy accident, get you the exposure to other deck types that you need to develop a well-rounded game.
+
+You don’t just want to win the PPTQ that’s in front of you, you want to win the PTQ or Top 8 the GP. And you don’t just want to qualify for the Pro Tour, you want to Top 25 that Pro Tour. And eventually, years later, you want (who are we kidding, I WANT) to become one of the best ever. If you don’t, I’m sure there’s a nice Commander article somewhere on this website you can check out.
+
+-Matt Sperling
+
+Mtg_law_etc on Twitter.

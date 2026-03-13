@@ -1,0 +1,15 @@
+Ads are part and parcel of being online, but they can be particularly annoying for mobile users. When playing games on a phone or tablet, it's all too easy to accidentally tap an ad you have absolutely no interest in, pulling you out of the game you were playing or the site you were reading. If you've cursed when this happened to you, Google hears you.
+
+The company is taking steps to make the "user experience" of ads a little better. It recognizes that advertisements that get clicked accidentally don't benefit anybody. They end up irritating the clicker, and are unlikely to be of value to the company that placed the ad. With around half of ad clicks being made by mistake, Google is now taking steps to stop this from happening -- great news for users and advertisers alike.
+
+In all, Google is making three key changes to ads that appear on smartphones and tablets, starting off by adding an unclickable border to the outer edges of advertisements. This should help to eliminate clicks that are made by mistake when trying to scroll through a page or click something else near an ad. To ensure that a tap was made on purpose, it needs to be made nearer the center of it.
+
+Some ads can appear on screen unexpectedly -- perhaps on a popup screen. To prevent these from being accidentally clicked, Google is introducing a time delay so that ads are inactive and unclickable for a short time after they first appear.
+
+The final changes tackles problems with in-app popup ads for other apps and games. In the past such an ad feature a clickable app icon which led to the relevant Google Play entry. Unfortunately the "close ad" cross button was part of this icon, making it incredibly easy to interact with the ad when trying to close it. From now on, the app icon will be inactive and a separate button will need to be hit to grab a copy.
+
+Introducing the changes, Google says:
+
+These latest click quality enhancements improve the user experience by keeping them within their desired website or app and not involuntarily taking them to another page. They also benefit advertisers by reducing costs from accidental clicks and improving conversion rates. To date, we’ve seen a 15% average conversion rate lift on display ads by driving more qualified clicks with these updates.
+
+Photo credit: Syda Productions / Shutterstock

@@ -1,0 +1,31 @@
+1 in 6 Nodes Now Support Bitcoin Classic
+
+The Bitcoin block size debate is still in effect as we speak, and things are heating up once again between Bitcoin Core and Bitcoin Classic supporters. Now that a working client for Bitcoin Classic users has been released, various Bitcoin nodes seem to be favoring this solution over Bitcoin Core. However, the battle is far from over, as not everyone is for supporting blocks that are larger than 2MB in size.
+
+Also read: Bitcoin Summer School Announced in Greece
+
+Bitcoin Classic Nodes on the Rise
+
+By taking a look at the number of Bitcoin Nodes active on the network right now, the picture becomes clear for anyone to see. Bitcoin Core nodes are still in the lead, with close to 4,000 nodes in operation at the time of publication. Keeping in mind how easy it has become to run a Bitcoin Node off of any device these days, that number could rise higher shortly.
+
+At the same time, Bitcoin Classic is starting to make its presence felt on the Bitcoin nodes list as well. With over 850 nodes in operation, Bitcoin Classic is gaining a lot of support from people who seem to favor a much larger block size shortly. However, this situation might not be viable for the Chinese miners, due to Internet restrictions in the country.
+
+This is one of the main reasons why Chinese mining pools have reluctantly agreed to increase the block size to 2MB for now, as the Bitcoin Core approach is far less taxing on their infrastructure. Mining Bitcoin requires a stable internet connection, and with Chinese connectivity being rather on the slow end, a major block size increase is not favorable.
+
+A recent post has surfaced on the Bitcoin.com forums, explaining how it is possible to run a Bitcoin Classic on a Synology device. Needless to say, these devices are always powered on and connected to the Internet, making them a perfect solution to run a node off of. Plus, Synology devices are housing tons of hard drive space, which removes any friction when it comes to storing the Bitcoin blockchain.
+
+But there is another interesting factor to take into account in this game of Bitcoin nodes. Up until a month ago, Bitcoin XT seemed to be the main contender to Bitcoin Core regarding increasing the block size. However, ever since Mike Hearn left the digital currency space, things have gone eerily quiet regarding that project. As a result, the number of Bitcoin XT nodes is dropping to just above 130, putting Bitcoin Classic in the second spot on the charts.
+
+Convincing the Miners is More Difficult
+
+While it is interesting to see so many people taking a liking to the idea of running a Bitcoin Classic node, it will not change matters much unless miners are on board as well. An interesting discussion thread has started on Reddit, asking users what it would take to switch to Bitcoin Classic as a miner.
+
+Changing the mind of mining pool operators may prove to be a daunting task, though. In a recent Bitcoin Roundtable letter, Bitfury, BTCC, F2Pool, BW Pool, and Ghash.io rejected the Bitcoin Classic solution altogether. This solution would hard fork the Bitcoin code, which could lead to two separate versions of Bitcoin competing with one another in the not-so-distant future.
+
+Keeping in mind how a successful adoption of Bitcoin Classic requires 75% – or more – of the hash power to activate the new block size, the debate is far from resolved. The increase in Bitcoin Classic nodes will certainly be interesting to watch, but ultimately, it will be up to miners and mining pools to choose whether they will adopt this solution.
+
+What are your thoughts on the number of Bitcoin Classic Nodes increasing? Let us know in the comments below!
+
+Source: Reddit
+
+Images courtesy of Bitcoin Classic, Shutterstock

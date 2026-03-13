@@ -1,0 +1,29 @@
+Another group of global banks helps Ripple span the world. Image: Shutterstock
+
+In 2015, when Ripple came out of the lab, we did more than rebrand as a company. We sharpened our focus and set our sights on our long-term goal: to interoperate the world’s banks and make cross-border payments truly efficient.
+
+Since then, we’ve announced our progress toward that goal where banks moved beyond blockchain experimentation and into commercial production. Today, following our Series B funding announcement, we have more good news.
+
+Ripple is proud to announce the addition of several more financial institutions to our growing network. Standard Chartered, National Australia Bank (NAB), Mizuho Financial Group (MHFG), BMO Financial Group, Siam Commercial Bank and Shanghai Huarui Bank are now among the global banks that have adopted Ripple’s settlement technology to improve their cross-border payments and offer their customers improved service.
+
+Ripple adds new banks to growing global network. Tweet This
+
+“2016 has proven to be the year where the most forward-thinking financial institutions are actually using blockchain technologies for payments and settlement rather than as an experiment,” said Ripple CEO and co-founder Chris Larsen. “The continued growth of the Ripple network represents a major endorsement of our open approach to connecting the world’s banks and their customers, and together we are building a modern payments system to enable new economic opportunities and the seamless flow of value around the world.”
+
+Banks that join our growing network can take advantage of Ripple’s distributed financial technology, which can drastically reduce the time and cost of settlement and enable new types of high volume, low value global transactions for their customers. While the use cases vary from retail remittances to corporate disbursements, each of these financial institutions have successfully used Ripple to transfer real money payments, and all are working to implement the technology in commercial production.
+
+Notably among them, Standard Chartered offers their corporate customers access to new types of interbank payment services across and even beyond its global network. Similarly, Shanghai Huarui Bank is using Ripple to launch a new commercial peer-to-peer remittance service to its growing retail customer base, so they can send money internationally in real-time and at a much lower cost.
+
+Today’s news follows SBI Ripple Asia’s announcement from last month on the creation of a Japanese consortium of 15 banks that will use Ripple’s technology for payments and settlement. Our joint venture, SBI Ripple Asia, projects that the 15 inaugural members will increase the size of the consortium to 30 banks and that the new service will go live in spring of 2017.
+
+Our customers are optimistic and enthusiastic about this seismic shift in payment and settlement technology.
+
+“With over $155 trillion of cross-border payments being made between businesses annually, it is crucial that we continue to innovate to make international payments easier and faster not just for our clients but also for the future of the payments industry. As a leading international bank committed to facilitating trade, commerce and investments, this partnership will go a long way in progressing our digitization agenda to develop innovative solutions for our clients.”
+
+—Gautam Jain, Global Head, Digitization and Client Access, Transaction Banking, Standard Chartered
+
+We’re building on our already extensive network of customers, some of which we announced earlier this year. This list includes Santander, UniCredit, UBS, Royal Bank of Canada (RBC), ReiseBank, CIBC, National Bank of Abu Dhabi (NBAD), ATB Financial, Fidor Bank, and Westpac Banking Corporation, among others.
+
+As the only provider of enterprise-grade distributed financial technology solutions, Ripple’s global network now includes 15 of the top 50 global banks, 10 banks in commercial deal phases, and over 30 banks that have completed pilots. This list includes other institutions currently using Ripple’s solutions, yet to be announced.
+
+Our network is growing by leaps and bounds, but we’ve only just begun. Stay tuned for even more news from Sibos 2016.

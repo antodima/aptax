@@ -1,0 +1,55 @@
+Mr.Gas has just shared a new method to dump games and apps without PFS protection from your PSVita.
+
+This method will require the access to your app.db file, so it can be used only with Firmware 3.52 or lower since the mail app trick to get your app.db has been fixed by Sony starting from Firmware 3.55.
+
+These are the instructions shared by Mr.Gas:
+
+most of the work are going to be in app.db
+
+1- add a value in table tbl_uri like the following
+
+NPXS10000;1;ux0;
+
+2- modify NPXS10000 eboot.bin path in tbl_appinfo to vs0:app/NPXS10027/eboot.bin
+
+3- overwrite the modified app.db using email app and reboot
+
+4- now use the browser to call the new uri with your target game . example :
+
+ux0:app/PCSA00017
+
+apparently near app will open the game manual.
+
+5- minimize near then dump the game using the psp pboot trick and QCMA (while the near app still open)
+
+6- end of th story .. and have fun
+
+.
+
+tested in fw 3.18 and above
+
+//
+
+So, more precisely, you need to:
+
+Get the app.db file from your PSVita using the mail trick (you can follow the Step 1 of THIS tutorial)
+
+of THIS tutorial) Open the app.db file on your PC with SQLiteBrowser, browse data in tbl_uri and add a new record inserting as values: NPXS10000 , 1 and ux0 (the fourth field must remain NULL ):
+
+
+
+and add a new record inserting as values: , and (the fourth field must remain ): Now browse data in the table tbl_appinfo and search for the key 3022202214 , you should get the values of the following image:
+
+
+
+You have to change only the value under the val column, that will have to become vs0:app/NPXS10027/eboot.bin
+
+and search for the key , you should get the values of the following image: You have to change only the value under the column, that will have to become Write changes and send back the app.db file to your PSVita using the mail trick (you can follow the Step 4 of THIS tutorial) and reboot the console.
+
+of THIS tutorial) and reboot the console. Open the internet browser of your PSVita and insert as URL the address ux0:app/ followed by the ID of the game/app you want to dump, for example: ux0:app/PCSA00017 . This should open Near app with the game manual.
+
+followed by the ID of the game/app you want to dump, for example: . This should open app with the game manual. Minimize Near app ( don’t close it! ) and use the PBOOT trick to dump your Memory Card content (you can find a tutorial about this procedure HERE)
+
+app ( ) and use the PBOOT trick to dump your Memory Card content (you can find a tutorial about this procedure HERE) Now you’ll find the game/app files dumped in your Memory Card
+
+Source

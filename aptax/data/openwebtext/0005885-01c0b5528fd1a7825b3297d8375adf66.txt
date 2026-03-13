@@ -1,0 +1,55 @@
+View the most recent version.
+
+Information identified as archived is provided for reference, research or recordkeeping purposes. It is not subject to the Government of Canada Web Standards and has not been altered or updated since it was archived. Please " contact us " to request a format other than those available.
+
+This is the first release of data from the new Canadian Income Survey ( CIS ). It is based on annual income information for the 2012 reference year.
+
+Median after-tax income of Canadian families of two or more people was $71,700 in 2012.
+
+Four provinces, Ontario, Saskatchewan, Alberta and British Columbia, saw families of two or more people with higher median after-tax income than for Canada as a whole. Families in Alberta had the highest median ($92,300), followed by Saskatchewan ($77,300), Ontario ($73,700) and British Columbia ($72,200).
+
+Families in Alberta not only had the highest median after-tax income, they also had the highest median market income at $102,700. Since the tax system is directly tied to income earned and some transfers are tied to income, families in the province also had the highest median income tax paid ($15,600) and the lowest median government transfers ($2,400).
+
+This was also the case for unattached individuals, as those in Alberta had the highest median after-tax income ($36,500), market income ($37,000) and income tax paid ($4,300). They also had the lowest median government transfers ($400).
+
+Median after-tax income by family type
+
+Among senior families, those where the highest income earner was 65 or older, the median was $52,300, while for non-senior families it was $76,900.
+
+For two-parent families with children, median after-tax income was $84,600, while for lone-parent families headed by a woman, the median was $39,100.
+
+For the unattached, median after-tax income was $27,300 in 2012. Unattached seniors had a median income of $25,000, while non-seniors received $28,300.
+
+Components of after-tax income
+
+After-tax income is the total of market income and government transfers, less income tax. Market income consists of earnings, private pensions as well as income from investments and other sources such as support and disability payments.
+
+Median market income for families of two or more people was $71,900 in 2012. Among families with children, two-parent families had a median of $91,700, while female lone-parent families had a median of $25,000.
+
+Among the unattached, median market income was $9,300 for seniors and $29,100 for non-seniors.
+
+In 2012, 18.7 million Canadians aged 16 or over received $138.8 billion dollars in government transfers. One-quarter of recipients of government transfers were seniors and they received just over half of the total transfers paid. Almost all (94.1%) of this amount for seniors comes from Old Age Security, Guaranteed Income Supplement, Canada Pension Plan and Quebec Pension Plan programs.
+
+Transfers received varied widely by family type. For non-senior families, median government transfers amounted to $3,500 in 2012, while for senior families, the median was $26,000. For female lone-parent families, the median was $10,300, while for two-parent families, it was $4,300.
+
+The median amount of income tax, including both federal and provincial, paid by senior families was $3,200 in 2012, while the median paid by non-senior families was $11,600.
+
+Incidence of low income
+
+According to the after-tax low-income measure ( LIM-AT ), 4.7 million people, or 13.8% of the population, lived in low income in 2012. The LIM-AT is an internationally used measure of low income. The concept underlying the LIM-AT is that a household has low income if its income is less than half of the median income of all households.
+
+For children aged 17 and under, 16.3% lived in low income in 2012; however, their situations varied depending on their family structure. For children living in two-parent families, the incidence was 12.9%, while for those living in lone-parent families headed by a woman, the incidence was 44.5%.
+
+For seniors living in an economic family, the incidence was 6.2%, while for seniors living alone, the rate was 28.5%.
+
+Note to readers This is the first release of data from the new Canadian Income Survey ( CIS ). It is based on annual income information for the 2012 reference year. The CIS reports on many of the same statistics, such as individual and family income, as the Survey of Labour and Income Dynamics ( SLID ), which last reported on income for the 2011 reference year. The 2012 CIS uses a different methodology compared with that used in SLID . Comparisons of CIS and SLID reveal differences in estimates between 2011 and 2012 that are attributable to the two surveys having different methods, rather than a true change in the characteristics of the population. For more information on the differences between CIS and SLID , see the report "Note to Users of Data from the 2012 Canadian Income Survey." Statistics Canada will release results from the 2013 CIS in July 2015. This will be a first step towards the generation of a new income series using CIS data. As annual statistics on income are more informative when comparisons can be made over time, by December 2015, Statistics Canada will release a revised series of income statistics that will allow for the comparison of 2012 and 2013 data to earlier years. Until revised historical statistics are prepared and analyzed to ensure that they are as comparable as possible to the current CIS results, the results of the CIS should not be compared with those produced by the SLID or other previous income surveys. It is valid to compare estimates for different subpopulations within the CIS , such as estimates for different provinces or demographic groups. This release examines the income of economic families and unattached individuals, as well as low income in Canada. An economic family refers to a group of two or more persons who live in the same dwelling and are related to each other by blood, marriage, common-law, adoption or a foster relationship. This release largely analyses income on the basis of medians. The median is the level of income at which half the population had higher income and half had lower. This analysis reports on low income solely on the basis of the after-tax low income measure ( LIM-AT ). Previous releases had provided analysis based on the Low-income Cut-off ( LICO ). While many low-income measures, including the LICO , are well suited to the analysis of trends in low income, the LIM-AT is better suited to the analysis of low income in the CIS because the threshold level of income below which one is considered to have low income is itself derived from the households that responded to the survey. Other low income lines (the LICO and Employment and Social Development Canada's Market Basket Measure) are available in the article "Low Income Lines, 2012-2013," as part of the Income Research Paper Series (Catalogue number75F0002M), and low-income statistics based on each of the lines are available in CANSIM tables 206-0003 and 206-0004.
+
+The report "Note to Users of Data from the 2012 Canadian Income Survey," as part of Canadian Income Survey Products (Catalogue number75-513-X), is now available from the Browse by key resource module of our website under Publications. This report describes the Canadian Income Survey ( CIS ) methodology, as well as the main differences in survey objectives, methodology and questionnaires between CIS and the Survey of Labour and Income Dynamics.
+
+The article "Low Income Lines, 2012-2013," as part of the Income Research Paper Series (Catalogue number75F0002M), is also now available from the Browse by key resource module of our website under Publications.
+
+Custom tabulations are also available upon request.
+
+Contact information
+
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll-free 1-800-263-1136; 514-283-8300; infostats@statcan.gc.ca) or Media Relations (613-951-4636; statcan.mediahotline-ligneinfomedias.statcan@canada.ca).

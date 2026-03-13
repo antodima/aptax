@@ -1,0 +1,53 @@
+Genome Biology has published research investigating the effect of lifetime stressors on DNA methylation-based age predictors. We asked co-author Anthony Zannas to explain more about what it means.
+
+Stress may change DNA methylation patterns Flickr
+
+What is meant by epigenetic aging?
+
+Epigenetic aging is a measure that uses DNA methylation levels to predict an individual’s age. It takes into account the methylation levels of many sites from different parts of the genome. What these sites have in common is that they correlate strongly with chronological age.
+
+Several DNA methylation-based predictors of age have been developed. The most widely used is the multi-tissue predictor developed by Steve Horvath. Using this marker, DNA methylation-predicted age correlates strongly with chronological age at a population level.
+
+However, in some individuals DNA methylation age differs substantially from the actual age, and we posit that the difference between the two is a measure of accelerated aging. This epigenetic age acceleration appears to be a promising biomarker for aging research, as it has now been linked with a number of aging-related diseases, including physical and cognitive decline, obesity, lung cancer, and all-cause mortality.
+
+Can you briefly describe how stress factors can lead to altered DNA methylation?
+
+Stress has many ways of ‘getting under the skin’.
+
+Stress has many ways of ‘getting under the skin’. One way is through the secretion of glucocorticoids, hormones that are secreted from the adrenal gland into the blood when people are under stress and affect nearly every organ and cell in the body.
+
+The main glucocorticoid in humans is cortisol, which binds to and activates glucocorticoid receptors that act as transcription factors. Specifically, these receptors bind to specific DNA response elements and regulate the expression levels of a large number of target genes.
+
+Interestingly, glucocorticoid receptors not only affect gene transcription, but upon binding to target genes they can also change their DNA methylation state, and in some cases these changes can last long after cessation of the stressor.
+
+What were your main findings?
+
+We examined a highly traumatized cohort of African American individuals and found that exposure to more stress throughout the lifetime was associated with accelerated epigenetic aging.
+
+This effect was not seen with only childhood or recent stress and the effects were most pronounced in older individuals, so it appears that stress exposure accumulates to eventually affect the epigenome as one grows older.
+
+This effect was also more evident for personal stressors – stressors that affect the individual directly, for example; divorce, unemployment, and financial stressors. Whereas it was much weaker for network stressors – stressors affecting the individual’s social network, such as knowing someone who was robbed.
+
+Moreover, we also found that many of the age-related DNA methylation sites used to calculate epigenetic aging are located at glucocorticoid binding sites and undergo changes in methylation when individuals are exposed to a synthetic glucocorticoid, called dexamethasone.
+
+So it could be that high levels or dysregulated cortisol secretion in individuals exposed to more stress are driving these effects on epigenetic aging.
+
+Lastly, we found that genes near these age-related sites also undergo changes in expression following dexamethasone and many of these genes are implicated in aging-related diseases, including coronary artery disease, arteriosclerosis, and leukemias.
+
+How does this build on what is currently known from the literature?
+
+It has been known that chronic or excessive stress can increase the risk for aging-related diseases, but the molecular mechanisms that explain this relationship have been unknown.
+
+It has been known that chronic or excessive stress can increase the risk for aging-related diseases, but the molecular mechanisms that explain this relationship have been unknown. So how does stress ‘get under the skin’ to increase the risk of certain diseases?
+
+It is also known that DNA methylation changes occur with increasing age and are associated with aging-related diseases. So it seemed likely that the effects of stress on aging-related disease could be in part mediated via changes in DNA methylation induced by glucocorticoid receptor activation.
+
+Our study supports this hypothesis, since it shows that stress accelerates epigenetic aging, and further suggests that this effect could be mediated by the molecular effects of cortisol.
+
+What are the implications of your findings?
+
+Our findings suggest that epigenetic changes could be an important, but by no means the only, contributing factor to the detrimental effects of stress on declining health as one grows older. These effects can be cumulative and lasting, and they might be evident in particular vulnerable populations such as those prone to high levels of stress.
+
+For example, we know that individuals exposed to high levels of childhood maltreatment are also likely to have high levels of adult stress later in life. This lifelong accumulation of stressors in highly traumatized individuals may eventually exceed the capacity of the epigenome to maintain itself and contributes to worse physical health that is observed in these populations.
+
+Monitoring epigenetic age may be a possibility to target early intervention in high-risk individuals. Understanding the mechanisms of accelerated epigenetic aging could also allow the development of strategies for prevention or even reversal of such effects and, hopefully, a reduction in stress- and aging-associated disease risk.

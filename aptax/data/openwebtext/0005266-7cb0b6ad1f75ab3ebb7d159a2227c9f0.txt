@@ -1,0 +1,25 @@
+Monero is a leading cryptocurrency with focuses on privacy and decentralization. Though it has a publicly-verifiable blockchain, it protects the safety and security of the sender and recipient by obscuring information stored on it.
+
+
+
+Monero is different than Bitcoin and even other privacy-focused coins since every transaction is always private. An optional sharing of information is done off-chain. During this meeting, we will discuss the technologies behind Monero, their impact, and future improvements. Monero is a completely open-source and decentralized project that works to empower individual with powerful tools to protect their privacy.
+
+
+
+Justin Ehrenhofer has been an active Monero contributor for more than two years. He has spoken about Monero at dozens of groups throughout Europe and the United States. He heads the Monero community workgroup, which includes biweekly community meetings, monthly coffee chats, and distribution of the Monero Meetup Kits (Free Swag!!). Justin is a junior at the University of Minnesota, and he is the co-president of Crypto@UMN.
+
+
+
+NOTE: Lunch will be sponsored by Dave Kruse, Co-founder of Augment (https://www.linkedin.com/in/davekruse/). Please contact Sid Ramesh ([masked]) or Eric Orthey ([masked]) by Thursday, Dec 7 if you have any dietary restrictions.
+
+
+
+Agenda:
+
+
+
+12-12:15 - Welcoming Remarks and Lunch
+
+12:15-1:15 - Presentation by Justin
+
+1:15-1:30 - Q&A and Networking

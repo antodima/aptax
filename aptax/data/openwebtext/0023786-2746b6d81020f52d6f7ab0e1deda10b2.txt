@@ -1,0 +1,37 @@
+Microsoft has been on a roll lately. Its massive Windows 10 update ‘Threshold 2’ has far more good features than bad ones, the ‘free upgrade’ rules have been improved and even Microsoft’s Black Friday 2015 deals are surprisingly great. But a new discovery has been made which isn’t good news - at all…
+
+Earlier this month Microsoft finally went on record admitting that automatic spying within Windows 10 cannot be stopped. This sparked a lot of outrage and with ‘Threshold 2’ it appeared Microsoft had done a sharp U-turn because the background service at the heart tracking (the ‘Diagnostics Tracking Service’ aka ‘DiagTrack’) appeared to have been removed. Critics celebrated and it was another well deserved pat on the back for Microsoft.
+
+Except it turns out Microsoft had just been very sneaky. What Tweakhound discovered and was subsequently confirmed by BetaNews, is Microsoft simply renamed DiagTrack. It is now called the ‘Connected User Experiences and Telemetry Service’ - which is both a) deliberately vague, and b) misleading (don’t ‘Connected User Experiences’ sound great).
+
+Even sneakier is, in being renamed, Microsoft also reset users preferences. Those who dug deep into the Windows 10 registry to disable DiagTrack will find it has been re-enabled now it is called the Connected User Experiences and Telemetry Service. Yes, tracking is back and without any warning and your preferences were irrelevant.
+
+The good news is you can disable the Connected User Experiences and Telemetry Service the same way as DiagTrack:
+
+Hold down the Windows key and tap the R key In the box that opens type ‘services.msc’ and press the Enter key In the ‘Services (Local)’ section locate ‘Connected User Experiences and Telemetry’ and double-click it In the ‘Service status’ section click ‘Stop’ Under the ‘Startup type’ drop down menu select ‘Disabled’ and then confirm this and close the window by clicking ‘OK’
+
+Note: it is advisable to disable Not delete the service. Deleting it can cause problems
+
+So what is Microsoft thinking here? I've reached out to the company but, despite recognising my enquiry, it has yet to issue a statement. I'll update this post when it does.
+
+While Microsoft thinks about what to say, I'd say the problem with the DiagTrack rebrand is the company wasn’t thinking. Subtle under the hood changes will always be picked up for such a high profile product. That said such a move is consistent with the negatives in Threshold 2 namely: it resets many user preferences (including basics like your preferred web browser) if they weren’t Microsoft product/services as well as silently deleting third party system monitoring apps like: CPU-Z, speccy, 8gadgetpack, SpyBot, HWMonitor and more.
+
+In my opinion it is this kind of overriding desire for control and a disregard for user choices which is harming Windows 10. At its core Windows 10 is a modern and highly capable platform, but it has been buried under ludicrous layers of control. Worst still it has created a two tier customer base where consumers are forced to take updates which businesses can delay, effectively turning everyday users into bug testers for corporations.
+
+It all feels unsavoury and unnecessary and (while it could be coincidence) there has been a dramatic slowdown in Windows 10 growth after an explosive beginning. For the first ever Free version of Windows, that’s not great.
+
+How can Microsoft reignite the love for Windows 10? I’d say a good start would be to stop doing daft things like this…
+
+___
+
+Follow Gordon on Twitter, Facebook and Google+
+
+More On Forbes
+
+Microsoft ‘Black Friday’ 2015 Deals Are Surprisingly Great
+
+Microsoft Makes Windows 10 ‘Free Upgrade’ Rule Changes
+
+Microsoft Makes Windows 10 Upgrades Automatic For Windows 7 And Windows 8
+
+Microsoft Admits Windows 10 Automatic Spying Cannot Be Stopped

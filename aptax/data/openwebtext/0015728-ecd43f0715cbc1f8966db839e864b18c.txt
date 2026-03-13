@@ -1,0 +1,97 @@
+Introduction
+
+If you develop AngularJS applications, then you have probably heard of Protractor. It is an end-to-end testing framework built specifically for AngularJS. It allows you to create tests that interact with a browser like a real user would. One of the greatest features of Protractor is its ability to “be smart” about waiting for a page to load, limiting the amount of waits and sleeps you use in your suite. Protractor is also incredibly flexible in that it allows you to incorporate different behavior-driven development (BDD) frameworks like Cucumber into your workflow. In this tutorial, you’ll learn how to implement the Cucumber.js framework with Protractor.
+
+Protractor and BDD
+
+Out of the box, Protractor supports Jasmine. Jasmine allows you to write your specs based on the behavior of the application. This is great for unit tests, but may not be the preferred format for business-facing users. What if your business team wants the ability to see a higher-level view of what your suite is testing against? This is where Cucumber comes in.
+
+Cucumber is another BDD framework that focuses more on features or stories. It mimics the format of user stories and utilizes Gherkin. Cucumber provides your team with living documentation, built right into your tests, so it is a great option for incorporating with your Protractor tests. It also allows you to better organize suites of tests together with tags and hooks. Cucumber.js is the well-documented Javascript implementation of the framework and can be easily incorporated in your Protractor tests.
+
+Prerequisites
+
+There are a few things needed before you can work with Protractor. Make sure you have the latest versions of the following installed:
+
+Protractor requires Node and the development kit is needed for the Selenium Server.
+
+Starting with Protractor
+
+Install Protractor by running npm install -g protractor . You can double- check your installation by running protractor --version .
+
+Let’s take a look at the structure of a Protractor test. There are two core files needed for a suite to run — a spec file and a configuration file. The spec file contains the code needed to interact with the browser. The config file sets up the environment, framework, capabilities, and where to find your specs.
+
+Below are examples of basic config and spec files:
+
+//protractor.conf.js exports . config = { seleniumAddress : ' http://localhost:4444/wd/hub ' , specs : [ ' *.spec.js ' ], baseURL : ' http://localhost:8080/ ' , framework : ' jasmine ' , };
+
+//test.spec.js describe ( ' Protractor Test ' , function () { var addField = element ( by . css ( ' [placeholder="add new todo here"] ' )); var checkedBox = element ( by . model ( ' todo.done ' )); var addButton = element ( by . css ( ' [value="add"] ' )); it ( ' should navigate to the AngularJS homepage ' , function () { browser . get ( ' https://angularjs.org/ ' ); //overrides baseURL }); });
+
+The describe and it blocks within test.spec.js are specific to Jasmine, the default BDD framework for Protractor.
+
+In order to run Protractor, you will need to first start the Selenium Server. Protractor includes a webdriver-manager tool that starts up your server. In a separate terminal tab, run the webdriver-manager update command. This downloads the necessary selenium server and chromedriver components. Then run webdriver-manager start to start up the server.
+
+Then you can use protractor protractor.conf.js in the terminal to run the test spec. Now, let’s incorporate Cucumber features into your Protractor suite.
+
+Cucumber Setup
+
+Note: With the latest versions of Protractor (3.x), Cucumber is no longer included by default so you will use the custom framework option.
+
+First, you need to install Cucumber with npm install -g cucumber . Make sure it is installed in the same place as Protractor. Next, you’ll have to install the protractor-cucumber-framework with npm install --save-dev protractor-cucumber-framework . This iteration is designed with Protractor 3.x in mind. When the installation completes, you can write out a feature. In the project, create a features folder with a test.feature feature file. All of your features will be housed in this folder.
+
+Below is an example of a feature file:
+
+#features/test.feature Feature: Running Cucumber with Protractor As a user of Protractor I should be able to use Cucumber In order to run my E2E tests Scenario: Protractor and Cucumber Test Given I go to "https://angularjs.org/" When I add "Be Awesome" in the task field And I click the add button Then I should see my new task in the list
+
+Save the file and run cucumber.js to see how Cucumber processes the feature. Below is a snippet:
+
+Feature : Running Cucumber with Protractor As a user of Protractor I should be able to use Cucumber In order to run my E2E tests Scenario : Protractor and Cucumber Test Given I go to " https://angularjs.org/ " When I add " Be Awesome " in the task field And I click the add button Then I should see my new task in the list 1 ) Scenario : Protractor and Cucumber Test - features / test . feature : 6 Step : Given I go to " https://angularjs.org/ " - features / test . feature : 7 Message : Undefined . Implement with the following snippet : this . Given ( / ^ I go to "( [ ^ "] * )" $ / , function ( arg1 , callback ) { // Write code here that turns the phrase above into concrete actions callback ( null , ' pending ' ); }); 1 scenario ( 1 undefined ) 3 steps ( 3 undefined ) 0m00 . 000s
+
+Cucumber creates the necessary steps that your spec, called step definition, needs automatically based on the feature file.
+
+this . Given ( / ^ I go to "( [ ^ "] * )" $ / , function ( arg1 , callback ) { // Write code here that turns the phrase above into concrete actions callback ( null , ' pending ' ); });
+
+You can copy and paste those code snippets into a new step definition file. Save that file in a new step_definitions folder within the features folder. From there, you can write out your steps using Protractor functions and locators. Your step definition will look similar to this:
+
+//features/step_definitions/my_step_definitions.js module . exports = function () { this . Given ( / ^ I go to "( [ ^ "] * )" $ / , function ( site , callback ) { browser . get (site) . then (callback); });
+
+What is that .then(callback); for? It let’s Cucumber know it’s time to move on to the next step. However, asynchronous behavior sometimes isn’t needed, so omitting the callback parameters is acceptable. Read more on how Cucumber.js handles promises and asynchronous behavior in the project’s repository.
+
+Now, in order to run these, you will need to make a few adjustments to the protractor.conf.js file. As mentioned before, Cucumber is no longer included by default for Protractor 3.x so you will pass in the custom option for your framework plus a few extras for the Cucumber framework itself.
+
+//protractor.conf.js exports . config = { seleniumAddress : ' http://127.0.0.1:4444/wd/hub ' , getPageTimeout : 60000 , allScriptsTimeout : 500000 , framework : ' custom ' , // path relative to the current config file frameworkPath : require . resolve ( ' protractor-cucumber-framework ' ), capabilities : { ' browserName ' : ' chrome ' }, // Spec patterns are relative to this directory. specs : [ ' features/*.feature ' ], baseURL : ' http://localhost:8080/ ' , cucumberOpts : { require : ' features/step_definitions/stepDefinitions.js ' , tags : false , format : ' pretty ' , profile : false , ' no-source ' : true } };
+
+The setup is still very similar to your original config file. To use Cucumber.js, you should update the framework and add a framework path to include the module downloaded earlier. Next, add a few cucumberOpts that specify where to find the step definition files, any necessary tags, the desired output format, and if a profile is needed.
+
+You can now run the protractor cucumber.conf.js command and you should see a browser pop up and navigate to the desired URL. You have successfully coupled Cucumber with your Protractor tests.
+
+Assertions: Chai and Chais-As-Promised
+
+Since you’re using the custom framework option with Protractor you’ll need to add an assertion library like Chai — a popular choice. Chai allows us to write assertions in a simple, readable style — such as the familiar expect syntax in expect(element.getText()).to.eventually.equal('Name'); .
+
+To install, you should run npm install chai chai-as-promised . Within the step definition file, add the following lines to the top of the file:
+
+var chai = require ( ' chai ' ); var chaiAsPromised = require ( ' chai-as-promised ' ); chai . use (chaiAsPromised); var expect = chai . expect ;
+
+You will now be able to include assertions in your tests. Let’s build out your previous test more to see Chai in action.
+
+//features/step_definitions/my_step_definitions.js var chai = require ( ' chai ' ); var chaiAsPromised = require ( ' chai-as-promised ' ); chai . use (chaiAsPromised); var expect = chai . expect ; module . exports = function () { this . Given ( / ^ I go to "( [ ^ "] * )" $ / , function ( site ) { browser . get (site); }); this . When ( / ^ I add "( [ ^ "] * )" in the task field $ / , function ( task ) { element ( by . model ( ' todoList.todoText ' )). sendKeys (task); }); this . When ( / ^ I click the add button $ / , function () { var el = element ( by . css ( ' [value="add"] ' )); el . click (); }); this . Then ( / ^ I should see my new task in the list $ / , function ( callback ) { var todoList = element . all ( by . repeater ( ' todo in todoList.todos ' )); expect ( todoList . count ()). to . eventually . equal ( 3 ); expect ( todoList . get ( 2 ). getText ()). to . eventually . equal ( ' Do not Be Awesome ' ) . and . notify (callback); }); };
+
+With this test, you should see a failed step in your output. You added “Be Awesome” to the task list, but are expecting to see “Do not Be Awesome” in the list. Your test fails as expected, with the following assertion error:
+
+Failures : 1 ) Scenario : Protractor and Cucumber Test - features / test . feature : 6 Step : Then I should see my new task in the list - features / test . feature : 10 Step Definition : features / step_definitions / stepDefinitions . js : 23 Message : AssertionError : expected ' Be Awesome ' to equal ' Do not Be Awesome ' 1 scenario ( 1 failed) 4 steps ( 1 failed, 3 passed)
+
+Now that Cucumber is incorporated, you can see which step failed along with the assertion error. This makes things a little easier when troubleshooting failures as it gives the context of the failure within the output. Changing “Do not Be Awesome” to “Be Awesome” should pass your test.
+
+Tips and Tricks
+
+Even though you have the core test structure set up now, there are a few enhancements worth considering.
+
+Move the Chai and Chai-as-promised plugins to Cucumber’s world.js . This will keep you from having to add those to each step definition file. Check out the Cucumber.js repo for more information on support files.
+
+. This will keep you from having to add those to each step definition file. Check out the Cucumber.js repo for more information on support files. Use Cucumber tags and profiles with protractor cucumber.conf.js --cucumberOpts.tags @tagName or protractor cucumber.conf.js --cucumberOpts.profile Name . Don’t forget to add your tags and profiles under CucumberOpts in your configuration file.
+
+or . Don’t forget to add your tags and profiles under CucumberOpts in your configuration file. Use Page Objects in your tests. That will allow you to store each of your locators in one location, making them easier to manage. The Protractor wiki has a great resource for creating simple, efficient Page Objects.
+
+Conclusion
+
+To recap, you learned about the basic structures of both Protractor and Cucumber.js frameworks and how to build features that run seamlessly with the Angular testing tool. Incorporating Cucumber with Protractor is fairly simple and it gives you the opportunity to create tests that are readable for your team as well as build simple documentation for your application at the same time. Have you used Cucumber with your Protractor tests? Let us know!

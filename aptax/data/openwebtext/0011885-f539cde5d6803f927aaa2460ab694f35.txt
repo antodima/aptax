@@ -1,0 +1,19 @@
+IC3RE has started a collaboration with the IOTA Foundation as part of the Outlier Venture research and development programme.
+
+The College will work with the IOTA Foundation in two key ways designed to bring the IOTA protocol closer to real-world adoption and to increase the utility of this breakthrough new approach to distributed ledger technology.
+
+The Imperial team of students and leading professors will work with the IOTA Foundation to conceptualise and build new Proof of Concepts on top of the IOTA protocol. Work will be undertaken in areas such as mobility, infrastructure and of course Internet of Things innovation.
+
+Building on initial work by the IOTA Foundation, teams from Imperial will focus on visualising transactions occurring across the IOTA Tangle. The Tangle is the IOTA protocol’s innovative, non-linear, distributed ledger architecture. The team will focus on visualising the IOTA ‘Mainnet’, which is in live operation today as well as visualising a range of planned stress-tests focused on running thousands of transactions per second across the IOTA network.
+
+Dr Catherine Mulligan, Co-Director for Cryptocurrency Research and Engineering at Imperial commented: "The IOTA protocol is an extremely exciting new approach to distributed ledger technology that promises huge scalability and economic improvements over traditional blockchains.
+
+"Imperial is home to some of the brightest young minds in cryptocurrency that will relish the opportunity to help build IOTA's capabilities further."
+
+Imperial has proven its leading massive-scale data visualisation capabilities having created a real-time data visualisation of Bitcoin, showing the global adoption and topology of Bitcoin globally as transactions occur.
+
+Unlike traditional blockchains, transactions occurring across the Tangle network are not sequential and are not based on ‘blocks’. This is key to IOTA's ability to scale dramatically using its innovative Distributed Acyclic Graph technology to handle thousands of transactions per second, dwarfing the scalability of both the Bitcoin and Ethereum blockchains.
+
+Today, the Bitcoin network is capable of processing circa five transactions per second and the Ethereum blockchain around 20, which is severely limiting the utility of both networks. Recently, SatoshiPay announced its intention to switch from Bitcoin to IOTA in order to handle micropayments based on a truly scalable solution.
+
+William Knottenbelt, Professor of Applied Quantitative Analysis at Imperial College explains what this means for students: "Our students want to be working with the very latest Open Source technology to hone their skills and contribute to projects that have the potential to change the world. I’m already receiving requests to begin investigating IOTA."

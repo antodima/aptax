@@ -1,0 +1,49 @@
+By Erica Verrillo
+
+For decades, a heated debate has raged over the nature of the illness known variously as chronic fatigue syndrome (CFS) and/or myalgic encephalomyelitis (ME). Historically, the two warring camps have been divided between “it’s all in their heads” and “we’re still looking.” But while both sides have consistently referred to CFS/ME as an “enigma,” it turns out the source of the illness may very well have been under everyone’s nose the whole time.
+
+In the May 2013 issue of Discover Magazine, an article by Jill Neimark bearing the intriguing title, “Are B-Cells to Blame for Chronic Fatigue Syndrome?,” chronicled a remarkable discovery: wiping out the B-cells of patients with CFS/ME can actually cure the illness.1
+
+In 2007 Øystein Fluge and Olav Mella, two Norwegian oncologists at Haukeland University Hospital in Bergen, Norway, accidentally discovered that rituximab, a drug employed to treat Hodgkin’s lymphoma (as well as autoimmune disorders such as rheumatoid arthritis and Wegener’s granulomatosis) cured several of their patients with CFS/ME. The news made instant headlines.
+
+Inspired by their success, Fluge and Mella conducted a pilot study of rituximab on three patients with CFS/ME. The patients were given rituximab in an open-label trial (that is, the patients knew they were receiving the drug). All three patients experienced significant improvement; two of them responded within six weeks and the third had a delayed response, occurring six months after treatment. The positive effects lasted for between 16 and 44 weeks. After relapse, the patients were administered another dose of rituximab, with the same positive results. The investigators hypothesized that B-cells of the immune system might play a significant role in CFS, at least for a subset of patients, and that “CFS may be amenable to therapeutic interventions aimed at modifying B-cell number and function.”2
+
+The positive results of this, as well as a second open-label trial, led Drs. Fluge and Mella to conduct a larger study with a more rigorous design to test the effects of the drug. In 2009 they initiated a double-blind, placebo-controlled phase trial with 30 CFS/ME patients. As in the earlier open-label studies, the responses to rituximab were significant. Sustained overall improvements were noted in 67% of the patients (as opposed to 13% of the control group). Four of the rituximab patients showed improvement past the study period. The authors concluded that the delayed responses starting from 2–7 months after rituximab treatment, in spite of rapid B-cell depletion, “suggests that CFS is an autoimmune disease and may be consistent with the gradual elimination of autoantibodies preceding clinical responses.”3
+
+The unprecedented success of these small trials has led to a $2.1 million privately funded initiative spearheaded by the Norwegian nonprofit group, ME and You.4
+
+This is all very topical, but is it news? Dr. Paul Cheney, an immunologist, and one of the physicians who treated CFS/ME patients during the Incline Village outbreak, stated nearly thirty years ago that CFS/ME was the result of immune system upregulation. In fact, the prevailing theory during the 1980s and 1990s was that the immune systems of people with CFS simply did not shut off after the initial infection, but remained on “high.” This was considered the driving force behind CFS/ME, and, not coincidentally, is the basis for autoimmune disease.
+
+Nonetheless, the idea that CFS/ME might be an autoimmune disease languished for decades, even though the on-the-ground evidence has been apparent all along. The waxing and waning symptoms that are typical of CFS/ME are also typical of autoimmune diseases. Frequent comorbidities of CFS/ME with autoimmune diseases – e.g. Sjögren’s Syndrome and Hashimoto’s disease – were tip-offs that an autoimmune process was involved. And even if researchers didn’t care to take symptoms and comorbidity into account, there were dozens of studies documenting immune system abnormalities, particularly increased inflammatory cytokines, as well as a high incidence of markers such as antinuclear antibodies (ANA), and anti-cardiolipin antibodies (ACA), both of which are associated with autoimmunity.5
+
+The sad fact is that although the evidence was there, it was ignored. In a recent review of the accumulated evidence for autoimmunity in CFS/ME (in a chapter titled “Chronic Fatigue Syndrome/Myalgic Encephalomyelitis and Parallels with Autoimmune Disorders”) Ekua Brenu and associates site over 180 related articles. Their conclusion? “CFS/ME may have a potential to be described as autoimmune, as this is the only consistent immunological abnormality associated with CFS/ME.”6
+
+Given the thorough nature of the review, Brenu’s conclusion, however cautious, is warranted. And, bearing out Brenu’s review, as well as the rituximab studies, in March 2013 a UK study by Bradley et al found an increased number of naïve B-cells in patients with CFS/ME. An increase in naïve B-cells is a hallmark of autoimmune disease.7 In short, if it walks like a duck, and it quacks like a duck, it’s a duck.
+
+Apropos of the rituximab studies, and as an excuse for not noticing the duck-like nature of CFS/ME, Neimark quotes rheumatologist Jonathan Edwards as saying, “T-cells were in fashion for a long time. B-cells were just considered boring.” It is hard to imagine that the absence of research on fully half of the immune system could be due to the whims of fashion, but whimsy is only part of the explanation for this exercise in mass denial. The other component is that the major players in our health care system – government agencies, researchers, physicians, insurance companies – have had a vested interest in perpetuating the myth that CFS/ME is an unknown and unknowable entity.
+
+Subscribe to the World's Most Popular Newsletter (it's free!) Subscribe
+
+Norwegians, apparently, have less invested in the myth. When the results of Fluge and Mella’s rituximab study were made public, the Norwegian Directorate of Health Deputy Director Bjørn Guldvog was prompted to issue a televised apology. “I think that we have not cared for people with ME to a great enough extent,” he said. “I think it is correct to say that we have not established proper health care services for these people, and I regret that.”
+
+We look forward to hearing something similar from the CDC.
+
+References:
+
+1. Neimark, Jill. “Are B-Cells to Blame for Chronic Fatigue Syndrome?” Discover Magazine. May, 2013.
+
+2. Fluge, Øystein, Olav Mella. “Clinical impact of B-cell depletion with the anti-CD20 antibody rituximab in chronic fatigue syndrome: a preliminary case series.” BMC Neurol. 2009 Jul 1;9:28
+
+3. Fluge, Øystein, Ove Brulan, Kristin Risa, Anette Storstein, Einar K. Kristoffersen, Dipak Sapkota, Halvor Næss, Olav Dahl, Harald Nyland, Olav Mella. “Benefit from B-Lymphocyte Depletion Using the Anti-CD20 Antibody Rituximab in Chronic Fatigue Syndrome. A Double-Blind and Placebo-Controlled Study.” PLoS ONE 6(10): e26358. doi:10.1371/journal.pone.0026358
+
+4. “Will MEandYou be the first to crowdfund a clinical trial?” ME and You.
+
+5. Hokama, Yoshitsugi, Cara Empey Campora, Cynthia Hara, Tina Kuribayashi, Diana Le Huynh, and Kenichi Yabusaki. “Anticardiolipin Antibodies in the Sera of Patients with Diagnosed Chronic Fatigue Syndrome.” Journal of Clinical Laboratory Analysis. 23 : 210–212 (2009).
+
+6. Brenu, Ekua W., Lotti Tajouri, Kevin J. Ashton, Donald R. Staines and Sonya M. Marshall-Gradisnik. “Chronic Fatigue Syndrome/Myalgic Encephalomyelitis and Parallels with Autoimmune Disorders” in Genes and Autoimmunity – Intracellular Signaling and Microbiome Contribution. Spaska Angelova Stanilova, ed. InTech. March 2013.
+
+7. Bradley, A. S., B. Ford, A. S. Bansal. “Altered functional B cell subset populations in patients with chronic fatigue syndrome compared to healthy controls”. Clinical & Experimental Immunology. Volume 172, Issue 1, pages 73–80, April 2013.
+
+A shorter version of this article was originally published on Blogcritics on April 7, 2013 as “Is Chronic Fatigue Syndrome an Autoimmune Disease?” Reprinted with permission.
+
+Erica Verrillo is the author of Chronic Fatigue Syndrome, A Treatment Guide, 2nd Edition. You can visit her at her website, CFS Treatment Guide, and her blog, Onward Through the Fog.

@@ -1,0 +1,33 @@
+About
+
+**CURRENT PRODUCTION PROTOTYPE**
+
+100% of mom's agree... Raspberry Pi tastes best in a PiCrust!
+
+"The Raspberry Pi is a credit-card sized computer that plugs into your TV and a keyboard. It’s a capable little PC which can be used for many of the things that your desktop PC does, like spreadsheets, word-processing and games. It also plays high-definition video. The Raspberry Pi Foundation's goal is to see it being used by kids all over the world to learn programming." **
+
+The Raspberry Pi is a great little micro computer... but it does have one flaw: They all ship without a case.
+
+This project's goal is to design, develop and mass produce a case to get the cost as low as possible.
+
+Version 1.0 of my Raspberry Pi Case, with Fan Mount (This is the 3d printable model, **Not the final production model**:
+
+Printed Prototype (Notice the lack of curves...):
+
+I've custom built my own 3D printer, and have been turning out print after print of my prototype case design; but this process is slow... Very Slow. Every case takes me an hour and a half to print. Which means I have to keep the costs high to keep demand low.
+
+I'd like to reverse that, and get lower priced cases (like, very low priced), into the hands of anyone who wants one.
+
+To get the price low, the answer is simple: bulk.
+
+I need to get enough people interested to get funding to do a mass production run through an injection molder. This is the only way to drop the price low enough to make it feasible to offer them at this price.
+
+** Injection Molded prototype rendered in black, showing GPIO Port (and how the case fits together)
+
+**Old Injection Molded Prototype (Still Changing)
+
+If I don't get enough orders to cover the cost of injection molding; I'll still continue making cases on my 3d printers... I'll just make a lot less of them.
+
+So... what do you think? Are you in?
+
+** RaspberryPi.org

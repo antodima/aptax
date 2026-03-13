@@ -1,0 +1,15 @@
+A set of schematics by GeekBar on Weibo have been making the rounds today, claiming to show both NFC support for the iPhone 6 as well as ‘confirmation’ that the device will feature just 1 GB of RAM, like the iPhone 5s.
+
+Although the site focuses on the 1 GB description at the top of the image, it turns out that the schematic is actually a design for a NAND flash component (a storage chip, the same memory used in iPhones and other mobile devices for storing user data like music and photos) rather than RAM for the SoC.
+
+Todd DeRego, a SoC memory engineer, says that the schematic does not have enough signals for it to be a DRAM interface. He also points out that the AP_TO_NAND text refers to an application processor to NAND link, indicating this memory is actually used as a way of storing the booting firmware and not the main memory of the iPhone. Although the RAM claim is almost certainly untrue, the NFC claim cannot be so easily dismissed.
+
+Try Amazon Prime 30-Day Free Trial
+
+The schematics, pictured above, clearly shows the ‘PN65V’ model number, which correlates to a Near-Field Communication chip by NXP Corp, which produces NFC components for a lot of other smartphone manufacturers already. NXP also manufacture the M7 coprocessor, which debuted in the iPhone 5s.
+
+It is important to highlight, though, that there is no direct connection between these schematics and Apple, the iPhone or even Foxconn, aside from the post by GeekBar who has a mixed track record with Apple leaks.
+
+NFC has been rumored for future iPhones for a while, although the validity of the claim has increased significantly in recent months with claims Apple is actively developing NFC for an upcoming mobile payments service. 9to5Mac reported earlier this year that Apple was talking with several retail chains about the mobile payments venture.
+
+Hence, although the RAM claims are seemingly false, there is a reasonable chance that the documents show NFC is headed for the iPhone 6, especially with the other surrounding evidence. It is by no means concrete, of course, as there is no evidence in these schematics that link the NFC module to an upcoming iPhone device.

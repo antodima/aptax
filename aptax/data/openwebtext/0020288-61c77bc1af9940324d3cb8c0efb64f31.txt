@@ -1,0 +1,41 @@
+Media playback is unsupported on your device Media caption Researchers are developing robots that can learn from previous work
+
+Engineers have developed a robotic system that can evolve and improve its performance.
+
+A robot arm builds "babies" that get progressively better at moving without any human intervention.
+
+The ultimate aim of the research project is to develop robots that adapt to their surroundings.
+
+The work by teams in Cambridge and Zurich has been published in the journal PLOS One.
+
+It seems like a plot from a science fiction film: a robot that builds other robots - each one better than the previous generation. But that is what researchers in Cambridge and Zurich have done.
+
+But those concerned about machines taking over the world shouldn't worry, at least not yet.
+
+At this stage the "baby robots" consist of plastic cubes with a motor inside. These are put together by a "mother" robot arm which glues them together in different configurations.
+
+Although the set up is simple the system itself is ingenious.
+
+The mother robot assesses how far its babies are able to move, and with no human intervention, improves the design so that the next one it builds can move further.
+
+The mother robot built ten generations of children. The final version moved twice the distance of the first before its power ran out.
+
+According to Dr Fumiya Iida of Cambridge University, who led the research with colleagues at ETH Zurich, one aim is to gain new insights into how living things evolve.
+
+"One of the big questions in biology is how intelligence came about - we're using robotics to explore this mystery," he told BBC News.
+
+"We think of robots as performing repetitive tasks, and they're typically designed for mass production instead of mass customisation, but we want to see robots that are capable of innovation and creativity."
+
+Another aim is to develop robots that can improve and adapt to new situations, according to Andre Rosendo - who also worked on the project.
+
+"You can imagine cars being built in factories and the robot looking for defects in the car and fixing them by itself," he said.
+
+"And robots used in agriculture could try out slightly different ways of harvesting crops to see if they can improve yield."
+
+Dr Iidya told me that he came into robotics because he was disappointed that the robots he saw in real life were not as good as the ones he saw in science fiction films such as Star Wars and Star Trek.
+
+His aim was to change that and his approach was to draw lessons from the natural world to improve the efficiency and flexibility of traditional robotic systems.
+
+As to whether we'd ever see robots like those in the sci-fi films that inspired him, he said: "We're not there yet, but sure, why not, maybe in about 30 years."
+
+Follow Pallab on Twitter

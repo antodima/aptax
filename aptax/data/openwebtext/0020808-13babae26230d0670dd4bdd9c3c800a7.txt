@@ -1,0 +1,147 @@
+HP has updated its most powerful dual-processor Z8 workstation line with the latest components. The new systems contain up to two Intel Skylake-SP Xeon CPUs with up to 56 cores in total, up to 3 TB of DDR4 RAM, terabytes of storage as well as up to 9 PCIe slots along with optional TB3 and 10 GbE support via add-in cards. The HP Z8 workstation will be the pinnacle of HP’s computers for personal and professional use and its price in high-end configurations will surpass even the top-of-the-range gaming PCs.
+
+Historically, most high-end workstations relied on server platforms to support more than one CPU and thus offer higher performance than any consumer desktop. The emergence of dual-core and then multi-core CPUs a little more a decade ago changed the workstation market quite quickly and significantly. In a world with quad-core CPUs, 4-way workstations did not make a lot of sense for 99% of the users and therefore they quickly became extinct. Moreover, by now, even 2-way workstations became rare. Today, the vast majority of workstations use one multi-core CPU that provides enough compute horsepower for professional workloads, whereas GPU-based accelerators are used for tasks like simulations. Nonetheless, there are still users who need maximum x86 performance and who therefore require 2-way workstations — and the HP Z8 is aimed precisely at such users. While the Intel Xeon Scalable processors with extreme core count were developed primarily with servers in mind, the Z8 is a system that people put on their desks and therefore it has a number of specific requirements regarding noise levels, features, security, compatibility with components and so on.
+
+One of the key components of all PCs is its microprocessor. When it comes to the HP Z8, it is based on up to two Intel Xeon Platinum 8180 with 28 cores and 205 W TDP each, which means that the system has to remove 410 W of thermal energy only from CPUs, and this requirement had a significant impact on the design of the whole system. The company did not want to use a liquid cooling system, so it had to design an air cooling solution capable of cooling down two extremely hot CPUs as well as up to 24 DDR4-2666 memory modules. Each processor has its own radiator equipped with a high-pressure air fan (which speed is regulated by BIOS in accordance with system temperature monitored by numerous sensors). In addition, the system has multiple airflow vents on the front and on the top as well as one fan that exhausts hot air on the back. According to HP, such a chassis architecture ensures that the second CPU does not re-use warm air from the first one, but since they are located in close proximity, one will always affect another with its heat. Finally, the system has additional fans that cool down other components and produce more airflow within the chassis.
+
+Speaking of other components, the HP Z8 supports plenty of them — whatever one might want. First off, the system has four PCIe 3.0 x16 slots for graphics cards or SSDs (up to AMD Radeon Pro, NVIDIA Quadro P100 or GP100, up to 4 TB HP Z Turbo Drive Quad Pro, etc.) three PCIe 3.0 x8 (two are non-hot swap) slots for SSDs and two PCIe 3.0 x4 slots. In addition to PCIe-based storage, the Z8 also features four 2.5”/3.5” bays for SATA/SAS SSDs or HDDs as well as two external 5.25” bays that can also accommodate drive form-factor storage devices using appropriate adapters. Those who need it, HP may also install an SD card reader as well as a slim DVD or Blu-ray ODD.
+
+When it comes to connectivity, the HP Z8 has all the bases covered. By default, the system supports two GbE connectors (powered by Intel controllers), an 802.11ac Wi-Fi + Bluetooth module (Intel Wireless-AC 8265 controller), two USB 3.1 Type-C ports and two USB 3.1 Type-A ports on the front, four USB 3.1 Type-A ports on the back, multi-channel audio connectors (a Realtek HD ALC221 controller) on the back, a TRRS audio connector on the front and so on. Meanwhile, owners can optionally order to install two 10 GbE controllers, a Thunderbolt 3-supporting add-in-card and a variety of custom components for various industries and workloads (an external audio solution for a 5.25” bay, for example).
+
+Since many businesses and enterprises require robust security for all of their machines, the HP takes everything seriously and ships the Z8 with a whole set of security features that it calls HP SureStart. The system features secure authentication, full volume encryption, TPM 2.0, has a Kensington lock and so on.
+
+All the CPUs, GPUs, SSDs and other components require a lot of power and HP Z8 has plenty of it. The manufacturer offers 1125 W, 1450 W or 1700 W internal PSUs with up to 90 % efficiency. The PSU is located in a compartment behind the motherboard, so chances are that HP uses proprietary units.
+
+General Specifications of the HP Z8 2017 HP Z8 G4 CPU Family Intel Xeon Scalable processor Models Xeon Platinum 8180 (2.5GHz/3.8GHz, 38.5MB cache, 28 cores)
+
+Xeon Platinum 8160 (2.1 GHz/3.7 GHz, 33 MB cache, 24 cores)
+
+Xeon Gold 6152 (2.1 GHz/3.7 GHz, 30.25 MB cache, 22 cores)
+
+Xeon Gold 6154 (3 GHz/3.7 GHz, 24.75 MB cache, 18 cores)
+
+Xeon Gold 6148 (2.4 GHz/3.7 GHz, 27.5 MB cache, 20 cores)
+
+Xeon Gold 6142 (2.6 GHz/3.7 GHz, 22 MB cache, 16 cores)
+
+Xeon Gold 6136 (3 GHz/3.7 GHz, 24.75 MB cache, 12 cores)
+
+Xeon Gold 6140 (2.3 GHz/3.7 GHz, 24.75 MB cache, 18 cores)
+
+Xeon Gold 6134 (3.2 GHz/3.7 GHz, 24.75 MB cache, 8 cores)
+
+Xeon Gold 6132 (2.6 GHz/3.7 GHz, 19.25 MB cache, 14 cores)
+
+Xeon Gold 6130 (2.1 GHz/3.7 GHz, 22 MB cache, 16 cores)
+
+Xeon Gold 6128 (3.4 GHz/3.7 GHz, 19.25 MB cache, 6 cores)
+
+Xeon Gold 5120 (2.2 GHz/3.2 GHz, 19.25 MB cache, 14 cores)
+
+Xeon Gold 5118 (2.3 GHz/3.2 GHz, 16.5 MB cache, 12 cores)
+
+Xeon Gold 5122 (3.6 GHz/3.7 GHz, 16.5 MB cache, 4 cores)
+
+Xeon Silver 4116 (2.1 GHz/3 GHz, 16.5 MB cache, 12 cores)
+
+Xeon Silver 4114 (2.2 GHz/3 GHz, 13.75 MB cache, 10 cores)
+
+Xeon Silver 4112 (2.6 GHz/3 GHz, 8.25 MB cache, 4 cores)
+
+Xeon Silver 4108 (1.8 GHz/3 GHz, 11 MB cache, 8 cores)
+
+Xeon Bronze 3106 (1.7 GHz, 11 MB cache, 8 cores)
+
+Xeon Bronze 3104 (1.7 GHz, 8.25 MB cache, 6 cores) Graphics Entry NVIDIA Quadro P400 (2 GB GDDR5)
+
+NVIDIA Quadro P600 (2 GB GDDR5)
+
+AMD FirePro W2100 (2 GB DDR3) Mid-Range NVIDIA Quadro P1000 (4 GB GDDR5)
+
+NVIDIA Quadro P2000 (5 GB GDDR5)
+
+AMD Radeon Pro WX 3100 (4 GB GDDR5)
+
+AMD Radeon Pro WX 4100 (4 GB GDDR5) High-End NVIDIA Quadro P4000 (8 GB GDDR5)
+
+AMD Radeon Pro WX 7100 Graphics (8 GB GDDR5) Ultra High-End NVIDIA Quadro P5000 (16 GB GDDR5X)
+
+NVIDIA Quadro P6000 (24 GB GDDR5X)
+
+AMD Radeon Pro WX 9100 Graphics (16 GB HBM2)
+
+NVIDIA Quadro GP100 (16 GB HBM2) RAM 24 DDR4 DIMMs, up to 1.5 TB of DDR4-2666
+
+(3TB options in H1 2018, when M CPUs are available) Storage Bays 4 × 2.5"/3.5", 2 × 5.25", 1 × slim 5.25" for ODDs Options 300 GB SAS (15000 rpm)
+
+500 GB up to 2 TB SATA (7200 rpm)
+
+500 GB SATA SED (7200 rpm)
+
+1 TB up to 4 TB 7200 rpm SATA Enterprise
+
+256 GB up to 2 TB SATA SSD
+
+256 GB up to 512 GB SATA SED Opal 2 SSD
+
+240 GB up to 480 GB SATA Enterprise SSD
+
+256 GB up to 1 TB HP Z Turbo Drive PCIe SSD M.2
+
+256 GB up to 512 GB HP Z Turbo Drive PCIe SED SSD M.2
+
+256 GB up to 4 TB HP Z Turbo Drive Quad Pro PCIe SSD
+
+HP Slim DVD-ROM
+
+HP Slim Blu-ray Writer
+
+HP Slim DVD-Writer Networking GbE Integrated Intel I219-LM PCIe GbE
+
+Integrated Intel X722 PCIe GbE
+
+Intel I350-T2 dual-port GbE NIC
+
+Intel I350-T4 dual-port GbE NIC
+
+Intel I210-T1 PCIe GbE 10 GbE Intel X550-T2 dual-port GbE NIC
+
+Intel X710-DA2 dual-port GbE NIC
+
+Intel 10 GbE SFP+ SR transceiver
+
+HP dual-port 10GBase-T NIC Wireless Intel Dual Band Wireless-AC 8265 802.11a/b/g/n/ac (2x2) Wi-Fi and Bluetooth 4.2 Combo, non-vPro PCIe 3.0
+
+Expansion Slots x4 2 x8 3 x16 4 Notes 1 PCIe x8 has rear bulkhead access and 2 PCIe x8 are internal access only. Slot 1: Transforms to PCIe x8 when 2nd CPU is installed.
+
+Slots 3 and 6: are available only when 2nd processor is installed.
+
+PCIe x16 - Available only when 2nd processor is installed USB 3.1 2 × Type-A, 2 × Type-C 3.0 4 × Type-A 2.0 unknown Thunderbolt Optional Thunderbolt 3 add-in-card Card Reader 4-in-1 card reader PSUs 1125 W, 1450 W, 1700 W Other I/O Audio connectors, Realtek HD ALC221 controller Input Devices HP Wireless Business Slim Keyboard and Mouse Combo
+
+HP USB Business Slim Keyboard
+
+USB Premium wired keyboard
+
+USB Smart Card (CCID) keyboard
+
+3Dconnexion CADMouse
+
+HP USB Optical Mouse
+
+HP PS/2 Mouse
+
+HP USB Hardened Mouse Dimensions 8.5 × 21.7 × 17.5 in
+
+21.59 × 55.12 × 44.45 cm Weight Starting at 49.4 lb
+
+Starting at 22.4 kg Operating System Windows 10 Pro for Workstations
+
+HP Installer Kit for Linux
+
+HP Red Hat Enterprise Linux Price Starting at $2,439
+
+Now, time to talk about availability and pricing. HP intends to ship the HP Z8 workstations in October. An entry-level model with one CPU, a basic GPU and storage will cost $2,439. Meanwhile, once the system is equipped with two Xeon Platinum 8180 CPUs, NVIDIA Quadro P100/GP100 graphics, multiple PCIe SSDs, 3 TB of DDR4 memory, several 12 TB HDDs and various advanced I/O capabilities (TB3, 10 GbE, etc.), its price will easily hit tens of thousands of dollars.
+
+It's normally at this point that a vendor such as HP states that the high-end models are likely to be sold under B2B contracts, where per-unit costs are not as severe. One OEM has told us that only 5% of sales of their high-end workstations come through direct sales for onlike pricing.
+
+Related Reading

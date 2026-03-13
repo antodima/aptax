@@ -1,0 +1,49 @@
+The basic audio mixing workflow
+
+So what’re the mixing basics? Just like most processes — and especially in audio mixing — everyone has their own opinions. Right or wrong, who knows? That’s fair. But there are essential mixing basics that everyone should follow.
+
+The right mix to work with
+
+Believe it or not, you should be mixing before you mix.
+
+
+
+Lost? I’ll explain. What are the main textures you’re looking for in your track? What kind of space are you trying to create? Upfront and punchy? Or distant and reverberant? Work on bringing the most character out of your sounds while you're in the early stages of recording. Think about the big picture while recording or choosing your initial sounds.
+
+
+
+Push the original recordings as far as you can without heavy processing. Get an early sense of where you are heading for the final mixdown. Commit to good sounds early and avoid endless tweaking later in the mixing stage.
+
+Cut the fuss. Use a bus.
+
+Picture a yellow school bus. Now picture it with a bunch of sounds riding it.
+
+
+
+This is what a bus is in a mix. By sending multiple sounds to one track (the bus) you can apply the same processors to them all at once. It’s very handy. Try it out on a drum bus. This allows you to process all your drum sounds as one unit. Treat them with the same reverb to give the perception that they’re all in the same space. Or Set up a delay or compression bus.
+
+
+
+Experiment with which sounds you send to what bus. I guarantee you’ll get some very useful results.
+
+HOT TIP: Commit to good sounds early and avoid endless tweaking later in the mixing stage.
+
+Balance your levels
+
+Time to give your mix a little haircut. A little snip here, a little trim there. Balance those levels and don’t be afraid to give parts the big chop. Drop the drums for a bar, crank up that vocal for a verse. Get loose.
+
+
+
+Get a basic balance of your levels before you go crazy with effects processing. Trim ‘em so they don’t clip later. Think about headroom early.
+
+
+
+Keep a final goal in mind as you balance all of your tracks. This will give you a rough idea of how each track will eventually fit together. Processing will smooth out your rough ideas.
+
+Planning on panning
+
+So what is panning?
+
+
+
+Panning helps you control the width of a mix. It’s the left to right breadth of the stereo field. Panning allows for sounds to be placed in your mix properly. Either to the left, or the right of the stereo center. Keep your heavier or lower sounds near the centre. This means the bass or the kick. Use them as a centring force that you can work around. If everything is panned centrally, your mix will sound flat or crowded.

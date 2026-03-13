@@ -1,0 +1,61 @@
+About 10 million bank clients are potentially easy victims of fraudulent charges to their debit and credit accounts because they are using the vulnerable magnetic stripe cards. Customers can lose their personal data and money because their banks have not bothered to adopt chip-embedded cards despite several warnings from the Bangladesh Bank.
+
+Shahreen Haq was put through one such stressful event recently. She has a debit card from a reputed foreign bank and last week she got two text messages within 20 minutes notifying that her card was used to make purchases worth over Tk 62,000. She was at home at the time and had not used the card. A shocked Shahreen instantly got in touch with the bank and the police and managed to block the payment. Others were not so lucky.
+
+Making fraudulent transactions like these are easy for criminals because most banks are still issuing magnetic stripe cards that are too easy to copy. The magnetic stripe on the back of the cards store the cardholder account information and can easily be copied with an inexpensive card reader.
+
+According to banks, most such fraudulent charges originate at different shops where buyers have used their cards at some point of time.
+
+One foreign bank recently received 40 reports of fraudulent charges made in one boutique shop in Gulshan. As the cards were swiped at the cash registers, customer data were secretly copied and stored to be used later to make fraudulent purchases.
+
+City Bank alone had to reimburse its clients around Tk 3 crore for similar unauthorised charges at some POS terminals in Gulshan, Banani, Baridhara and Uttara.
+
+Cards are also being copied at ATM booths where criminals install skimming devices. It was revealed last month that fraudsters had withdrawn Tk 1 crore by cloning cards with the skimming devices from four ATMs in the city. City Bank, Eastern Bank (EBL) and United Commercial Bank (UCB) lost over Tk 25 lakh from this type of fraud. Bangladesh Bank has information that more banks have been affected. The latest addition to the list is Premier Bank from where criminals pocketed Tk 40 lakh by cloning credit cards issued by Al Rajhi Bank of Saudi Arabia.
+
+Bangladesh Bank had asked the banks to convert to chip cards, also known as EMV cards, at least four times since September 2013. The last circular was issued on 8 March. Only Dutch Bangla Bank has adopted EMV cards.
+
+The BB also directed the banks to get certified by the Payment Card Industry Data Security Standard (PCI DSS), which is a proprietary information security standard for organisations that handle branded credit cards, including Visa, MasterCard, American Express, Discover, and JCB etc. But no bank has done it so far except Q Cash, according to BB.
+
+EMV stands for Europay, MasterCard, Visa (Europay is now part of MasterCard). Established in 1994 by those three founding members, now EMVCo is an international alliance for payment standard by six card networks: Visa, MasterCard, American Express, Japan JCB, Discover, and China UnionPay.
+
+Each time a user inserts an EMV chip card into a chip-enabled terminal, a unique security code is generated. This makes it extremely difficult for anyone to reuse the card information and card users are protected.
+
+Europe has gone for chip cards since 2000. China has done it in 2002. By the end of 2004, almost all credit cards issued in Malaysia had been replaced with chip cards, and POS terminals have also been upgraded to accept chip cards. According to Bank Negara Malaysia (central bank), for the first half of the year 2005, statistics on credit card fraud showed that the number of cases and losses have declined by 43.2 percent and 33.5 percent respectively, compared with the same period in 2004. The US was compelled to start using this technology when credit card information stolen from Target, a large chain retailer, in 2013 brought the issue of the vulnerability of credit card information to the front. Thailand and India which were once havens for card frauds, have mostly introduced EMV-enabled debit cards by 2015.
+
+“Global cyber criminals target non-chip cards and they have found Bangladesh a perfect hunting ground,” said Abul Kashem Mohammad Shirin, deputy managing director of Dutch-Bangla Bank, the first bank to introduce EMV debit card in Bangladesh.
+
+“EMV protected cards are almost impossible to hack,” said Kazi Saifuddin Munir, managing director of IT Consultants that run the country's biggest private payments switch Q Cash with around 3,000 ATMs.
+
+Munir finds it surprising that even a big foreign bank, in business here for long, that introduced cards before any other bank, is yet to issue chip cards. “These banks take a lot of fee for issuing a card, but are not taking any measures to protect their customers,” he said.
+
+Munir also blamed the BB for its lax attitude towards the banks. BB's circulars asking all banks to issue chip cards have been mostly ignored and nothing significant has happened yet, he said.
+
+Some bankers say the transition from magnetic stripe to EMV is costly. It requires upgrading all payment terminals and ATMs in the country needing huge resources, money and time. That's why some countries, including Bangladesh, are avoiding the change, they said.
+
+But others disagree.
+
+“A bank needs to develop its infrastructure including upgrade of software to make it EMV enabled. Card production system has to be changed to go for chip card,” said Shirin of DBBL.
+
+But Munir of Q Cash finds no additional cost except buying chip card that costs hardly Tk 70-80 apiece. A non EMV card costs around Tk 25.
+
+“As Q Cash is EMV certified, its 33 member banks do not need to invest anything to upgrade its system. These banks have to pay for EMV cards only,” he said adding that as there is a national payments switch, banks do not need to spend for a separate switch. “cost is a lame excuse,” he added.
+
+Bangladesh is a late comer in plastic money market. A few banks have introduced cards in early 2000s, but it gained momentum after 2005. Now 52 banks out of 56 in the country have cards as their products. According to BB, there are nearly 7,500 ATMs where around 3.5 lakh transactions take place per day. The amount transacted through ATMs is Tk 250 crore daily.
+
+Presently, there are 32,000 POS terminals where over 35,000 transactions take place per day. Nearly Tk 30 crore is transacted through these POSes daily. BB statistics also show that the number of debit cards and transactions doubled in the last four years reflecting the customers' growing dependence on plastic money. Yet banks have failed to take adequate security measures to protect customers.
+
+Bitopi Das Chowdhury, head of corporate affairs of Standard Chartered Bank, said, “We have already initiated the process of introducing EMV cards; our customers will be able to use these chip based cards soon.” She, however, did not specify a timeframe.
+
+Toufiq Hassan, head of cards of BRAC Bank, said they have started to upgrade their system for EMV cards. “We will start issuing EMV cards next year,” said Hassan.
+
+Ziaul Karim, head of communications of Eastern Bank, said they have already started the project and 60 percent of their 4 lakh cards have been made EMV enabled.
+
+On flouting the central bank orders in introducing chip cards, Shubhankar Saha, spokesman of the BB, said he is seeking updates from banks.
+
+“We have to work more and as part of that move we will sit soon with the managing directors of all banks,” he told The Daily Star.
+
+Can only EMV cards ensure foolproof security to the card users in Bangladesh?
+
+According to Munir of Q Cash, the answer is “no,” as many things will depend on the bank officials who maintain the customer information.
+
+“If bankers get involved into the frauds, EMV card cannot protect customers. Bankers have customers' data and they can clone cards by stealing those data easily,” he noted.

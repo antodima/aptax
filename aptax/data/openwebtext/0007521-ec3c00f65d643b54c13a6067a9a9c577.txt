@@ -1,0 +1,35 @@
+EFF Releases New Government Documents on Drones and Law Enforcement Training
+
+EFF recently posted three new sets of documents obtained through FOI requests. Yesterday, as reported in the Wall Street Journal, EFF released the lists of private and public entities that have been granted authorization by the Federal Aviation Administration (FAA) to fly drones in the United States. The lists were obtained through EFF’s lawsuit against the FAA, which seeks a variety of information on domestic drone authorization and use. The lists provide the public with the most thorough accounting to date of the organizations operating drones within our borders. Yesterday, along with EFF’s disclosure, Congressmen Ed Markey and Joe Barton sent the FAA a letter (pdf) asking the agency to disclose information similar to that sought in EFF’s FOIA suit.
+
+A second, related release, which we blogged about previously, was obtained through a public records request to the Miami-Dade Police Department for information on it’s drone program. In response, the Miami PD released its Certificate of Authorization (COA) for its drone – the first time a COA has been made publicly available.
+
+Finally, EFF also posted over 2,000 pages of records released in response to a FOIA request to DHS’ Federal Law Enforcement Training Center (FLETC). EFF sought information on FLETC’s Mobile Device Investigation Program, which teaches federal officials how to conduct investigations based on information obtained from cell phones and other electronic devices.
+
+EFF Attorney Weighs in on DOJ's Unfulfilled Promise of Transparency
+
+Earlier this week, EFF Senior Counsel David Sobel co-authored an article in the National Law Journal documenting – yet again – the Obama administration’s failure to live up to its promise of openness and transparency.
+
+While the Obama administration continues to tout its transparency accomplishments, the authors noted that, “[a]s attorneys who each have more than 30 years' experience litigating FOIA cases in the federal courts, our assessment is decidedly less rosy.” In particular, the article faulted the Department of Justice (DOJ) for the “breadth of situations in which DOJ will fight to maintain official secrecy,” even in spite of a clear promise from Attorney General Holder to only defend FOIA withholdings when disclosure was clearly prohibited or would produce actual harm.
+
+The article concludes:
+
+Three years ago, we rejoiced when President Obama re-established important open-government tenets, and his new attorney general promised DOJ would vigorously enforce the law's public disclosure requirements. Unfortunately, we are still waiting to see that promise fulfilled.
+
+You can read the full article here.
+
+The Secrecy of Dissent Within the Government
+
+Two items this week demonstrated the troubling issue of government secrecy ocurring at the intersection of questionable governmental policies and internal disagreement between individuals and agencies within the federal government.
+
+The first, reported by Spencer Ackerman at Wired, concerns a secret memo written in February 2006 by a top adviser to the State Department. The memo warned that the Bush administration’s use of “cruel, inhuman or degrading” interrogation techniques amounted to a “felony war crime.” However, not only was the memo secret until this week (after a three-year wait for the State Department to respond to a FOIA request), but, according to the memo’s author, Bush administration officials determined the “memo was not considered appropriate for further discussion and that copies of [the] memo should be collected and destroyed.” Luckily a copy survived and you can read Wired’s full report, and the released memo, here.
+
+In a second, strikingly similar example, a recently released memoir, Traitor: The Whistleblower and the American Taliban, describes the story of a Justice Department attorney who blew the whistle after her legal advice was disregarded. A book review from Secrecy News provides the background: Following the apprehension of Jon Walker Lindh—an American citizen arrested in Afghanistan for fighting American forces alongside the Taliban—Jesselyn Radack, a DOJ attorney and specialist in legal ethics, advised that Lindh not be interrogated without an attorney present. Not only was Lindh not provided an attorney during interrogation, but the DOJ “publicly denied having received any such legal advice, and even destroyed evidence to the contrary.” Steven Aftergood of Secrecy News writes:
+
+Ms. Radack was not looking for a fight, but only to do the right thing. For her trouble, she was forced out of her Justice Department position, put under criminal investigation, fired from her subsequent job, reported to the state bar, and put on the “no fly” list.
+
+You can read the full review here.
+
+Some secrecy is inevitably needed so that officials within the federal government feel free to air viewpoints internally and without inhibition. Ultimately – and at least in theory – this allows lower level employees to provide candid opinions, and permits officials with decision-making authority to choose the best legal or policy analysis from the many. This, in turn, ensures sound government policies are ultimately chosen.
+
+Secrecy in the name of honest debate is one thing, but the government’s action in both these cases demonstrates something far more troubling: the destruction of dissent. Not only does the destruction of these memos likely run afoul of government record-keeping regulations, but the suppression and destruction of the evidence of dissenting viewpoints undermines the integrity of the government’s final policy position. The need to silence dissent is a hallmark of flimsy ideas.

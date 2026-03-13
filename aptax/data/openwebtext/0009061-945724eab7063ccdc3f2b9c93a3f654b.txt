@@ -1,0 +1,121 @@
+In addition to our own research and benchmarking, we reached out to Edmund Li of Zalman for help understanding some cooler design elements, so a big thanks to him for his time and knowledge. Let's cover how a heatsink works before anything else.
+
+Picking the best CPU cooler / heatsink for your gaming rig is important if you're planning to keep things quiet or overclock your system; we'll cover noise level, cooling efficiency, and top-level thermal dissipation strategies for aftermarket coolers in this article.
+
+We briefly covered CPU cooler engineering in our Tuniq Tower 120 review , and in continuing that topic, this post will discuss various cooler designs that pervade the market and which are best for you.
+
+How Does a Heatsink Work?
+
+Effective heatpipe design is significantly more complex than gluing a copper brick to a semiconductor, of course. Most of the action within a CPU heatsink happens inside of the copper heatpipes, which often use material phase changes and capillary action to cool microprocessors, but before we get into the specifics, let's cover the basics:
+
+A heatsink's objective is to draw heat away from the hot, underlying chip, which generates heat as a result of its (relatively) high frequency and the electrical current coursing through the cores; improving core stability by amplifying voltage (in the form of vCore) will generate yet more heat, so in overclocking applications, aftermarket heatsinks are particularly noticeable. Stock heatsinks are much more simplistic than the aftermarket products we review, so we'll focus almost entirely upon aftermarket cooling technology for this article. The stock sinks tend to be a composition of a top-mounted fan, aluminum fins, and a flat copper base -- a far cry from the liquid-filled, sintered/grooved copper heatpipes that are used in aftermarket sinks.
+
+Using a fusion of these heatpipes, fan design that minimizes air resistance, aluminum or copper fins to maximize surface area, and high thermal conductivity interfaces, heatsinks and coolers are able to conduct heat from the surface of the CPU and escort it out the back or top of the case. Much of this comes down to thermodynamics and sciences pertaining to thermal conductivity and materials engineering, which we'll cover on a very top-level in a section below (see: Materials & Thermal Conductivity).
+
+We've put together the below image to help familiarize you with the inner-workings of a CPU heatsink and its related terminology:
+
+The anatomy of a heatsink. This is NZXT's Respire T40 - click to enlarge.
+
+The primary elements of a CPU cooler are all covered in this graphic. For the most part, the action happens in the heatpipes, but we're also faced with the actual heatsink, the overall surface area, the contact technology used to transfer heat to the pipes, and fan positioning.
+
+The cooling pipeline for a heatsink is pretty straight-forward, here's what we're usually looking at:
+
+- The CPU generates heat; this heat is absorbed through a conductive baseplate or directly touching heatpipes on the heatsink.
+
+- The heat causes liquid within the heatpipe to undergo a phase change, resulting in its transition to a gas. A significant amount of energy is consumed during this phase change (in the form of heat), this is responsible for a lot of the heat reduction we experience. We then move to the dissipation stage...
+
+- The heat (gas) travels up the pipe and eventually reaches the condensor, which condenses the gas back into liquid form and uses capillary action to transport it back to the evaporator.
+
+- During its trip through the pipe, heat is absorbed by the adjoining (hopefully large) heatsink, where it is dissipated through the fins and cooled by the new, cool air being injected by the fan.
+
+- The liquid is guided back down to the evaporator section of tubing (atop the CPU) through sintered, grooved, mesh, or composite tubing (explained further below), called a "wick" or "capillary structure." Capillary pressure is created by the wick, forcing coolant to return to the evaporator where it can be re-used.
+
+Pretty cool stuff, right?
+
+Yeah, yeah. What Makes a Good CPU Cooler / Heatsink for my purposes?
+
+All of this information can be used in buying decisions to help weed through the ever-increasing amount of heatsinks available. Understanding the basic physics behind a heatsink's functionality helps us determine what design and engineering elements govern a quality product; as always, if you'd like more direct input from us on your system building endeavors, feel free to comment below or post your question on our hardware forums!
+
+Let's expand on each of the previous topics:
+
+Materials & Thermal Conductivity
+
+Materials have everything to do with the efficiency of your heatsink. Starting with a basic chart of relevant materials makes sense:
+
+Material Thermal Conductivity (W/mK) at 25C Air, atmospheric 0.024 Water 0.058 Thermalpaste (Avg) ~5.3 - 8.5 Aluminum 205 Copper 401
+
+Given air's low thermal conductivity, it's evident why we can't just blow air past a CPU to achieve performance-grade cooling. Copper and aluminum, on the other hand, make excellent heatsink materials for our purposes: Copper is objectively the best material for gaming-grade PC heatsinks, but aluminum tends to be the most cost-friendly option and can still exhibit considerable cooling capacity given solid enough design. However, that doesn't change the fact that copper has the best conductive heat transfer potential; it's commendable to search for heatsinks that use copper heatpipe structures and copper fins, though copper fins are not required by any means -- we do always recommend copper heatpipes, though.
+
+Conductive heat transfer is expressed through Fourier's Law as:
+
+q = k A dT / s, where A = heat transfer area, k = the material's thermal conductivity, dT = temperature difference across the material, and s = material thickness. (Read more about this at Engineering Toolbox).
+
+Despite copper and aluminum differences, we're still limited in cooling efficiency by the fan, the case airflow, and the surface area of the heatsink and surface roughness of the contact plate. As a sort-of side note, a lot of manufacturers use nickel plating or other aesthetic-only materials to cover up copper and aluminum, so don't just use looks to determine whether something is aluminum or copper. Cooler Master's T812 is an example -- it uses a copper base, but is coated in a way that almost makes it appear aluminum. Always check the specs for the final word.
+
+Surface Area & Surface Roughness
+
+Surface area was rated by our Zalman contact (Edmund Li) as one of the most important aspects to a cooler's functionality, and it makes sense: A larger chunk of grooved/finned metal provides more area for the heat to distribute itself. This is largely bolstered by fin designs that are optimized to maximize surface area, further enabling the unit's ability to cool.
+
+Luckily, this is one of those items that's pretty simple to shop for - big being better, in this case - just make sure you choose something that makes sense for your system. Grabbing the heaviest heatsink out there won't matter if it doesn't fit in the case and puts too much strain on the CPU or motherboard. Just grabbing any massive aluminum heatsink is probably not for the best, of course, given the importance of heatpipes, surface smoothness, and copper's place in the world.
+
+Surface roughness is a measurement of the base plate's smoothness (measured in microinches) and overall ability to connect directly with the surface of the CPU. In a perfect world, there would be no thermalpaste and the copper base plates would come in direct, flush, perfectly smooth contact with the CPU... but we don't live in a perfect world, and if we did, I'd be playing games while floating in a tube of water, not writing about heatsinks.
+
+The reason we even need thermalpaste, as we explained in this previous post, is because microscopic divets in the surface of the connecting materials create air pockets. Air gets trapped in these pockets at high temperatures, causing uneven thermal distribution and resulting in hotter core temps. A thermal interface, while significantly lower thermal conductivity than pure copper or aluminum, provides an air-tight sealant between the divets that allows heat to cleanly migrate from the CPU surface to the cooler base plate. Smoother is better.
+
+Thermalpaste's thermal conductivity will impact the temperature moderately, but not normally enough where it's justifiable to spend lots of money on thermal compound. If you're doing serious overclocking and need every single degree you can muster, then by all means, consider a tube of MX-4. But for most of us, 5.3W/mK - 6.x W/mK is more than enough to keep things under control. And it's affordable.
+
+Heatpipe Exposure and Wick / Capillary Design
+
+And now we're back to heatpipes! There are two prevailing chamber designs in the CPU heatsink market: Vapor chambers and traditional capillary heatpipes. We'll cover the latter first due to their dominance.
+
+Source.
+
+As this image shows so well, a heatpipe contains a very small amount of coolant or liquid (normally a mix of ammonium and ethanol or distilled water) which undergoes chemical phase changes - this is the catalyst for our reduced temperatures. The evaporator (CPU surface region) evaporates the liquid, where it travels in gaseous form toward the condensor. The condensor then—you guessed it—condenses the gas back to liquid form, where it travels down grooved, sintered, metal mesh, or composite tubing as a result of capillary action.
+
+The grooved wick design looks precisely like you'd think -- it's grooved cleanly down the interior of the tube, meanwhile the sintered design carries a more foamy and porous look. Metal mesh designs are more common among consumer heatsinks and vaguely resemble a basket's woven pattern. Thermolab cut open some heatpipes to reveal their insides, which makes the explanation a bit easier.
+
+Left to right: Sintered, Grooved, Mesh Weave. Source: Thermolab.
+
+Zalman uses a fourth design—composite heatpipes—which mix copper powder inside of the pipe to help aid in thermal transfer (the steam travels faster).
+
+Composite and sintered heatpipes have much higher production cost than grooved pipes; as for which makes a "better" heatsink, it really comes down to individual product testing due to the many other variables -- but composite and sintered heatpipes are preferable, albeit rare.
+
+Heatpipes connected directly to the surface of the CPU will cool it more efficiently for a short period of time (we were told "about an hour" by Zalman), but as heat builds and time progresses, that tends to equalize; direct touch heatpipes are not often noticeably more effective than polished base plates when it comes to endurance cooling. What is noticeable, though, is a copper base versus an aluminum one -- you'll want copper exposed directly to the CPU for best heat wicking potential.
+
+Polished copper baseplates will give off a "mirror finish" shine, like the one on this 9900Max.
+
+Vapor changes are a little bit different and aren't quite as common, but are still worth a quick mention: Vapor chambers are used for disproportionately high, localized heat generation by processing units; a vapor chamber helps spread this additional heat more evenly across the fins within the heatsink (rather than favoring fins in close proximity to the hotspot). Cooler Master's 812 uses both vapor chambers and heatpipes, and they created this image to help explain their usage:
+
+It's effectively the same as a heatpipe in its functionality, they just use a slightly different design to attract location-specific heat.
+
+Fan Positioning & Noise Reduction
+
+Noise levels are always going to be a problem with small fans, but fan positioning and cooling optimization can help reduce the requirement of high RPMs and high decibel levels.
+
+Fans generate noise within a CPU cooler for a few primary reasons: Bearing type, fan size and RPM, and rattling within the cage. Of these, only rattling is unique to CPU coolers -- the rest are covered by our fan bearings overview / guide.
+
+Rattling is normally a result of poor fan positioning and design. The Tuniq Tower 120 Extreme cooler we reviewed had rubberized screws to prevent rattling, Zalman uses a centralized fan that is detached from the fins (theoretically the quietest design), and other coolers use a mix of brackets and mounting mechanisms that may or may not vibrate under load.
+
+The centered fan design is interesting -- by placing the fan directly over the CPU and surrounding it with the fins (but not touching the two), the fan still pulls air cleanly through the entire unit without the added fun of rattling the cage.
+
+Aside from isolated fans, it's good to look for units with rubberized mounting plates/screws or otherwise stable brackets that can better withstand high RPMs. More fans are always going to be beneficial for cooling, of course, as they'll pull more air into the system and will more evenly cool the fins, but they aren't necessary; we saw a 3C decrease in temperature between the NZXT Respire T40 with one fan and the T40 with two fans -- so it is noticeable -- but the noise level will obviously increase as a result (though you could arguably just run them at lower RPMs). Decibels are calculated on a logarithmic scale (10*log(x) equates the difference in dB, where x is the number of fans of the same decibel level), so adding more fans to the system will always increase noise marginally for the most part.
+
+Top Things to Look For in a CPU Cooler
+
+Now that we have a thorough understanding of how coolers work, let's recap the most important design elements to look for; we're assuming a standard performance / gaming-grade build for this article's purposes:
+
+Surface area. The larger the heatsink, the more readily it can dissipate heat. On this note, a larger base plate surface area means better transfer of heat from the CPU to the pipes and more room for mounting error.
+
+Materials. Copper has about twice the thermal conductivity of aluminum and simply makes a better heatsink.
+
+Number of heatpipes and their diameter. As a general rule, more heatpipes means better cooling. Additional vapor chambers may aid in heat diffusion for some units, but are not as common as traditional heatpipes.
+
+Fan positioning and number of fans. More fans means better cooling, but potentially more noise. Find a balance between performance and noise that works for you; remember that you can always decrease the RPMs across the fans to neutralize some of the noise.
+
+And there's one more thing: Aesthetics. It's silly, but if we're honest, a lot of the mid-range to high-end heatsinks will offer almost identical cooling performance. For performance and enthusiast applications, mounting an ugly piece of copper to your otherwise beautiful rig isn't preferable. Given negligible performance difference between coolers, pick the one that you think fits your rig's personality the best.
+
+Let us know if you are debating between two heatsinks and need some help!
+
+- Steve "Lelldorianx" Burke, with thanks to Edmund Li of Zalman for insight.
+
+Special thanks to Tim "Space_man" Martin for his physics engineering insight.

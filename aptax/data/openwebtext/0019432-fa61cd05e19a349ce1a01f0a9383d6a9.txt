@@ -1,0 +1,61 @@
+Summary: Researchers from Rockefeller University have identified what they claim to be ‘remarkable’ differences between the way the male and female brains respond to stress.
+
+Source: Rockefeller University.
+
+“Remarkable” is not a word you encounter very often in the scientific literature, where the unadorned description of experiments and their outcomes is the rule. But the adjective makes a bold appearance in a new report from The Rockefeller University, and with good reason.
+
+Published this week in Nature Communications, the paper describes “remarkable” differences in the way the brains of males and females respond to stress. The findings, based on experiments with mice, are doubly notable because they occur in a part of the brain not normally associated with sex differences. They also have implications for the treatment of stress-related illnesses, including mood disorders.
+
+“There is a need to include sex differences in neuropsychiatric research and endocrinology because men and women do respond differently to drugs,” says first author Jordan Marrocco, a postdoctoral associate in the neuroendocrinology lab of Bruce S. McEwen, Rockefeller’s Alfred E. Mirsky Professor.
+
+That is especially important, notes McEwen, as scientists increasingly seek to tailor new medicines to individual patients. “Broadly speaking,” he says, “the pharmaceutical industry has followed a one-size-fits-all philosophy and tested drugs predominantly in males. Some drugs have undergone little testing in women when they go into actual clinical use.”
+
+This can create serious problems, he says, citing the sleep drug Ambien, which was discovered to have a much stronger effect on women than men after it reached the market.
+
+A gender divide
+
+To investigate possible sex differences in the brain, the scientists focused on a region of the hippocampus known as CA3, which plays a crucial role in the stress response and is also involved in memory, the regulation of mood, and information processing. Specifically, they subjected male and female mice to a stressful task (a six-minute forced swim) and then used a method called TRAP, developed in the Rockefeller lab of Nathaniel Heintz, to look at how genes in their CA3 neurons responded.
+
+What they found was, as they write, remarkable.
+
+Many more genes (6,472) were altered by acute stress in CA3 in females than in males (2,474), when compared to unstressed controls. This large difference suggests, according to the study, that there is a clear genetic component in the response to stress. The scientists propose that genes in the parts of the brain that react to environmental stressors, such as the forced swim, may do so in female mice at a much greater rate than in males.
+
+An additional finding underscores just how huge the differences in stress responses are between genders. The scientists identified 1,842 genes affected by stress in both sexes, however the vast majority of these “overlapping” genes responded in opposite ways in females and males- genes that were activated by stress in males were suppressed by stress in females, and vice versa.
+
+Stress-induced diseases
+
+McEwen’s group also experimented with mice engineered to carry a variant of the BDNF gene that, in humans, is known to increase the risk of developing stress-induced neuropsychiatric disorders. The researchers subjected these mice to cognitive tests—a common way to determine the impact of stress—and found that females with the gene variant had impaired spatial memory, even without being stressed. Males with the mutation, also unstressed, did not show such deficits.
+
+The findings suggest that ovarian hormones may interact with the mutated gene in a way that increases the females’ stress-related memory impairment. Marrocco is investigating that possibility in a follow-up study.
+
+The research in BDNF-impaired mice also sheds new light on the intricate relationship between genes and the environment, which can have the same effects on an organism through completely different mechanisms. “What we show,” Marrocco says, “is that gene expression in the brain of an unstressed mouse carrying this genetic variant is similar to that in a normal mouse who experiences acute stress.”
+
+He adds that more research is needed into the biological differences known to exist between male and female stress responses. By identifying the genetic basis of these differences, and beginning to determine their location in the brain, McEwen and his team have taken a critical step in this direction.
+
+About this neuroscience research article
+
+Source: Katherine Fenz – Rockefeller University
+
+Image Source: NeuroscienceNews.com image is credited to the researchers.
+
+Original Research: Full open access research for “A sexually dimorphic pre-stressed translational signature in CA3 pyramidal neurons of BDNF Val66Met mice” by Jordan Marrocco, Gordon H. Petty, Mariel B. Ríos, Jason D. Gray, Joshua F. Kogan, Elizabeth M. Waters, Eric F. Schmidt, Francis S. Lee & Bruce S. McEwen in Nature Communications. Published online October 9 2017 doi:10.1038/s41467-017-01014-4
+
+Cite This NeuroscienceNews.com Article
+
+MLA
+
+APA
+
+Chicago Rockefeller University. “Stress Has Dramatically Different Effects on Male and Female Brains: Mouse Study.” NeuroscienceNews. NeuroscienceNews, 10 October 2017.
+
+<http://neurosciencenews.com/stress-sex-differences-7703/>. Rockefeller University. (2017, October 10). Stress Has Dramatically Different Effects on Male and Female Brains: Mouse Study. NeuroscienceNews. Retrieved October 10, 2017 from http://neurosciencenews.com/stress-sex-differences-7703/ Rockefeller University. “Stress Has Dramatically Different Effects on Male and Female Brains: Mouse Study.” http://neurosciencenews.com/stress-sex-differences-7703/ (accessed October 10, 2017).
+
+Abstract
+
+A sexually dimorphic pre-stressed translational signature in CA3 pyramidal neurons of BDNF Val66Met mice
+
+Males and females use distinct brain circuits to cope with similar challenges. Using RNA sequencing of ribosome-bound mRNA from hippocampal CA3 neurons, we found remarkable sex differences and discovered that female mice displayed greater gene expression activation after acute stress than males. Stress-sensitive BDNF Val66Met mice of both sexes show a pre-stressed translational phenotype in which the same genes that are activated without applied stress are also induced in wild-type mice by an acute stressor. Behaviourally, only heterozygous BDNF Val66Met females exhibit spatial memory impairment, regardless of acute stress. Interestingly, this effect is not observed in ovariectomized heterozygous BDNF Val66Met females, suggesting that circulating ovarian hormones induce cognitive impairment in Met carriers. Cognitive deficits are not observed in males of either genotype. Thus, in a brain region not normally associated with sex differences, this work sheds light on ways that genes, environment and sex interact to affect the transcriptome’s response to a stressor.
+
+“A sexually dimorphic pre-stressed translational signature in CA3 pyramidal neurons of BDNF Val66Met mice” by Jordan Marrocco, Gordon H. Petty, Mariel B. Ríos, Jason D. Gray, Joshua F. Kogan, Elizabeth M. Waters, Eric F. Schmidt, Francis S. Lee & Bruce S. McEwen in Nature Communications. Published online October 9 2017 doi:10.1038/s41467-017-01014-4
+
+Feel free to share this Neuroscience News.

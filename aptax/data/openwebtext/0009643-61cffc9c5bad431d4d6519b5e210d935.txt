@@ -1,0 +1,37 @@
+This article is part of Copyright Week, a series of actions and discussions supporting key principles that should guide copyright policy. If you too stand behind these principles, please join us by supporting them, sharing them, and telling lawmakers you want to see copyright law reflect them.
+
+Over 3 million men and women work in America’s repair and maintenance industry. When your car breaks down, they get you on the road again. When your washing machine succumbs to entropy, they perform a sudsy resurrection. When your phone screen goes black, they reconnect you to the world. Three million people stand between you and chaos.
+
+Maybe I don’t have a lot of faith in politics, but I think those 3 million people have more tangible impact on our lives than the squabbling politicians in Washington. And yet, a copyright law written by Washington insiders nearly two decades ago is threatening the livelihoods of those 3 million people.
+
+It’s not supposed to work like that. Intellectual property laws are supposed to protect jobs. The Digital Millennium Copyright Act (DMCA), though, is different—and it’s poised to take a massive toll on skilled repair jobs in America.
+
+The DMCA governs the complicated intersection between copyright and technology. Back in the 90s, computers made it relatively easy for people to copy movies and music. So the recording industry teamed up with Washington to crack down on piracy. Among other things, the resulting law made it illegal to break digital locks—like passwords or encryptions—over copyrighted work, no matter the reason.
+
+In the past 20 years, technology has changed drastically. The DMCA has not. That’s a problem, because copyright isn’t just movies and music anymore. It’s everything. Because everything is powered by computers … which is powered by programming … which is technically copyrighted. That means your tractor, your coffeemaker, and your self-cleaning cat litter pan have the same copyright protection as your DVD of Disney’s Sleeping Beauty.
+
+We can’t treat hardware the same way we treat a hit single. Singles break the charts; hardware just breaks. If companies put digital locks over our smart gadgets, then—under the DMCA—they’ll be the only ones who can fix that stuff. Worse, they can sue anyone who tries to break up their repair monopoly.
+
+Over the years, lots of companies have abused the DMCA to squeeze out the competition. In the early aughts, cellphone companies wielded the DMCA to shut down programmers who developed unlocking software that moved cellphones to different carriers. Now, the same tactics are being used to shut down non-OEM repair options.
+
+Local mechanics rely on diagnostic tools from companies like Snap-on and Autel to repair modern vehicles. But in 2014, Ford sued Autel for making a tool that diagnoses car trouble and tells you what part fixes it. Autel decrypted a list of Ford car parts, which wound up in their diagnostic tool. Ford claimed that the parts list was protected under copyright (even though data isn’t creative work)—and cracking the encryption violated the DMCA. The case is still making its way through the courts. But this much is clear: Ford didn’t like Autel’s competing tool, and they don’t mind wielding the DMCA to shut the company down.
+
+“In some sense, this is an old fight. For decades, automakers have tried to steer drivers toward dealership-based repairs, and for decades some drivers have resisted that pull, preferring to work on their rides at home and in third-party shops,” says The Verge’s Russell Brandom. “But the computerization of the modern automobile has upset that balance, thanks to the unique legal status of software.”
+
+Under the DMCA, the legal status of software makes tinkering a suable offense. Autel is fighting the suit—but most others couldn’t, especially against juggernauts like Ford. The safest option for third-party repair companies and developers is just not to innovate in directions that could put them at odds with the DMCA. The legal risk is too great, which leaves dealer repair shops with the only keys to the repair kingdom.
+
+Other shops go out of business; people lose their jobs; repair prices go up.
+
+As computers continue to permeate everyday things, the DMCA could impact repair jobs across all industries—not just cars. Imagine a future where your smart fridge turns into a refrigerated brick, because Samsung stops updating it and no one else can repair it. Or Apple says only they should be able to fix your iPhone. Or John Deere says you can’t repair your own tractor.
+
+If that sounds far-fetched, it’s not. It’s already happening. In 2015, I teamed up with the Electronic Frontier Foundation and the Intellectual Property Law Clinic at USC to request a DMCA exemption for farmers who wanted the freedom to repair their own tractors—even if it meant fixing and modifying the software without the manufacturer’s permission. John Deere opposed the request, saying farmers didn’t own the software in their tractors. Deere argued that farmers only have “an implied license for the life of the vehicle to operate the vehicle.”
+
+So much for ownership.
+
+Thankfully, the US Copyright Office ruled with farmers and against Deere. But it’s not enough. John Deere just turned around and wrote an End User Licensing Agreement that chips away at an owner’s right to repair. Now it’s that much harder for anyone one but Deere to repair a tractor or develop diagnostic tools for independent repair shops.
+
+Folks in Washington have been arguing a lot about jobs lately. Jobs that are leaving the US; jobs that can be saved. Well, I’m concerned about those 3 million repair jobs. Companies like Ford and John Deere are setting a dangerous precedent. Their aggressive copyright claims come at the expense of something far more dear: people’s livelihoods.
+
+Thankfully, voters are stepping up to protect American jobs. Just last week, at the behest of constituents, three states—Nebraska, Minnesota, and New York—introduced Right to Repair legislation (more states will follow). These ‘Fair Repair’ laws would require manufacturers to provide service information and sell repair parts to owners and independent repair shops. And digital watchdogs, like the EFF and Repair.org, continue to advocate for the Unlocking Technology Act—which would ensure that repair people aren’t marked as criminals under the DMCA.
+
+It doesn’t matter how smart your next gadget is—it’s still gonna break. The future will need fixing. But we’ll have to fix copyright law first.

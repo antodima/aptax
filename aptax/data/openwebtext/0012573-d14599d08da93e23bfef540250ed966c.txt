@@ -1,0 +1,75 @@
+In October 2014, Massachusetts Institute of Technology graduate students Sydney Do and Andrew Owens released an independent research report on Mars One — a not-for-profit organization that wants to create a long-lasting human colony on Mars. The findings were bleak, casting into doubt the credibility of the project. Initially Do and Owens were dismissed by the organization as "undergraduates." But Mars One continued to be buffeted by criticism; the group belatedly scheduled a debate with Do and Owens on August 13th at the Catholic University of America in Washington, DC. It has been nearly a year since Do and Owens released their report, and it was the first time Mars One CEO Bas Lansdorp has responded to them directly.
+
+For space enthusiasts, the showdown promised to be as epic as Ripley battling the queen xenomorph.
+
+Mars One captured space geeks’ attention by promising to send them to Mars in the mid-2020s. The organization’s stated goals are to send a lander with communications capabilities to Mars in 2020 as a "demonstration mission." Then, in 2022, to send an "intelligent" rover to the planet, which will drive around the Martian surface to find the best location for the Mars One settlement. A cargo mission will launch in 2024, carrying a second rover and the bulk of the supplies needed for the habitat; the rovers will then assemble the outpost before the first humans land in 2027. That first settlement mission will be followed by additional crews of four landing every two years.
+
+It was the first time Mars One CEO Bas Lansdorp has responded to them directly
+
+Do and Owens used the Mars One plans — at least, the ones they could find — to run feasibility tests on the mission. They presented their results last year at the 65th International Astronautical Congress in Toronto, Canada. The MIT researchers analyzed the living conditions on Mars, including food production, cabin pressure, and habitat construction. Mars One’s current plans would probably kill its astronauts within the first few months of the mission, they concluded.
+
+In response, Mars One attacked the MIT team’s credibility. "It’s not an MIT report, it’s a report by a couple of MIT students — bachelor students who don’t have their PhD degree yet," Lansdorp said in February during a radio interview. Mars One spokesperson Suzanne Flinkenflӧgel employed the same tactic during an interview with TechNewsWorld in late March. The study was written by a "couple of undergraduate students," she said. And the organization’s chief medical officer, Norbert Kraft, repeated the same message to a Verge reporter in early April. "You’re talking about the undergraduate study? It’s not PhD, they are undergraduates, I’m sorry. They’re undergraduate students who wrote a paper to go to a conference, and that’s what it is."
+
+"First of all, it’s really sad they’re mocking the work of students, because that just hurts our community and industry," Do told The Verge earlier this year. "But second of all, we’re not undergrads."
+
+Lying about the qualifications of your critics isn’t a good look, and Mars One eventually figured that out. Which is why Lansdorp decided to address Do and Owens personally in DC. The three of them came for the 18th Annual International Mars Society Convention to discuss the feasibility of Mars One in public debate.
+
+From left to right, Sydney Do, Barry Finger, the Mars Society moderator, Andrew Owens, and Bas Lansdorp pose for a photo after the debate.
+
+Do and Owens stepped up to the podium and began their presentation clad in black, single-breasted business suits. Do was clean-shaven, while Owens sported a manicured beard. The two spent 20 minutes clearly and carefully outlining their findings, using language a layperson can understand.
+
+First, they said, Mars One will have to significantly improve on current space landing systems. That’s contrary to the organization’s claims that the mission will be "built entirely upon existing technology." At the moment, engineers can drop something that weighs a metric ton (more than 2,200 pounds) on Mars without destroying it, but anything heavier is much more difficult. That’s because of Mars’ atmosphere: it’s thinner than Earth’s, so engineers can’t rely on wind resistance to slow things headed for the surface. Mars One’s plans require them to land at least 2.5 metric tons (5,500 pounds) of food for their 2024 cargo mission; this means the organization will need an entirely new method of landing.
+
+The main argument revolved around the sheer cost of sustaining a space colony indefinitely
+
+This was just a warm-up, though. Do and Owens’ main argument revolved around the sheer cost of sustaining a space colony indefinitely. Mars One has said that sending its first crew to Mars would cost about $6 billion. Each additional one-way trip to Mars — trips that would send more "settlers" to the Red Planet — would cost $4 billion. Those estimates include equipment costs and operational costs, the company says. Planning a one-way mission might seem drastic, but it’s "the only way we can get people on Mars within the next 20 years," according to the project’s website. Sending people back home after a few months, or years, would be too costly — and technology that would allow someone to return from Mars doesn’t exist yet.
+
+But the cost advantage of a one-way mission is questionable, as spare parts become a crucial issue, Do and Owens said. For instance, to keep the International Space Station operational, NASA must launch a steady stream of cargo missions to replenish the station's supplies. Hardware breaks frequently on the ISS; astronauts spend a lot of time doing repairs. A settlement on Mars — surrounded by lots of fine dust that can clog complex air filtration systems — will likely need a lot of spare parts, Do and Owens argued. But unlike the ISS, which is resupplied every few months, the Mars One settlement will receive supply shipments only once every 26 months.
+
+The MIT team argued the amount of spare parts needed for a growing colony will cost hundreds of billions of dollars — and those costs will only increase. The mission gets more expensive over time, "in an unsustainable manner," Do said in a March interview. "You have to resupply the colony indefinitely." Which means Mars One’s $6 billion estimate is probably low. Even NASA estimates that its human mission to Mars, which is planned for the 2030s, will cost between $80 to $100 billion.
+
+Mars (ESA/MPS for OSIRIS Team)
+
+There is technology that could help alleviate the resupply problem: 3D printing. But material for the printers will still need to be shipped from Earth. And while it’s possible that Martian soil could be used as stock in the printers, the technology required to use dirt as a source of "ink" for 3D printing tools probably won't be ready by the time Mars One plans to launch.
+
+Essentially, the conclusion of Do and Owens’ work is that the cost of the Mars One mission grows exponentially over time. Even if the astronauts somehow make it to Mars, the settlers will need a monumental amount of supplies or else they will die horribly. "Our belief based on the data is that, no they cannot do this," said Owens, rounding out their presentation.
+
+Bas Lansdorp decided the best counterargument was nostalgia
+
+Lansdorp then stepped up to rebut their argument. Tall and thin, with very little hair, the Mars One CEO was dressed casually, wearing a blue button-down, a beige blazer, and jeans. He spoke softly and slowly, with a thick Dutch accent, beginning his 20-minute presentation with an anecdote about the time he watched the Apollo 11 astronauts walk on the Moon. He asked if anyone in the room remembered what it felt like to see those men take their first steps on another body in space. "It was one of the few moments in history where the whole world came to a stand still for a positive reason," he said. The trip down memory lane lasted at least five minutes.
+
+
+
+Eventually, Lansdorp addressed the MIT study, which was, in theory, the reason he was there. He admitted that Mars One should have embraced the study’s findings instead of attacking them, as they were essentially free feedback from engineers with expertise. He then proceeded to backtrack on the mission's timeline, without giving specifics on what was being delayed, or until when. "Our plan is not etched in stone, and we’ve already announced delays," he said. "Reality catches up with your plan." If Mars One does delay again, it won’t be the first time. The organization had originally planned to land humans on Mars in 2023. They changed that date to 2025, before settling recently on 2027.
+
+
+
+Lansdorp presented only one slide for the evening: an infographic of all the vehicles used for the Apollo missions. It seemed as though, faced with the logistical problems the MIT duo has identified, he decided the best counterargument was nostalgia: Mars One is possible because of how NASA stepped up to President John F. Kennedy's challenge of sending humans to the Moon in the 1960s. If they can do it, so can we, he implied. It's a sentiment he repeated at least four times throughout the evening.
+
+The Martian surface and Mars One's vision for a Mars habitat. (NASA/Mars One)
+
+At no point did Lansdorp directly address the claims made by MIT. He provided no concrete details regarding the mission's rockets, landers, interplanetary vehicles, or habitats. He barely touched on any science. He left that to his partner Barry Finger, an engineer and director for Paragon Space Development Corporation.
+
+Paragon, a company that builds life support systems for extreme environments, conducted its own feasibility study of Mars One, released in July. Paragon’s report came to some similar conclusions as the MIT study: technology development and adaptation are still needed for the mission to work. But despite the evening’s premise, Finger didn’t address Do and Owens' claims. Instead, his presentation was a complicated history lesson of how Paragon has solved engineering problems in the past — essentially a technology-focused continuance of Lansdorp’s pep talk. It was not exactly a convincing rebuttal, filled with lots of technical jargon and presented so poorly that it was hard to follow along. And of course, past performance is not necessarily indicative of future results, as the finance world is so fond of reminding us.
+
+At no point did Lansdorp directly address the claims made by the MIT students
+
+Then it was time for the question-and-answer session. In response to one question, Lansdorp admitted that the $6 billion cost estimate may be unrealistic. He didn’t offer up an alternative cost estimate or suggest that Mars One would be seeking additional funding, though. He also repeated the claim that Mars One would require less funding because there would be no return mission — an argument the MIT students reminded him wasn’t correct.
+
+It turns out Mars One is currently hurting for cash. Lansdorp said the organization has only $700,000, garnered from its candidates' application fees and early investors. That isn’t enough money to pay Lockheed Martin to do a concept study — part of the organization’s initial plans. Mars One is currently asking for $15 million from investors to make that happen. Lansdorp, however, is confident that he "might actually get a phone call from a billionaire who says, 'I want to make this happen,'" he said. That seems to be the crux of the mission's financial plan: make a big splash in the media to attract big investors. Then, private space companies will offer up their services and figure out all the technical details for them.
+
+So Lansdorp has proposed a reality show. Mars One plans to launch a 24/7 TV show that will follow the final colonist candidates as they train and prepare for the mission ahead. Lansdorp said the broadcast rights and sponsorships for that show will greatly exceed those of the Olympic Games, which he claimed averaged around $8 billion for the 2010 and 2012 cycles. (The source link for this number is broken on the Mars One website.)
+
+Mars One CEO Bas Lansdorp addressed criticisms of the organization in a YouTube video.
+
+The evening devolved from there. "The rockets aren’t the problem; the transit is not the problem," said Lansdorp about the biggest challenges they have to face, as Do and Owens just stared at him with their brows furrowed. "Landing on Mars… I’ve talked with several engineers from NASA who say they can do that with the current method." Maybe so. But the space agency has stated publicly that NASA can’t land more than one metric ton with current landing technology.
+
+"Bashing NASA does not prove the feasibility of Mars One."
+
+At one point, Owens confronted Lansdorp about a claim that the CEO made on television, saying that the organization had conducted its own feasibility study and found that Mars One is possible with current technology. "There’s science conferences and then there’s TV," says Lansdorp sheepishly. "As the CEO of the company, I always have to balance between how I phrase things." That feasibility study never happened; Lansdorp went on TV and lied.
+
+Lansdorp was repeatedly asked for concrete details about the Mars One mission plan, but avoided answering with specifics. Instead he parroted the same talking point over and over again: NASA stepped up to Kennedy’s challenge, so Mars One can step up to this challenge. After Lansdorp said this for the fourth time, the MIT team just sat there shaking their heads.
+
+Then, Lansdorp grasped at another argument, stating that NASA has been promising us a mission to Mars for the past 45 years and it has yet to happen. The argument was met by applause from the audience. Owens grabbed the microphone from Lansdorp: "Bashing NASA does not prove the feasibility of Mars One." The statement was met by even greater applause. In fact, nothing Lansdorp said during the debate proved the feasibility of Mars One. In the end, Mars One was in about the same shape as the queen xenomorph, flailing uncontrollably after it got blown out of the air lock.
+
+Sean O'Kane and Arielle Duhaime-Ross contributed to this report.

@@ -1,0 +1,13 @@
+
+
+
+
+Source: PDF: Remote Timing Attacks are Still Practical Researchers Billy Bob Brumley and Nicola Tuveri have used a "timing attack" to calculate the secret key of a TLS/SSL server which uses the Elliptic Curve DSA. The attack is based on the idea that the time required for performing a multiplication allows conclusions to be drawn about the multiplication's operands.
+
+Elliptic Curve Cryptography is often used for asymmetric methods, such as RSA or DSA, that usually require very long keys. These methods derive their security from the high level of difficulty involved in calculating the discrete logarithm for the group of points on the elliptic curve. With ECRSA, for example, a 160-bit key provides a level of security that is similar to the level a 1024-bit key offers with RSA.
+
+For their tests, the researchers set up an SSL server with OpenSSL and measured the time it took to create a digital signature using Elliptic Curve DSA (ECDSA). This allowed them to calculate the server's secret key. When establishing an SSL connection via the local loopback interface, they managed to do this almost instantaneously. While packet transfer times on a local network caused measurement uncertainties, these uncertainties could be compensated for with some further calculations. Overall, the attack described in Remote Timing Attacks are Still Practical also proved feasible over a network.
+
+No working countermeasures have so far been found; the US-CERT advises that ECDSA should no longer be used for digital signatures. To prevent this type of attack, the researchers recommend implementing time-independent functions for operations on elliptic curves.
+
+(crve)

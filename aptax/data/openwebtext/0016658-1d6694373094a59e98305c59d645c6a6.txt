@@ -1,0 +1,61 @@
+Sega is bringing a collection of its finest retro video games to iOS and Android devices via a new service called Sega Forever. Unlike its past mobile releases—which include the likes of Sonic the Hedgehog and Football Manager Mobile—the entire Sega Forever line-up is free-to-play and supported by ads. Players can optionally remove the ads via an in-app purchase for £2 (~$2.50).
+
+There are five games in the Sega Forever launch line-up, consisting of the original Sonic the Hedgehog, RPG Phantasy Star II, beat 'em up Comix Zone, platformer Kid Chameleon, and the original Sega Mega Drive (Genesis) pack-in game Altered Beast. An iOS and Android version of the classic Dreamcast game Crazy Taxi launched in May, which is also free-to-play. Additional games are promised to launch every two weeks.
+
+Although the launch line-up is exclusively made up of Mega Drive games, the Sega Forever Twitter feed has teased shots of other consoles, including the SG 1000, Dreamcast, and Saturn. How Sega tackles the Saturn will be particularly interesting given the difficulty developers have had creating a working emulator for the console's classically esoteric hardware.
+
+While some Sega Forever games have previously been released on mobile, Sega has promised that all have been updated with modern features including cloud saves, controller support, and leaderboards. All games are also playable offline, regardless of whether users are playing the ad-free or ad-supported version. iOS players will receive a free iMessage sticker pack alongside each game.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sega's previous retro catalogue has been largely well-received on mobile, but some games have suffered from performance issues. This is largely down to the use of emulators—which mimic original hardware and play Mega Drive ROMs—rather than ports made specifically for Android and iOS devices. For instance, an early emulated version of Sonic the Hedgehog was replaced by a superior port in 2013 alongside a port of Sonic CD. Christian Whitehead, the fangame developer behind the ports, has since moved in-house at Sega, developing the upcoming Sonic Mania for Xbox One, PlayStation 4, and Nintendo Switch.
+
+Update: Sega Forever "will include both official emulations and ported games that span all Sega console eras." Sega has confirmed to Ars Technica that SG-1000, Master System, and Mega Drive/Genesis games will be run via an emulator, while Saturn and Dreamcast games will be direct ports.
+
+The first set of Sega Forever games launches shortly on iOS and Android. Further games will launch every two weeks.

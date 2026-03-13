@@ -1,0 +1,31 @@
+New York is facing a crisis. The city that never sleeps has become the city with the most people who have no home to sleep in. As rising rents outpace income growth across the five boroughs, some 62,000 people, nearly 40 percent of them children, live in homeless shelters—rates the city hasn't seen since the Great Depression.
+
+As New York City Mayor Bill de Blasio faces reelection in November, his reputation and electoral prospects depend in part on his ability to reverse this troubling trend. In the mayor's estimation, combatting homelessness effectively will require opening 90 new shelters across the city and expanding the number of outreach workers who canvass the streets every day offering aid and housing. The effort will also require having the technology in place to ensure that work happens as efficiently as possible. To that end, the city is rolling out a new tool, StreetSmart, aims to give city agencies and non-profit groups a comprehensive view of all of the data being collected on New York's homeless on a daily basis.
+
+Think of StreetSmart as a customer relationship management system for the homeless. Every day in New York, some 400 outreach workers walk the streets checking in on homeless people and collecting information about their health, income, demographics, and history in the shelter system, among other data points. The workers get to know this vulnerable population and build trust in the hope of one day placing them in some type of housing.
+
+NYC Department of Homeless Services
+
+Traditionally, outreach workers have entered information about every encounter into a database, keeping running case files. But those databases never talked to each other. One outreach worker in the Bronx might never know she was talking to the same person who’d checked into a Brooklyn shelter a week prior. More importantly, the worker might never know why that person left. What's more, systems used by city agencies and non-profits seldom overlapped, complicating efforts to keep track of individuals.
+
+"It would require reinventing the wheel in every case," says Human Resources Administration Commissioner Steve Banks.
+
+A True View
+
+Banks wanted a tool that would not only enable workers to coordinate their efforts, but also give the city government a true overview of the homelessness problem that would enable officials to design interventions based on real data, not rough estimates. The city’s tech team worked with non-profit organizations such as Project Hospitality in Staten Island as well as BronxWorks to find out what the outreach workers on the front lines of this citywide disaster need.
+
+“The work itself is difficult, but then managing the work, and where people are and tracking folks is a big, huge thing we deal with,” says Juan Rivera, who directs homeless outreach for BronxWorks.
+
+Outreach workers need to be armed with as much information as possible if they’re going to build trust with clients, Rivera says. They need to know, for instance, if a homeless individual in their neighborhood recently left a detox program in another neighborhood. That person might need more than just a bed to get back on his feet. StreetSmart gives outreach workers access to that information. At the same time, the team behind StreetSmart took pains to protect clients’ privacy, so, for instance, only authorized officials would have access to people’s medical history.
+
+NYC Department of Homes Services
+
+The big promise of StreetSmart extends beyond its ability to help outreach workers in the moment. The aggregation of all this information could also help the city proactively design fixes to problems it wouldn’t have otherwise seen. The tool has a map feature that shows where encampments are popping up and where outreach workers are having the most interactions. It can also be used to assess how effective different housing facilities are at keeping people off the streets.
+
+Which, of course, is what all of this is really about. All of the technology in the world won’t matter if the facilities available to homeless people are fundamentally unsafe places where they don’t want to be. “The more we can integrate services the better,” says Deborah Padgett, a professor of social work at New York University. “But my concern is what is waiting for them once they get off the street?”
+
+Padgett is one of many advocates who argue that what the city is offering today is far from enough. The Coalition for the Homeless has argued that expanding the shelter system is simply a Band-aid on the much deeper wound: the lack of permanent affordable housing in the city.
+
+Commissioner Banks, a former attorney-in-chief at the Legal Aid Society, which represents low-income New Yorkers, acknowledges that underlying issue. "This has been a trajectory over multiple decades reflective of the need for affordable housing," he says.
+
+These knotty societal issues, decades in the making, could very likely take decades to unwind—no matter how efficient the technology working in service of ending the problem.

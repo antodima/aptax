@@ -1,0 +1,21 @@
+Undercover agents breached the physical security of the National Institute of Standards and Technology 15 out of 15 times, House Science Committee Chairman Lamar Smith (R-Texas) said Wednesday during a hearing on the institute's cybersecurity.
+
+The Government Accountability Office (GAO) ran the testing at the committee's urging and presented a full report, including videotapes of the test, to the committee before the hearing.
+
+"Their findings are alarming and confirmed our worst fears," said Smith. "NIST is a sieve."
+
+NIST, a division of the Commerce Department, conducts research on everything from voting machines to nuclear reactors to developing federal standards. It has campuses in both Maryland and Colorado.
+
+ADVERTISEMENT
+
+While the full report was not released to the public over security concerns, the public report mentions a variety of problems in the security policy at NIST. Those include poor training of security experts and scientists and a security strategy giving some responsibilities to the Commerce Department and other responsibilities to NIST.
+
+While the bifurcated security structure is required by statute and can only be changed by Congress, the GAO report discusses poor integration between the two branches.
+
+NIST and the Department of Commerce have accepted every recommendation given by the report.
+
+The specifically tested security vulnerabilities are being withheld, but the committee is working to get the videos released.
+
+The GAO deferred discussing whether its investigators had access to either computers that could be infected with malware or labs. But, a GAO representative noted, it would be reasonable to assume, given that NIST buildings largely exist to host laboratories and offices, that this would be the case.
+
+The House Science Committee first took interest in NIST security in 2015, when a meth lab that was run by a former NIST security employee out of an unused lab exploded. In 2016 an intruder was found wandering through the NIST campus.

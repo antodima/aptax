@@ -1,0 +1,21 @@
+Astronomers have used NASA's Hubble Space Telescope to take the most detailed picture to date of a large, edge-on, gas-and-dust disk encircling the 20-million-year-old star Beta Pictoris.
+
+Beta Pictoris remains the only directly imaged debris disk that has a giant planet (discovered in 2009). Because the orbital period is comparatively short (estimated to be between 18 and 22 years), astronomers can see large motion in just a few years. This allows scientists to study how the Beta Pictoris disk is distorted by the presence of a massive planet embedded within the disk.
+
+The new visible-light Hubble image traces the disk in closer to the star to within about 650 million miles of the star (which is inside the radius of Saturn's orbit about the Sun).
+
+"Some computer simulations predicted a complicated structure for the inner disk due to the gravitational pull by the short-period giant planet. The new images reveal the inner disk and confirm the predicted structures. This finding validates models, which will help us to deduce the presence of other exoplanets in other disks," said Daniel Apai of the University of Arizona. The gas-giant planet in the Beta Pictoris system was directly imaged in infrared light by the European Southern Observatory's Very Large Telescope six years ago.
+
+When comparing the latest Hubble images to Hubble images taken in 1997, astronomers find that the disk's dust distribution has barely changed over 15 years despite the fact that the entire structure is orbiting the star like a carousel. This means the disk's structure is smoothly continuous in the direction of its rotation on the timescale, roughly, of the accompanying planet's orbital period.
+
+In 1984 Beta Pictoris was the very first star discovered to host a bright disk of light-scattering circumstellar dust and debris. Ever since then Beta Pictoris has been an object of intensive scrutiny with Hubble and with ground-based telescopes. Hubble spectroscopic observations in 1991 found evidence for extrasolar comets frequently falling into the star.
+
+The disk is easily seen because it is tilted edge-on and is especially bright due to a very large amount of starlight-scattering dust. What's more, Beta Pictoris is closer to Earth (63 light-years) than most of the other known disk systems.
+
+Though nearly all of the approximately two-dozen known light-scattering circumstellar disks have been viewed by Hubble to date, Beta Pictoris is the first and best example of what a young planetary system looks like, say researchers.
+
+One thing astronomers have recently learned about circumstellar debris disks is that their structure, and amount of dust, is incredibly diverse and may be related to the locations and masses of planets in those systems. "The Beta Pictoris disk is the prototype for circumstellar debris systems, but it may not be a good archetype," said co-author Glenn Schneider of the University of Arizona.
+
+For one thing the Beta Pictoris disk is exceptionally dusty. This may be due to recent major collisions among unseen planetary-sized and asteroid-sized bodies embedded within it. In particular, a bright lobe of dust and gas on the southwestern side of the disk may be the result of the pulverization of a Mars-sized body in a giant collision.
+
+Both the 1997 and 2012 images were taken in visible light with Hubble's Space Telescope Imaging Spectrograph in its coronagraphic imaging mode. A coronagraph blocks out the glare of the central star so that the disk can be seen.

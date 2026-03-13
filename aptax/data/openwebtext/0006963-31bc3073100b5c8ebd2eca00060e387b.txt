@@ -1,0 +1,23 @@
+Summary: Static vs dynamic typing debates often flounder because the debators see from two different perspectives without knowing it. Learning to identify the two perspectives can calm the discussion. The tension between the two perspectives has led to Gradual Typing and other technologies.
+
+Many discussions about type systems around the internet fail to be interesting because one or both parties are not versed in type theory. There’s a less common (yet related) reason, which I have begun to notice more and more: people who are not familiar with the difference between Church Types and Curry Types. These are also known, respectively, as Intrinsic Types and Extrinsic types. Because the participants are not aware of the two perspectives, they blame the other one for ignorance, when in fact they just have a different perspective.
+
+Church Types are what Haskell has. Church types are named for Alonzo Church, the inventor of the lambda calculus. In a Church-style system, types are an intrinsic part of the semantics of the language. The language would be different without the types–it may even be meaningless. With an intrinsic type system, the meaning of the program is different from the runtime behavior of the program. One way to think of this is that so much of the meaning of the program occurs at compile time that you can begin to think of the program having properties you can reason about even if you never run the program.
+
+The other kind of types are Curry types (aka extrinsic types). They are named for Haskell Curry, the man the Haskell language is named after. Curry-style types is when a system of types is applied that is not part of the semantics of the language. This is what Clojure has in core.typed . The meaning of a Clojure program is not dependent on it passing the type checker–it can be run without it. The type checker simply alerts you to type errors in your code. Note that you could consider your type checker to be your own head, which, as flawed as it may be, is what most Clojure programmers use. The types could be anywhere outside of the language.
+
+Each perspective is valuable and bears its own fruit. Intrinsic types are great because you are guaranteed to have a mathematically-sound safety net at all times. You always have something you can reason about. Such is not guaranteed for extrinsic type checkers. They may not be able to reason about your code at all.
+
+Extrinsic types are useful because you can apply multiple type systems to your code–or even write something that you don’t know how to prove is sound. There are more benefits on both sides, but you get the idea.
+
+We now have a new perspective which is slightly “higher” than either of them. We can now see that both perspectives exist and talk about them as such. What can we see/say now that we couldn’t before?
+
+A famous article by Robert Harper exemplifies the Church perspective very well. It argues that untyped programs are a subset of typed programs. They are programs that have a single type and all values are of that one type. So instead of being liberating, dynamic languages restrict you to one type. Notice the assumption that languages have a type system by default which is typical of the Church-style perspective. We can now say “This reasoning is correct given that perspective.”
+
+On the other side, you’ll often see a dynamic typist say the exact opposite: that well-typed programs are a subset of dynamically typed programs. In other words, well-typed programs are just dynamic programs with fewer errors. Curry-style to the core: static type errors are something that is added onto the semantics of the language. We can now see that they are right, from their perspective.
+
+Here’s a diagram:
+
+Notice how they’re isomorphic? That means something, I just don’t know what 🙂
+
+My ambitious hope is that this perspective will quiet a lot of the fighting as people recognize that they are just perpetuating a rift in the field of mathematics that happened a long time ago. The perspectives are irreconcilable now, but that could change. A paper called Church and Curry: Combining Intrinsic and Extrinsic Typing builds a language with both kinds of types. And Gradual Typing and Blame Calculus are investigating the intersection of static and dynamic typing. Let’s stop fighting, make some cool tools and use them well.

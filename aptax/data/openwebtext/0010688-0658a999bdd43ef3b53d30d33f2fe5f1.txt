@@ -1,0 +1,33 @@
+Piracy websites can be targeted by the US and UK regardless of where they're hosted or which domain they use, according to legal experts.
+
+The US Immigration and Customs Enforcement (ICE) agency has been taking down sites with illegal content and targeted one UK student with extradition, despite the content not being hosted in the US.
+
+Erick Barnett, assistant deputy director for (ICE), told The Guardian that any site that uses a .com or .net domain name is fair game, as those are registered through US company Verisign.
+
+"By definition, almost all copyright infringement and trademark violation is transnational," he told the newspaper. "There's very little purely domestic intellectual property theft."
+
+People do not understand the extra-jurisdictional nature of the internet
+
+Iain Connor, a partner in the intellectual property division at law firm Pinsent Masons, said the situation was similar in the UK - but a site need not even use a .uk address to be taken to court, despite a general belief to the contrary.
+
+“You look to where the website’s directed,” Connor told PC Pro. While a web address can be one part of that, courts will also look at what language it's written in, what currency it takes payments in, and who advertising is directed at.
+
+“It’s a myriad of factors which will determine whether a UK court feels it has jurisdiction, because the test for jurisdiction is where the damage is occurring.
+
+“People do not understand the extra-jurisdictional nature of the internet,” he added. “They think, 'I can do it here so it’s okay everywhere'. People need to be aware is that of course the nature of the internet means they can be conducting an illegal act overseas even when the act may or may not be illegal in the country they are based.”
+
+Extradition questions
+
+The issue affects 23-year-old student Richard O’Dwyer, who faces extradition to the US because his site TVShack.net allegedly linked to pirated content.
+
+O’Dwyer’s family and defence have questioned why the US is targeting him when a similar case, over website TV-Links, was dismissed from UK courts. However, Connor suggests the comparison isn’t valid.
+
+“That was a Crown Court criminal prosecution, where the burden of proof was unreasonable doubt. Most copyright cases are done on the balance of probability,” he said, adding that criminal burden of proof is an "incredible" level to satisfy.
+
+"And, criminal cases are not in any way precedent forming… people point to that case, but so what? If I got off shoplifting in the past, does that mean shoplifting is now legal? No.”
+
+And because O'Dwyer's site used the US-based .net domain, US authorities can take action, and will choose to do so in their own courts because they're more likely to win.
+
+There’s a diminishing global sympathy for people who are aggregating other people’s content unless they’ve got a license to do it
+
+"If you’re looking globally and forum shopping for a court that is likely to give you a better result, the simple fact of the matter is, as a US company, dealing with US content, in front of a US court under US copyright law, you’ll stand a better chance of securing the result you want," Connor said.

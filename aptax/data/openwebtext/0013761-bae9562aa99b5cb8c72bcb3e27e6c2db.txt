@@ -1,0 +1,41 @@
+news National broadband provider iiNet and its subsidiary Internode have pledged to implement the limited child abuse Internet filtering scheme adopted as policy last week by the Federal Government, noting they had received independent legal advice advising them to comply with a new “compulsory” request by police to do so.
+
+Last week, Communications Minister Stephen Conroy announced the Federal Government would abandon its highly unpopular and controversial mandatory Internet filtering policy in favour of a more limited scheme that will see Australian ISPs forced to block a much smaller list of child abuse sites supplied by international policing agency Interpol. The legal mechanism for the scheme to proceed is Section 313 of the Telecommunications Act, which allows the Australian Federal Police to request assistance from local telcos. Telstra and Optus implemented the scheme in mid-2011; Conroy said last week that it will now be extended to other ISPs.
+
+In mid-2011, a number of ISPs, such as Telstra, Optus, iiNet and Internode, received such requests from the Australian Federal Police to implement such a filtering scheme for the Interpol list. At the time, Telstra and Optus complied with the request and have had their filters working for more than a year with no known public complaints, while a number of other ISPs, such as iiNet and Internode, declined to do so, citing uncertainty about the legality of the request.
+
+However, posting on broadband forum Whirlpool this week, iiNet group chief regulatory officer Steve Dalby noted that the Section 313 notices received in mid-2011 by the ISPs had made it clear the scheme was “voluntary”. New notices issued to ISPs recently, however, he said, had the word “voluntary” removed from their text.
+
+“… the AFP advised us that compliance was voluntary. As a result we declined to participate,” Dalby wrote. “Now it is clearly no longer voluntary and we are obliged to comply, which we will. As you will no doubt have read from the press release, all ISPs will be served notices by the AFP. I’m sure most will take legal advice on the effectiveness of the notifications and act according to that legal advice.”
+
+Dalby noted iiNet had sought legal advice on the Section 313 notice, and added: ” … we are satisfied that both the advice and our obligations are clear.” However, he declined to release that legal advice to iiNet’s customers and the public, or to release the text of the Section 313 notice issued by the Australian Federal Police to iiNet.
+
+“There’s no need for a press release,” he told Whirlpool users. “We see the matter as ‘business as usual’ – we comply with legitimate request or directions from law enforcement agency all the time. This is no different, now that the element of volunteering has been removed.”
+
+“It’s not complicated,” he added. “The Act hasn’t changed, the section 313 notice has. Previously, it seems, some ISPs were prepared to act on the ‘voluntary’ s313. We declined. Now that it is no longer voluntary, we are complying … The word ‘voluntary’ was deleted from the MS Word document. Why is this such a hard concept to grasp?”
+
+However, not everyone believes that the Section 313 notices which are being used by the Australian Federal Police to implement the limited Interpol filtering scheme are in fact legal.
+
+For example, this week Australian free market thinktank the Institute of Public Affairs accused the Federal Government of relying on an “obscure” section of telecommunications law in a way that was never intended to implement its new limited Internet filtering scheme, and warned of the potential for scope creep under the scheme.
+
+“The Gillard government is handing over control for the list of banned websites to the international police agency, Interpol, and is using an existing law in a way that was never intended,” said Simon Breheny, director of the IPA’s Legal Rights Project.
+
+“The use of an obscure provision of the legislation raises serious legal issues – it is highly doubtful whether the law can be used to compel ISPs to block websites at the Minister’s behest. If the Minister always had the power to impose an internet filter without the need for new legislation section 313 would have been used from the beginning,” Breheny added.
+
+Last week, most digital rights, political and telecommunications organisations in Australia – including Electronic Frontiers Australia, the Pirate Party of Australia, the Internet Society of Australia (ISOC-AU), the Greens, the Opposition, the Internet Industry Association and others welcomed the Government’s backdown on the mandatory Internet filter and the implementation of the new scheme. However, some, such as ISOC-AU, noted that they still had concerns with the details of the new setup.
+
+Delimiter has encouraged the Minister to hold an open press conference on the issue to take questions from the media, as well as to issue a discussion paper on the issue which would allow the public to comment on the scheme formally. In addition, we have invited the Minister to respond to the following questions in writing:
+
+Given the wide-ranging nature of the Interpol filter — affecting most Australian Internet users — why was no public consultation held before the Government decided to take take this step? I note that the Government has never held a formal public consultation into Internet filtering in general.
+
+How would the Government respond to the claim that there will be no civilian oversight of this Interpol filtering scheme, with key information about it only being released over the past several years through Freedom of Information requests filed with the Australian Federal Police?
+
+ISPs such as iiNet, Internode, TPG and Exetel have declined to participate in this scheme so far over the past 12 months, with some citing uncertainty of the legal situation. How would the Government address the claim that the legal ground of this Interpol filtering scheme, notably the process whereby the AFP issues notices to ISPs, is not clear?
+
+Which further ISPs will the AFP issue notices to? Has the Government already received support from those ISPs for the scheme? How will the Government react if an ISP declines the notice?
+
+How would the Government respond to the claim that there is the potential for the AFP to issue notices beyond the Interpol list to ISPs, in an approach which could be dubbed ‘scope creep’?
+
+Neither Telstra nor Optus explicitly notified customers that they had implemented the Interpol filter when they did so last year. What guidelines will the Government be placing around ISPs’ participation in this scheme?
+
+Image credit: iiNet
