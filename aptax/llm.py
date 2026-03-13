@@ -132,12 +132,14 @@ class MiniGPT(nnx.Module):
                 for _ in range(num_transformer_blocks)
             ]
         )
+        self.dropout = nnx.Dropout(0.1, rngs=rngs)
         self.output_layer = nnx.Linear(embed_dim, vocab_size, use_bias=False, rngs=rngs)
 
     def __call__(self, token_ids):
         seq_len = token_ids.shape[1]
         mask = causal_attention_mask(seq_len)
         x = self.embedding(token_ids)
+        x = self.dropout(x)
         for block in self.transformer_blocks:
             x = block(x, mask=mask)
 
