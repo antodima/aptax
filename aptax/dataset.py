@@ -35,7 +35,7 @@ def load_stories(eot_token="<|endoftext|>", max_stories=1000):
     """Efficiently load stories from a text file.
     Each story ends with <|endoftext|>.
     """
-    file_path=Path("aptax/data/tinystories/TinyStories-1000.txt")
+    file_path = Path("aptax/data/tinystories/TinyStories-1000.txt")
     if not file_path.exists():
         raise FileNotFoundError(f"Data file not found: {file_path}")
 
@@ -72,8 +72,15 @@ def load_stories(eot_token="<|endoftext|>", max_stories=1000):
     return stories
 
 
-class StoryDataset:
-    def __init__(self, stories, max_seq_len, tokenizer):
+def load_webtexts(max_texts=10000):
+    openwebtext_dir = Path("aptax/data/openwebtext")
+    openwebtext_paths = sorted(openwebtext_dir.glob("*.txt"))
+    openwebtext_texts = [p.read_text(encoding="utf-8") for p in openwebtext_paths]
+    return openwebtext_texts
+
+
+class TextsDataset:
+    def __init__(self, texts, max_seq_len, tokenizer):
         self.max_seq_len = max_seq_len
         self.tokenizer = tokenizer
         self.eot_token = "<|endoftext|>"
@@ -81,13 +88,13 @@ class StoryDataset:
         self.eot_token_id = tokenizer.encode(
             self.eot_token, allowed_special=self.special_tokens
         )[0]
-        self.stories = stories
+        self.texts = texts
 
     def __len__(self):
-        return len(self.stories)
+        return len(self.texts)
 
     def __getitem__(self, idx):
-        story = self.stories[idx]
+        story = self.texts[idx]
         tokens = self.tokenizer.encode(story, allowed_special=self.special_tokens)
         if len(tokens) > self.max_seq_len:
             tokens = tokens[: self.max_seq_len]
