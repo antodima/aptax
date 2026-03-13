@@ -9,4 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-checkpoints/minigpt.orbax/*
+checkpoints/*minigpt.orbax/*
+.DS_Store
