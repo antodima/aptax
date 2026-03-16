@@ -74,7 +74,7 @@ def load_stories(eot_token="<|endoftext|>", max_stories=1000):
     return stories
 
 
-def load_squad():
+def load_squad(max_records=None):
     dataset = []
     file_path = Path("aptax/data/squad/train-v2.0.json")
     with open(file_path, "r") as f:
@@ -94,6 +94,8 @@ def load_squad():
                     }
                 )
 
+    if max_records is not None:
+        return dataset[:max_records]
     return dataset
 
 
