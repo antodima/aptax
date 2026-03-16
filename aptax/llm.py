@@ -11,28 +11,21 @@ def causal_attention_mask(seq_len):
     return jnp.tril(jnp.ones((seq_len, seq_len)))
 
 
-def scaled_dot_product(q, k, v, mask=None):
-    """Compute scaled dot-product attention.
-
-    Args:
-    q: (batch, heads, seq_len, head_dim)
-    k: (batch, heads, seq_len, head_dim)
-    v: (batch, heads, seq_len, head_dim)
-    mask: (seq_len, seq_len) or None
-
-    Returns:
-    values: (batch, heads, seq_len, head_dim)
-    attention: (batch, heads, seq_len, seq_len)
-    """
+def scaled_dot_product(q, k, v, mask=None, dropout_fn=None):
     d_k = q.shape[-1]
-    # (batch, heads, seq_len, head_dim) @ (batch, heads, head_dim, seq_len) --> (batch, heads, seq_len, seq_len)
-    scaled = jnp.matmul(q, k.transpose(0, 1, 3, 2)) / jnp.sqrt(d_k)
+    # Calculate scores: (batch, heads, seq, seq)
+    # Using swapaxes is rank-agnostic for the leading dims
+    attn_logits = jnp.matmul(q, k.swapaxes(-2, -1)) / jnp.sqrt(d_k)
     if mask is not None:
-        scaled += mask
-    attention = jax.nn.softmax(scaled, axis=-1)
-    # (batch, heads, seq_len, seq_len) @ (batch, heads, seq_len, head_dim) --> (batch, heads, seq_len, head_dim)
-    values = jnp.matmul(attention, v)
+        # Assuming mask is boolean: True to keep, False to mask
+        attn_logits = jnp.where(mask, attn_logits, -1e9)
 
+    attention = jax.nn.softmax(attn_logits, axis=-1)
+    # Optional dropout on attention weights
+    if dropout_fn is not None:
+        attention = dropout_fn(attention)
+
+    values = jnp.matmul(attention, v)
     return values, attention
 
 
@@ -48,40 +41,45 @@ class MultiHeadAttention(nnx.Module):
 
         self.qkv_layer = nnx.Linear(input_dim, 3 * embed_dim, rngs=rngs)
         self.linear_layer = nnx.Linear(embed_dim, embed_dim, rngs=rngs)
+        # Suggestion: Add dropout
+        self.dropout = nnx.Dropout(0.1, rngs=rngs)
 
-    def __call__(self, x, mask=None):
+    def __call__(self, x, mask=None, *, deterministic=False):
         batch_size, seq_len, input_dim = x.shape
-        # (batch_size, seq_len, 3 * embed_dim)
+        # Project and split heads
         qkv = self.qkv_layer(x)
-        # (batch_size, seq_len, num_heads, 3 * head_dim)
-        qkv = qkv.reshape(batch_size, seq_len, self.num_heads, 3 * self.head_dim)
-        # (batch_size, num_heads, seq_len, 3 * head_dim)
-        qkv = jnp.permute_dims(qkv, (0, 2, 1, 3))
-        # q (batch_size, num_heads, seq_len, head_dim)
-        # k (batch_size, num_heads, seq_len, head_dim)
-        # v (batch_size, num_heads, seq_len, head_dim)
-        q, k, v = jnp.split(qkv, 3, axis=-1)
-        # values (batch_size, num_heads, seq_len, head_dim)
-        # attn (batch_size, num_heads, seq_len, seq_len)
-        values, attn = scaled_dot_product(q, k, v, mask=mask)
-        # (batch_size, seq_len, num_heads, head_dim)
-        values = jnp.permute_dims(values, (0, 2, 1, 3))
-        # (batch_size, seq_len, num_heads * head_dim)
-        values = values.reshape(batch_size, seq_len, self.num_heads * self.head_dim)
-        # (batch_size, seq_len, num_heads * head_dim)
-        out = self.linear_layer(values)
+        # Using -1 for the last dim is often cleaner
+        qkv = qkv.reshape(batch_size, seq_len, self.num_heads, 3, self.head_dim)
+        # Transpose to (3, batch, heads, seq, head_dim)
+        qkv = qkv.transpose((3, 0, 2, 1, 4))
+        q, k, v = qkv[0], qkv[1], qkv[2]
+        # Scaled dot-product attention
+        # Note: Ensure your scaled_dot_product handles the 1/sqrt(dk)
+        values, attn_weights = scaled_dot_product(
+            q, k, v, mask=mask, dropout_fn=self.dropout if not deterministic else None
+        )
+        # Recombine heads: (b, s, h, d_h) -> (b, s, d)
+        values = values.transpose((0, 2, 1, 3)).reshape(
+            batch_size, seq_len, self.embed_dim
+        )
 
-        return out
+        return self.linear_layer(values)
 
 
 class TransformerBlock(nnx.Module):
     def __init__(self, input_dim, embed_dim, num_heads, *, rngs):
-        self.attn = nnx.MultiHeadAttention(
+        # self.attn = nnx.MultiHeadAttention(
+        #     num_heads=num_heads,
+        #     in_features=input_dim,
+        #     qkv_features=embed_dim,
+        #     out_features=embed_dim,
+        #     decode=False,
+        #     rngs=rngs,
+        # )
+        self.attn = MultiHeadAttention(
+            input_dim=input_dim,
+            embed_dim=embed_dim,
             num_heads=num_heads,
-            in_features=input_dim,
-            qkv_features=embed_dim,
-            out_features=embed_dim,
-            decode=False,
             rngs=rngs,
         )
 
@@ -144,3 +142,18 @@ class MiniGPT(nnx.Module):
 
         logits = self.output_layer(x)
         return logits
+
+
+class MiniQA(nnx.Module):
+    def __init__(self, base_model: nnx.Module, hidden_dim: int, rngs: nnx.Rngs):
+        self.base_model = base_model
+        self.qa_head = nnx.Linear(in_features=hidden_dim, out_features=2, rngs=rngs)
+
+    def __call__(self, input_ids):
+        hidden_states = self.base_model(input_ids)
+        logits = self.qa_head(hidden_states)
+        start_logits, end_logits = jnp.split(logits, 2, axis=-1)
+        start_logits = jnp.squeeze(start_logits, axis=-1)
+        end_logits = jnp.squeeze(end_logits, axis=-1)
+
+        return start_logits, end_logits

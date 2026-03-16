@@ -171,9 +171,14 @@ class QADataset:
         input_ids.extend([self.eot_token_id] * (self.max_seq_len - len(input_ids)))
         labels_ids = jnp.array(input_ids)[1:].tolist() + [self.eot_token_id]
 
+        # loss_mask = get_loss_mask(
+        #     labels_ids,
+        #     answer_start_idx=len(prompt_ids),
+        #     padding_token_id=self.eot_token_id,
+        # ).tolist()
         loss_mask = get_loss_mask(
             labels_ids,
-            answer_start_idx=len(prompt_ids),
+            answer_start_idx=0,
             padding_token_id=self.eot_token_id,
         ).tolist()
 
