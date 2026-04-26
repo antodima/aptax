@@ -68,14 +68,6 @@ class MultiHeadAttention(nnx.Module):
 
 class TransformerBlock(nnx.Module):
     def __init__(self, input_dim, embed_dim, num_heads, *, rngs):
-        # self.attn = nnx.MultiHeadAttention(
-        #     num_heads=num_heads,
-        #     in_features=input_dim,
-        #     qkv_features=embed_dim,
-        #     out_features=embed_dim,
-        #     decode=False,
-        #     rngs=rngs,
-        # )
         self.attn = MultiHeadAttention(
             input_dim=input_dim,
             embed_dim=embed_dim,
@@ -98,6 +90,11 @@ class TokenAndPositionEmbedding(nnx.Module):
         seq_len = x.shape[1]
         positions = jnp.atleast_2d(jnp.arange(seq_len))
         return self.token_emb(x) + self.pos_emb(positions)
+
+
+###############################################################################
+# MiniGPT
+###############################################################################
 
 
 class MiniGPT(nnx.Module):
@@ -132,11 +129,11 @@ class MiniGPT(nnx.Module):
         self.dropout = nnx.Dropout(0.1, rngs=rngs)
         self.output_layer = nnx.Linear(embed_dim, vocab_size, use_bias=False, rngs=rngs)
 
-    def __call__(self, token_ids):
+    def __call__(self, token_ids, *, deterministic=False):
         seq_len = token_ids.shape[1]
         mask = causal_attention_mask(seq_len)
         x = self.embedding(token_ids)
-        x = self.dropout(x)
+        x = self.dropout(x, deterministic=deterministic)
         for block in self.transformer_blocks:
             x = block(x, mask=mask)
 
@@ -144,16 +141,105 @@ class MiniGPT(nnx.Module):
         return logits
 
 
-class MiniQA(nnx.Module):
-    def __init__(self, base_model: nnx.Module, hidden_dim: int, rngs: nnx.Rngs):
-        self.base_model = base_model
-        self.qa_head = nnx.Linear(in_features=hidden_dim, out_features=2, rngs=rngs)
+###############################################################################
+# MiniTabPFN
+###############################################################################
 
-    def __call__(self, input_ids):
-        hidden_states = self.base_model(input_ids)
-        logits = self.qa_head(hidden_states)
-        start_logits, end_logits = jnp.split(logits, 2, axis=-1)
-        start_logits = jnp.squeeze(start_logits, axis=-1)
-        end_logits = jnp.squeeze(end_logits, axis=-1)
 
-        return start_logits, end_logits
+class FeatureEncoder(nnx.Module):
+    def __init__(
+        self,
+        embed_dim,
+        *,
+        rngs,
+    ):
+        self.linear = nnx.Linear(1, embed_dim, rngs=rngs)
+
+    def __call__(self, x, train_test_split_index):
+        x = jnp.atleast_2d(x)
+        if x.ndim == 2:
+            x = x[..., None]
+
+        # Create a boolean mask for the training part (static shape)
+        # mask shape: (1, seq_len, 1)
+        mask = jnp.arange(x.shape[1])[None, :, None] < train_test_split_index
+
+        # Compute stats using the 'where' argument to ignore test data
+        # This avoids dynamic slicing and the resulting IndexError
+        mean = jnp.mean(x, axis=1, where=mask, keepdims=True)
+        std = jnp.std(x, axis=1, where=mask, keepdims=True)
+
+        # Handle potential NaNs if split index is 0 or all values are the same
+        mean = jnp.where(jnp.isnan(mean), 0.0, mean)
+        std = jnp.where(jnp.isnan(std) | (std == 0), 1.0, std)
+
+        x = (x - mean) / (std + 1e-6)
+        x = jnp.clip(x, min=-100, max=100)
+        x = jnp.expand_dims(x, -1)
+        return self.linear(x)
+
+
+class TargetEncoder(nnx.Module):
+    def __init__(
+        self,
+        embed_dim,
+        *,
+        rngs,
+    ):
+        self.linear = nnx.Linear(1, embed_dim, rngs=rngs)
+
+    def __call__(self, y, num_rows, *, deterministic=False):
+        mean = jnp.mean(y, axis=1, keepdims=True)
+        padding = mean.repeat(num_rows - y.shape[1], 1)
+        y = jnp.concatenate([y, padding], axis=1)
+        y = jnp.expand_dims(y, -1)
+        return self.linear(y)
+
+
+class MiniTabPFN(nnx.Module):
+    def __init__(
+        self,
+        embed_dim,
+        output_dim,
+        num_heads,
+        num_transformer_blocks,
+        *,
+        rngs,
+    ):
+        self.feature_encoder = FeatureEncoder(
+            embed_dim=embed_dim,
+            rngs=rngs,
+        )
+        self.target_encoder = TargetEncoder(
+            embed_dim=embed_dim,
+            rngs=rngs,
+        )
+        self.transformer_blocks = nnx.data(
+            [
+                TransformerBlock(
+                    input_dim=embed_dim,
+                    embed_dim=embed_dim,
+                    num_heads=num_heads,
+                    rngs=rngs,
+                )
+                for _ in range(num_transformer_blocks)
+            ]
+        )
+        self.linear1 = nnx.Linear(embed_dim, embed_dim, rngs=rngs)
+        self.linear2 = nnx.Linear(embed_dim, output_dim, rngs=rngs)
+
+    def __call__(self, x, y, train_test_split_index):
+        x = self.feature_encoder(x, train_test_split_index)
+        num_rows = x.shape[1]
+        y = self.target_encoder(y, num_rows)
+        z = jnp.concatenate([x, y], axis=2)
+
+        batch_size, rows_size, col_size, embedding_size = z.shape
+        z = z.reshape(batch_size * rows_size, col_size, embedding_size)
+        for block in self.transformer_blocks:
+            z = block(z)
+
+        output = z.reshape(batch_size, rows_size, col_size, embedding_size)
+        # output = z[:, :, -1:, :]
+        output = self.linear2(nnx.gelu(self.linear1(output)))
+        return output[:, :, -1]

@@ -2,7 +2,10 @@ import json
 from pathlib import Path
 
 import grain.python as grain
+import jax
 import jax.numpy as jnp
+
+from aptax.sampling import sample_from_bnn, sample_from_scm
 
 
 def create_dataloader(
@@ -188,3 +191,55 @@ class QADataset:
             "labels": labels_ids,
             "loss_mask": loss_mask,
         }
+
+
+def generate_synthetic_tabular_data(key, n_samples, n_features, n_classes):
+    k1, k2, k3, k4, k5 = jax.random.split(key, 5)
+    # 1. Decide which prior to use (50/50 mix)
+    X, y = None, None
+    if jax.random.uniform(k1) > 0.5:
+        # SCM Prior Logic
+        # - Sample a DAG structure
+        # - Define non-linear functions for each node
+        # - Sample noise and propagate through the graph
+        X, y = sample_from_scm(k2, n_samples, n_features)
+    else:
+        # BNN Prior Logic
+        # - Sample random weights and architecture
+        # - Generate x, compute y = BNN(x)
+        X, y = sample_from_bnn(k3, n_samples, n_features)
+
+    # 2. Convert continuous y to multi-class labels
+    # Sample N_c - 1 unique values from y as boundaries
+    shuffled_y = jax.random.permutation(k4, y)
+    boundaries = jnp.sort(shuffled_y[: n_classes - 1])
+
+    # Map continuous values to discrete bins
+    y_discrete = jnp.digitize(y, boundaries)
+    # 3. Shuffle class labels to remove ordering
+    unique_labels = jnp.unique(y_discrete)
+    shuffled_labels = jax.random.permutation(k5, unique_labels)
+    indices = jnp.searchsorted(unique_labels, y_discrete)
+    y_final = shuffled_labels[indices]
+
+    return X, y_final
+
+
+class TablesDataset:
+    def __init__(self, n_tables, n_samples, n_features, n_classes, key=None):
+        if key is None:
+            key = jax.random.PRNGKey(42)
+        self.tables = []
+        for i in range(n_tables):
+            k_table = jax.random.fold_in(key, i)
+            X, y = generate_synthetic_tabular_data(
+                k_table, n_samples, n_features, n_classes
+            )
+            self.tables.append({"X": X, "y": y})
+
+    def __len__(self):
+        return len(self.tables)
+
+    def __getitem__(self, idx):
+        table = self.tables[idx]
+        return {"inputs": table["X"], "labels": table["y"]}
