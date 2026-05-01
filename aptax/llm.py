@@ -240,6 +240,5 @@ class MiniTabPFN(nnx.Module):
             z = block(z)
 
         output = z.reshape(batch_size, rows_size, col_size, embedding_size)
-        # output = z[:, :, -1:, :]
         output = self.linear2(nnx.gelu(self.linear1(output)))
         return output[:, :, -1]
